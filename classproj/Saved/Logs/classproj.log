@@ -1209,3 +1209,6 @@ FPackageName: Skipped package /Game/Fab/Grenade/grenade/Materials/Grenade has a 
 [2026.01.21-19.06.23:430][745]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
 [2026.01.21-19.06.23:877][745]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2026.01.21-19.06.29:932][301]LogSlate: Window 'BP_SlidingDoor' being destroyed
+[2026.01.21-19.08.08:859][639]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 346.009796
+[2026.01.21-19.08.09:859][642]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.21-19.08.09:860][642]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 346.676819, Update Interval: 303.041473
