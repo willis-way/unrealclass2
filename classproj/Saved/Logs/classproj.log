@@ -2073,3 +2073,54 @@ Sampler Limit: 32
 [2026.01.21-19.43.05:823][388]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.01.21-19.43.05:824][388]AssetCheck: /Game/Blueprints/BP_HealthComponent Validating asset
 [2026.01.21-19.43.05:846][388]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.21-19.44.11:758][244]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2508.881592
+[2026.01.21-19.44.11:848][255]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.21-19.44.11:850][256]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2508.965332, Update Interval: 324.022339
+[2026.01.21-19.45.35:089][841]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\Blueprints\BP_HealthComponent.uasset: [Compiler] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2026.01.21-19.45.35:143][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.01.21-19.46.33:952][712]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\Blueprints\BP_HealthComponent.uasset: [Compiler] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2026.01.21-19.46.34:004][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.01.21-19.46.35:524][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.01.21-19.46.35:529][866]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.21-19.46.35:586][866]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/A/55/49OC6XNZ6FJHO4ILUT9E9V
+[2026.01.21-19.46.35:586][866]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/49OC6XNZ6FJHO4ILUT9E9V39DA0DA7415E024BFB9A8697E61F7BFD.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/__ExternalActors__/Levels/L_LevelOne/A/55/49OC6XNZ6FJHO4ILUT9E9V.uasset'
+[2026.01.21-19.46.35:590][866]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.01.21-19.46.35:648][866]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.01.21-19.46.35:648][866]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.01.21-19.46.35:648][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.01.21-19.46.35:666][866]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.01.21-19.46.35:667][866]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_CharacterBase5D9531344F161BDBC154E0BC0AD04CD8.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.01.21-19.46.35:668][866]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Monster/Vampire_Mat] ([1] browsable assets)...
+[2026.01.21-19.46.35:668][866]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Monster/Vampire_Mat]
+[2026.01.21-19.46.35:668][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Monster/Vampire_Mat" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Characters/Monster/Vampire_Mat.uasset" SILENT=true
+[2026.01.21-19.46.35:675][866]LogSavePackage: Moving output files for package: /Game/Characters/Monster/Vampire_Mat
+[2026.01.21-19.46.35:675][866]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Vampire_MatED4D0055478D0D0FD95643803225661A.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Characters/Monster/Vampire_Mat.uasset'
+[2026.01.21-19.46.35:676][866]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Monster/Vampire_diffuse_transparent_Mat] ([1] browsable assets)...
+[2026.01.21-19.46.35:676][866]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Monster/Vampire_diffuse_transparent_Mat]
+[2026.01.21-19.46.35:682][866]LogSavePackage: Moving output files for package: /Game/Characters/Monster/Vampire_diffuse_transparent_Mat
+[2026.01.21-19.46.35:682][866]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Vampire_diffuse_transparent_Mat1FF7C62E446177A176040798479B4E25.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Characters/Monster/Vampire_diffuse_transparent_Mat.uasset'
+[2026.01.21-19.46.35:683][866]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Monster/Vampire_emission_Mat] ([1] browsable assets)...
+[2026.01.21-19.46.35:683][866]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Monster/Vampire_emission_Mat]
+[2026.01.21-19.46.35:690][866]LogSavePackage: Moving output files for package: /Game/Characters/Monster/Vampire_emission_Mat
+[2026.01.21-19.46.35:690][866]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Vampire_emission_MatB318A99646F515483D6F08B5605ACA57.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Characters/Monster/Vampire_emission_Mat.uasset'
+[2026.01.21-19.46.35:691][866]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_HealthComponent] ([2] browsable assets)...
+[2026.01.21-19.46.35:691][866]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_HealthComponent]
+[2026.01.21-19.46.35:691][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HealthComponent" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/BP_HealthComponent.uasset" SILENT=true
+[2026.01.21-19.46.35:700][866]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HealthComponent
+[2026.01.21-19.46.35:700][866]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_HealthComponentED5DB22B4D1DA940D5F5D2B3D204E0A1.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/BP_HealthComponent.uasset'
+[2026.01.21-19.46.35:707][866]LogFileHelpers: InternalPromptForCheckoutAndSave took 177.367 ms (total: 665.838 ms)
+[2026.01.21-19.46.35:741][866]LogContentValidation: Display: Starting to validate 6 assets
+[2026.01.21-19.46.35:741][866]LogContentValidation: Enabled validators:
+[2026.01.21-19.46.35:741][866]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.21-19.46.35:741][866]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.21-19.46.35:741][866]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.21-19.46.35:741][866]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.21-19.46.35:741][866]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.21-19.46.35:741][866]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.21-19.46.35:742][866]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2026.01.21-19.46.35:742][866]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.01.21-19.46.35:742][866]AssetCheck: /Game/Characters/Monster/Vampire_Mat Validating asset
+[2026.01.21-19.46.35:742][866]AssetCheck: /Game/Characters/Monster/Vampire_diffuse_transparent_Mat Validating asset
+[2026.01.21-19.46.35:742][866]AssetCheck: /Game/Characters/Monster/Vampire_emission_Mat Validating asset
+[2026.01.21-19.46.35:742][866]AssetCheck: /Game/Blueprints/BP_HealthComponent Validating asset
+[2026.01.21-19.46.35:756][866]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
