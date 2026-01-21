@@ -1162,3 +1162,50 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.21-19.02.30:472][ 14]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 14
 [2026.01.21-19.02.30:472][ 14]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
 [2026.01.21-19.02.30:478][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.21-19.02.55:224][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.01.21-19.02.55:227][446]LogStreaming: Display: FlushAsyncLoading(474): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.21-19.02.56:902][446]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.10.dll
+[2026.01.21-19.02.57:047][446]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.01.21-19.02.57:048][446]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.01.21-19.02.57:048][446]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.21-19.02.57:048][446]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/L_LevelOne.L_LevelOne, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.21-19.02.57:457][446]LogWorldPartition: Display: WorldPartition initialize took 409.235 ms (total: 671.579 ms)
+[2026.01.21-19.02.57:459][446]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/L_LevelOne.L_LevelOne
+[2026.01.21-19.02.57:459][446]Cmd: MAP LOAD FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Levels/L_LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.01.21-19.02.57:478][446]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2026.01.21-19.02.57:478][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.21-19.02.57:478][446]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2026.01.21-19.02.57:497][446]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.21-19.02.57:509][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.01.21-19.02.57:516][446]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2026.01.21-19.02.57:517][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.21-19.02.57:517][446]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/L_LevelOne.L_LevelOne
+[2026.01.21-19.02.57:532][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.01.21-19.02.57:545][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.01.21-19.02.57:549][446]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_LevelOne'.
+[2026.01.21-19.02.57:549][446]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.01.21-19.02.57:550][446]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.01.21-19.02.57:550][446]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.21-19.02.57:550][446]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/L_LevelOne.L_LevelOne, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.21-19.02.57:560][446]LogWorldPartition: Display: WorldPartition initialize took 9.342 ms (total: 680.921 ms)
+[2026.01.21-19.02.57:572][446]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.01.21-19.02.57:585][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.01.21-19.02.57:589][446]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.01.21-19.02.57:591][446]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.525ms to complete.
+[2026.01.21-19.02.57:638][447]LoadErrors: Warning: While trying to load package /Game/Fab/Weapons/GrenadeLauncher/SM_Grenade, a dependent package /Game/Fab/Grenade/grenade/Materials/Grenade was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Fab/Grenade/grenade/Materials/Grenade has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/sbehr/Desktop/unrealclass2/classproj/Content/Fab/Grenade/grenade/Materials/Grenade'. Perhaps it has been deleted or was not synced?
+
+[2026.01.21-19.02.57:832][447]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.21-19.02.58:239][447]LogPSOHitching: Encountered 200 PSO creation hitches so far (50 graphics, 150 compute). 0 of them were precached.
+[2026.01.21-19.04.19:877][ 91]LogDerivedDataCache: C:/Users/sbehr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.21-19.06.22:015][745]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Gamemodes/GM_FPS.GM_FPS
+[2026.01.21-19.06.22:015][745]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.01.21-19.06.22:035][745]LogStreaming: Display: FlushAsyncLoading(604): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.21-19.06.22:764][745]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Gamemodes/GM_StartMenu.GM_StartMenu
+[2026.01.21-19.06.22:764][745]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.01.21-19.06.23:430][745]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Triggerables/BP_SlidingDoor.BP_SlidingDoor
+[2026.01.21-19.06.23:430][745]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.01.21-19.06.23:877][745]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.01.21-19.06.29:932][301]LogSlate: Window 'BP_SlidingDoor' being destroyed
