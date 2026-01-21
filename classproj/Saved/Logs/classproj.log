@@ -1557,3 +1557,519 @@ FPackageName: Skipped package /Game/Fab/Grenade/grenade/Materials/Grenade has a 
 [2026.01.21-19.18.09:842][854]AssetCheck: /Game/Characters/Monster/Vampire_A_Lusth Validating asset
 [2026.01.21-19.18.09:842][854]AssetCheck: /Game/Characters/Monster/Vampire_A_Lusth_Anim Validating asset
 [2026.01.21-19.18.09:856][854]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.21-19.18.29:352][ 70]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.01.21-19.18.47:898][250]LogContentBrowser: Attempting asset rename: Vampire_A_Lusth -> SKM_Monster
+[2026.01.21-19.18.48:023][250]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.21-19.18.48:023][250]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Monster/Vampire_A_Lusth_PhysicsAsset] ([1] browsable assets)...
+[2026.01.21-19.18.48:024][250]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Monster/Vampire_A_Lusth_PhysicsAsset]
+[2026.01.21-19.18.48:035][250]LogSavePackage: Moving output files for package: /Game/Characters/Monster/Vampire_A_Lusth_PhysicsAsset
+[2026.01.21-19.18.48:035][250]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Vampire_A_Lusth_PhysicsAsset52711211437DDA947F17029E4ED4D2DC.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Characters/Monster/Vampire_A_Lusth_PhysicsAsset.uasset'
+[2026.01.21-19.18.48:037][250]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Monster/SKM_Monster] ([1] browsable assets)...
+[2026.01.21-19.18.48:037][250]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Monster/SKM_Monster]
+[2026.01.21-19.18.48:037][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Monster/SKM_Monster" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Characters/Monster/SKM_Monster.uasset" SILENT=true
+[2026.01.21-19.18.48:059][250]LogSavePackage: Moving output files for package: /Game/Characters/Monster/SKM_Monster
+[2026.01.21-19.18.48:059][250]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/SKM_Monster86DF5B894A8D03E87616899FC498CFA9.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Characters/Monster/SKM_Monster.uasset'
+[2026.01.21-19.18.48:060][250]LogFileHelpers: InternalPromptForCheckoutAndSave took 36.826 ms (total: 430.001 ms)
+[2026.01.21-19.18.48:089][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.01.21-19.18.48:108][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.01.21-19.18.48:127][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.01.21-19.18.48:191][250]LogContentValidation: Display: Starting to validate 2 assets
+[2026.01.21-19.18.48:191][250]LogContentValidation: Enabled validators:
+[2026.01.21-19.18.48:191][250]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.21-19.18.48:191][250]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.21-19.18.48:191][250]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.21-19.18.48:191][250]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.21-19.18.48:191][250]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.21-19.18.48:191][250]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.21-19.18.48:191][250]AssetCheck: /Game/Characters/Monster/Vampire_A_Lusth_PhysicsAsset Validating asset
+[2026.01.21-19.18.48:191][250]AssetCheck: /Game/Characters/Monster/SKM_Monster Validating asset
+[2026.01.21-19.18.48:199][250]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.01.21-19.18.48:229][250]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.21-19.19.06:770][165]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1003.923340
+[2026.01.21-19.19.06:992][189]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.21-19.19.06:992][189]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1004.136108, Update Interval: 321.541199
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display: ================================================
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display: Total job queries 501, among them cache hits 37 (7.39%), DDC hits 351 (70.06%), Duplicates 83 (16.57%)
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display: Tracking 381 distinct input hashes that result in 255 distinct outputs (66.93%)
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display: RAM used: 3.49 MiB of 1.60 GiB budget. Usage: 0.21%
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display: Shaders Compiled: 30
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display: Jobs assigned 30, completed 30 (100%)
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display: Time job spent in pending queue: average 0.20 s, longest 1.89 s
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display: Job execution time: average 1.92 s, max 2.61 s
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display: Job life time (pending + execution): average 2.12 s, max 2.62
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display: Shader code size: total 288.545 KiB, numShaders 30, average 9.618 KiB, min 5.547 KiB, max 13.89 KiB
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.63 s
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display: Jobs were issued in 14 batches (only local compilation was used), average 2.14 jobs/batch
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display: Average processing rate: 11.41 jobs/sec
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display: Total thread time: 17.612 s
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display: Total thread preprocess time: 6.198 s
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display: Percentage time preprocessing: 35.19%
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display: Effective parallelization: 6.70 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.669810
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 1.25 sec, max 1.32 sec, min 1.12 sec)
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.05 sec, max 1.08 sec, min 1.03 sec)
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 0.99 sec, max 1.04 sec, min 0.94 sec)
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    4 times, average 0.52 sec, max 0.55 sec, min 0.49 sec)
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.49 sec, max 0.56 sec, min 0.42 sec)
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display:                                             FDebugViewModePS - 28.37% of total time (compiled    4 times, average 1.25 sec, max 1.32 sec, min 1.12 sec)
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 11.94% of total time (compiled    2 times, average 1.05 sec, max 1.08 sec, min 1.03 sec)
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 11.73% of total time (compiled    4 times, average 0.52 sec, max 0.55 sec, min 0.49 sec)
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 11.25% of total time (compiled    2 times, average 0.99 sec, max 1.04 sec, min 0.94 sec)
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.22% of total time (compiled    4 times, average 0.49 sec, max 0.56 sec, min 0.42 sec)
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display: === Material stats ===
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.21-19.19.38:689][839]LogShaderCompilers: Display: Materials Translated:    157
+[2026.01.21-19.19.38:690][839]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2026.01.21-19.19.38:690][839]LogShaderCompilers: Display: Material Translation Only: 0.04 s (32%)
+[2026.01.21-19.19.38:690][839]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.01.21-19.19.38:690][839]LogShaderCompilers: Display: Material Cache Hits: 28 (18%)
+[2026.01.21-19.19.38:690][839]LogShaderCompilers: Display: ================================================
+[2026.01.21-19.19.40:337][986]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Monster/SKM_Monster.SKM_Monster
+[2026.01.21-19.19.40:354][986]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.01.21-19.19.40:360][986]LogStreaming: Display: FlushAsyncLoading(782): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.21-19.19.40:389][986]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2026.01.21-19.19.40:399][986]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2026.01.21-19.19.40:421][986]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2026.01.21-19.19.40:422][986]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2026.01.21-19.19.40:434][986]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.21-19.19.46:870][474]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.01.21-19.19.46:870][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.21-19.19.46:913][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.01.21-19.19.52:292][ 13]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Monster/SKM_Monster.SKM_Monster
+[2026.01.21-19.19.52:293][ 13]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.01.21-19.19.52:299][ 13]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.21-19.20.41:342][299]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Characters/Monster/Vampire_diffuse.Vampire_diffuse
+[2026.01.21-19.20.41:715][299]LogDeviceProfileManager: Display: Deviceprofile Android_ASTC not found.
+[2026.01.21-19.20.41:715][299]LogDeviceProfileManager: Display: Deviceprofile Android_DXT not found.
+[2026.01.21-19.20.41:715][299]LogDeviceProfileManager: Display: Deviceprofile Android_ETC2 not found.
+[2026.01.21-19.20.41:715][299]LogDeviceProfileManager: Display: Deviceprofile Android_Multi not found.
+[2026.01.21-19.20.59:105][159]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Characters/Monster/Vampire_MAT1.Vampire_MAT1
+[2026.01.21-19.20.59:123][159]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.01.21-19.20.59:644][159]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.21-19.20.59:644][159]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.01.21-19.20.59:644][159]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.01.21-19.20.59:644][159]MaterialEditorStats: Shader Count: 0
+[2026.01.21-19.20.59:644][159]MaterialEditorStats: Preshaders: 7  (7 param fetches, 9 ops)
+[2026.01.21-19.20.59:718][159]LogPSOHitching: Encountered 350 PSO creation hitches so far (116 graphics, 234 compute). 0 of them were precached.
+[2026.01.21-19.20.59:792][161]MaterialEditorStats: Base pass shader: 201 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.01.21-19.20.59:792][161]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.21-19.20.59:792][161]MaterialEditorStats: Texture samplers: 5/16
+[2026.01.21-19.20.59:792][161]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.01.21-19.20.59:792][161]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.01.21-19.20.59:792][161]MaterialEditorStats: Shader Count: 5
+[2026.01.21-19.20.59:792][161]MaterialEditorStats: Preshaders: 7  (7 param fetches, 9 ops)
+[2026.01.21-19.21.03:645][591]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.01.21-19.21.03:646][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.21-19.21.03:722][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.01.21-19.21.12:986][600]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Characters/Monster/Vampire_MAT1.Vampire_MAT1
+[2026.01.21-19.21.12:989][600]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.01.21-19.21.13:414][600]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.21-19.21.13:414][600]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.01.21-19.21.13:414][600]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.01.21-19.21.13:414][600]MaterialEditorStats: Shader Count: 0
+[2026.01.21-19.21.13:414][600]MaterialEditorStats: Preshaders: 7  (7 param fetches, 9 ops)
+[2026.01.21-19.21.13:525][602]MaterialEditorStats: Base pass shader: 201 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.01.21-19.21.13:525][602]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.21-19.21.13:525][602]MaterialEditorStats: Texture samplers: 5/16
+[2026.01.21-19.21.13:525][602]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.01.21-19.21.13:525][602]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.01.21-19.21.13:525][602]MaterialEditorStats: Shader Count: 5
+[2026.01.21-19.21.13:525][602]MaterialEditorStats: Preshaders: 7  (7 param fetches, 9 ops)
+[2026.01.21-19.22.38:693][319]LogShaderCompilers: Display: ================================================
+[2026.01.21-19.22.38:693][319]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.21-19.22.38:693][319]LogShaderCompilers: Display: Total job queries 569, among them cache hits 81 (14.24%), DDC hits 364 (63.97%), Duplicates 85 (14.94%)
+[2026.01.21-19.22.38:693][319]LogShaderCompilers: Display: Tracking 403 distinct input hashes that result in 275 distinct outputs (68.24%)
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display: RAM used: 3.63 MiB of 1.60 GiB budget. Usage: 0.22%
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display: Shaders Compiled: 39
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display: Jobs assigned 39, completed 39 (100%)
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display: Average time worker was idle: 80.44 s
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display: Time job spent in pending queue: average 0.17 s, longest 1.89 s
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display: Job execution time: average 1.62 s, max 2.61 s
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display: Job life time (pending + execution): average 1.79 s, max 2.62
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display: Shader code size: total 356.893 KiB, numShaders 39, average 9.15 KiB, min 5.16 KiB, max 13.89 KiB
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.69 s
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display: Jobs were issued in 23 batches (only local compilation was used), average 1.70 jobs/batch
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display: Average processing rate: 8.31 jobs/sec
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display: Total thread time: 21.441 s
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display: Total thread preprocess time: 7.054 s
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display: Percentage time preprocessing: 32.90%
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display: Effective parallelization: 4.57 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.456864
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 1.25 sec, max 1.32 sec, min 1.12 sec)
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 0.99 sec, max 1.04 sec, min 0.94 sec)
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 0.90 sec, max 1.08 sec, min 0.73 sec)
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    4 times, average 0.52 sec, max 0.55 sec, min 0.49 sec)
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 0.42 sec, max 0.56 sec, min 0.29 sec)
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display:                                             FDebugViewModePS - 23.30% of total time (compiled    4 times, average 1.25 sec, max 1.32 sec, min 1.12 sec)
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.63% of total time (compiled    9 times, average 0.42 sec, max 0.56 sec, min 0.29 sec)
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 16.70% of total time (compiled    4 times, average 0.90 sec, max 1.08 sec, min 0.73 sec)
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 9.63% of total time (compiled    4 times, average 0.52 sec, max 0.55 sec, min 0.49 sec)
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 9.24% of total time (compiled    2 times, average 0.99 sec, max 1.04 sec, min 0.94 sec)
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display: === Material stats ===
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display: Materials Translated:    182
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display: Material Translation Only: 0.04 s (33%)
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display: Material Cache Hits: 28 (15%)
+[2026.01.21-19.22.38:694][319]LogShaderCompilers: Display: ================================================
+[2026.01.21-19.22.55:552][ 83]LogSlate: Window 'Content Browser' being destroyed
+[2026.01.21-19.22.55:558][ 83]LogSlate: Window 'Content Browser' being destroyed
+[2026.01.21-19.22.56:427][157]LogPSOHitching: Encountered 400 PSO creation hitches so far (129 graphics, 271 compute). 0 of them were precached.
+[2026.01.21-19.22.56:747][157]LogPSOHitching: Encountered 450 PSO creation hitches so far (139 graphics, 311 compute). 0 of them were precached.
+[2026.01.21-19.23.29:493][598]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Monster/Vampire_A_Lusth_Anim.Vampire_A_Lusth_Anim
+[2026.01.21-19.23.29:493][598]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.01.21-19.23.29:517][598]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.21-19.23.29:748][598]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.01.21-19.23.30:207][598]LogSlate: Took 0.006838 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.01.21-19.23.30:218][598]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2026.01.21-19.23.30:227][598]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.01.21-19.23.30:334][598]LogPSOHitching: Encountered 500 PSO creation hitches so far (160 graphics, 340 compute). 0 of them were precached.
+[2026.01.21-19.23.34:183][890]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.01.21-19.23.34:183][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.21-19.23.34:192][890]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.01.21-19.23.34:192][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.21-19.23.34:222][890]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.01.21-19.23.34:222][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.21-19.23.34:297][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.01.21-19.23.50:157][697]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2026.01.21-19.23.50:157][697]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2026.01.21-19.23.50:157][697]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2026.01.21-19.23.50:165][697]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2026.01.21-19.23.50:291][697]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 3/2 Textures; frames since last flush: 79683
+[2026.01.21-19.23.50:291][697]LogSlate: Warning: Setting the threshold to trigger a flush to 3 non-atlased textures as there is a lot of font data being cached.
+[2026.01.21-19.23.50:292][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.21-19.23.52:033][817]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.01.21-19.23.52:038][817]LogStreaming: Display: FlushAsyncLoading(788): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.21-19.24.09:454][491]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Monster/SKM_Monster.SKM_Monster
+[2026.01.21-19.24.09:454][491]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Monster/SKM_Monster.SKM_Monster
+[2026.01.21-19.24.09:456][491]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Monster/SKM_Monster.SKM_Monster as actor: SkeletalMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.SkeletalMeshActor_0
+[2026.01.21-19.24.09:457][491]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Monster/SKM_Monster.SKM_Monster as actor: SkeletalMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.SkeletalMeshActor_0
+[2026.01.21-19.24.10:265][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.01.21-19.24.10:270][573]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2026.01.21-19.24.10:282][573]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Monster/SKM_Monster.SKM_Monster
+[2026.01.21-19.24.10:282][573]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Monster/SKM_Monster.SKM_Monster
+[2026.01.21-19.24.10:286][573]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Monster/SKM_Monster.SKM_Monster as actor: SkeletalMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.SkeletalMeshActor_UAID_047C16285BA777B702_1803421687
+[2026.01.21-19.24.10:287][573]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Monster/SKM_Monster.SKM_Monster as actor: SkeletalMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.SkeletalMeshActor_UAID_047C16285BA777B702_1803421687
+[2026.01.21-19.24.25:216][975]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.01.21-19.24.26:724][150]LogMaterial: Display: Material /Game/Characters/Monster/Vampire_Mat.Vampire_Mat needed to have new flag set bUsedWithSkeletalMesh !
+[2026.01.21-19.24.26:724][150]LogShaderCompilers: Display: Cancelled job 0x00000218867D8C00 with pending SubmitJob call.
+[2026.01.21-19.24.26:725][150]LogShaderCompilers: Display: Cancelled job 0x00000218867D5A00 with pending SubmitJob call.
+[2026.01.21-19.24.26:730][150]LogShaderCompilers: Display: Cancelled job 0x00000218867DC800 with pending SubmitJob call.
+[2026.01.21-19.24.26:730][150]LogShaderCompilers: Display: Cancelled job 0x00000218867D4600 with pending SubmitJob call.
+[2026.01.21-19.24.26:733][150]LogShaderCompilers: Display: Cancelled job 0x00000218867D3C00 with pending SubmitJob call.
+[2026.01.21-19.24.26:735][150]LogShaderCompilers: Display: Cancelled job 0x00000218867DD200 with pending SubmitJob call.
+[2026.01.21-19.24.31:473][549]LogMaterial: Display: Material /Game/Characters/Monster/Vampire_diffuse_transparent_Mat.Vampire_diffuse_transparent_Mat needed to have new flag set bUsedWithSkeletalMesh !
+[2026.01.21-19.24.31:475][549]LogShaderCompilers: Display: Cancelled job 0x00000218B9CD9600 with pending SubmitJob call.
+[2026.01.21-19.24.31:475][549]LogShaderCompilers: Display: Cancelled job 0x00000218B9CD0000 with pending SubmitJob call.
+[2026.01.21-19.24.31:478][549]LogShaderCompilers: Display: Cancelled job 0x00000218B9CD8C00 with pending SubmitJob call.
+[2026.01.21-19.24.31:479][549]LogShaderCompilers: Display: Cancelled job 0x00000218B9CDBE00 with pending SubmitJob call.
+[2026.01.21-19.24.31:479][549]LogShaderCompilers: Display: Cancelled job 0x00000218B9CD4600 with pending SubmitJob call.
+[2026.01.21-19.24.31:479][549]LogShaderCompilers: Display: Cancelled job 0x00000218B9CDE600 with pending SubmitJob call.
+[2026.01.21-19.24.31:480][549]LogShaderCompilers: Display: Cancelled job 0x00000218B9CDD200 with pending SubmitJob call.
+[2026.01.21-19.24.31:480][549]LogShaderCompilers: Display: Cancelled job 0x00000218B9CD5A00 with pending SubmitJob call.
+[2026.01.21-19.24.31:481][549]LogShaderCompilers: Display: Cancelled job 0x00000218B9CD2800 with pending SubmitJob call.
+[2026.01.21-19.24.31:482][549]LogShaderCompilers: Display: Cancelled job 0x00000218B9CD8200 (data 0x000002168E9F13D0) with pending DDC miss.
+[2026.01.21-19.24.31:482][549]LogShaderCompilers: Display: Cancelled job 0x00000218B9CD7800 (data 0x000002168E9F1480) with pending DDC miss.
+[2026.01.21-19.24.31:482][549]LogShaderCompilers: Display: Cancelled job 0x00000218CC771E00 (data 0x000002168E9F1378) with pending DDC miss.
+[2026.01.21-19.24.31:482][549]LogShaderCompilers: Display: Cancelled job 0x00000218B9CD0A00 (data 0x000002168E9F1320) with pending DDC hit.
+[2026.01.21-19.24.31:483][549]LogShaderCompilers: Display: Cancelled job 0x00000218B9CDAA00 (data 0x000002168E9F14D8) with pending DDC miss.
+[2026.01.21-19.24.31:483][549]LogShaderCompilers: Display: Cancelled job 0x00000218CC775000 (data 0x000002168E9F1428) with pending DDC hit.
+[2026.01.21-19.24.31:485][549]LogShaderCompilers: Display: Cancelled job 0x00000218B9CD6400 with pending SubmitJob call.
+[2026.01.21-19.24.31:486][549]LogShaderCompilers: Display: Cancelled job 0x0000021887ECEC40 with pending SubmitJob call.
+[2026.01.21-19.24.31:486][549]LogShaderCompilers: Display: Cancelled job 0x00000218B9CDA000 with pending SubmitJob call.
+[2026.01.21-19.24.31:486][549]LogShaderCompilers: Display: Cancelled job 0x00000218B9CD6E00 with pending SubmitJob call.
+[2026.01.21-19.24.31:487][549]LogShaderCompilers: Display: Cancelled job 0x00000218CC776E00 with pending SubmitJob call.
+[2026.01.21-19.24.31:488][549]LogShaderCompilers: Display: Cancelled job 0x00000218B9CD1E00 with pending SubmitJob call.
+[2026.01.21-19.24.31:491][549]LogShaderCompilers: Display: Cancelled job 0x0000021887EC6E40 with pending SubmitJob call.
+[2026.01.21-19.24.31:493][549]LogShaderCompilers: Display: Cancelled job 0x00000218B9CDF000 with pending SubmitJob call.
+[2026.01.21-19.24.31:496][549]LogShaderCompilers: Display: Cancelled job 0x0000021887EC5A20 with pending SubmitJob call.
+[2026.01.21-19.24.33:839][626]LogMaterial: Display: Material /Game/Characters/Monster/Vampire_emission_Mat.Vampire_emission_Mat needed to have new flag set bUsedWithSkeletalMesh !
+[2026.01.21-19.24.33:839][626]LogShaderCompilers: Display: Cancelled job 0x00000219477AAA00 (data 0x000002168E9F21E8) with pending DDC hit.
+[2026.01.21-19.24.33:841][626]LogShaderCompilers: Display: Cancelled job 0x00000219477AC800 with pending SubmitJob call.
+[2026.01.21-19.24.33:841][626]LogShaderCompilers: Display: Cancelled job 0x00000219503FF000 with pending SubmitJob call.
+[2026.01.21-19.24.33:841][626]LogShaderCompilers: Display: Cancelled job 0x00000219477ABE00 with pending SubmitJob call.
+[2026.01.21-19.24.33:842][626]LogShaderCompilers: Display: Cancelled job 0x00000219503F8C00 with pending SubmitJob call.
+[2026.01.21-19.24.38:874][994]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1336.029663
+[2026.01.21-19.24.38:977][  4]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.21-19.24.38:978][  4]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1336.123901, Update Interval: 322.055725
+[2026.01.21-19.24.45:212][660]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.21-19.24.45:216][660]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.01.21-19.24.45:216][660]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.01.21-19.24.45:217][660]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 686 us
+[2026.01.21-19.24.45:217][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.21-19.24.45:217][660]LogPlayLevel: Display: Creating online subsystem for client :Context_20
+[2026.01.21-19.24.45:220][660]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2026.01.21-19.24.45:239][661]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.01.21-19.24.45:244][661]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.01.21-19.24.45:245][661]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 918 us
+[2026.01.21-19.24.45:245][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005588s)
+[2026.01.21-19.24.45:245][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.005645s)
+[2026.01.21-19.24.45:265][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.01.21-19.24.45:270][661]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.01.21-19.24.45:271][661]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.21-19.24.45:272][661]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.21-19.24.45:272][661]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.21-19.24.45:272][661]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.21-19.24.45:273][661]LogWorldPartition: Display: WorldPartition initialize took 1.283 ms (total: 682.205 ms)
+[2026.01.21-19.24.45:273][661]LogPlayLevel: PIE: World Init took: (0.002957s)
+[2026.01.21-19.24.45:274][661]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.01.21-19.24.45:274][661]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.21-19.24.45:274][661]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.21-19.24.45:274][661]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.21-19.24.45:274][661]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.21-19.24.45:274][661]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.21-19.24.45:274][661]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.21-19.24.45:274][661]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.21-19.24.45:274][661]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.21-19.24.45:274][661]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.21-19.24.45:274][661]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.21-19.24.45:274][661]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.21-19.24.45:276][661]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.21-19.24.45:289][661]LogAudioMixer: Display: Using Audio Hardware Device Kamvas Pro 24 (NVIDIA High Definition Audio)
+[2026.01.21-19.24.45:289][661]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.21-19.24.45:289][661]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.21-19.24.45:289][661]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.21-19.24.45:289][661]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.01.21-19.24.45:289][661]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.01.21-19.24.45:291][661]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.01.21-19.24.45:291][661]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.01.21-19.24.45:291][661]LogInit: FAudioDevice initialized with ID 2.
+[2026.01.21-19.24.45:291][661]LogAudio: Display: Audio Device (ID: 2) registered with world 'L_LevelOne'.
+[2026.01.21-19.24.45:292][661]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.01.21-19.24.45:296][661]LogLoad: Game class is 'GM_FPS_C'
+[2026.01.21-19.24.45:298][661]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2026.01.21-14.24.45
+[2026.01.21-19.24.45:299][661]LogWorld: Bringing up level for play took: 0.002757
+[2026.01.21-19.24.45:303][661]PIE: Server logged in
+[2026.01.21-19.24.45:305][661]PIE: Play in editor total start time 0.089 seconds.
+[2026.01.21-19.24.45:351][662]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.21-19.24.46:502][754]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/3
+[2026.01.21-19.24.47:639][827]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] NewGrenadeInHandNotify
+[2026.01.21-19.24.48:565][881]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/2
+[2026.01.21-19.24.49:125][923]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/2
+[2026.01.21-19.25.05:238][532]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/2
+[2026.01.21-19.25.05:420][548]LogRenderer: Warning: Building light grid exceeded number of available entries (1046558 / 1015808). Increase r.Forward.MaxCulledLightsPerCell to prevent potential visual artifacts.
+[2026.01.21-19.25.05:420][549]LogRenderer: Warning: Building light grid exceeded number of available links, glitches will be visible (1046558 / 1015808).
+[2026.01.21-19.25.06:399][580]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] NewGrenadeInHandNotify
+[2026.01.21-19.25.07:303][617]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/1
+[2026.01.21-19.25.07:750][656]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/1
+[2026.01.21-19.25.08:917][703]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] NewGrenadeInHandNotify
+[2026.01.21-19.25.09:823][739]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/0
+[2026.01.21-19.25.10:383][788]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/0
+[2026.01.21-19.25.10:666][815]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/0
+[2026.01.21-19.25.14:909][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.21-19.25.14:909][100]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.01.21-19.25.14:909][100]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2026.01.21-19.25.14:910][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.21-19.25.14:910][100]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2026.01.21-19.25.14:911][100]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.21-19.25.14:916][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.21-19.25.14:934][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.21-19.25.14:935][100]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.01.21-19.25.14:935][100]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.01.21-19.25.14:937][100]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.01.21-19.25.14:945][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.01.21-19.25.15:011][101]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2026.01.21-19.25.21:889][721]LogPSOHitching: Encountered 550 PSO creation hitches so far (181 graphics, 369 compute). 0 of them were precached.
+[2026.01.21-19.25.23:242][842]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.01.21-19.25.23:242][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.21-19.25.23:273][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.01.21-19.25.36:846][ 19]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Monster/SKM_Monster.SKM_Monster
+[2026.01.21-19.25.36:846][ 19]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.01.21-19.25.36:853][ 19]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: ================================================
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: Total job queries 721, among them cache hits 118 (16.37%), DDC hits 385 (53.40%), Duplicates 97 (13.45%)
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: Tracking 489 distinct input hashes that result in 332 distinct outputs (67.89%)
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: RAM used: 4.10 MiB of 1.60 GiB budget. Usage: 0.25%
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: Shaders Compiled: 104
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: Jobs assigned 104, completed 104 (100%)
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: Average time worker was idle: 73.13 s
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: Time job spent in pending queue: average 0.27 s, longest 1.89 s
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: Job execution time: average 1.15 s, max 2.61 s
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: Job life time (pending + execution): average 1.42 s, max 2.62
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: Shader code size: total 952.924 KiB, numShaders 108, average 8.823 KiB, min 3.266 KiB, max 15.615 KiB
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.99 s
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: Jobs were issued in 74 batches (only local compilation was used), average 1.41 jobs/batch
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: Average processing rate: 8.68 jobs/sec
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: Total thread time: 53.473 s
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: Total thread preprocess time: 8.677 s
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: Percentage time preprocessing: 16.23%
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: Effective parallelization: 4.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.446051
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    1 times, average 1.21 sec, max 1.21 sec, min 1.21 sec)
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 1.13 sec, max 1.26 sec, min 1.00 sec)
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   10 times, average 1.08 sec, max 1.32 sec, min 0.85 sec)
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    4 times, average 0.85 sec, max 1.04 sec, min 0.70 sec)
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    7 times, average 0.85 sec, max 1.08 sec, min 0.73 sec)
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display:                                             FDebugViewModePS - 20.21% of total time (compiled   10 times, average 1.08 sec, max 1.32 sec, min 0.85 sec)
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.41% of total time (compiled   17 times, average 0.42 sec, max 0.56 sec, min 0.29 sec)
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 11.07% of total time (compiled    7 times, average 0.85 sec, max 1.08 sec, min 0.73 sec)
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.58% of total time (compiled   10 times, average 0.46 sec, max 0.55 sec, min 0.33 sec)
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.66% of total time (compiled   12 times, average 0.30 sec, max 0.37 sec, min 0.24 sec)
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: === Material stats ===
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: Materials Translated:    189
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: Material Translation Only: 0.04 s (33%)
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: Material Cache Hits: 28 (15%)
+[2026.01.21-19.25.38:707][120]LogShaderCompilers: Display: ================================================
+[2026.01.21-19.28.49:260][188]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.01.21-19.28.49:906][241]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.01.21-19.28.49:914][241]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_0
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-19.28.49:925][242]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.01.21-19.28.49:995][246]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_1
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-19.29.10:467][158]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase
+[2026.01.21-19.29.10:467][158]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.01.21-19.31.05:652][897]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_HealthComponent.BP_HealthComponent
+[2026.01.21-19.31.05:653][897]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.01.21-19.31.05:735][897]LogSlate: Window 'Add Blueprint Component' being destroyed
+[2026.01.21-19.31.09:223][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.01.21-19.31.09:235][253]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/A/55/49OC6XNZ6FJHO4ILUT9E9V_Auto2
+[2026.01.21-19.31.09:235][253]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/49OC6XNZ6FJHO4ILUT9E9V_Auto26DADE7534565252CAC53F18BF0C6F793.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/A/55/49OC6XNZ6FJHO4ILUT9E9V_Auto2.uasset'
+[2026.01.21-19.31.09:236][253]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.085
+[2026.01.21-19.31.09:236][253]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.085
+[2026.01.21-19.31.09:236][253]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.01.21-19.31.09:236][253]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2026.01.21-19.31.09:319][253]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C]
+[2026.01.21-19.31.09:326][253]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.01.21-19.31.09:326][253]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.01.21-19.31.09:346][253]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerAssets/BP_CharacterBase_Auto2
+[2026.01.21-19.31.09:346][253]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_CharacterBase_Auto24E0CAE9042C99D24136E57B42229C249.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/PlayerAssets/BP_CharacterBase_Auto2.uasset'
+[2026.01.21-19.31.09:347][253]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Monster/Vampire_Mat] ([1] browsable assets)...
+[2026.01.21-19.31.09:355][253]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/Monster/Vampire_Mat.Vampire_Mat]
+[2026.01.21-19.31.09:355][253]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Monster/Vampire_Mat]
+[2026.01.21-19.31.09:364][253]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Monster/Vampire_Mat_Auto2
+[2026.01.21-19.31.09:364][253]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Vampire_Mat_Auto224A3E9E443D59130757E498C61743CF4.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Characters/Monster/Vampire_Mat_Auto2.uasset'
+[2026.01.21-19.31.09:364][253]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Monster/Vampire_diffuse_transparent_Mat] ([1] browsable assets)...
+[2026.01.21-19.31.09:398][253]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/Monster/Vampire_diffuse_transparent_Mat.Vampire_diffuse_transparent_Mat]
+[2026.01.21-19.31.09:398][253]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Monster/Vampire_diffuse_transparent_Mat]
+[2026.01.21-19.31.09:407][253]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Monster/Vampire_diffuse_transparent_Mat_Auto2
+[2026.01.21-19.31.09:407][253]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Vampire_diffuse_transparent_Mat_6A065A614624F7B3D3C91EB13C8FAB4A.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Characters/Monster/Vampire_diffuse_transparent_Mat_Auto2.uasset'
+[2026.01.21-19.31.09:408][253]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Monster/Vampire_emission_Mat] ([1] browsable assets)...
+[2026.01.21-19.31.09:430][253]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/Monster/Vampire_emission_Mat.Vampire_emission_Mat]
+[2026.01.21-19.31.09:430][253]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Monster/Vampire_emission_Mat]
+[2026.01.21-19.31.09:438][253]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Monster/Vampire_emission_Mat_Auto2
+[2026.01.21-19.31.09:438][253]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Vampire_emission_Mat_Auto2E86696A54076E21D4FFEFFACD027585D.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Characters/Monster/Vampire_emission_Mat_Auto2.uasset'
+[2026.01.21-19.31.09:439][253]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_HealthComponent] ([2] browsable assets)...
+[2026.01.21-19.31.09:439][253]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_HealthComponent]
+[2026.01.21-19.31.09:447][253]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_HealthComponent_Auto2
+[2026.01.21-19.31.09:447][253]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_HealthComponent_Auto29BBA60604DADE6B1423E88AEC2B2FB94.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Blueprints/BP_HealthComponent_Auto2.uasset'
+[2026.01.21-19.31.09:447][253]LogFileHelpers: Auto-saving content packages took 0.211
+[2026.01.21-19.31.31:198][855]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1748.355103
+[2026.01.21-19.31.31:314][869]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.21-19.31.31:314][870]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1748.463135, Update Interval: 325.033112
+[2026.01.21-19.31.36:833][517]LogSlate: Took 0.006735 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: ================================================
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: Total job queries 725, among them cache hits 120 (16.55%), DDC hits 386 (53.24%), Duplicates 97 (13.38%)
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: Tracking 491 distinct input hashes that result in 334 distinct outputs (68.02%)
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: RAM used: 4.11 MiB of 1.60 GiB budget. Usage: 0.25%
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: Shaders Compiled: 105
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: Jobs assigned 105, completed 105 (100%)
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: Average time worker was idle: 75.93 s
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: Time job spent in pending queue: average 0.27 s, longest 1.89 s
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: Job execution time: average 1.14 s, max 2.61 s
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: Job life time (pending + execution): average 1.41 s, max 2.62
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: Shader code size: total 961.068 KiB, numShaders 109, average 8.816 KiB, min 3.266 KiB, max 15.615 KiB
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.53 s
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: Jobs were issued in 75 batches (only local compilation was used), average 1.40 jobs/batch
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: Average processing rate: 8.38 jobs/sec
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: Total thread time: 53.835 s
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: Total thread preprocess time: 8.721 s
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: Percentage time preprocessing: 16.20%
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: Effective parallelization: 4.30 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.429653
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    1 times, average 1.21 sec, max 1.21 sec, min 1.21 sec)
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 1.13 sec, max 1.26 sec, min 1.00 sec)
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   10 times, average 1.08 sec, max 1.32 sec, min 0.85 sec)
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    4 times, average 0.85 sec, max 1.04 sec, min 0.70 sec)
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    7 times, average 0.85 sec, max 1.08 sec, min 0.73 sec)
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display:                                             FDebugViewModePS - 20.08% of total time (compiled   10 times, average 1.08 sec, max 1.32 sec, min 0.85 sec)
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.99% of total time (compiled   18 times, average 0.42 sec, max 0.56 sec, min 0.29 sec)
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 10.99% of total time (compiled    7 times, average 0.85 sec, max 1.08 sec, min 0.73 sec)
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.52% of total time (compiled   10 times, average 0.46 sec, max 0.55 sec, min 0.33 sec)
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.62% of total time (compiled   12 times, average 0.30 sec, max 0.37 sec, min 0.24 sec)
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: === Material stats ===
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: Materials Translated:    189
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: Material Translation Only: 0.04 s (33%)
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: Material Cache Hits: 28 (15%)
+[2026.01.21-19.31.38:729][742]LogShaderCompilers: Display: ================================================
+[2026.01.21-19.32.34:326][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.01.21-19.37.01:377][173]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetSystemLibrary::PrintString' [Element not found.]
+[2026.01.21-19.37.03:330][352]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetSystemLibrary::PrintString' [The specified module could not be found.]
+[2026.01.21-19.37.53:341][638]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2130.484131
+[2026.01.21-19.37.53:550][663]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.21-19.37.53:550][663]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2130.684082, Update Interval: 344.788971
+[2026.01.21-19.39.01:250][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.01.21-19.39.02:924][601]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/BP_HealthComponent.BP_HealthComponent: [Compiler] Get Display Name  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2026.01.21-19.39.02:924][601]LogBlueprint: Error: [AssetLog] /Game/Blueprints/BP_HealthComponent.BP_HealthComponent: [Compiler] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2026.01.21-19.39.02:925][601]LogBlueprint: Error: [AssetLog] /Game/Blueprints/BP_HealthComponent.BP_HealthComponent: [Compiler] The current value of the ' In Text ' pin is invalid: 'In Text' in action 'To String (Text)' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2026.01.21-19.39.02:977][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.01.21-19.40.30:661][354]LogBlueprint: Error: [AssetLog] /Game/Blueprints/BP_HealthComponent.BP_HealthComponent: [Compiler] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2026.01.21-19.40.30:710][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.01.21-19.40.35:194][858]LogBlueprint: Error: [AssetLog] /Game/Blueprints/BP_HealthComponent.BP_HealthComponent: [Compiler] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2026.01.21-19.40.35:244][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.01.21-19.43.01:943][988]LogBlueprint: Error: [AssetLog] /Game/Blueprints/BP_HealthComponent.BP_HealthComponent: [Compiler] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2026.01.21-19.43.01:996][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.01.21-19.43.05:705][388]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.21-19.43.05:742][388]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_HealthComponent] ([2] browsable assets)...
+[2026.01.21-19.43.05:742][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_HealthComponent]
+[2026.01.21-19.43.05:742][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HealthComponent" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/BP_HealthComponent.uasset" SILENT=true
+[2026.01.21-19.43.05:754][388]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HealthComponent
+[2026.01.21-19.43.05:754][388]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_HealthComponent767FB9834C7E3EE86DA48990A6F22398.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/BP_HealthComponent.uasset'
+[2026.01.21-19.43.05:763][388]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.469 ms (total: 488.470 ms)
+[2026.01.21-19.43.05:823][388]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.21-19.43.05:823][388]LogContentValidation: Enabled validators:
+[2026.01.21-19.43.05:823][388]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.21-19.43.05:823][388]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.21-19.43.05:823][388]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.21-19.43.05:823][388]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.21-19.43.05:823][388]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.21-19.43.05:823][388]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.21-19.43.05:824][388]AssetCheck: /Game/Blueprints/BP_HealthComponent Validating asset
+[2026.01.21-19.43.05:846][388]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
