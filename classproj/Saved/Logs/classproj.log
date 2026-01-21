@@ -1212,3 +1212,348 @@ FPackageName: Skipped package /Game/Fab/Grenade/grenade/Materials/Grenade has a 
 [2026.01.21-19.08.08:859][639]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 346.009796
 [2026.01.21-19.08.09:859][642]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.01.21-19.08.09:860][642]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 346.676819, Update Interval: 303.041473
+[2026.01.21-19.12.33:582][280]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.01.21-19.12.33:587][280]LogContentBrowser: Creating deferred item: NewFolder
+[2026.01.21-19.12.33:594][281]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.01.21-19.12.38:812][905]LogContentBrowser: Attempting asset rename: NewFolder -> Monster
+[2026.01.21-19.12.38:812][905]LogContentBrowser: End creating deferred item NewFolder
+[2026.01.21-19.13.16:445][447]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 653.594543
+[2026.01.21-19.13.17:119][450]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.21-19.13.17:119][451]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 654.261353, Update Interval: 344.168213
+[2026.01.21-19.13.17:823][533]LogStreaming: Display: FlushAsyncLoading(765): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.21-19.13.17:871][533]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/sbehr/Downloads/Vampire A Lusth.fbx]
+[2026.01.21-19.15.55:176][533]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.01.21-19.15.55:306][533]LogPSOHitching: Encountered 250 PSO creation hitches so far (64 graphics, 186 compute). 0 of them were precached.
+[2026.01.21-19.16.38:663][533]LogSlate: Window 'Import Content' being destroyed
+[2026.01.21-19.16.38:684][533]LogInterchangeEngine: [Pending] Importing
+[2026.01.21-19.16.38:820][534]LogStreaming: Display: FlushAsyncLoading(770): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.21-19.16.38:867][535]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.039 s
+[2026.01.21-19.16.38:867][535]LogOutputDevice: Error: The current loader 'ZenLoader' is unable to FlushAsyncLoading from the current thread 'Foreground Worker #0'. Flush will be ignored.
+[2026.01.21-19.16.38:867][535]LogOutputDevice: Error: 
+[2026.01.21-19.16.38:867][535]LogOutputDevice: Error: [Callstack] 0x00007fffb4a6d497 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2026.01.21-19.16.38:867][535]LogOutputDevice: Error: [Callstack] 0x00007fffb449e74f UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2026.01.21-19.16.38:867][535]LogOutputDevice: Error: [Callstack] 0x00007fffb449e3dc UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2026.01.21-19.16.38:867][535]LogOutputDevice: Error: [Callstack] 0x00007fffb49ae609 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2026.01.21-19.16.38:867][535]LogOutputDevice: Error: [Callstack] 0x00007fffb49ad7a8 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2026.01.21-19.16.38:867][535]LogOutputDevice: Error: [Callstack] 0x00007fffb49add9e UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2026.01.21-19.16.38:867][535]LogOutputDevice: Error: [Callstack] 0x00007fffb49c13df UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2026.01.21-19.16.38:867][535]LogOutputDevice: Error: [Callstack] 0x00007fffb49cd87b UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2026.01.21-19.16.38:867][535]LogOutputDevice: Error: [Callstack] 0x00007fffb49cce2a UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2026.01.21-19.16.38:867][535]LogOutputDevice: Error: [Callstack] 0x00007fffb494f117 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2026.01.21-19.16.38:867][535]LogOutputDevice: Error: [Callstack] 0x000002170fc12850 UnrealEditor-InterchangePipelines.dll!UnknownFunction []
+[2026.01.21-19.16.38:867][535]LogOutputDevice: Error: [Callstack] 0x000002170fc87eeb UnrealEditor-InterchangePipelines.dll!UnknownFunction []
+[2026.01.21-19.16.38:867][535]LogOutputDevice: Error: [Callstack] 0x00007fff9b4670b6 UnrealEditor-InterchangeCore.dll!UnknownFunction []
+[2026.01.21-19.16.38:867][535]LogOutputDevice: Error: [Callstack] 0x00007fff4f461047 UnrealEditor-InterchangeImport.dll!UnknownFunction []
+[2026.01.21-19.16.38:867][535]LogOutputDevice: Error: [Callstack] 0x00007fff4f461495 UnrealEditor-InterchangeImport.dll!UnknownFunction []
+[2026.01.21-19.16.38:867][535]LogOutputDevice: Error: [Callstack] 0x00007fff4f48a61f UnrealEditor-InterchangeImport.dll!UnknownFunction []
+[2026.01.21-19.16.38:867][535]LogOutputDevice: Error: [Callstack] 0x00007fff4f47c41e UnrealEditor-InterchangeImport.dll!UnknownFunction []
+[2026.01.21-19.16.38:867][535]LogOutputDevice: Error: [Callstack] 0x00007fff9b5ddd24 UnrealEditor-InterchangeEngine.dll!UnknownFunction []
+[2026.01.21-19.16.38:867][535]LogOutputDevice: Error: [Callstack] 0x00007fff9b5e6829 UnrealEditor-InterchangeEngine.dll!UnknownFunction []
+[2026.01.21-19.16.38:868][535]LogOutputDevice: Error: [Callstack] 0x00007fff9b5f7a12 UnrealEditor-InterchangeEngine.dll!UnknownFunction []
+[2026.01.21-19.16.38:868][535]LogOutputDevice: Error: [Callstack] 0x00007fff9b5ea63f UnrealEditor-InterchangeEngine.dll!UnknownFunction []
+[2026.01.21-19.16.38:868][535]LogOutputDevice: Error: [Callstack] 0x00007fff9b45bf0f UnrealEditor-InterchangeCore.dll!UnknownFunction []
+[2026.01.21-19.16.38:868][535]LogOutputDevice: Error: [Callstack] 0x00007fff9b475b84 UnrealEditor-InterchangeCore.dll!UnknownFunction []
+[2026.01.21-19.16.38:868][535]LogOutputDevice: Error: [Callstack] 0x00007fff9b4b0870 UnrealEditor-InterchangeCore.dll!UnknownFunction []
+[2026.01.21-19.16.38:868][535]LogOutputDevice: Error: [Callstack] 0x00007fff9b4684d4 UnrealEditor-InterchangeCore.dll!UnknownFunction []
+[2026.01.21-19.16.38:868][535]LogOutputDevice: Error: [Callstack] 0x00007fffb267dc55 UnrealEditor-Core.dll!UnknownFunction []
+[2026.01.21-19.16.38:868][535]LogOutputDevice: Error: [Callstack] 0x00007fffb267d9b6 UnrealEditor-Core.dll!UnknownFunction []
+[2026.01.21-19.16.38:868][535]LogOutputDevice: Error: [Callstack] 0x00007fffb26a3d11 UnrealEditor-Core.dll!UnknownFunction []
+[2026.01.21-19.16.38:868][535]LogOutputDevice: Error: [Callstack] 0x00007fffb2665fe5 UnrealEditor-Core.dll!UnknownFunction []
+[2026.01.21-19.16.38:868][535]LogOutputDevice: Error: [Callstack] 0x00007fffb2881a33 UnrealEditor-Core.dll!UnknownFunction []
+[2026.01.21-19.16.38:868][535]LogOutputDevice: Error: [Callstack] 0x00007fffb2d237cd UnrealEditor-Core.dll!UnknownFunction []
+[2026.01.21-19.16.38:868][535]LogOutputDevice: Error: [Callstack] 0x00007fffb2d1c91f UnrealEditor-Core.dll!UnknownFunction []
+[2026.01.21-19.16.38:868][535]LogOutputDevice: Error: [Callstack] 0x00007ff80d48e8d7 KERNEL32.DLL!UnknownFunction []
+[2026.01.21-19.16.38:868][535]LogOutputDevice: Error: [Callstack] 0x00007ff80d75c34c ntdll.dll!UnknownFunction []
+[2026.01.21-19.16.38:868][535]LogOutputDevice: Error: 
+[2026.01.21-19.16.38:885][536]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.01.21-19.16.38:902][536]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.025 s
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: The current loader 'ZenLoader' is unable to FlushAsyncLoading from the current thread 'Foreground Worker #0'. Flush will be ignored.
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: 
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007fffb4a6d497 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007fffb449e74f UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007fffb449e3dc UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007fffb49ae609 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007fffb49ad7a8 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007fffb49add9e UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007fffb49cd96b UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007fffb49cce2a UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007fffb494f117 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x000002170fc12850 UnrealEditor-InterchangePipelines.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x000002170fc87eeb UnrealEditor-InterchangePipelines.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007fff9b4670b6 UnrealEditor-InterchangeCore.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007fff4f461047 UnrealEditor-InterchangeImport.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007fff4f461495 UnrealEditor-InterchangeImport.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007fff4f48a61f UnrealEditor-InterchangeImport.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007fff4f47c41e UnrealEditor-InterchangeImport.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007fff9b5ddd24 UnrealEditor-InterchangeEngine.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007fff9b5e6829 UnrealEditor-InterchangeEngine.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007fff9b5f7a12 UnrealEditor-InterchangeEngine.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007fff9b5ea63f UnrealEditor-InterchangeEngine.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007fff9b45bf0f UnrealEditor-InterchangeCore.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007fff9b475b84 UnrealEditor-InterchangeCore.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007fff9b4b0870 UnrealEditor-InterchangeCore.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007fff9b4684d4 UnrealEditor-InterchangeCore.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007fffb267dc55 UnrealEditor-Core.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007fffb267d9b6 UnrealEditor-Core.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007fffb26a3d11 UnrealEditor-Core.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007fffb2665fe5 UnrealEditor-Core.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007fffb2881a33 UnrealEditor-Core.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007fffb2d237cd UnrealEditor-Core.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007fffb2d1c91f UnrealEditor-Core.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007ff80d48e8d7 KERNEL32.DLL!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: [Callstack] 0x00007ff80d75c34c ntdll.dll!UnknownFunction []
+[2026.01.21-19.16.38:902][536]LogOutputDevice: Error: 
+[2026.01.21-19.16.38:910][536]LogUObjectGlobals: Warning: Failed to find object 'Object /Engine/Functions/Engine_MaterialFunctions03/Procedurals/NormalFromHeightmap.NormalFromHeightmap'
+[2026.01.21-19.16.39:057][537]LogStreaming: Display: FlushAsyncLoading(780): 1 QueuedPackages, 1 AsyncPackages
+[2026.01.21-19.16.39:156][539]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/AS_GunWalk.AS_GunWalk (Required Memory Estimate: 0.82 MB)
+[2026.01.21-19.16.39:156][539]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/AS_PipeIdle.AS_PipeIdle (Required Memory Estimate: 1.76 MB)
+[2026.01.21-19.16.39:156][539]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/AS_WeaponSwitch.AS_WeaponSwitch (Required Memory Estimate: 0.44 MB)
+[2026.01.21-19.16.39:160][539]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/AS_GunIdle.AS_GunIdle (Required Memory Estimate: 1.25 MB)
+[2026.01.21-19.16.39:160][539]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/AS_WeaponSwitch.AS_WeaponSwitch, at AnimationSequence/b684eb0bba2f8ff636dfa62a8c78bd4d0c250a70
+[2026.01.21-19.16.39:166][539]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/AS_PipeAttack.AS_PipeAttack (Required Memory Estimate: 1.19 MB)
+[2026.01.21-19.16.39:166][539]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/AS_GunShoot.AS_GunShoot (Required Memory Estimate: 1.12 MB)
+[2026.01.21-19.16.39:166][539]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/AS_Reloading.AS_Reloading (Required Memory Estimate: 2.75 MB)
+[2026.01.21-19.16.39:172][539]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/AS_GunWalk.AS_GunWalk, at AnimationSequence/1e6c732bf2071df469658d90471a6b9b422e5e2b
+[2026.01.21-19.16.39:181][539]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/AS_GunIdle.AS_GunIdle, at AnimationSequence/4dd18bc6cb00a10af078679102e56c57be0d1b3b
+[2026.01.21-19.16.39:183][539]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/AS_PipeAttack.AS_PipeAttack, at AnimationSequence/3f617bd781e2dada97aa4c64a6c645b1f0b6372c
+[2026.01.21-19.16.39:191][539]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/AS_GunShoot.AS_GunShoot, at AnimationSequence/2db6b0c7ba48a11108dee5be6a7f07ec3bd82707
+[2026.01.21-19.16.39:199][539]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/AS_PipeIdle.AS_PipeIdle, at AnimationSequence/4310d4591ec369db5b2869e901aded98d53b6ad4
+[2026.01.21-19.16.39:241][539]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/AS_Reloading.AS_Reloading, at AnimationSequence/0f11a91f4eacbe52b0870187b35f4eb43719f743
+[2026.01.21-19.16.39:420][541]LogStreaming: Display: FlushAsyncLoading(781): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.21-19.16.39:435][542]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Monster/Vampire_A_Lusth_Anim.Vampire_A_Lusth_Anim (Required Memory Estimate: 0.26 MB)
+[2026.01.21-19.16.39:435][542]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Monster/Vampire_A_Lusth_Anim.Vampire_A_Lusth_Anim, at AnimationSequence/458ea05a8aa1b3ba0192a0933fc66a20efbd6208
+[2026.01.21-19.16.39:483][542]LogInterchangePipeline: Display: Auto-detected normal map
+[2026.01.21-19.16.39:529][542]LogSkeletalMesh: Building Skeletal Mesh Vampire_A_Lusth...
+[2026.01.21-19.16.39:536][543]LogTexture: Display: Building textures: /Game/Characters/Monster/Vampire_normal.Vampire_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 427.499988 MB), EncodeSpeed: Fast
+[2026.01.21-19.16.39:547][543]LogTexture: Display: Building textures: /Game/Characters/Monster/Vampire_emission.Vampire_emission (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.01.21-19.16.39:551][543]LogTexture: Display: Building textures: /Game/Characters/Monster/Vampire_diffuse_transparent.Vampire_diffuse_transparent (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.01.21-19.16.39:565][543]LogTexture: Display: Building textures: /Game/Characters/Monster/Vampire_diffuse.Vampire_diffuse (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 302.583323 MB), EncodeSpeed: Fast
+[2026.01.21-19.16.39:578][544]LogTexture: Display: Building textures: /Game/Characters/Monster/Vampire_specular.Vampire_specular (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 302.583323 MB), EncodeSpeed: Fast
+[2026.01.21-19.16.39:740][546]LogSkeletalMesh: Built Skeletal Mesh [0.21s] /Game/Characters/Monster/Vampire_A_Lusth.Vampire_A_Lusth
+[2026.01.21-19.16.39:835][547]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.01.21-19.16.39:842][547]LogMaterial: Display: Material /Game/Characters/Monster/Vampire_MAT1.Vampire_MAT1 needed to have new flag set bUsedWithSkeletalMesh !
+[2026.01.21-19.16.39:854][547]LogMaterial: Display: Material /Game/Characters/Monster/Vampire_MAT_Transparent.Vampire_MAT_Transparent needed to have new flag set bUsedWithSkeletalMesh !
+[2026.01.21-19.16.39:864][547]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.01.21-19.16.39:864][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.21-19.16.39:974][548]LogInterchangeEngine: Display: Interchange import completed [C:/Users/sbehr/Downloads/Vampire A Lusth.fbx]
+[2026.01.21-19.16.39:975][548]Interchange: Error: [ : '', Unknown] Invalid input Height Map for material expression node NormalFromHeightMap.
+[2026.01.21-19.16.39:975][548]Interchange: Error: [ : '', Unknown] Invalid input Normal Map Intensity for material expression node NormalFromHeightMap.
+[2026.01.21-19.16.39:975][548]Interchange: Warning: [C:/Users/sbehr/Downloads/Vampire A Lusth.fbx : 'Vampire_A_Lusth', SkeletalMesh] No smoothing group information was found for this mesh 'Vampire' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.01.21-19.16.40:033][548]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.01.21-19.16.40:033][548]LogInterchangeEngine: [Success] Import Done
+[2026.01.21-19.16.40:931][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2026.01.21-19.16.42:509][744]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.01.21-19.16.42:557][745]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.01.21-19.16.42:623][748]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.01.21-19.16.42:727][750]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.01.21-19.16.43:133][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.01.21-19.16.43:134][785]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.021
+[2026.01.21-19.16.43:134][785]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/AS_GunWalk] ([1] browsable assets)...
+[2026.01.21-19.16.43:223][785]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/AS_GunWalk.AS_GunWalk]
+[2026.01.21-19.16.43:223][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/AS_GunWalk]
+[2026.01.21-19.16.43:238][785]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/AS_GunWalk_Auto1
+[2026.01.21-19.16.43:239][785]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/AS_GunWalk_Auto1D0114574494DB78DD3C03BBACF9DABFB.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Animations/AS_GunWalk_Auto1.uasset'
+[2026.01.21-19.16.43:239][785]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/AS_PipeIdle] ([1] browsable assets)...
+[2026.01.21-19.16.43:247][785]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/AS_PipeIdle.AS_PipeIdle]
+[2026.01.21-19.16.43:247][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/AS_PipeIdle]
+[2026.01.21-19.16.43:260][785]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/AS_PipeIdle_Auto1
+[2026.01.21-19.16.43:260][785]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/AS_PipeIdle_Auto138C9099E40601C7FC8E6EBBB495F4194.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Animations/AS_PipeIdle_Auto1.uasset'
+[2026.01.21-19.16.43:261][785]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/SK_Player] ([1] browsable assets)...
+[2026.01.21-19.16.43:268][785]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/PlayerAssets/SK_Player.SK_Player]
+[2026.01.21-19.16.43:268][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/SK_Player]
+[2026.01.21-19.16.43:277][785]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerAssets/SK_Player_Auto1
+[2026.01.21-19.16.43:277][785]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/SK_Player_Auto1042B695A486705964C2C04973F467B9B.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/PlayerAssets/SK_Player_Auto1.uasset'
+[2026.01.21-19.16.43:278][785]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/AS_WeaponSwitch] ([1] browsable assets)...
+[2026.01.21-19.16.43:295][785]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/AS_WeaponSwitch.AS_WeaponSwitch]
+[2026.01.21-19.16.43:295][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/AS_WeaponSwitch]
+[2026.01.21-19.16.43:308][785]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/AS_WeaponSwitch_Auto1
+[2026.01.21-19.16.43:308][785]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/AS_WeaponSwitch_Auto1A7A2719B4DC7C222E0CA7EAEC904CFE0.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Animations/AS_WeaponSwitch_Auto1.uasset'
+[2026.01.21-19.16.43:308][785]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/AS_GunIdle] ([1] browsable assets)...
+[2026.01.21-19.16.43:315][785]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/AS_GunIdle.AS_GunIdle]
+[2026.01.21-19.16.43:316][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/AS_GunIdle]
+[2026.01.21-19.16.43:329][785]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/AS_GunIdle_Auto1
+[2026.01.21-19.16.43:329][785]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/AS_GunIdle_Auto127A9B295439DA48C85DB66AAA147FC94.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Animations/AS_GunIdle_Auto1.uasset'
+[2026.01.21-19.16.43:330][785]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/AS_GunShoot] ([1] browsable assets)...
+[2026.01.21-19.16.43:337][785]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/AS_GunShoot.AS_GunShoot]
+[2026.01.21-19.16.43:337][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/AS_GunShoot]
+[2026.01.21-19.16.43:349][785]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/AS_GunShoot_Auto1
+[2026.01.21-19.16.43:349][785]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/AS_GunShoot_Auto108BDB7624013B904048D35809279A67E.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Animations/AS_GunShoot_Auto1.uasset'
+[2026.01.21-19.16.43:350][785]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/AS_Reloading] ([1] browsable assets)...
+[2026.01.21-19.16.43:356][785]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/AS_Reloading.AS_Reloading]
+[2026.01.21-19.16.43:356][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/AS_Reloading]
+[2026.01.21-19.16.43:370][785]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/AS_Reloading_Auto1
+[2026.01.21-19.16.43:370][785]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/AS_Reloading_Auto19B33E3414966929B989D958B14D61008.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Animations/AS_Reloading_Auto1.uasset'
+[2026.01.21-19.16.43:370][785]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/AS_PipeAttack] ([1] browsable assets)...
+[2026.01.21-19.16.43:377][785]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/AS_PipeAttack.AS_PipeAttack]
+[2026.01.21-19.16.43:377][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/AS_PipeAttack]
+[2026.01.21-19.16.43:389][785]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/AS_PipeAttack_Auto1
+[2026.01.21-19.16.43:389][785]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/AS_PipeAttack_Auto1B5C8E551480324A5E09194879DFEC793.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Animations/AS_PipeAttack_Auto1.uasset'
+[2026.01.21-19.16.43:390][785]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Monster/Vampire_MAT1] ([1] browsable assets)...
+[2026.01.21-19.16.43:408][785]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/Monster/Vampire_MAT1.Vampire_MAT1]
+[2026.01.21-19.16.43:408][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Monster/Vampire_MAT1]
+[2026.01.21-19.16.43:418][785]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Monster/Vampire_MAT1_Auto1
+[2026.01.21-19.16.43:418][785]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Vampire_MAT1_Auto11A535D7445DF7A0476A527AFA46F3108.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Characters/Monster/Vampire_MAT1_Auto1.uasset'
+[2026.01.21-19.16.43:418][785]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Monster/Vampire_MAT_Transparent] ([1] browsable assets)...
+[2026.01.21-19.16.43:425][785]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/Monster/Vampire_MAT_Transparent.Vampire_MAT_Transparent]
+[2026.01.21-19.16.43:425][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Monster/Vampire_MAT_Transparent]
+[2026.01.21-19.16.43:434][785]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Monster/Vampire_MAT_Transparent_Auto1
+[2026.01.21-19.16.43:434][785]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Vampire_MAT_Transparent_Auto11B44209D446B113F00BBF1A142B70B02.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Characters/Monster/Vampire_MAT_Transparent_Auto1.uasset'
+[2026.01.21-19.16.43:435][785]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Monster/Vampire_A_Lusth_PhysicsAsset] ([1] browsable assets)...
+[2026.01.21-19.16.43:441][785]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Characters/Monster/Vampire_A_Lusth_PhysicsAsset.Vampire_A_Lusth_PhysicsAsset]
+[2026.01.21-19.16.43:441][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Monster/Vampire_A_Lusth_PhysicsAsset]
+[2026.01.21-19.16.43:453][785]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Monster/Vampire_A_Lusth_PhysicsAsset_Auto1
+[2026.01.21-19.16.43:453][785]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Vampire_A_Lusth_PhysicsAsset_Aut27E57AE64FE3702C0593CA81210CF501.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Characters/Monster/Vampire_A_Lusth_PhysicsAsset_Auto1.uasset'
+[2026.01.21-19.16.43:453][785]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Monster/Vampire_diffuse] ([1] browsable assets)...
+[2026.01.21-19.16.43:455][785]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/Monster/Vampire_diffuse.Vampire_diffuse]
+[2026.01.21-19.16.43:455][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Monster/Vampire_diffuse]
+[2026.01.21-19.16.43:471][785]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Monster/Vampire_diffuse_Auto1
+[2026.01.21-19.16.43:471][785]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Vampire_diffuse_Auto18CE1CA3F42F6A915CE34878B954C2D95.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Characters/Monster/Vampire_diffuse_Auto1.uasset'
+[2026.01.21-19.16.43:471][785]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Monster/Vampire_diffuse_transparent] ([1] browsable assets)...
+[2026.01.21-19.16.43:474][785]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/Monster/Vampire_diffuse_transparent.Vampire_diffuse_transparent]
+[2026.01.21-19.16.43:474][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Monster/Vampire_diffuse_transparent]
+[2026.01.21-19.16.43:490][785]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Monster/Vampire_diffuse_transparent_Auto1
+[2026.01.21-19.16.43:490][785]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Vampire_diffuse_transparent_Auto620790EE4C0C1011F3E117A4DEF12D6B.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Characters/Monster/Vampire_diffuse_transparent_Auto1.uasset'
+[2026.01.21-19.16.43:490][785]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Monster/Vampire_emission] ([1] browsable assets)...
+[2026.01.21-19.16.43:491][785]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/Monster/Vampire_emission.Vampire_emission]
+[2026.01.21-19.16.43:491][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Monster/Vampire_emission]
+[2026.01.21-19.16.43:500][785]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Monster/Vampire_emission_Auto1
+[2026.01.21-19.16.43:500][785]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Vampire_emission_Auto19856371C46DAED4920A66D8FCCD9AE9F.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Characters/Monster/Vampire_emission_Auto1.uasset'
+[2026.01.21-19.16.43:500][785]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Monster/Vampire_normal] ([1] browsable assets)...
+[2026.01.21-19.16.43:501][785]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/Monster/Vampire_normal.Vampire_normal]
+[2026.01.21-19.16.43:501][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Monster/Vampire_normal]
+[2026.01.21-19.16.43:517][785]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Monster/Vampire_normal_Auto1
+[2026.01.21-19.16.43:517][785]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Vampire_normal_Auto1EF0659944B608612174BCF95515768BD.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Characters/Monster/Vampire_normal_Auto1.uasset'
+[2026.01.21-19.16.43:518][785]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Monster/Vampire_specular] ([1] browsable assets)...
+[2026.01.21-19.16.43:522][785]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/Monster/Vampire_specular.Vampire_specular]
+[2026.01.21-19.16.43:522][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Monster/Vampire_specular]
+[2026.01.21-19.16.43:538][785]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Monster/Vampire_specular_Auto1
+[2026.01.21-19.16.43:538][785]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Vampire_specular_Auto13C5DE8F64A57FE5AB6847485B85C9342.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Characters/Monster/Vampire_specular_Auto1.uasset'
+[2026.01.21-19.16.43:539][785]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Monster/Vampire_A_Lusth] ([1] browsable assets)...
+[2026.01.21-19.16.43:545][785]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Characters/Monster/Vampire_A_Lusth.Vampire_A_Lusth]
+[2026.01.21-19.16.43:545][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Monster/Vampire_A_Lusth]
+[2026.01.21-19.16.43:567][785]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Monster/Vampire_A_Lusth_Auto1
+[2026.01.21-19.16.43:567][785]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Vampire_A_Lusth_Auto1BB434A9848FCDA69F1177E84CF46C912.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Characters/Monster/Vampire_A_Lusth_Auto1.uasset'
+[2026.01.21-19.16.43:568][785]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Monster/Vampire_A_Lusth_Anim] ([1] browsable assets)...
+[2026.01.21-19.16.43:574][785]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Monster/Vampire_A_Lusth_Anim.Vampire_A_Lusth_Anim]
+[2026.01.21-19.16.43:574][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Monster/Vampire_A_Lusth_Anim]
+[2026.01.21-19.16.43:588][785]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Monster/Vampire_A_Lusth_Anim_Auto1
+[2026.01.21-19.16.43:588][785]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Vampire_A_Lusth_Anim_Auto1D7E5833944EE4E53AE3B95B39BB3E4C9.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Characters/Monster/Vampire_A_Lusth_Anim_Auto1.uasset'
+[2026.01.21-19.16.43:588][785]LogFileHelpers: Auto-saving content packages took 0.455
+[2026.01.21-19.18.00:359][852]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.01.21-19.18.00:414][852]LogPSOHitching: Encountered 300 PSO creation hitches so far (90 graphics, 210 compute). 0 of them were precached.
+[2026.01.21-19.18.09:385][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.01.21-19.18.09:389][854]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.21-19.18.09:442][854]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/AS_GunWalk] ([1] browsable assets)...
+[2026.01.21-19.18.09:442][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/AS_GunWalk]
+[2026.01.21-19.18.09:442][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/AS_GunWalk" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Animations/AS_GunWalk.uasset" SILENT=true
+[2026.01.21-19.18.09:456][854]LogSavePackage: Moving output files for package: /Game/Animations/AS_GunWalk
+[2026.01.21-19.18.09:456][854]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/AS_GunWalkDB8FE2344666024A01CD3CB127CBA01C.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Animations/AS_GunWalk.uasset'
+[2026.01.21-19.18.09:457][854]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/AS_PipeIdle] ([1] browsable assets)...
+[2026.01.21-19.18.09:457][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/AS_PipeIdle]
+[2026.01.21-19.18.09:457][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/AS_PipeIdle" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Animations/AS_PipeIdle.uasset" SILENT=true
+[2026.01.21-19.18.09:467][854]LogSavePackage: Moving output files for package: /Game/Animations/AS_PipeIdle
+[2026.01.21-19.18.09:467][854]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/AS_PipeIdleDBBE760D48E677A4DD6DCFBCC014BEC1.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Animations/AS_PipeIdle.uasset'
+[2026.01.21-19.18.09:468][854]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerAssets/SK_Player] ([1] browsable assets)...
+[2026.01.21-19.18.09:468][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/SK_Player]
+[2026.01.21-19.18.09:468][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/SK_Player" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/SK_Player.uasset" SILENT=true
+[2026.01.21-19.18.09:476][854]LogSavePackage: Moving output files for package: /Game/PlayerAssets/SK_Player
+[2026.01.21-19.18.09:476][854]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/SK_PlayerB64C9E6E41989D45648F868D156DF1DB.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/SK_Player.uasset'
+[2026.01.21-19.18.09:477][854]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/AS_WeaponSwitch] ([1] browsable assets)...
+[2026.01.21-19.18.09:477][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/AS_WeaponSwitch]
+[2026.01.21-19.18.09:477][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/AS_WeaponSwitch" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Animations/AS_WeaponSwitch.uasset" SILENT=true
+[2026.01.21-19.18.09:487][854]LogSavePackage: Moving output files for package: /Game/Animations/AS_WeaponSwitch
+[2026.01.21-19.18.09:487][854]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/AS_WeaponSwitch54FC844D47CD2219BAFCDCA2564B0FA8.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Animations/AS_WeaponSwitch.uasset'
+[2026.01.21-19.18.09:488][854]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/AS_GunIdle] ([1] browsable assets)...
+[2026.01.21-19.18.09:488][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/AS_GunIdle]
+[2026.01.21-19.18.09:488][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/AS_GunIdle" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Animations/AS_GunIdle.uasset" SILENT=true
+[2026.01.21-19.18.09:498][854]LogSavePackage: Moving output files for package: /Game/Animations/AS_GunIdle
+[2026.01.21-19.18.09:499][854]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/AS_GunIdleBF3792DB4542C425DC5BAE8F2A3FF9F9.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Animations/AS_GunIdle.uasset'
+[2026.01.21-19.18.09:499][854]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/AS_GunShoot] ([1] browsable assets)...
+[2026.01.21-19.18.09:499][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/AS_GunShoot]
+[2026.01.21-19.18.09:499][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/AS_GunShoot" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Animations/AS_GunShoot.uasset" SILENT=true
+[2026.01.21-19.18.09:509][854]LogSavePackage: Moving output files for package: /Game/Animations/AS_GunShoot
+[2026.01.21-19.18.09:509][854]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/AS_GunShoot93F8F64E431E80A7AC4BD0941F797536.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Animations/AS_GunShoot.uasset'
+[2026.01.21-19.18.09:510][854]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/AS_Reloading] ([1] browsable assets)...
+[2026.01.21-19.18.09:510][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/AS_Reloading]
+[2026.01.21-19.18.09:510][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/AS_Reloading" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Animations/AS_Reloading.uasset" SILENT=true
+[2026.01.21-19.18.09:522][854]LogSavePackage: Moving output files for package: /Game/Animations/AS_Reloading
+[2026.01.21-19.18.09:522][854]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/AS_ReloadingDCC73F3C43599B5AE0E6FEBC88CDAEB0.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Animations/AS_Reloading.uasset'
+[2026.01.21-19.18.09:523][854]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/AS_PipeAttack] ([1] browsable assets)...
+[2026.01.21-19.18.09:523][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/AS_PipeAttack]
+[2026.01.21-19.18.09:523][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/AS_PipeAttack" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Animations/AS_PipeAttack.uasset" SILENT=true
+[2026.01.21-19.18.09:534][854]LogSavePackage: Moving output files for package: /Game/Animations/AS_PipeAttack
+[2026.01.21-19.18.09:534][854]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/AS_PipeAttackB7ABC8954355E32ADF2C8B9458A4A3CE.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Animations/AS_PipeAttack.uasset'
+[2026.01.21-19.18.09:534][854]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Monster/Vampire_MAT1] ([1] browsable assets)...
+[2026.01.21-19.18.09:534][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Monster/Vampire_MAT1]
+[2026.01.21-19.18.09:534][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Monster/Vampire_MAT1" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Characters/Monster/Vampire_MAT1.uasset" SILENT=true
+[2026.01.21-19.18.09:542][854]LogSavePackage: Moving output files for package: /Game/Characters/Monster/Vampire_MAT1
+[2026.01.21-19.18.09:542][854]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Vampire_MAT1CF00260D432D9FF24F67858137EACB23.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Characters/Monster/Vampire_MAT1.uasset'
+[2026.01.21-19.18.09:546][854]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Monster/Vampire_MAT_Transparent] ([1] browsable assets)...
+[2026.01.21-19.18.09:546][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Monster/Vampire_MAT_Transparent]
+[2026.01.21-19.18.09:554][854]LogSavePackage: Moving output files for package: /Game/Characters/Monster/Vampire_MAT_Transparent
+[2026.01.21-19.18.09:554][854]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Vampire_MAT_Transparent6A4C0B7D45374809E2E13991236D6A69.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Characters/Monster/Vampire_MAT_Transparent.uasset'
+[2026.01.21-19.18.09:554][854]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Monster/Vampire_A_Lusth_PhysicsAsset] ([1] browsable assets)...
+[2026.01.21-19.18.09:554][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Monster/Vampire_A_Lusth_PhysicsAsset]
+[2026.01.21-19.18.09:564][854]LogSavePackage: Moving output files for package: /Game/Characters/Monster/Vampire_A_Lusth_PhysicsAsset
+[2026.01.21-19.18.09:564][854]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Vampire_A_Lusth_PhysicsAssetA347FA83401E0F4D11708DA351E4F415.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Characters/Monster/Vampire_A_Lusth_PhysicsAsset.uasset'
+[2026.01.21-19.18.09:565][854]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Monster/Vampire_diffuse] ([1] browsable assets)...
+[2026.01.21-19.18.09:565][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Monster/Vampire_diffuse]
+[2026.01.21-19.18.09:565][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Monster/Vampire_diffuse" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Characters/Monster/Vampire_diffuse.uasset" SILENT=true
+[2026.01.21-19.18.09:611][854]LogSavePackage: Moving output files for package: /Game/Characters/Monster/Vampire_diffuse
+[2026.01.21-19.18.09:611][854]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Vampire_diffuse10B904034FFF92214C15FC89A5F7938F.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Characters/Monster/Vampire_diffuse.uasset'
+[2026.01.21-19.18.09:612][854]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Monster/Vampire_diffuse_transparent] ([1] browsable assets)...
+[2026.01.21-19.18.09:612][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Monster/Vampire_diffuse_transparent]
+[2026.01.21-19.18.09:653][854]LogSavePackage: Moving output files for package: /Game/Characters/Monster/Vampire_diffuse_transparent
+[2026.01.21-19.18.09:653][854]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Vampire_diffuse_transparent8C60021045ABF4F98CCFB59116E751FB.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Characters/Monster/Vampire_diffuse_transparent.uasset'
+[2026.01.21-19.18.09:654][854]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Monster/Vampire_emission] ([1] browsable assets)...
+[2026.01.21-19.18.09:654][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Monster/Vampire_emission]
+[2026.01.21-19.18.09:654][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Monster/Vampire_emission" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Characters/Monster/Vampire_emission.uasset" SILENT=true
+[2026.01.21-19.18.09:666][854]LogSavePackage: Moving output files for package: /Game/Characters/Monster/Vampire_emission
+[2026.01.21-19.18.09:666][854]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Vampire_emission2968F5B7486A96346486829C03FD4A8E.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Characters/Monster/Vampire_emission.uasset'
+[2026.01.21-19.18.09:667][854]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Monster/Vampire_normal] ([1] browsable assets)...
+[2026.01.21-19.18.09:667][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Monster/Vampire_normal]
+[2026.01.21-19.18.09:667][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Monster/Vampire_normal" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Characters/Monster/Vampire_normal.uasset" SILENT=true
+[2026.01.21-19.18.09:705][854]LogSavePackage: Moving output files for package: /Game/Characters/Monster/Vampire_normal
+[2026.01.21-19.18.09:705][854]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Vampire_normal58CD1D64402463BB3A007E95B88439E0.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Characters/Monster/Vampire_normal.uasset'
+[2026.01.21-19.18.09:706][854]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Monster/Vampire_specular] ([1] browsable assets)...
+[2026.01.21-19.18.09:706][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Monster/Vampire_specular]
+[2026.01.21-19.18.09:706][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Monster/Vampire_specular" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Characters/Monster/Vampire_specular.uasset" SILENT=true
+[2026.01.21-19.18.09:738][854]LogSavePackage: Moving output files for package: /Game/Characters/Monster/Vampire_specular
+[2026.01.21-19.18.09:738][854]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Vampire_specular1EA61A3645FB501DD207078E877D7625.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Characters/Monster/Vampire_specular.uasset'
+[2026.01.21-19.18.09:739][854]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Monster/Vampire_A_Lusth] ([1] browsable assets)...
+[2026.01.21-19.18.09:739][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Monster/Vampire_A_Lusth]
+[2026.01.21-19.18.09:739][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Monster/Vampire_A_Lusth" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Characters/Monster/Vampire_A_Lusth.uasset" SILENT=true
+[2026.01.21-19.18.09:761][854]LogSavePackage: Moving output files for package: /Game/Characters/Monster/Vampire_A_Lusth
+[2026.01.21-19.18.09:761][854]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Vampire_A_Lusth44EF30754E3E09E3AD6C2484CD0C777E.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Characters/Monster/Vampire_A_Lusth.uasset'
+[2026.01.21-19.18.09:762][854]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Monster/Vampire_A_Lusth_Anim] ([1] browsable assets)...
+[2026.01.21-19.18.09:762][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Monster/Vampire_A_Lusth_Anim]
+[2026.01.21-19.18.09:774][854]LogSavePackage: Moving output files for package: /Game/Characters/Monster/Vampire_A_Lusth_Anim
+[2026.01.21-19.18.09:774][854]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Vampire_A_Lusth_Anim1945F57149B73A11CCAA87B23F746AB2.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Characters/Monster/Vampire_A_Lusth_Anim.uasset'
+[2026.01.21-19.18.09:782][854]LogFileHelpers: InternalPromptForCheckoutAndSave took 393.175 ms
+[2026.01.21-19.18.09:841][854]LogContentValidation: Display: Starting to validate 18 assets
+[2026.01.21-19.18.09:841][854]LogContentValidation: Enabled validators:
+[2026.01.21-19.18.09:841][854]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.21-19.18.09:841][854]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.21-19.18.09:841][854]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.21-19.18.09:841][854]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.21-19.18.09:841][854]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.21-19.18.09:841][854]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.21-19.18.09:841][854]AssetCheck: /Game/Animations/AS_GunWalk Validating asset
+[2026.01.21-19.18.09:841][854]AssetCheck: /Game/Animations/AS_PipeIdle Validating asset
+[2026.01.21-19.18.09:841][854]AssetCheck: /Game/PlayerAssets/SK_Player Validating asset
+[2026.01.21-19.18.09:841][854]AssetCheck: /Game/Animations/AS_WeaponSwitch Validating asset
+[2026.01.21-19.18.09:841][854]AssetCheck: /Game/Animations/AS_GunIdle Validating asset
+[2026.01.21-19.18.09:842][854]AssetCheck: /Game/Animations/AS_GunShoot Validating asset
+[2026.01.21-19.18.09:842][854]AssetCheck: /Game/Animations/AS_Reloading Validating asset
+[2026.01.21-19.18.09:842][854]AssetCheck: /Game/Animations/AS_PipeAttack Validating asset
+[2026.01.21-19.18.09:842][854]AssetCheck: /Game/Characters/Monster/Vampire_MAT1 Validating asset
+[2026.01.21-19.18.09:842][854]AssetCheck: /Game/Characters/Monster/Vampire_MAT_Transparent Validating asset
+[2026.01.21-19.18.09:842][854]AssetCheck: /Game/Characters/Monster/Vampire_A_Lusth_PhysicsAsset Validating asset
+[2026.01.21-19.18.09:842][854]AssetCheck: /Game/Characters/Monster/Vampire_diffuse Validating asset
+[2026.01.21-19.18.09:842][854]AssetCheck: /Game/Characters/Monster/Vampire_diffuse_transparent Validating asset
+[2026.01.21-19.18.09:842][854]AssetCheck: /Game/Characters/Monster/Vampire_emission Validating asset
+[2026.01.21-19.18.09:842][854]AssetCheck: /Game/Characters/Monster/Vampire_normal Validating asset
+[2026.01.21-19.18.09:842][854]AssetCheck: /Game/Characters/Monster/Vampire_specular Validating asset
+[2026.01.21-19.18.09:842][854]AssetCheck: /Game/Characters/Monster/Vampire_A_Lusth Validating asset
+[2026.01.21-19.18.09:842][854]AssetCheck: /Game/Characters/Monster/Vampire_A_Lusth_Anim Validating asset
+[2026.01.21-19.18.09:856][854]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
