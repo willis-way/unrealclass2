@@ -2124,3 +2124,484 @@ Sampler Limit: 32
 [2026.01.21-19.46.35:742][866]AssetCheck: /Game/Characters/Monster/Vampire_emission_Mat Validating asset
 [2026.01.21-19.46.35:742][866]AssetCheck: /Game/Blueprints/BP_HealthComponent Validating asset
 [2026.01.21-19.46.35:756][866]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.21-19.47.22:053][ 78]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\Blueprints\BP_HealthComponent.uasset: [Compiler] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2026.01.21-19.47.22:100][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.01.21-19.47.43:953][416]LogPSOHitching: Encountered 600 PSO creation hitches so far (210 graphics, 390 compute). 0 of them were precached.
+[2026.01.21-19.47.44:243][416]LogPSOHitching: Encountered 650 PSO creation hitches so far (212 graphics, 438 compute). 0 of them were precached.
+[2026.01.21-19.47.59:615][759]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_HealthComp.BP_HealthComp
+[2026.01.21-19.47.59:616][759]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2026.01.21-19.47.59:694][759]LogSlate: Window 'Add Blueprint Component' being destroyed
+[2026.01.21-19.48.06:148][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.01.21-19.48.06:152][387]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.042
+[2026.01.21-19.48.06:152][387]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.01.21-19.48.06:250][387]LogPSOHitching: Encountered 700 PSO creation hitches so far (225 graphics, 475 compute). 0 of them were precached.
+[2026.01.21-19.48.06:325][387]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.01.21-19.48.06:403][387]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.01.21-19.48.06:403][387]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.01.21-19.48.06:423][387]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerAssets/BP_CharacterBase_Auto3
+[2026.01.21-19.48.06:423][387]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_CharacterBase_Auto3D06FDFF84D4ACEFAF77E5F80940FBC8A.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/PlayerAssets/BP_CharacterBase_Auto3.uasset'
+[2026.01.21-19.48.06:425][387]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_HealthComponent] ([2] browsable assets)...
+[2026.01.21-19.48.06:425][387]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_HealthComponent]
+[2026.01.21-19.48.06:434][387]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_HealthComponent_Auto3
+[2026.01.21-19.48.06:434][387]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_HealthComponent_Auto3A376C43D4C8EC89D4A03CDA72BEE7F4F.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Blueprints/BP_HealthComponent_Auto3.uasset'
+[2026.01.21-19.48.06:435][387]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_HealthComp] ([2] browsable assets)...
+[2026.01.21-19.48.06:435][387]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_HealthComp]
+[2026.01.21-19.48.06:442][387]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_HealthComp_Auto3
+[2026.01.21-19.48.06:442][387]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_HealthComp_Auto3A3DED05042D682BBB134E6A1EA7AAA97.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Blueprints/BP_HealthComp_Auto3.uasset'
+[2026.01.21-19.48.06:443][387]LogFileHelpers: Auto-saving content packages took 0.291
+[2026.01.21-19.49.11:403][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.01.21-19.49.51:638][929]LogSlate: Window 'Change Variable Type' being destroyed
+[2026.01.21-19.49.54:029][  8]LogSlate: Window 'Find in Blueprints' being destroyed
+[2026.01.21-19.49.54:038][  8]LogSlate: Window 'Find in Blueprints' being destroyed
+[2026.01.21-19.50.02:100][748]LogEditorTransaction: Undo Rename Event Dispatcher
+[2026.01.21-19.50.02:310][748]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.21-19.50.04:035][893]LogEditorTransaction: Undo Add New Event Dispatcher
+[2026.01.21-19.50.04:153][893]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.21-19.50.13:047][901]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/BP_HealthComp.BP_HealthComp: [Compiler] Could not find a variable named "NewEventDispatcher" in '/Game/Blueprints/BP_HealthComp.BP_HealthComp_C'.
+Make sure '/Game/Blueprints/BP_HealthComp.BP_HealthComp_C' has been compiled for  Get NewEventDispatcher
+[2026.01.21-19.50.13:047][901]LogBlueprint: Error: [AssetLog] /Game/Blueprints/BP_HealthComp.BP_HealthComp: [Compiler] The property associated with  New Event Dispatcher  could not be found in '/Game/Blueprints/BP_HealthComp.BP_HealthComp_C'
+[2026.01.21-19.50.13:101][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.01.21-19.50.28:107][630]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2885.226807
+[2026.01.21-19.50.28:190][640]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.21-19.50.28:192][640]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2885.302002, Update Interval: 310.669891
+[2026.01.21-19.51.07:396][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.01.21-19.51.10:258][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.01.21-19.51.10:264][369]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.21-19.51.10:295][369]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.01.21-19.51.10:295][369]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.01.21-19.51.10:295][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.01.21-19.51.10:316][369]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.01.21-19.51.10:317][369]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_CharacterBaseCDC240E74B9FE5AB57D7088BEE84CA56.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.01.21-19.51.10:318][369]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_HealthComponent] ([2] browsable assets)...
+[2026.01.21-19.51.10:318][369]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_HealthComponent]
+[2026.01.21-19.51.10:318][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HealthComponent" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/BP_HealthComponent.uasset" SILENT=true
+[2026.01.21-19.51.10:327][369]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HealthComponent
+[2026.01.21-19.51.10:327][369]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_HealthComponent09FD52BC45991983EFC1C1AAE35FEFA7.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/BP_HealthComponent.uasset'
+[2026.01.21-19.51.10:328][369]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_HealthComp] ([2] browsable assets)...
+[2026.01.21-19.51.10:328][369]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_HealthComp]
+[2026.01.21-19.51.10:328][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HealthComp" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/BP_HealthComp.uasset" SILENT=true
+[2026.01.21-19.51.10:338][369]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HealthComp
+[2026.01.21-19.51.10:339][369]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_HealthComp8CC6FE4E40452673A982129479712D7A.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/BP_HealthComp.uasset'
+[2026.01.21-19.51.10:348][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.185 ms (total: 749.023 ms)
+[2026.01.21-19.51.10:378][369]LogContentValidation: Display: Starting to validate 3 assets
+[2026.01.21-19.51.10:378][369]LogContentValidation: Enabled validators:
+[2026.01.21-19.51.10:378][369]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.21-19.51.10:378][369]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.21-19.51.10:378][369]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.21-19.51.10:378][369]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.21-19.51.10:378][369]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.21-19.51.10:378][369]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.21-19.51.10:378][369]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.01.21-19.51.10:379][369]AssetCheck: /Game/Blueprints/BP_HealthComponent Validating asset
+[2026.01.21-19.51.10:379][369]AssetCheck: /Game/Blueprints/BP_HealthComp Validating asset
+[2026.01.21-19.51.10:402][369]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.21-19.51.18:310][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.01.21-19.51.18:542][129]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.01.21-19.51.18:554][129]LogSlate: Took 0.011520 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.01.21-19.51.22:826][129]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.21-19.51.23:113][129]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.01.21-19.51.23:113][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.21-19.51.23:147][129]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.01.21-19.51.23:147][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.21-19.51.23:194][129]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.21-19.51.23:194][129]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.01.21-19.51.23:194][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.21-19.51.23:223][129]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/BP_HealthComponent.BP_HealthComponent
+	Asset Type: Blueprint
+[2026.01.21-19.51.23:447][129]LogProperty: Warning: Serialized BlueprintGeneratedClass /Engine/Transient.REINST_BP_HealthComponent_C_8 for a property of BlueprintGeneratedClass /Engine/Transient.DEADCLASS_BP_HealthComponent_C_1. Reference will be nulled.
+    ReferencingObject = Package /Engine/Transient
+    Property = ObjectProperty /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C:BP_HealthComponent
+    Item = REINST_BP_HealthComponent_C_8 /Engine/Transient.World_22:PersistentLevel.BP_CharacterBase_C_1.BP_HealthComponent
+[2026.01.21-19.51.23:448][129]LogProperty: Warning: Serialized BlueprintGeneratedClass /Engine/Transient.REINST_BP_HealthComponent_C_8 for a property of BlueprintGeneratedClass /Engine/Transient.DEADCLASS_BP_HealthComponent_C_1. Reference will be nulled.
+    ReferencingObject = Package /Engine/Transient
+    Property = ObjectProperty /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C:BP_HealthComponent
+    Item = REINST_BP_HealthComponent_C_8 /Engine/Transient.World_25:PersistentLevel.BP_CharacterBase_C_0.BP_HealthComponent
+[2026.01.21-19.51.23:448][129]LogProperty: Warning: Serialized BlueprintGeneratedClass /Engine/Transient.REINST_BP_HealthComponent_C_8 for a property of BlueprintGeneratedClass /Engine/Transient.DEADCLASS_BP_HealthComponent_C_1. Reference will be nulled.
+    ReferencingObject = Package /Engine/Transient
+    Property = ObjectProperty /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C:BP_HealthComponent
+    Item = REINST_BP_HealthComponent_C_8 /Engine/Transient.World_20:PersistentLevel.BP_CharacterFPS_C_0.BP_HealthComponent
+[2026.01.21-19.51.23:496][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.01.21-19.51.23:572][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.01.21-19.51.23:598][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.01.21-19.51.23:625][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.01.21-19.51.23:667][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.01.21-19.51.34:638][237]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.01.21-19.51.34:644][237]LogMaterial: Display: Material /Fab/Materials/Standard/M_MS_Base.M_MS_Base needed to have new flag set bUsedWithNanite !
+[2026.01.21-19.51.37:252][389]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.01.21-19.51.37:298][390]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2026.01.21-19.51.37:400][391]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2026.01.21-19.51.37:550][394]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2026.01.21-19.51.53:392][882]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase
+[2026.01.21-19.51.53:392][882]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2026.01.21-19.52.02:059][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.01.21-19.52.03:149][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.01.21-19.52.03:156][839]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.21-19.52.03:213][839]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Fab/Materials/Standard/M_MS_Base] ([1] browsable assets)...
+[2026.01.21-19.52.03:213][839]OBJ SavePackage: Finished generating thumbnails for package [/Fab/Materials/Standard/M_MS_Base]
+[2026.01.21-19.52.03:213][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Fab/Materials/Standard/M_MS_Base" FILE="../../Plugins/Fab/Content/Materials/Standard/M_MS_Base.uasset" SILENT=true
+[2026.01.21-19.52.03:226][839]LogSavePackage: Moving output files for package: /Fab/Materials/Standard/M_MS_Base
+[2026.01.21-19.52.03:226][839]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/M_MS_BaseB6E9637F423F06CDD8CD43825C7CA2FE.tmp' to '../../Plugins/Fab/Content/Materials/Standard/M_MS_Base.uasset'
+[2026.01.21-19.52.03:228][839]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.01.21-19.52.03:288][839]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C]
+[2026.01.21-19.52.03:288][839]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.01.21-19.52.03:288][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.01.21-19.52.03:309][839]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.01.21-19.52.03:309][839]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_CharacterBaseD7A0AAD84B8760CCBF902F8C7F4B8E24.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.01.21-19.52.03:310][839]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_HealthComp] ([2] browsable assets)...
+[2026.01.21-19.52.03:310][839]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_HealthComp]
+[2026.01.21-19.52.03:310][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HealthComp" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/BP_HealthComp.uasset" SILENT=true
+[2026.01.21-19.52.03:321][839]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HealthComp
+[2026.01.21-19.52.03:321][839]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_HealthComp533F2E8842A2DE2B846AA0AF7F292D4C.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/BP_HealthComp.uasset'
+[2026.01.21-19.52.03:329][839]LogFileHelpers: InternalPromptForCheckoutAndSave took 172.733 ms (total: 921.757 ms)
+[2026.01.21-19.52.03:378][839]LogContentValidation: Display: Starting to validate 3 assets
+[2026.01.21-19.52.03:378][839]LogContentValidation: Enabled validators:
+[2026.01.21-19.52.03:378][839]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.21-19.52.03:378][839]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.21-19.52.03:378][839]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.21-19.52.03:378][839]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.21-19.52.03:378][839]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.21-19.52.03:378][839]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.21-19.52.03:378][839]AssetCheck: /Fab/Materials/Standard/M_MS_Base Validating asset
+[2026.01.21-19.52.03:378][839]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.01.21-19.52.03:379][839]AssetCheck: /Game/Blueprints/BP_HealthComp Validating asset
+[2026.01.21-19.52.03:394][839]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.21-19.52.06:092][ 97]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.21-19.52.06:096][ 97]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.01.21-19.52.06:096][ 97]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.01.21-19.52.06:097][ 97]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 646 us (total: 1.333 ms)
+[2026.01.21-19.52.06:100][ 97]LogPlayLevel: [PlayLevel] Compiling ABP_Player before play...
+[2026.01.21-19.52.06:101][ 97]LogPlayLevel: [PlayLevel]   Compiling BP_CharacterBase as a dependent...
+[2026.01.21-19.52.06:101][ 97]LogPlayLevel: [PlayLevel]   Compiling BP_CharacterFPS as a dependent...
+[2026.01.21-19.52.06:245][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.01.21-19.52.06:247][ 97]LogPlayLevel: PlayLevel: Blueprint regeneration took 150 ms (3 blueprints)
+[2026.01.21-19.52.06:282][ 97]LogPlayLevel: Display: Creating online subsystem for client :Context_35
+[2026.01.21-19.52.06:285][ 97]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2026.01.21-19.52.06:301][ 98]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.01.21-19.52.06:305][ 98]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.01.21-19.52.06:306][ 98]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 910 us (total: 1.828 ms)
+[2026.01.21-19.52.06:306][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006102s)
+[2026.01.21-19.52.06:306][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.006158s)
+[2026.01.21-19.52.06:331][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.01.21-19.52.06:333][ 98]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.01.21-19.52.06:335][ 98]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.21-19.52.06:335][ 98]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.21-19.52.06:335][ 98]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.21-19.52.06:335][ 98]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.21-19.52.06:336][ 98]LogWorldPartition: Display: WorldPartition initialize took 1.284 ms (total: 683.489 ms)
+[2026.01.21-19.52.06:336][ 98]LogPlayLevel: PIE: World Init took: (0.003220s)
+[2026.01.21-19.52.06:337][ 98]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.01.21-19.52.06:337][ 98]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.21-19.52.06:337][ 98]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.21-19.52.06:337][ 98]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.21-19.52.06:337][ 98]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.21-19.52.06:337][ 98]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.21-19.52.06:337][ 98]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.21-19.52.06:337][ 98]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.21-19.52.06:337][ 98]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.21-19.52.06:337][ 98]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.21-19.52.06:337][ 98]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.21-19.52.06:337][ 98]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.21-19.52.06:339][ 98]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.21-19.52.06:352][ 98]LogAudioMixer: Display: Using Audio Hardware Device Kamvas Pro 24 (NVIDIA High Definition Audio)
+[2026.01.21-19.52.06:352][ 98]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.21-19.52.06:352][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.21-19.52.06:352][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.21-19.52.06:352][ 98]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.01.21-19.52.06:352][ 98]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.01.21-19.52.06:354][ 98]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.01.21-19.52.06:354][ 98]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.01.21-19.52.06:354][ 98]LogInit: FAudioDevice initialized with ID 3.
+[2026.01.21-19.52.06:354][ 98]LogAudio: Display: Audio Device (ID: 3) registered with world 'L_LevelOne'.
+[2026.01.21-19.52.06:354][ 98]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.01.21-19.52.06:358][ 98]LogLoad: Game class is 'GM_FPS_C'
+[2026.01.21-19.52.06:362][ 98]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2026.01.21-14.52.06
+[2026.01.21-19.52.06:362][ 98]LogWorld: Bringing up level for play took: 0.002806
+[2026.01.21-19.52.06:365][ 98]PIE: Server logged in
+[2026.01.21-19.52.06:367][ 98]PIE: Play in editor total start time 0.271 seconds.
+[2026.01.21-19.52.06:410][ 99]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.21-19.52.07:491][191]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/3
+[2026.01.21-19.52.07:972][232]LogPSOHitching: Encountered 750 PSO creation hitches so far (245 graphics, 505 compute). 0 of them were precached.
+[2026.01.21-19.52.08:624][275]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] NewGrenadeInHandNotify
+[2026.01.21-19.52.09:560][326]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/2
+[2026.01.21-19.52.10:119][364]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/2
+[2026.01.21-19.52.11:708][512]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/2
+[2026.01.21-19.52.12:112][543]LogRenderer: Warning: Building light grid exceeded number of available entries (1908991 / 1523712). Increase r.Forward.MaxCulledLightsPerCell to prevent potential visual artifacts.
+[2026.01.21-19.52.12:849][564]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] NewGrenadeInHandNotify
+[2026.01.21-19.52.13:780][592]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/1
+[2026.01.21-19.52.14:339][635]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/1
+[2026.01.21-19.52.14:704][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.21-19.52.14:704][665]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.01.21-19.52.14:704][665]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2026.01.21-19.52.14:705][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.21-19.52.14:705][665]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2026.01.21-19.52.14:706][665]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.21-19.52.14:711][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.21-19.52.14:734][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.21-19.52.14:734][665]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.01.21-19.52.14:734][665]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.01.21-19.52.14:736][665]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.01.21-19.52.14:742][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.01.21-19.52.14:774][666]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: ================================================
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: Total job queries 757, among them cache hits 120 (15.85%), DDC hits 387 (51.12%), Duplicates 104 (13.74%)
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: Tracking 516 distinct input hashes that result in 353 distinct outputs (68.41%)
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: RAM used: 4.34 MiB of 1.60 GiB budget. Usage: 0.26%
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: Shaders Compiled: 129
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: Jobs assigned 129, completed 129 (100%)
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: Average time worker was idle: 254.66 s
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: Time job spent in pending queue: average 0.27 s, longest 1.89 s
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: Job execution time: average 1.14 s, max 2.61 s
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: Job life time (pending + execution): average 1.41 s, max 2.62
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: Shader code size: total 1.178 MiB, numShaders 134, average 9.001 KiB, min 2.312 KiB, max 20.883 KiB
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.10 s
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: Jobs were issued in 92 batches (only local compilation was used), average 1.40 jobs/batch
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: Average processing rate: 8.54 jobs/sec
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: Total thread time: 70.177 s
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: Total thread preprocess time: 9.217 s
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: Percentage time preprocessing: 13.13%
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: Effective parallelization: 4.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.464680
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.82 sec, max 1.82 sec, min 1.82 sec)
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.72 sec, max 1.72 sec, min 1.72 sec)
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.46 sec, max 1.46 sec, min 1.46 sec)
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    1 times, average 1.21 sec, max 1.21 sec, min 1.21 sec)
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 1.13 sec, max 1.26 sec, min 1.00 sec)
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display:                                             FDebugViewModePS - 17.29% of total time (compiled   11 times, average 1.10 sec, max 1.32 sec, min 0.85 sec)
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 11.76% of total time (compiled    9 times, average 0.92 sec, max 1.33 sec, min 0.73 sec)
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.37% of total time (compiled   19 times, average 0.42 sec, max 0.56 sec, min 0.29 sec)
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 8.05% of total time (compiled    6 times, average 0.94 sec, max 1.34 sec, min 0.70 sec)
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.24% of total time (compiled   11 times, average 0.46 sec, max 0.55 sec, min 0.33 sec)
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: === Material stats ===
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: Materials Translated:    191
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: Material Translation Only: 0.04 s (33%)
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: Material Cache Hits: 28 (15%)
+[2026.01.21-19.52.38:766][388]LogShaderCompilers: Display: ================================================
+[2026.01.21-19.53.04:215][295]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.01.21-19.53.04:260][295]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.01.21-19.53.04:266][295]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.01.21-19.53.04:286][296]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.01.21-19.53.13:713][173]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Health
+[2026.01.21-19.53.13:721][173]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.01.21-19.53.16:075][380]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Health.BP_Health
+[2026.01.21-19.53.16:076][380]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2026.01.21-19.56.09:882][933]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3227.022949
+[2026.01.21-19.56.09:989][946]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.21-19.56.09:989][946]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3227.122803, Update Interval: 339.357880
+[2026.01.21-19.57.55:807][984]LogStreaming: Display: FlushAsyncLoading(789): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.21-19.57.55:809][984]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\Blueprints\BP_HealthComp.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  RequestUpdateUI  and was replaced as a Custom Event!
+[2026.01.21-19.57.55:809][984]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\Blueprints\BP_HealthComp.uasset: [Compiler] Pasted node  CustomEvent_1   conflicted with  CheckDeath  and was replaced as a Custom Event!
+[2026.01.21-19.57.55:809][984]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to '"/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Components/BPI_HealthComponent.BPI_HealthComponent_C'",MemberName="HealthCompNotify_UpdateUI",MemberGuid=87D3402843B4F9F3955A22946073A47B)'
+[2026.01.21-19.57.55:810][984]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to '"/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Components/BPI_HealthComponent.BPI_HealthComponent_C'",MemberName="HealthCompNotify_Dead",MemberGuid=6A7E6C90447C49E805FB6F9B44B42685)'
+[2026.01.21-19.58.04:803][959]LogEditorTransaction: Undo Move Node
+[2026.01.21-19.58.04:926][959]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.21-19.58.05:420][972]LogEditorTransaction: Undo Delete current selection
+[2026.01.21-19.58.05:541][972]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.21-19.58.08:013][262]LogEditorTransaction: Redo Delete current selection
+[2026.01.21-19.58.08:132][262]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.21-19.58.17:389][281]LogEditorTransaction: Undo Move Node
+[2026.01.21-19.58.17:508][281]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.21-19.58.17:712][284]LogEditorTransaction: Undo Create Pin Link
+[2026.01.21-19.58.17:827][284]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.21-19.58.18:162][308]LogEditorTransaction: Undo Move Node
+[2026.01.21-19.58.18:279][308]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.21-19.58.18:605][341]LogEditorTransaction: Undo Delete current selection
+[2026.01.21-19.58.18:719][341]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.21-19.58.19:054][375]LogEditorTransaction: Undo Delete current selection
+[2026.01.21-19.58.19:170][375]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.21-19.58.44:653][315]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\Blueprints\BP_HealthComp.uasset: [Compiler] Message node  Invalid Message Node  has an invalid interface.
+[2026.01.21-19.58.44:653][315]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\Blueprints\BP_HealthComp.uasset: [Compiler] Output pin type 'Float (double-precision)' is not compatible with input type of 'Float (double-precision)' on ' float / float '
+[2026.01.21-19.58.44:653][315]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\Blueprints\BP_HealthComp.uasset: [Compiler] Message node  Invalid Message Node  has an invalid interface.
+[2026.01.21-19.58.44:653][315]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\Blueprints\BP_HealthComp.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2026.01.21-19.58.44:653][315]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\Blueprints\BP_HealthComp.uasset: [Compiler] In use pin  Target  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2026.01.21-19.58.44:654][315]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\Blueprints\BP_HealthComp.uasset: [Compiler] Could not find a function named "HealthCompNotify_Dead" in 'BP_HealthComp'.
+Make sure 'BP_HealthComp' has been compiled for  Invalid Message Node
+[2026.01.21-19.58.44:654][315]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\Blueprints\BP_HealthComp.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2026.01.21-19.58.44:654][315]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\Blueprints\BP_HealthComp.uasset: [Compiler] In use pin  Target  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2026.01.21-19.58.44:654][315]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\Blueprints\BP_HealthComp.uasset: [Compiler] In use pin  Health Percentage  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2026.01.21-19.58.44:654][315]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\Blueprints\BP_HealthComp.uasset: [Compiler] Could not find a function named "HealthCompNotify_UpdateUI" in 'BP_HealthComp'.
+Make sure 'BP_HealthComp' has been compiled for  Invalid Message Node
+[2026.01.21-19.58.44:736][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.01.21-20.02.23:414][372]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\Blueprints\BP_HealthComp.uasset: [Compiler] This blueprint (self) is not a BP_Health_C, therefore ' Target ' must have a connection.
+[2026.01.21-20.02.23:414][372]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\Blueprints\BP_HealthComp.uasset: [Compiler] This blueprint (self) is not a BP_Health_C, therefore ' Target ' must have a connection.
+[2026.01.21-20.02.23:470][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.01.21-20.02.48:031][ 66]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3625.175537
+[2026.01.21-20.02.48:113][ 76]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.21-20.02.48:113][ 76]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3625.249512, Update Interval: 359.144867
+[2026.01.21-20.04.19:879][613]LogDerivedDataCache: C:/Users/sbehr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.21-20.04.21:246][756]LogPSOHitching: Encountered 800 PSO creation hitches so far (275 graphics, 525 compute). 0 of them were precached.
+[2026.01.21-20.04.21:466][756]LogPSOHitching: Encountered 850 PSO creation hitches so far (282 graphics, 568 compute). 0 of them were precached.
+[2026.01.21-20.04.21:789][757]LogPSOHitching: Encountered 900 PSO creation hitches so far (291 graphics, 609 compute). 0 of them were precached.
+[2026.01.21-20.04.29:007][301]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2026.01.21-20.04.29:013][301]LogContentBrowser: Creating deferred item: NewInterface
+[2026.01.21-20.04.29:025][302]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2026.01.21-20.04.35:199][909]LogContentBrowser: Attempting asset rename: NewInterface -> BPI_Health
+[2026.01.21-20.04.35:206][909]LogContentBrowser: End creating deferred item NewInterface
+[2026.01.21-20.04.36:566][ 28]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BPI_Health.BPI_Health
+[2026.01.21-20.04.36:566][ 28]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2026.01.21-20.06.10:205][947]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.01.21-20.06.11:328][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.01.21-20.06.12:566][ 25]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.21-20.06.12:743][ 25]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2026.01.21-20.06.12:743][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.21-20.06.12:786][ 25]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.01.21-20.06.12:786][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.21-20.06.12:822][ 25]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.21-20.06.12:824][ 25]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2026.01.21-20.06.12:824][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.21-20.06.12:853][ 25]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/BP_Health.BP_Health
+	Asset Type: Blueprint
+[2026.01.21-20.06.13:138][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.01.21-20.06.13:172][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.01.21-20.06.13:198][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.01.21-20.06.13:234][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.01.21-20.06.18:540][503]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_2
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.18:600][509]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_3
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.18:638][510]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_4
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.18:647][511]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_5
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.18:657][512]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_6
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.18:669][513]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_7
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.18:680][514]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_8
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.18:693][515]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_9
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.18:704][516]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_10
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.18:717][517]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_11
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.18:729][518]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_12
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.18:742][519]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_13
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.18:755][520]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_14
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.18:766][521]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_15
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.18:778][522]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_16
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.18:790][523]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_17
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.18:803][524]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_18
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.18:813][525]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_19
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.18:825][526]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_20
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.18:838][527]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_21
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.18:850][528]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_22
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.18:861][529]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_23
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.18:873][530]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_24
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.18:885][531]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_25
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.20:381][628]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase
+[2026.01.21-20.06.20:381][628]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2026.01.21-20.06.22:932][835]LogPSOHitching: Encountered 950 PSO creation hitches so far (311 graphics, 639 compute). 0 of them were precached.
+[2026.01.21-20.06.41:699][751]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_26
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.41:711][752]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_27
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.41:723][753]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_28
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.41:735][754]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_29
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.41:747][755]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_30
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.41:760][756]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_31
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.41:770][757]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_32
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.41:783][758]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_33
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.41:794][759]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_34
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.41:806][760]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_35
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.21-20.06.45:233][ 67]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_HealthComp.BP_HealthComp
+[2026.01.21-20.06.45:233][ 67]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2026.01.21-20.06.47:240][250]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\Blueprints\BP_HealthComp.uasset: [Compiler] Could not find a function named "HealthCompNotifyUpdateUI" in 'BP_HealthComp'.
+Make sure 'BP_HealthComp' has been compiled for  Health Comp Notify Update UI
+[2026.01.21-20.06.47:240][250]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\Blueprints\BP_HealthComp.uasset: [Compiler] Could not find a function named "HealthCompNotifyDead" in 'BP_HealthComp'.
+Make sure 'BP_HealthComp' has been compiled for  Health Comp Notify Dead
+[2026.01.21-20.06.47:241][250]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\Blueprints\BP_HealthComp.uasset: [Compiler] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2026.01.21-20.06.47:241][250]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\Blueprints\BP_HealthComp.uasset: [Compiler] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2026.01.21-20.06.47:333][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.01.21-20.07.50:240][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.01.21-20.08.42:846][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.01.21-20.08.47:178][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.01.21-20.08.47:184][868]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.21-20.08.47:237][868]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_HealthComp] ([2] browsable assets)...
+[2026.01.21-20.08.47:237][868]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_HealthComp]
+[2026.01.21-20.08.47:237][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HealthComp" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/BP_HealthComp.uasset" SILENT=true
+[2026.01.21-20.08.47:251][868]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HealthComp
+[2026.01.21-20.08.47:251][868]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_HealthComp73789B0444AFD7160E7B4EAC9E11A644.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/BP_HealthComp.uasset'
+[2026.01.21-20.08.47:252][868]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPI_Health] ([2] browsable assets)...
+[2026.01.21-20.08.47:252][868]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPI_Health]
+[2026.01.21-20.08.47:252][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPI_Health" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/BPI_Health.uasset" SILENT=true
+[2026.01.21-20.08.47:260][868]LogSavePackage: Moving output files for package: /Game/Blueprints/BPI_Health
+[2026.01.21-20.08.47:260][868]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BPI_HealthF656A4434E0146E151EF0380FB1B9F6E.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/BPI_Health.uasset'
+[2026.01.21-20.08.47:270][868]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.378 ms (total: 1.00 sec)
+[2026.01.21-20.08.47:322][868]LogContentValidation: Display: Starting to validate 2 assets
+[2026.01.21-20.08.47:322][868]LogContentValidation: Enabled validators:
+[2026.01.21-20.08.47:322][868]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.21-20.08.47:322][868]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.21-20.08.47:322][868]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.21-20.08.47:322][868]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.21-20.08.47:322][868]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.21-20.08.47:322][868]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.21-20.08.47:322][868]AssetCheck: /Game/Blueprints/BP_HealthComp Validating asset
+[2026.01.21-20.08.47:322][868]AssetCheck: /Game/Blueprints/BPI_Health Validating asset
+[2026.01.21-20.08.47:338][868]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
