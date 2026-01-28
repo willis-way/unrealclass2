@@ -1963,3 +1963,43 @@ Sampler Limit: 32
 [2026.01.28-19.27.54:537][203]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.01.28-19.27.54:537][203]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.01.28-19.27.54:537][203]AssetCheck: /Game/Blueprints/BP_HealthComp Validating asset
+[2026.01.28-19.28.42:099][202]LogStreaming: Display: FlushAsyncLoading(784): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.28-19.28.42:100][202]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to '"/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Components/BPI_HealthComponent.BPI_HealthComponent_C'",MemberName="HealthCompNotify_TookDamage",MemberGuid=5590DC11490D315E38B81AA9F33C50E9)'
+[2026.01.28-19.30.01:943][771]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1686.153809
+[2026.01.28-19.30.02:019][780]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.28-19.30.02:019][780]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1686.220947, Update Interval: 323.174530
+[2026.01.28-19.30.39:056][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.01.28-19.31.00:945][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.01.28-19.31.02:171][321]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-19.31.02:204][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_HealthComp] ([2] browsable assets)...
+[2026.01.28-19.31.02:204][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_HealthComp]
+[2026.01.28-19.31.02:204][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HealthComp" FILE="../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Blueprints/BP_HealthComp.uasset" SILENT=true
+[2026.01.28-19.31.02:219][321]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HealthComp
+[2026.01.28-19.31.02:220][321]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_HealthComp5E80066748E9B93AC801F4BA494F0646.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Blueprints/BP_HealthComp.uasset'
+[2026.01.28-19.31.02:227][321]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.488 ms (total: 369.918 ms)
+[2026.01.28-19.31.02:273][321]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.28-19.31.02:273][321]LogContentValidation: Enabled validators:
+[2026.01.28-19.31.02:273][321]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-19.31.02:273][321]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-19.31.02:273][321]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-19.31.02:273][321]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-19.31.02:273][321]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-19.31.02:273][321]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-19.31.02:273][321]AssetCheck: /Game/Blueprints/BP_HealthComp Validating asset
+[2026.01.28-19.32.24:487][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.01.28-19.32.33:111][530]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-19.32.33:154][530]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_HealthComp] ([2] browsable assets)...
+[2026.01.28-19.32.33:154][530]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_HealthComp]
+[2026.01.28-19.32.33:154][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HealthComp" FILE="../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Blueprints/BP_HealthComp.uasset" SILENT=true
+[2026.01.28-19.32.33:170][530]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HealthComp
+[2026.01.28-19.32.33:170][530]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_HealthComp77C59D6D4A8312139ECC29803CC0CFEC.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Blueprints/BP_HealthComp.uasset'
+[2026.01.28-19.32.33:177][530]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.277 ms (total: 435.196 ms)
+[2026.01.28-19.32.33:204][530]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.28-19.32.33:204][530]LogContentValidation: Enabled validators:
+[2026.01.28-19.32.33:204][530]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-19.32.33:204][530]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-19.32.33:204][530]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-19.32.33:204][530]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-19.32.33:204][530]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-19.32.33:204][530]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-19.32.33:205][530]AssetCheck: /Game/Blueprints/BP_HealthComp Validating asset
