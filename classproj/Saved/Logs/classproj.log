@@ -2003,3 +2003,75 @@ Sampler Limit: 32
 [2026.01.28-19.32.33:204][530]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.01.28-19.32.33:204][530]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.01.28-19.32.33:205][530]AssetCheck: /Game/Blueprints/BP_HealthComp Validating asset
+[2026.01.28-19.34.29:223][976]LogStreaming: Display: FlushAsyncLoading(786): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.28-19.34.29:223][976]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to '"/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Components/BPI_HealthComponent.BPI_HealthComponent_C'",MemberName="HealthCompNotify_UpdateUI",MemberGuid=87D3402843B4F9F3955A22946073A47B)'
+[2026.01.28-19.35.01:226][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.01.28-19.35.02:138][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-19.35.02:173][ 77]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.01.28-19.35.02:175][ 77]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.01.28-19.35.02:270][ 77]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.01.28-19.35.02:270][ 77]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.01.28-19.35.02:270][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.01.28-19.35.02:293][ 77]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.01.28-19.35.02:293][ 77]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_CharacterBaseA8DDD27745B2FC246BDD4B800A3D69B2.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.01.28-19.35.02:300][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave took 161.382 ms (total: 596.578 ms)
+[2026.01.28-19.35.02:341][ 77]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.28-19.35.02:341][ 77]LogContentValidation: Enabled validators:
+[2026.01.28-19.35.02:341][ 77]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-19.35.02:341][ 77]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-19.35.02:341][ 77]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-19.35.02:341][ 77]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-19.35.02:341][ 77]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-19.35.02:341][ 77]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-19.35.02:341][ 77]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.01.28-19.35.02:354][ 77]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.28-19.36.18:617][108]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2062.824951
+[2026.01.28-19.36.18:707][118]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.28-19.36.18:707][118]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2062.906250, Update Interval: 352.428345
+[2026.01.28-19.36.26:881][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.01.28-19.36.26:885][809]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.028
+[2026.01.28-19.36.26:886][809]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.01.28-19.36.26:963][809]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.01.28-19.36.26:963][809]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.01.28-19.36.26:986][809]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerAssets/BP_CharacterBase_Auto2
+[2026.01.28-19.36.26:986][809]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_CharacterBase_Auto26707356E4A13E60938EC75927F9A7CF9.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/Autosaves/Game/PlayerAssets/BP_CharacterBase_Auto2.uasset'
+[2026.01.28-19.36.26:987][809]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPI_Health] ([2] browsable assets)...
+[2026.01.28-19.36.26:987][809]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPI_Health]
+[2026.01.28-19.36.26:995][809]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BPI_Health_Auto2
+[2026.01.28-19.36.26:995][809]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BPI_Health_Auto2A3A6D2B94981EF402FE52194BEBE1FFD.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/Autosaves/Game/Blueprints/BPI_Health_Auto2.uasset'
+[2026.01.28-19.36.26:995][809]LogFileHelpers: Auto-saving content packages took 0.109
+[2026.01.28-19.36.43:586][151]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-19.36.43:624][151]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.01.28-19.36.43:683][151]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.01.28-19.36.43:683][151]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.01.28-19.36.43:683][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.01.28-19.36.43:704][151]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.01.28-19.36.43:704][151]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_CharacterBase703A57BC494B04CB12994F856FA06498.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.01.28-19.36.43:711][151]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.769 ms (total: 721.348 ms)
+[2026.01.28-19.36.43:756][151]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.28-19.36.43:756][151]LogContentValidation: Enabled validators:
+[2026.01.28-19.36.43:756][151]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-19.36.43:756][151]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-19.36.43:756][151]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-19.36.43:756][151]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-19.36.43:756][151]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-19.36.43:756][151]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-19.36.43:756][151]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.01.28-19.36.45:634][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.01.28-19.36.46:148][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-19.36.46:210][410]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.01.28-19.36.46:271][410]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.01.28-19.36.46:271][410]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.01.28-19.36.46:271][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.01.28-19.36.46:291][410]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.01.28-19.36.46:292][410]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_CharacterBaseF946B50949DFF5FECE71CD8F3F82B168.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.01.28-19.36.46:299][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 150.378 ms (total: 871.726 ms)
+[2026.01.28-19.36.46:357][410]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.28-19.36.46:357][410]LogContentValidation: Enabled validators:
+[2026.01.28-19.36.46:357][410]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-19.36.46:357][410]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-19.36.46:357][410]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-19.36.46:357][410]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-19.36.46:357][410]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-19.36.46:357][410]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-19.36.46:357][410]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
