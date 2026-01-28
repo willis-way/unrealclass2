@@ -2075,3 +2075,214 @@ Sampler Limit: 32
 [2026.01.28-19.36.46:357][410]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.01.28-19.36.46:357][410]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.01.28-19.36.46:357][410]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.01.28-19.37.23:202][299]LogPSOHitching: Encountered 400 PSO creation hitches so far (127 graphics, 273 compute). 0 of them were precached.
+[2026.01.28-19.37.23:380][299]LogPSOHitching: Encountered 450 PSO creation hitches so far (131 graphics, 319 compute). 0 of them were precached.
+[2026.01.28-19.37.23:674][299]LogPSOHitching: Encountered 500 PSO creation hitches so far (136 graphics, 364 compute). 0 of them were precached.
+[2026.01.28-19.37.24:056][303]LogPSOHitching: Encountered 550 PSO creation hitches so far (158 graphics, 392 compute). 0 of them were precached.
+[2026.01.28-19.37.24:265][304]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.28-19.37.24:272][304]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.01.28-19.37.24:272][304]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.01.28-19.37.24:275][304]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 1.664 ms
+[2026.01.28-19.37.24:278][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.28-19.37.24:280][304]LogPlayLevel: Display: Creating online subsystem for client :Context_11
+[2026.01.28-19.37.24:283][304]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2026.01.28-19.37.24:330][305]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.01.28-19.37.24:336][305]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.01.28-19.37.24:337][305]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 897 us
+[2026.01.28-19.37.24:337][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007408s)
+[2026.01.28-19.37.24:337][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.007474s)
+[2026.01.28-19.37.24:386][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.01.28-19.37.24:390][305]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.01.28-19.37.24:393][305]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.28-19.37.24:393][305]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.28-19.37.24:393][305]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.28-19.37.24:393][305]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.28-19.37.24:394][305]LogWorldPartition: Display: WorldPartition initialize took 2.020 ms (total: 562.575 ms)
+[2026.01.28-19.37.24:394][305]LogPlayLevel: PIE: World Init took: (0.004668s)
+[2026.01.28-19.37.24:395][305]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.01.28-19.37.24:395][305]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.28-19.37.24:395][305]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.28-19.37.24:395][305]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.28-19.37.24:395][305]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.28-19.37.24:395][305]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.28-19.37.24:395][305]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.28-19.37.24:395][305]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.28-19.37.24:395][305]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.28-19.37.24:395][305]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.28-19.37.24:395][305]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.28-19.37.24:395][305]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.28-19.37.24:397][305]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.28-19.37.24:411][305]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2026.01.28-19.37.24:411][305]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.28-19.37.24:411][305]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.28-19.37.24:411][305]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.28-19.37.24:411][305]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.01.28-19.37.24:412][305]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.01.28-19.37.24:413][305]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.01.28-19.37.24:413][305]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.01.28-19.37.24:414][305]LogInit: FAudioDevice initialized with ID 2.
+[2026.01.28-19.37.24:414][305]LogAudio: Display: Audio Device (ID: 2) registered with world 'L_LevelOne'.
+[2026.01.28-19.37.24:414][305]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.01.28-19.37.24:431][305]LogLoad: Game class is 'GM_FPS_C'
+[2026.01.28-19.37.24:434][305]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2026.01.28-14.37.24
+[2026.01.28-19.37.24:435][305]LogWorld: Bringing up level for play took: 0.003327
+[2026.01.28-19.37.24:461][305]PIE: Server logged in
+[2026.01.28-19.37.24:464][305]PIE: Play in editor total start time 0.192 seconds.
+[2026.01.28-19.37.24:517][306]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.28-19.37.24:686][307]LogPSOHitching: Encountered 600 PSO creation hitches so far (175 graphics, 425 compute). 0 of them were precached.
+[2026.01.28-19.37.28:567][694]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/3
+[2026.01.28-19.37.29:021][721]LogRenderer: Warning: Building light grid exceeded number of available entries (1364371 / 1044480). Increase r.Forward.MaxCulledLightsPerCell to prevent potential visual artifacts.
+[2026.01.28-19.37.29:021][722]LogRenderer: Warning: Building light grid exceeded number of available links, glitches will be visible (1364371 / 1044480).
+[2026.01.28-19.37.29:741][740]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] NewGrenadeInHandNotify
+[2026.01.28-19.37.30:628][762]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/2
+[2026.01.28-19.37.31:191][806]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/2
+[2026.01.28-19.37.32:848][971]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/2
+[2026.01.28-19.37.34:014][ 30]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] NewGrenadeInHandNotify
+[2026.01.28-19.37.34:913][ 51]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/1
+[2026.01.28-19.37.35:478][ 91]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/1
+[2026.01.28-19.37.37:710][314]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/1
+[2026.01.28-19.37.38:871][373]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] NewGrenadeInHandNotify
+[2026.01.28-19.37.39:774][393]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/0
+[2026.01.28-19.37.40:341][430]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/0
+[2026.01.28-19.37.40:675][461]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/0
+[2026.01.28-19.37.47:968][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.28-19.37.47:968][ 54]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.01.28-19.37.47:968][ 54]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2026.01.28-19.37.47:969][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.28-19.37.47:969][ 54]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2026.01.28-19.37.47:971][ 54]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.28-19.37.47:976][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.28-19.37.47:996][ 54]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.28-19.37.47:996][ 54]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.01.28-19.37.47:996][ 54]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.01.28-19.37.47:998][ 54]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.01.28-19.37.48:003][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.28-19.37.48:006][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.01.28-19.37.48:087][ 55]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2026.01.28-19.37.56:826][959]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.01.28-19.37.56:903][960]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.28-19.37.58:266][ 67]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.01.28-19.38.03:539][537]LogShaderCompilers: Display: ================================================
+[2026.01.28-19.38.03:539][537]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.28-19.38.03:539][537]LogShaderCompilers: Display: Total job queries 18,474, among them cache hits 1,984 (10.74%), DDC hits 12,355 (66.88%), Duplicates 3,472 (18.79%)
+[2026.01.28-19.38.03:539][537]LogShaderCompilers: Display: Tracking 13,018 distinct input hashes that result in 11,895 distinct outputs (91.37%)
+[2026.01.28-19.38.03:539][537]LogShaderCompilers: Display: RAM used: 158.66 MiB of 1.60 GiB budget. Usage: 9.68%
+[2026.01.28-19.38.03:539][537]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.28-19.38.03:539][537]LogShaderCompilers: Display: Shaders Compiled: 646
+[2026.01.28-19.38.03:539][537]LogShaderCompilers: Display: Jobs assigned 646, completed 646 (100%)
+[2026.01.28-19.38.03:539][537]LogShaderCompilers: Display: Average time worker was idle: 101.51 s
+[2026.01.28-19.38.03:539][537]LogShaderCompilers: Display: Time job spent in pending queue: average 4.98 s, longest 36.22 s
+[2026.01.28-19.38.03:539][537]LogShaderCompilers: Display: Job execution time: average 6.35 s, max 24.95 s
+[2026.01.28-19.38.03:539][537]LogShaderCompilers: Display: Job life time (pending + execution): average 11.33 s, max 38.48
+[2026.01.28-19.38.03:539][537]LogShaderCompilers: Display: Shader code size: total 9.921 MiB, numShaders 673, average 15.095 KiB, min 2.246 KiB, max 55.505 KiB
+[2026.01.28-19.38.03:539][537]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 88.62 s
+[2026.01.28-19.38.03:539][537]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.29%
+[2026.01.28-19.38.03:539][537]LogShaderCompilers: Display: Jobs were issued in 218 batches (only local compilation was used), average 2.96 jobs/batch
+[2026.01.28-19.38.03:539][537]LogShaderCompilers: Display: Average processing rate: 7.29 jobs/sec
+[2026.01.28-19.38.03:539][537]LogShaderCompilers: Display: Total thread time: 737.417 s
+[2026.01.28-19.38.03:539][537]LogShaderCompilers: Display: Total thread preprocess time: 189.886 s
+[2026.01.28-19.38.03:539][537]LogShaderCompilers: Display: Percentage time preprocessing: 25.75%
+[2026.01.28-19.38.03:539][537]LogShaderCompilers: Display: Effective parallelization: 8.32 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.832080
+[2026.01.28-19.38.03:540][537]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.28-19.38.03:540][537]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    1 times, average 6.40 sec, max 6.40 sec, min 6.40 sec)
+[2026.01.28-19.38.03:540][537]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 5.00 sec, max 5.00 sec, min 5.00 sec)
+[2026.01.28-19.38.03:540][537]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 4.49 sec, max 6.02 sec, min 1.29 sec)
+[2026.01.28-19.38.03:540][537]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   10 times, average 4.13 sec, max 5.25 sec, min 1.24 sec)
+[2026.01.28-19.38.03:540][537]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 3.49 sec, max 5.37 sec, min 1.97 sec)
+[2026.01.28-19.38.03:540][537]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.28-19.38.03:540][537]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 22.69% of total time (compiled   80 times, average 2.09 sec, max 9.59 sec, min 1.51 sec)
+[2026.01.28-19.38.03:540][537]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.80% of total time (compiled   64 times, average 1.13 sec, max 5.97 sec, min 0.24 sec)
+[2026.01.28-19.38.03:540][537]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.78% of total time (compiled   33 times, average 1.74 sec, max 6.54 sec, min 0.61 sec)
+[2026.01.28-19.38.03:540][537]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.43% of total time (compiled   62 times, average 0.77 sec, max 3.63 sec, min 0.12 sec)
+[2026.01.28-19.38.03:540][537]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS - 6.34% of total time (compiled   16 times, average 2.92 sec, max 7.85 sec, min 0.77 sec)
+[2026.01.28-19.38.03:540][537]LogShaderCompilers: Display: === Material stats ===
+[2026.01.28-19.38.03:540][537]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.28-19.38.03:540][537]LogShaderCompilers: Display: Materials Translated:    174
+[2026.01.28-19.38.03:540][537]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2026.01.28-19.38.03:540][537]LogShaderCompilers: Display: Material Translation Only: 0.05 s (45%)
+[2026.01.28-19.38.03:540][537]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.01.28-19.38.03:540][537]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.01.28-19.38.03:540][537]LogShaderCompilers: Display: ================================================
+[2026.01.28-19.38.35:399][941]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.01.28-19.39.05:028][151]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.01.28-19.39.05:035][151]LogMaterial: Display: Material /Fab/Materials/Standard/M_MS_Base.M_MS_Base needed to have new flag set bUsedWithNanite !
+[2026.01.28-19.39.07:695][314]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.01.28-19.39.07:703][314]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_14:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_0
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.28-19.39.07:843][316]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.01.28-19.39.07:862][317]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.01.28-19.39.08:005][318]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.01.28-19.39.08:136][319]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.01.28-19.39.08:176][320]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_14:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_1
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.28-19.39.15:341][749]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS
+[2026.01.28-19.39.15:341][749]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.01.28-19.39.19:697][998]LogSlate: Window 'BP_CharacterFPS' being destroyed
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: ================================================
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: Total job queries 18,506, among them cache hits 1,984 (10.72%), DDC hits 12,356 (66.77%), Duplicates 3,479 (18.80%)
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: Tracking 13,043 distinct input hashes that result in 11,906 distinct outputs (91.28%)
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: RAM used: 158.79 MiB of 1.60 GiB budget. Usage: 9.69%
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: Shaders Compiled: 670
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: Jobs assigned 670, completed 670 (100%)
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: Average time worker was idle: 100.83 s
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: Time job spent in pending queue: average 4.80 s, longest 36.22 s
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: Job execution time: average 6.20 s, max 24.95 s
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: Job life time (pending + execution): average 11.00 s, max 38.48
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: Shader code size: total 10.16 MiB, numShaders 698, average 14.905 KiB, min 2.246 KiB, max 55.505 KiB
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 91.25 s
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.29%
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: Jobs were issued in 227 batches (only local compilation was used), average 2.95 jobs/batch
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: Average processing rate: 7.34 jobs/sec
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: Total thread time: 753.272 s
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: Total thread preprocess time: 190.311 s
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: Percentage time preprocessing: 25.26%
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: Effective parallelization: 8.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.825498
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    1 times, average 6.40 sec, max 6.40 sec, min 6.40 sec)
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 5.00 sec, max 5.00 sec, min 5.00 sec)
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 4.49 sec, max 6.02 sec, min 1.29 sec)
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   10 times, average 4.13 sec, max 5.25 sec, min 1.24 sec)
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 3.49 sec, max 5.37 sec, min 1.97 sec)
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 22.21% of total time (compiled   80 times, average 2.09 sec, max 9.59 sec, min 1.51 sec)
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.66% of total time (compiled   65 times, average 1.12 sec, max 5.97 sec, min 0.24 sec)
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.90% of total time (compiled   35 times, average 1.70 sec, max 6.54 sec, min 0.61 sec)
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.33% of total time (compiled   63 times, average 0.76 sec, max 3.63 sec, min 0.12 sec)
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS - 6.21% of total time (compiled   16 times, average 2.92 sec, max 7.85 sec, min 0.77 sec)
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: === Material stats ===
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: Materials Translated:    176
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: Material Translation Only: 0.06 s (45%)
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.01.28-19.41.03:545][163]LogShaderCompilers: Display: ================================================
+[2026.01.28-19.41.05:119][316]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_14:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_2
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.28-19.41.05:220][319]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_14:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_3
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.28-19.42.19:452][286]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-19.42.19:509][286]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerAssets/BP_CharacterFPS] ([2] browsable assets)...
+[2026.01.28-19.42.19:509][286]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterFPS]
+[2026.01.28-19.42.19:509][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterFPS" FILE="../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterFPS.uasset" SILENT=true
+[2026.01.28-19.42.19:527][286]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterFPS
+[2026.01.28-19.42.19:527][286]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_CharacterFPSA8669D9A4F8B1CA23549A5AB43097B5F.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterFPS.uasset'
+[2026.01.28-19.42.19:536][286]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.275 ms (total: 955.001 ms)
+[2026.01.28-19.42.19:574][286]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.28-19.42.19:574][286]LogContentValidation: Enabled validators:
+[2026.01.28-19.42.19:574][286]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-19.42.19:574][286]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-19.42.19:574][286]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-19.42.19:574][286]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-19.42.19:574][286]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-19.42.19:574][286]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-19.42.19:576][286]AssetCheck: /Game/PlayerAssets/BP_CharacterFPS Validating asset
+[2026.01.28-19.42.19:591][287]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
