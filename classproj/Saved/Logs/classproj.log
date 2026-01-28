@@ -1884,3 +1884,82 @@ Sampler Limit: 32
 [2026.01.28-19.15.45:336][889]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.01.28-19.15.45:336][889]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.01.28-19.15.45:336][889]AssetCheck: /Game/Blueprints/BP_HealthComp Validating asset
+[2026.01.28-19.17.29:667][701]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.01.28-19.19.16:242][458]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1040.447876
+[2026.01.28-19.19.16:308][466]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.28-19.19.16:308][466]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1040.506226, Update Interval: 307.049774
+[2026.01.28-19.20.03:278][211]LogShaderCompilers: Display: ================================================
+[2026.01.28-19.20.03:278][211]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.28-19.20.03:278][211]LogShaderCompilers: Display: Total job queries 18,434, among them cache hits 1,959 (10.63%), DDC hits 12,353 (67.01%), Duplicates 3,472 (18.83%)
+[2026.01.28-19.20.03:278][211]LogShaderCompilers: Display: Tracking 13,003 distinct input hashes that result in 11,880 distinct outputs (91.36%)
+[2026.01.28-19.20.03:278][211]LogShaderCompilers: Display: RAM used: 158.52 MiB of 1.60 GiB budget. Usage: 9.68%
+[2026.01.28-19.20.03:278][211]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.28-19.20.03:278][211]LogShaderCompilers: Display: Shaders Compiled: 633
+[2026.01.28-19.20.03:278][211]LogShaderCompilers: Display: Jobs assigned 633, completed 633 (100%)
+[2026.01.28-19.20.03:278][211]LogShaderCompilers: Display: Average time worker was idle: 6.06 s
+[2026.01.28-19.20.03:278][211]LogShaderCompilers: Display: Time job spent in pending queue: average 5.08 s, longest 36.22 s
+[2026.01.28-19.20.03:278][211]LogShaderCompilers: Display: Job execution time: average 6.47 s, max 24.95 s
+[2026.01.28-19.20.03:278][211]LogShaderCompilers: Display: Job life time (pending + execution): average 11.55 s, max 38.48
+[2026.01.28-19.20.03:278][211]LogShaderCompilers: Display: Shader code size: total 9.767 MiB, numShaders 658, average 15.199 KiB, min 2.246 KiB, max 55.505 KiB
+[2026.01.28-19.20.03:278][211]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 86.28 s
+[2026.01.28-19.20.03:278][211]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.29%
+[2026.01.28-19.20.03:278][211]LogShaderCompilers: Display: Jobs were issued in 205 batches (only local compilation was used), average 3.09 jobs/batch
+[2026.01.28-19.20.03:278][211]LogShaderCompilers: Display: Average processing rate: 7.34 jobs/sec
+[2026.01.28-19.20.03:278][211]LogShaderCompilers: Display: Total thread time: 731.105 s
+[2026.01.28-19.20.03:278][211]LogShaderCompilers: Display: Total thread preprocess time: 189.404 s
+[2026.01.28-19.20.03:278][211]LogShaderCompilers: Display: Percentage time preprocessing: 25.91%
+[2026.01.28-19.20.03:278][211]LogShaderCompilers: Display: Effective parallelization: 8.47 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.847343
+[2026.01.28-19.20.03:278][211]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.28-19.20.03:278][211]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    1 times, average 6.40 sec, max 6.40 sec, min 6.40 sec)
+[2026.01.28-19.20.03:278][211]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 5.00 sec, max 5.00 sec, min 5.00 sec)
+[2026.01.28-19.20.03:278][211]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 4.49 sec, max 6.02 sec, min 1.29 sec)
+[2026.01.28-19.20.03:278][211]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   10 times, average 4.13 sec, max 5.25 sec, min 1.24 sec)
+[2026.01.28-19.20.03:279][211]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 3.49 sec, max 5.37 sec, min 1.97 sec)
+[2026.01.28-19.20.03:279][211]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.28-19.20.03:279][211]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 22.88% of total time (compiled   80 times, average 2.09 sec, max 9.59 sec, min 1.51 sec)
+[2026.01.28-19.20.03:279][211]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.74% of total time (compiled   61 times, average 1.17 sec, max 5.97 sec, min 0.24 sec)
+[2026.01.28-19.20.03:279][211]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.74% of total time (compiled   32 times, average 1.77 sec, max 6.54 sec, min 0.61 sec)
+[2026.01.28-19.20.03:279][211]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS - 6.40% of total time (compiled   16 times, average 2.92 sec, max 7.85 sec, min 0.77 sec)
+[2026.01.28-19.20.03:279][211]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.26% of total time (compiled   58 times, average 0.79 sec, max 3.63 sec, min 0.12 sec)
+[2026.01.28-19.20.03:279][211]LogShaderCompilers: Display: === Material stats ===
+[2026.01.28-19.20.03:279][211]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.28-19.20.03:279][211]LogShaderCompilers: Display: Materials Translated:    174
+[2026.01.28-19.20.03:279][211]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2026.01.28-19.20.03:279][211]LogShaderCompilers: Display: Material Translation Only: 0.05 s (45%)
+[2026.01.28-19.20.03:279][211]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.01.28-19.20.03:279][211]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.01.28-19.20.03:279][211]LogShaderCompilers: Display: ================================================
+[2026.01.28-19.21.48:336][224]LogSlate: Took 0.007303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.01.28-19.21.50:730][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.01.28-19.23.04:391][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.01.28-19.24.35:848][923]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1360.055664
+[2026.01.28-19.24.36:261][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.01.28-19.24.36:265][923]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.025
+[2026.01.28-19.24.36:265][923]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_HealthComp] ([2] browsable assets)...
+[2026.01.28-19.24.36:265][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_HealthComp]
+[2026.01.28-19.24.36:281][923]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_HealthComp_Auto1
+[2026.01.28-19.24.36:281][923]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_HealthComp_Auto1CB17FE9C40ED966BBA725C99E4648F46.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/Autosaves/Game/Blueprints/BP_HealthComp_Auto1.uasset'
+[2026.01.28-19.24.36:281][923]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPI_Health] ([2] browsable assets)...
+[2026.01.28-19.24.36:281][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPI_Health]
+[2026.01.28-19.24.36:289][923]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BPI_Health_Auto1
+[2026.01.28-19.24.36:289][923]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BPI_Health_Auto1FE74139C484A4F1A66260E87BA63E4B0.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/Autosaves/Game/Blueprints/BPI_Health_Auto1.uasset'
+[2026.01.28-19.24.36:290][923]LogFileHelpers: Auto-saving content packages took 0.025
+[2026.01.28-19.24.36:848][926]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.28-19.24.36:848][926]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1360.722412, Update Interval: 306.864838
+[2026.01.28-19.27.53:016][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.01.28-19.27.54:437][203]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-19.27.54:486][203]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_HealthComp] ([2] browsable assets)...
+[2026.01.28-19.27.54:486][203]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_HealthComp]
+[2026.01.28-19.27.54:486][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HealthComp" FILE="../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Blueprints/BP_HealthComp.uasset" SILENT=true
+[2026.01.28-19.27.54:500][203]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HealthComp
+[2026.01.28-19.27.54:500][203]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_HealthCompCD3F5B8049A6F5B235336583131405B5.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Blueprints/BP_HealthComp.uasset'
+[2026.01.28-19.27.54:506][203]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.052 ms (total: 314.430 ms)
+[2026.01.28-19.27.54:537][203]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.28-19.27.54:537][203]LogContentValidation: Enabled validators:
+[2026.01.28-19.27.54:537][203]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-19.27.54:537][203]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-19.27.54:537][203]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-19.27.54:537][203]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-19.27.54:537][203]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-19.27.54:537][203]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-19.27.54:537][203]AssetCheck: /Game/Blueprints/BP_HealthComp Validating asset
