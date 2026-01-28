@@ -3159,3 +3159,32 @@ Sampler Limit: 32
 [2026.01.28-20.19.05:297][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2026.01.28-20.19.05:300][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
 [2026.01.28-20.19.05:367][ 30]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2026.01.28-20.19.47:007][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.01.28-20.19.50:279][764]LogSlate: Window 'Save Content' being destroyed
+[2026.01.28-20.19.57:786][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.01.28-20.19.57:789][132]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-20.19.57:834][132]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/B/KX/LN8XIYU1TLS8478HMKR4YW
+[2026.01.28-20.19.57:834][132]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/LN8XIYU1TLS8478HMKR4YWFFB8DA45408DE736E2C67E85244825BE.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/__ExternalActors__/Levels/L_LevelOne/B/KX/LN8XIYU1TLS8478HMKR4YW.uasset'
+[2026.01.28-20.19.57:835][132]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPI_Health] ([2] browsable assets)...
+[2026.01.28-20.19.57:835][132]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPI_Health]
+[2026.01.28-20.19.57:835][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPI_Health" FILE="../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Blueprints/BPI_Health.uasset" SILENT=true
+[2026.01.28-20.19.57:843][132]LogSavePackage: Moving output files for package: /Game/Blueprints/BPI_Health
+[2026.01.28-20.19.57:843][132]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BPI_Health54E69D8B49D56BC03BCAD18A9466B33C.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Blueprints/BPI_Health.uasset'
+[2026.01.28-20.19.57:844][132]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Fab/Materials/Standard/M_MS_Base] ([1] browsable assets)...
+[2026.01.28-20.19.57:844][132]OBJ SavePackage: Finished generating thumbnails for package [/Fab/Materials/Standard/M_MS_Base]
+[2026.01.28-20.19.57:844][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Fab/Materials/Standard/M_MS_Base" FILE="../../Plugins/Fab/Content/Materials/Standard/M_MS_Base.uasset" SILENT=true
+[2026.01.28-20.19.57:852][132]LogSavePackage: Moving output files for package: /Fab/Materials/Standard/M_MS_Base
+[2026.01.28-20.19.57:852][132]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/M_MS_BaseCB2C097D423C4A8E837BF4BE9993DBE3.tmp' to '../../Plugins/Fab/Content/Materials/Standard/M_MS_Base.uasset'
+[2026.01.28-20.19.57:861][132]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.070 ms (total: 2.75 sec)
+[2026.01.28-20.19.57:907][132]LogContentValidation: Display: Starting to validate 3 assets
+[2026.01.28-20.19.57:907][132]LogContentValidation: Enabled validators:
+[2026.01.28-20.19.57:907][132]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-20.19.57:907][132]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-20.19.57:907][132]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-20.19.57:907][132]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-20.19.57:907][132]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-20.19.57:907][132]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-20.19.57:907][132]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2026.01.28-20.19.57:907][132]AssetCheck: /Game/Blueprints/BPI_Health Validating asset
+[2026.01.28-20.19.57:907][132]AssetCheck: /Fab/Materials/Standard/M_MS_Base Validating asset
+[2026.01.28-20.19.57:926][133]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
