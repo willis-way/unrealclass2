@@ -2721,3 +2721,441 @@ Sampler Limit: 32
 [2026.01.28-20.00.20:582][109]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.01.28-20.00.20:582][109]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.01.28-20.00.20:584][109]AssetCheck: /Game/Blueprints/Triggerables/BP_HealthRegen Validating asset
+[2026.01.28-20.00.36:090][831]LogPSOHitching: Encountered 950 PSO creation hitches so far (308 graphics, 642 compute). 0 of them were precached.
+[2026.01.28-20.00.36:256][831]LogPSOHitching: Encountered 1000 PSO creation hitches so far (317 graphics, 683 compute). 0 of them were precached.
+[2026.01.28-20.00.36:466][831]LogPSOHitching: Encountered 1050 PSO creation hitches so far (320 graphics, 730 compute). 0 of them were precached.
+[2026.01.28-20.00.36:742][831]LogPSOHitching: Encountered 1100 PSO creation hitches so far (332 graphics, 768 compute). 0 of them were precached.
+[2026.01.28-20.00.36:786][832]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_14:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_8
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.28-20.00.37:073][835]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.01.28-20.01.05:763][ 87]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3549.979980
+[2026.01.28-20.01.05:838][ 96]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.28-20.01.05:838][ 96]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3550.045898, Update Interval: 356.114380
+[2026.01.28-20.02.04:045][ 32]LogStreaming: Display: FlushAsyncLoading(792): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.28-20.03.05:821][840]LogDerivedDataCache: C:/Users/sbehr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.28-20.03.20:611][602]Cmd: TRANSACTION UNDO
+[2026.01.28-20.03.20:613][602]LogEditorTransaction: Undo Add Out Parameter
+[2026.01.28-20.03.20:793][602]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.28-20.03.26:720][248]Cmd: TRANSACTION UNDO
+[2026.01.28-20.03.26:720][248]LogEditorTransaction: Undo Add Out Parameter
+[2026.01.28-20.03.26:866][248]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.28-20.03.37:004][397]LogEditorTransaction: Undo Add Out Parameter
+[2026.01.28-20.03.37:121][397]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.28-20.03.50:941][972]LogEditorTransaction: Undo Change Parameter Type
+[2026.01.28-20.03.51:058][972]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.28-20.04.02:242][190]Cmd: TRANSACTION UNDO
+[2026.01.28-20.04.02:242][190]LogEditorTransaction: Undo Rename Parameter
+[2026.01.28-20.04.02:389][190]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.28-20.04.02:990][221]Cmd: TRANSACTION UNDO
+[2026.01.28-20.04.02:990][221]LogEditorTransaction: Undo Add Out Parameter
+[2026.01.28-20.04.03:133][221]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.28-20.04.03:507][261]Cmd: TRANSACTION UNDO
+[2026.01.28-20.04.03:507][261]LogEditorTransaction: Undo Delete current selection
+[2026.01.28-20.04.03:651][261]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.28-20.04.48:472][324]Cmd: TRANSACTION UNDO
+[2026.01.28-20.04.48:472][324]LogEditorTransaction: Undo Add Out Parameter
+[2026.01.28-20.04.48:618][324]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.28-20.05.48:836][863]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-20.05.48:897][863]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_HealthComp] ([2] browsable assets)...
+[2026.01.28-20.05.48:897][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_HealthComp]
+[2026.01.28-20.05.48:897][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HealthComp" FILE="../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Blueprints/BP_HealthComp.uasset" SILENT=true
+[2026.01.28-20.05.48:914][863]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HealthComp
+[2026.01.28-20.05.48:915][863]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_HealthComp35B826034B4076CDEC7FE0B8F2F4FA9C.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Blueprints/BP_HealthComp.uasset'
+[2026.01.28-20.05.48:921][863]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.224 ms (total: 1.83 sec)
+[2026.01.28-20.05.48:968][863]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.28-20.05.48:968][863]LogContentValidation: Enabled validators:
+[2026.01.28-20.05.48:968][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-20.05.48:968][863]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-20.05.48:968][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-20.05.48:968][863]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-20.05.48:968][863]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-20.05.48:968][863]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-20.05.48:969][863]AssetCheck: /Game/Blueprints/BP_HealthComp Validating asset
+[2026.01.28-20.05.49:966][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.01.28-20.06.44:322][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-20.06.44:368][ 11]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_HealthComp] ([2] browsable assets)...
+[2026.01.28-20.06.44:368][ 11]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_HealthComp]
+[2026.01.28-20.06.44:368][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HealthComp" FILE="../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Blueprints/BP_HealthComp.uasset" SILENT=true
+[2026.01.28-20.06.44:386][ 11]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HealthComp
+[2026.01.28-20.06.44:386][ 11]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_HealthComp6AE3CB514265C81A5541038D0CFE16BB.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Blueprints/BP_HealthComp.uasset'
+[2026.01.28-20.06.44:392][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.235 ms (total: 1.90 sec)
+[2026.01.28-20.06.44:435][ 11]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.28-20.06.44:435][ 11]LogContentValidation: Enabled validators:
+[2026.01.28-20.06.44:435][ 11]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-20.06.44:435][ 11]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-20.06.44:435][ 11]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-20.06.44:435][ 11]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-20.06.44:435][ 11]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-20.06.44:435][ 11]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-20.06.44:435][ 11]AssetCheck: /Game/Blueprints/BP_HealthComp Validating asset
+[2026.01.28-20.07.52:111][149]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3956.316895
+[2026.01.28-20.07.52:254][158]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.28-20.07.52:254][158]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3956.452393, Update Interval: 308.617218
+[2026.01.28-20.08.26:818][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.01.28-20.08.26:831][324]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/B/KX/LN8XIYU1TLS8478HMKR4YW_Auto4
+[2026.01.28-20.08.26:831][324]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/LN8XIYU1TLS8478HMKR4YW_Auto40310EF4840919EE3C8D713B68B0CCAEB.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/B/KX/LN8XIYU1TLS8478HMKR4YW_Auto4.uasset'
+[2026.01.28-20.08.26:832][324]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.043
+[2026.01.28-20.08.26:832][324]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.043
+[2026.01.28-20.08.26:832][324]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_HealthComp] ([2] browsable assets)...
+[2026.01.28-20.08.26:832][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_HealthComp]
+[2026.01.28-20.08.26:846][324]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_HealthComp_Auto4
+[2026.01.28-20.08.26:846][324]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_HealthComp_Auto492A82C204917A073A10F29B7BF0192AF.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/Autosaves/Game/Blueprints/BP_HealthComp_Auto4.uasset'
+[2026.01.28-20.08.26:847][324]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPI_Health] ([2] browsable assets)...
+[2026.01.28-20.08.26:847][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPI_Health]
+[2026.01.28-20.08.26:855][324]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BPI_Health_Auto4
+[2026.01.28-20.08.26:855][324]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BPI_Health_Auto49F375DF144C97AB65577A0B111FDAF8A.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/Autosaves/Game/Blueprints/BPI_Health_Auto4.uasset'
+[2026.01.28-20.08.26:855][324]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Fab/Materials/Standard/M_MS_Base] ([1] browsable assets)...
+[2026.01.28-20.08.26:855][324]OBJ SavePackage: Finished generating thumbnails for package [/Fab/Materials/Standard/M_MS_Base]
+[2026.01.28-20.08.26:864][324]LogSavePackage: Moving output files for package: /Temp/Autosaves/Fab/Materials/Standard/M_MS_Base_Auto4
+[2026.01.28-20.08.26:864][324]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/M_MS_Base_Auto43813497C489D341000727EA4333045F4.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/Autosaves/Fab/Materials/Standard/M_MS_Base_Auto4.uasset'
+[2026.01.28-20.08.26:864][324]LogFileHelpers: Auto-saving content packages took 0.032
+[2026.01.28-20.10.20:402][532]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\Blueprints\BP_HealthComp.uasset: [Compiler] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2026.01.28-20.10.20:402][532]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\Blueprints\BP_HealthComp.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2026.01.28-20.10.20:454][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.01.28-20.10.36:702][  1]LogStreaming: Display: FlushAsyncLoading(798): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.28-20.10.36:703][  1]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\Blueprints\BP_HealthComp.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Consumed  and was replaced as a Custom Event!
+[2026.01.28-20.11.50:663][476]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\Blueprints\BP_HealthComp.uasset: [Compiler] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2026.01.28-20.11.50:663][476]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\Blueprints\BP_HealthComp.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2026.01.28-20.11.50:663][476]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\Blueprints\BP_HealthComp.uasset: [Compiler] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2026.01.28-20.11.50:718][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.01.28-20.13.09:086][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.01.28-20.13.13:164][329]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-20.13.13:222][329]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Triggerables/BP_HealthRegen] ([2] browsable assets)...
+[2026.01.28-20.13.13:284][329]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Triggerables/BP_HealthRegen.BP_HealthRegen]
+[2026.01.28-20.13.13:284][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Triggerables/BP_HealthRegen]
+[2026.01.28-20.13.13:297][329]LogSavePackage: Moving output files for package: /Game/Blueprints/Triggerables/BP_HealthRegen
+[2026.01.28-20.13.13:298][329]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_HealthRegenA1F1F63847C03B8EB61E69AAA743CFF8.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Blueprints/Triggerables/BP_HealthRegen.uasset'
+[2026.01.28-20.13.13:306][329]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.745 ms (total: 2.04 sec)
+[2026.01.28-20.13.13:359][329]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.28-20.13.13:359][329]LogContentValidation: Enabled validators:
+[2026.01.28-20.13.13:359][329]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-20.13.13:359][329]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-20.13.13:359][329]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-20.13.13:359][329]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-20.13.13:359][329]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-20.13.13:359][329]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-20.13.13:359][329]AssetCheck: /Game/Blueprints/Triggerables/BP_HealthRegen Validating asset
+[2026.01.28-20.13.33:451][697]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4297.594727
+[2026.01.28-20.13.33:526][706]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.28-20.13.33:526][706]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4297.661133, Update Interval: 341.362946
+[2026.01.28-20.14.26:252][755]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-20.14.26:305][755]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Triggerables/BP_HealthRegen] ([2] browsable assets)...
+[2026.01.28-20.14.26:359][755]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Triggerables/BP_HealthRegen.BP_HealthRegen]
+[2026.01.28-20.14.26:359][755]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Triggerables/BP_HealthRegen]
+[2026.01.28-20.14.26:374][755]LogSavePackage: Moving output files for package: /Game/Blueprints/Triggerables/BP_HealthRegen
+[2026.01.28-20.14.26:374][755]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_HealthRegenB8FBD4E1468CA15786CACA81B9C03F3C.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Blueprints/Triggerables/BP_HealthRegen.uasset'
+[2026.01.28-20.14.26:381][755]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.200 ms (total: 2.17 sec)
+[2026.01.28-20.14.26:437][755]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.28-20.14.26:437][755]LogContentValidation: Enabled validators:
+[2026.01.28-20.14.26:437][755]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-20.14.26:437][755]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-20.14.26:437][755]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-20.14.26:437][755]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-20.14.26:437][755]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-20.14.26:437][755]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-20.14.26:438][755]AssetCheck: /Game/Blueprints/Triggerables/BP_HealthRegen Validating asset
+[2026.01.28-20.14.40:036][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.01.28-20.14.40:868][752]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-20.14.40:922][752]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Triggerables/BP_HealthRegen] ([2] browsable assets)...
+[2026.01.28-20.14.40:980][752]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Triggerables/BP_HealthRegen.BP_HealthRegen]
+[2026.01.28-20.14.40:980][752]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Triggerables/BP_HealthRegen]
+[2026.01.28-20.14.40:994][752]LogSavePackage: Moving output files for package: /Game/Blueprints/Triggerables/BP_HealthRegen
+[2026.01.28-20.14.40:994][752]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_HealthRegenB70F66ED4BD4028A5FC3A4A532BC2A73.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Blueprints/Triggerables/BP_HealthRegen.uasset'
+[2026.01.28-20.14.41:001][752]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.089 ms (total: 2.31 sec)
+[2026.01.28-20.14.41:055][752]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.28-20.14.41:055][752]LogContentValidation: Enabled validators:
+[2026.01.28-20.14.41:055][752]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-20.14.41:055][752]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-20.14.41:055][752]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-20.14.41:055][752]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-20.14.41:055][752]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-20.14.41:055][752]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-20.14.41:056][752]AssetCheck: /Game/Blueprints/Triggerables/BP_HealthRegen Validating asset
+[2026.01.28-20.14.44:797][186]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-20.14.44:856][186]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_HealthComp] ([2] browsable assets)...
+[2026.01.28-20.14.44:856][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_HealthComp]
+[2026.01.28-20.14.44:856][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HealthComp" FILE="../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Blueprints/BP_HealthComp.uasset" SILENT=true
+[2026.01.28-20.14.44:873][186]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_HealthComp
+[2026.01.28-20.14.44:873][186]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_HealthComp5A45B02B4F106865ABECB2820691F7D5.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Blueprints/BP_HealthComp.uasset'
+[2026.01.28-20.14.44:882][186]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.745 ms (total: 2.39 sec)
+[2026.01.28-20.14.44:922][186]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.28-20.14.44:922][186]LogContentValidation: Enabled validators:
+[2026.01.28-20.14.44:922][186]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-20.14.44:922][186]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-20.14.44:922][186]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-20.14.44:922][186]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-20.14.44:922][186]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-20.14.44:922][186]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-20.14.44:922][186]AssetCheck: /Game/Blueprints/BP_HealthComp Validating asset
+[2026.01.28-20.14.49:932][756]LogPSOHitching: Encountered 1150 PSO creation hitches so far (355 graphics, 795 compute). 0 of them were precached.
+[2026.01.28-20.14.50:101][756]LogPSOHitching: Encountered 1200 PSO creation hitches so far (369 graphics, 831 compute). 0 of them were precached.
+[2026.01.28-20.14.50:335][756]LogPSOHitching: Encountered 1250 PSO creation hitches so far (371 graphics, 879 compute). 0 of them were precached.
+[2026.01.28-20.14.50:724][757]LogPSOHitching: Encountered 1300 PSO creation hitches so far (385 graphics, 915 compute). 0 of them were precached.
+[2026.01.28-20.14.51:465][800]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.28-20.14.51:470][800]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.01.28-20.14.51:470][800]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.01.28-20.14.51:471][800]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 875 us (total: 5.131 ms)
+[2026.01.28-20.14.51:472][800]LogPlayLevel: [PlayLevel] Compiling BP_HealthComp before play...
+[2026.01.28-20.14.51:551][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.01.28-20.14.51:557][800]LogPlayLevel: PlayLevel: Blueprint regeneration took 85 ms (1 blueprints)
+[2026.01.28-20.14.51:589][800]LogPlayLevel: Display: Creating online subsystem for client :Context_26
+[2026.01.28-20.14.51:592][800]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2026.01.28-20.14.51:614][801]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.01.28-20.14.51:619][801]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.01.28-20.14.51:620][801]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 913 us (total: 3.620 ms)
+[2026.01.28-20.14.51:620][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005726s)
+[2026.01.28-20.14.51:620][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.005771s)
+[2026.01.28-20.14.51:648][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.01.28-20.14.51:651][801]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.01.28-20.14.51:652][801]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.28-20.14.51:652][801]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.28-20.14.51:652][801]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.28-20.14.51:652][801]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.28-20.14.51:654][801]LogWorldPartition: Display: WorldPartition initialize took 1.230 ms (total: 566.270 ms)
+[2026.01.28-20.14.51:655][801]LogPlayLevel: PIE: World Init took: (0.003219s)
+[2026.01.28-20.14.51:655][801]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.01.28-20.14.51:655][801]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.28-20.14.51:655][801]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.28-20.14.51:655][801]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.28-20.14.51:655][801]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.28-20.14.51:655][801]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.28-20.14.51:655][801]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.28-20.14.51:655][801]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.28-20.14.51:655][801]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.28-20.14.51:655][801]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.28-20.14.51:655][801]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.28-20.14.51:655][801]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.28-20.14.51:657][801]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.28-20.14.51:671][801]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2026.01.28-20.14.51:671][801]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.28-20.14.51:671][801]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.28-20.14.51:671][801]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.28-20.14.51:672][801]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.01.28-20.14.51:672][801]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.01.28-20.14.51:674][801]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.01.28-20.14.51:674][801]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.01.28-20.14.51:674][801]LogInit: FAudioDevice initialized with ID 5.
+[2026.01.28-20.14.51:674][801]LogAudio: Display: Audio Device (ID: 5) registered with world 'L_LevelOne'.
+[2026.01.28-20.14.51:674][801]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.01.28-20.14.51:678][801]LogLoad: Game class is 'GM_FPS_C'
+[2026.01.28-20.14.51:681][801]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2026.01.28-15.14.51
+[2026.01.28-20.14.51:681][801]LogWorld: Bringing up level for play took: 0.002933
+[2026.01.28-20.14.51:684][801]PIE: Server logged in
+[2026.01.28-20.14.51:686][801]PIE: Play in editor total start time 0.216 seconds.
+[2026.01.28-20.14.51:743][802]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.28-20.14.51:979][807]LogPSOHitching: Encountered 1350 PSO creation hitches so far (405 graphics, 945 compute). 0 of them were precached.
+[2026.01.28-20.14.54:106][ 18]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/3
+[2026.01.28-20.14.54:357][ 28]LogRenderer: Warning: Building light grid exceeded number of available entries (1589497 / 1044480). Increase r.Forward.MaxCulledLightsPerCell to prevent potential visual artifacts.
+[2026.01.28-20.14.55:250][ 50]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] NewGrenadeInHandNotify
+[2026.01.28-20.14.56:175][107]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/2
+[2026.01.28-20.14.56:731][158]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/2
+[2026.01.28-20.14.57:069][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.28-20.14.57:069][186]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.01.28-20.14.57:069][186]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2026.01.28-20.14.57:071][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.28-20.14.57:071][186]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2026.01.28-20.14.57:072][186]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.28-20.14.57:077][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.28-20.14.57:098][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.28-20.14.57:098][186]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.01.28-20.14.57:098][186]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.01.28-20.14.57:100][186]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.01.28-20.14.57:107][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.01.28-20.14.57:174][187]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2026.01.28-20.16.01:380][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.01.28-20.16.01:844][651]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-20.16.01:889][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.01.28-20.16.01:957][651]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.01.28-20.16.01:957][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.01.28-20.16.01:957][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.01.28-20.16.01:978][651]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.01.28-20.16.01:979][651]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_CharacterBase0D141F554D8A5B346C42A586D519CAD8.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.01.28-20.16.01:986][651]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.344 ms (total: 2.53 sec)
+[2026.01.28-20.16.02:038][651]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.28-20.16.02:038][651]LogContentValidation: Enabled validators:
+[2026.01.28-20.16.02:038][651]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-20.16.02:038][651]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-20.16.02:038][651]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-20.16.02:038][651]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-20.16.02:038][651]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-20.16.02:038][651]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-20.16.02:038][651]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.01.28-20.16.03:404][771]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.28-20.16.03:409][771]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.01.28-20.16.03:409][771]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.01.28-20.16.03:410][771]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 622 us (total: 5.754 ms)
+[2026.01.28-20.16.03:410][771]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.28-20.16.03:440][771]LogPlayLevel: Display: Creating online subsystem for client :Context_27
+[2026.01.28-20.16.03:442][771]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2026.01.28-20.16.03:461][772]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.01.28-20.16.03:466][772]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.01.28-20.16.03:466][772]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 887 us (total: 4.508 ms)
+[2026.01.28-20.16.03:466][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005396s)
+[2026.01.28-20.16.03:466][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.005437s)
+[2026.01.28-20.16.03:486][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.01.28-20.16.03:493][772]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.01.28-20.16.03:495][772]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.28-20.16.03:495][772]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.28-20.16.03:495][772]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.28-20.16.03:495][772]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.28-20.16.03:496][772]LogWorldPartition: Display: WorldPartition initialize took 1.246 ms (total: 567.516 ms)
+[2026.01.28-20.16.03:496][772]LogPlayLevel: PIE: World Init took: (0.002791s)
+[2026.01.28-20.16.03:497][772]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.01.28-20.16.03:497][772]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.28-20.16.03:497][772]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.28-20.16.03:497][772]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.28-20.16.03:497][772]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.28-20.16.03:497][772]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.28-20.16.03:497][772]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.28-20.16.03:497][772]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.28-20.16.03:497][772]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.28-20.16.03:497][772]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.28-20.16.03:497][772]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.28-20.16.03:497][772]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.28-20.16.03:499][772]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.28-20.16.03:509][772]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2026.01.28-20.16.03:509][772]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.28-20.16.03:509][772]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.28-20.16.03:509][772]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.28-20.16.03:510][772]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.01.28-20.16.03:510][772]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.01.28-20.16.03:512][772]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.01.28-20.16.03:512][772]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.01.28-20.16.03:512][772]LogInit: FAudioDevice initialized with ID 6.
+[2026.01.28-20.16.03:512][772]LogAudio: Display: Audio Device (ID: 6) registered with world 'L_LevelOne'.
+[2026.01.28-20.16.03:512][772]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.01.28-20.16.03:516][772]LogLoad: Game class is 'GM_FPS_C'
+[2026.01.28-20.16.03:518][772]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2026.01.28-15.16.03
+[2026.01.28-20.16.03:518][772]LogWorld: Bringing up level for play took: 0.002743
+[2026.01.28-20.16.03:521][772]PIE: Server logged in
+[2026.01.28-20.16.03:523][772]PIE: Play in editor total start time 0.114 seconds.
+[2026.01.28-20.16.03:565][773]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.28-20.16.04:473][861]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/3
+[2026.01.28-20.16.04:596][870]LogRenderer: Warning: Building light grid exceeded number of available entries (1743747 / 1044480). Increase r.Forward.MaxCulledLightsPerCell to prevent potential visual artifacts.
+[2026.01.28-20.16.05:628][896]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] NewGrenadeInHandNotify
+[2026.01.28-20.16.06:539][957]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/2
+[2026.01.28-20.16.07:102][  8]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/2
+[2026.01.28-20.16.07:365][ 34]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/2
+[2026.01.28-20.16.08:506][ 74]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] NewGrenadeInHandNotify
+[2026.01.28-20.16.09:436][124]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/1
+[2026.01.28-20.16.09:652][143]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/1
+[2026.01.28-20.16.10:700][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.28-20.16.10:700][180]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.01.28-20.16.10:700][180]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2026.01.28-20.16.10:701][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.28-20.16.10:701][180]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2026.01.28-20.16.10:734][180]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.28-20.16.10:739][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.28-20.16.10:759][180]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.28-20.16.10:759][180]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.01.28-20.16.10:759][180]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.01.28-20.16.10:761][180]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.01.28-20.16.10:765][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.28-20.16.10:767][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.01.28-20.16.10:836][181]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2026.01.28-20.17.30:412][655]LogStreaming: Display: FlushAsyncLoading(801): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.28-20.17.30:412][655]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to '"/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Components/BPI_HealthComponent.BPI_HealthComponent_C'",MemberName="HealthCompNotify_UpdateUI",MemberGuid=87D3402843B4F9F3955A22946073A47B)'
+[2026.01.28-20.17.54:690][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.01.28-20.18.42:541][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.01.28-20.18.43:494][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-20.18.43:540][471]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.01.28-20.18.43:608][471]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.01.28-20.18.43:608][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.01.28-20.18.43:608][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.01.28-20.18.43:630][471]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.01.28-20.18.43:632][471]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_CharacterBase1B0A8ADA41D62E44355815A0A0BFCAA4.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.01.28-20.18.43:639][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 144.833 ms (total: 2.68 sec)
+[2026.01.28-20.18.43:672][471]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.28-20.18.43:672][471]LogContentValidation: Enabled validators:
+[2026.01.28-20.18.43:672][471]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-20.18.43:672][471]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-20.18.43:672][471]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-20.18.43:672][471]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-20.18.43:672][471]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-20.18.43:672][471]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-20.18.43:672][471]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.01.28-20.18.48:460][883]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.28-20.18.48:465][883]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.01.28-20.18.48:465][883]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.01.28-20.18.48:465][883]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 656 us (total: 6.410 ms)
+[2026.01.28-20.18.48:465][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.28-20.18.48:501][883]LogPlayLevel: Display: Creating online subsystem for client :Context_28
+[2026.01.28-20.18.48:503][883]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2026.01.28-20.18.48:523][884]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.01.28-20.18.48:527][884]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.01.28-20.18.48:528][884]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 878 us (total: 5.386 ms)
+[2026.01.28-20.18.48:528][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005414s)
+[2026.01.28-20.18.48:528][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.005454s)
+[2026.01.28-20.18.48:551][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.01.28-20.18.48:557][884]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.01.28-20.18.48:558][884]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.28-20.18.48:558][884]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.28-20.18.48:558][884]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.28-20.18.48:558][884]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.28-20.18.48:559][884]LogWorldPartition: Display: WorldPartition initialize took 1.192 ms (total: 568.709 ms)
+[2026.01.28-20.18.48:559][884]LogPlayLevel: PIE: World Init took: (0.002797s)
+[2026.01.28-20.18.48:560][884]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.01.28-20.18.48:560][884]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.28-20.18.48:560][884]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.28-20.18.48:560][884]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.28-20.18.48:560][884]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.28-20.18.48:560][884]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.28-20.18.48:560][884]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.28-20.18.48:560][884]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.28-20.18.48:560][884]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.28-20.18.48:560][884]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.28-20.18.48:560][884]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.28-20.18.48:560][884]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.28-20.18.48:562][884]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.28-20.18.48:573][884]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2026.01.28-20.18.48:573][884]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.28-20.18.48:573][884]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.28-20.18.48:573][884]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.28-20.18.48:574][884]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.01.28-20.18.48:574][884]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.01.28-20.18.48:575][884]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.01.28-20.18.48:576][884]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.01.28-20.18.48:576][884]LogInit: FAudioDevice initialized with ID 7.
+[2026.01.28-20.18.48:576][884]LogAudio: Display: Audio Device (ID: 7) registered with world 'L_LevelOne'.
+[2026.01.28-20.18.48:576][884]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.01.28-20.18.48:580][884]LogLoad: Game class is 'GM_FPS_C'
+[2026.01.28-20.18.48:583][884]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2026.01.28-15.18.48
+[2026.01.28-20.18.48:583][884]LogWorld: Bringing up level for play took: 0.002766
+[2026.01.28-20.18.48:586][884]PIE: Server logged in
+[2026.01.28-20.18.48:588][884]PIE: Play in editor total start time 0.123 seconds.
+[2026.01.28-20.18.48:630][885]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.28-20.18.49:802][998]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/3
+[2026.01.28-20.18.49:930][  8]LogRenderer: Warning: Building light grid exceeded number of available entries (1758621 / 1044480). Increase r.Forward.MaxCulledLightsPerCell to prevent potential visual artifacts.
+[2026.01.28-20.18.50:974][ 33]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] NewGrenadeInHandNotify
+[2026.01.28-20.18.51:865][ 85]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/2
+[2026.01.28-20.18.52:426][138]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/2
+[2026.01.28-20.18.53:104][206]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/2
+[2026.01.28-20.18.54:239][241]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] NewGrenadeInHandNotify
+[2026.01.28-20.18.55:169][296]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/1
+[2026.01.28-20.18.55:736][349]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/1
+[2026.01.28-20.18.56:122][387]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/1
+[2026.01.28-20.18.57:284][426]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] NewGrenadeInHandNotify
+[2026.01.28-20.18.58:186][471]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/0
+[2026.01.28-20.18.58:755][519]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/0
+[2026.01.28-20.18.59:670][607]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/0
+[2026.01.28-20.19.05:261][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.28-20.19.05:261][ 29]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.01.28-20.19.05:261][ 29]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2026.01.28-20.19.05:262][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.28-20.19.05:262][ 29]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2026.01.28-20.19.05:264][ 29]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.28-20.19.05:270][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.28-20.19.05:290][ 29]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.28-20.19.05:291][ 29]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.01.28-20.19.05:291][ 29]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.01.28-20.19.05:293][ 29]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.01.28-20.19.05:297][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.28-20.19.05:300][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.01.28-20.19.05:367][ 30]LogPlayLevel: Display: Destroying online subsystem :Context_28
