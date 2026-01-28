@@ -2580,3 +2580,144 @@ Sampler Limit: 32
 [2026.01.28-19.53.06:563][550]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.01.28-19.53.06:563][550]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.01.28-19.53.06:563][550]AssetCheck: /Game/Blueprints/Triggerables/BP_HealthRegen Validating asset
+[2026.01.28-19.53.21:595][941]LogEditorTransaction: Undo Modify Component(s)
+[2026.01.28-19.53.21:735][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.28-19.54.23:742][193]LogEditorTransaction: Undo Attach Component
+[2026.01.28-19.54.23:860][193]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.28-19.54.25:625][360]LogEditorTransaction: Redo Attach Component
+[2026.01.28-19.54.25:741][360]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.28-19.54.28:837][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.01.28-19.54.31:731][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-19.54.31:763][ 44]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Triggerables/BP_HealthRegen] ([2] browsable assets)...
+[2026.01.28-19.54.31:771][ 44]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Triggerables/BP_HealthRegen.BP_HealthRegen]
+[2026.01.28-19.54.31:771][ 44]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Triggerables/BP_HealthRegen]
+[2026.01.28-19.54.31:785][ 44]LogSavePackage: Moving output files for package: /Game/Blueprints/Triggerables/BP_HealthRegen
+[2026.01.28-19.54.31:785][ 44]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_HealthRegen4D0E86D144F429AB84544E81E4E42EA7.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Blueprints/Triggerables/BP_HealthRegen.uasset'
+[2026.01.28-19.54.31:792][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.280 ms (total: 1.29 sec)
+[2026.01.28-19.54.31:846][ 44]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.28-19.54.31:846][ 44]LogContentValidation: Enabled validators:
+[2026.01.28-19.54.31:846][ 44]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-19.54.31:846][ 44]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-19.54.31:846][ 44]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-19.54.31:846][ 44]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-19.54.31:846][ 44]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-19.54.31:846][ 44]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-19.54.31:847][ 44]AssetCheck: /Game/Blueprints/Triggerables/BP_HealthRegen Validating asset
+[2026.01.28-19.55.00:923][396]LogPSOHitching: Encountered 750 PSO creation hitches so far (258 graphics, 492 compute). 0 of them were precached.
+[2026.01.28-19.55.05:140][791]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3189.355957
+[2026.01.28-19.55.05:225][800]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.28-19.55.05:225][800]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3189.431152, Update Interval: 309.256256
+[2026.01.28-19.55.20:320][400]LogStreaming: Display: FlushAsyncLoading(789): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.28-19.56.03:566][148]LogShaderCompilers: Display: ================================================
+[2026.01.28-19.56.03:566][148]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.28-19.56.03:566][148]LogShaderCompilers: Display: Total job queries 18,544, among them cache hits 1,999 (10.78%), DDC hits 12,364 (66.67%), Duplicates 3,479 (18.76%)
+[2026.01.28-19.56.03:566][148]LogShaderCompilers: Display: Tracking 13,066 distinct input hashes that result in 11,920 distinct outputs (91.23%)
+[2026.01.28-19.56.03:566][148]LogShaderCompilers: Display: RAM used: 158.90 MiB of 1.60 GiB budget. Usage: 9.70%
+[2026.01.28-19.56.03:566][148]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.28-19.56.03:566][148]LogShaderCompilers: Display: Shaders Compiled: 685
+[2026.01.28-19.56.03:566][148]LogShaderCompilers: Display: Jobs assigned 685, completed 685 (100%)
+[2026.01.28-19.56.03:566][148]LogShaderCompilers: Display: Average time worker was idle: 132.05 s
+[2026.01.28-19.56.03:566][148]LogShaderCompilers: Display: Time job spent in pending queue: average 4.70 s, longest 36.22 s
+[2026.01.28-19.56.03:566][148]LogShaderCompilers: Display: Job execution time: average 6.08 s, max 24.95 s
+[2026.01.28-19.56.03:566][148]LogShaderCompilers: Display: Job life time (pending + execution): average 10.78 s, max 38.48
+[2026.01.28-19.56.03:566][148]LogShaderCompilers: Display: Shader code size: total 10.292 MiB, numShaders 715, average 14.74 KiB, min 2.246 KiB, max 55.505 KiB
+[2026.01.28-19.56.03:566][148]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 94.68 s
+[2026.01.28-19.56.03:566][148]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.29%
+[2026.01.28-19.56.03:566][148]LogShaderCompilers: Display: Jobs were issued in 242 batches (only local compilation was used), average 2.83 jobs/batch
+[2026.01.28-19.56.03:566][148]LogShaderCompilers: Display: Average processing rate: 7.23 jobs/sec
+[2026.01.28-19.56.03:566][148]LogShaderCompilers: Display: Total thread time: 761.463 s
+[2026.01.28-19.56.03:566][148]LogShaderCompilers: Display: Total thread preprocess time: 190.771 s
+[2026.01.28-19.56.03:566][148]LogShaderCompilers: Display: Percentage time preprocessing: 25.05%
+[2026.01.28-19.56.03:566][148]LogShaderCompilers: Display: Effective parallelization: 8.04 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.804237
+[2026.01.28-19.56.03:566][148]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.28-19.56.03:566][148]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 5.00 sec, max 5.00 sec, min 5.00 sec)
+[2026.01.28-19.56.03:567][148]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 4.49 sec, max 6.02 sec, min 1.29 sec)
+[2026.01.28-19.56.03:567][148]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   11 times, average 3.85 sec, max 5.25 sec, min 1.08 sec)
+[2026.01.28-19.56.03:567][148]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    2 times, average 3.53 sec, max 6.40 sec, min 0.65 sec)
+[2026.01.28-19.56.03:567][148]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 3.49 sec, max 5.37 sec, min 1.97 sec)
+[2026.01.28-19.56.03:567][148]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.28-19.56.03:567][148]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 21.97% of total time (compiled   80 times, average 2.09 sec, max 9.59 sec, min 1.51 sec)
+[2026.01.28-19.56.03:567][148]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.62% of total time (compiled   66 times, average 1.11 sec, max 5.97 sec, min 0.24 sec)
+[2026.01.28-19.56.03:567][148]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 8.01% of total time (compiled   37 times, average 1.65 sec, max 6.54 sec, min 0.60 sec)
+[2026.01.28-19.56.03:567][148]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.35% of total time (compiled   65 times, average 0.74 sec, max 3.63 sec, min 0.12 sec)
+[2026.01.28-19.56.03:567][148]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS - 6.14% of total time (compiled   16 times, average 2.92 sec, max 7.85 sec, min 0.77 sec)
+[2026.01.28-19.56.03:567][148]LogShaderCompilers: Display: === Material stats ===
+[2026.01.28-19.56.03:567][148]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.28-19.56.03:567][148]LogShaderCompilers: Display: Materials Translated:    177
+[2026.01.28-19.56.03:567][148]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2026.01.28-19.56.03:567][148]LogShaderCompilers: Display: Material Translation Only: 0.06 s (45%)
+[2026.01.28-19.56.03:567][148]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.01.28-19.56.03:567][148]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.01.28-19.56.03:567][148]LogShaderCompilers: Display: ================================================
+[2026.01.28-19.56.36:666][752]LogPSOHitching: Encountered 800 PSO creation hitches so far (277 graphics, 523 compute). 0 of them were precached.
+[2026.01.28-19.56.36:905][752]LogPSOHitching: Encountered 850 PSO creation hitches so far (280 graphics, 570 compute). 0 of them were precached.
+[2026.01.28-19.56.37:254][752]LogPSOHitching: Encountered 900 PSO creation hitches so far (289 graphics, 611 compute). 0 of them were precached.
+[2026.01.28-19.56.38:842][833]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_14:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_7
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.28-19.59.10:696][288]LogStreaming: Display: FlushAsyncLoading(790): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.28-19.59.46:609][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.01.28-19.59.49:362][335]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-19.59.49:418][335]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Triggerables/BP_HealthRegen] ([2] browsable assets)...
+[2026.01.28-19.59.49:477][335]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Triggerables/BP_HealthRegen.BP_HealthRegen]
+[2026.01.28-19.59.49:477][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Triggerables/BP_HealthRegen]
+[2026.01.28-19.59.49:492][335]LogSavePackage: Moving output files for package: /Game/Blueprints/Triggerables/BP_HealthRegen
+[2026.01.28-19.59.49:492][335]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_HealthRegen533DE3C84DE79729C1DC1C8A83FDEA7E.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Blueprints/Triggerables/BP_HealthRegen.uasset'
+[2026.01.28-19.59.49:499][335]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.110 ms (total: 1.43 sec)
+[2026.01.28-19.59.49:551][335]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.28-19.59.49:551][335]LogContentValidation: Enabled validators:
+[2026.01.28-19.59.49:551][335]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-19.59.49:551][335]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-19.59.49:551][335]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-19.59.49:551][335]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-19.59.49:551][335]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-19.59.49:551][335]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-19.59.49:551][335]AssetCheck: /Game/Blueprints/Triggerables/BP_HealthRegen Validating asset
+[2026.01.28-19.59.55:249][982]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-19.59.55:284][982]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Triggerables/BP_HealthRegen] ([2] browsable assets)...
+[2026.01.28-19.59.55:342][982]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Triggerables/BP_HealthRegen.BP_HealthRegen]
+[2026.01.28-19.59.55:342][982]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Triggerables/BP_HealthRegen]
+[2026.01.28-19.59.55:354][982]LogSavePackage: Moving output files for package: /Game/Blueprints/Triggerables/BP_HealthRegen
+[2026.01.28-19.59.55:355][982]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_HealthRegen4C9D118B4571A9DBD683AB939E3B42C8.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Blueprints/Triggerables/BP_HealthRegen.uasset'
+[2026.01.28-19.59.55:362][982]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.106 ms (total: 1.54 sec)
+[2026.01.28-19.59.55:401][982]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.28-19.59.55:401][982]LogContentValidation: Enabled validators:
+[2026.01.28-19.59.55:401][982]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-19.59.55:401][982]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-19.59.55:401][982]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-19.59.55:401][982]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-19.59.55:401][982]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-19.59.55:401][982]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-19.59.55:401][982]AssetCheck: /Game/Blueprints/Triggerables/BP_HealthRegen Validating asset
+[2026.01.28-20.00.19:046][978]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-20.00.19:100][978]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Triggerables/BP_HealthRegen] ([2] browsable assets)...
+[2026.01.28-20.00.19:100][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Triggerables/BP_HealthRegen]
+[2026.01.28-20.00.19:114][978]LogSavePackage: Moving output files for package: /Game/Blueprints/Triggerables/BP_HealthRegen
+[2026.01.28-20.00.19:114][978]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_HealthRegen5CA017C14E94E749F178DB87493C697D.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Blueprints/Triggerables/BP_HealthRegen.uasset'
+[2026.01.28-20.00.19:121][978]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.749 ms (total: 1.62 sec)
+[2026.01.28-20.00.19:166][978]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.28-20.00.19:166][978]LogContentValidation: Enabled validators:
+[2026.01.28-20.00.19:166][978]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-20.00.19:166][978]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-20.00.19:166][978]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-20.00.19:166][978]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-20.00.19:166][978]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-20.00.19:166][978]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-20.00.19:167][978]AssetCheck: /Game/Blueprints/Triggerables/BP_HealthRegen Validating asset
+[2026.01.28-20.00.19:749][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.01.28-20.00.20:425][109]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-20.00.20:487][109]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Triggerables/BP_HealthRegen] ([2] browsable assets)...
+[2026.01.28-20.00.20:535][109]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Triggerables/BP_HealthRegen.BP_HealthRegen]
+[2026.01.28-20.00.20:535][109]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Triggerables/BP_HealthRegen]
+[2026.01.28-20.00.20:547][109]LogSavePackage: Moving output files for package: /Game/Blueprints/Triggerables/BP_HealthRegen
+[2026.01.28-20.00.20:548][109]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_HealthRegen3D304F084CC4AEEC175740BF7A2389C4.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Blueprints/Triggerables/BP_HealthRegen.uasset'
+[2026.01.28-20.00.20:556][109]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.317 ms (total: 1.75 sec)
+[2026.01.28-20.00.20:582][109]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.28-20.00.20:582][109]LogContentValidation: Enabled validators:
+[2026.01.28-20.00.20:582][109]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-20.00.20:582][109]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-20.00.20:582][109]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-20.00.20:582][109]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-20.00.20:582][109]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-20.00.20:582][109]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-20.00.20:584][109]AssetCheck: /Game/Blueprints/Triggerables/BP_HealthRegen Validating asset
