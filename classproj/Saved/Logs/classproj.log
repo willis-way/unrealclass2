@@ -2410,3 +2410,223 @@ Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been comp
 [2026.02.02-19.07.42:948][ 12]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.02-19.07.42:948][ 12]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.02-19.07.42:948][ 12]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.02.02-19.08.40:298][801]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.02.02-19.08.40:366][803]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.02.02-19.08.51:052][244]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.02.02-19.08.51:136][245]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.02.02-19.08.51:355][250]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.02.02-19.08.59:897][700]LogContentBrowser: Deferred new asset file creation: BP_CharacterBase_Child
+[2026.02.02-19.08.59:921][700]LogContentBrowser: Creating deferred item: BP_CharacterBase_Child
+[2026.02.02-19.08.59:944][701]LogContentBrowser: Renaming the item being created (Deferred Item: BP_CharacterBase_Child).
+[2026.02.02-19.09.08:678][379]LogContentBrowser: Attempting asset rename: BP_CharacterBase_Child -> BP_DummyAI
+[2026.02.02-19.09.08:684][379]LogContentBrowser: End creating deferred item BP_CharacterBase_Child
+[2026.02.02-19.09.08:907][379]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.02.02-19.09.16:018][ 87]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.02.02-19.09.16:059][ 89]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.02.02-19.09.16:066][ 89]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_0
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.02-19.09.17:689][248]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_1
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.02-19.09.19:848][456]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerAssets/BP_DummyAI.BP_DummyAI
+[2026.02.02-19.09.19:849][456]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: ================================================
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: Total job queries 2,672, among them cache hits 638 (23.88%), DDC hits 1,827 (68.38%), Duplicates 126 (4.72%)
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: Tracking 1,908 distinct input hashes that result in 1,206 distinct outputs (63.21%)
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: RAM used: 12.26 MiB of 1.60 GiB budget. Usage: 0.75%
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: Shaders Compiled: 81
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: Jobs assigned 81, completed 81 (100%)
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: Average time worker was idle: 591.32 s
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: Time job spent in pending queue: average 3.24 s, longest 14.96 s
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: Job execution time: average 3.67 s, max 15.30 s
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: Job life time (pending + execution): average 6.91 s, max 16.23
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: Shader code size: total 842.88 KiB, numShaders 85, average 9.916 KiB, min 2.695 KiB, max 20.883 KiB
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 28.42 s
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: Jobs were issued in 72 batches (only local compilation was used), average 1.12 jobs/batch
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: Average processing rate: 2.85 jobs/sec
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: Total thread time: 231.633 s
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: Total thread preprocess time: 44.519 s
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: Percentage time preprocessing: 19.22%
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: Effective parallelization: 8.15 (times faster than compiling all shaders on one thread). Compare with number of workers: 14 - 0.582188
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    6 times, average 6.56 sec, max 10.83 sec, min 2.18 sec)
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   16 times, average 4.64 sec, max 11.76 sec, min 0.31 sec)
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    7 times, average 4.22 sec, max 10.99 sec, min 0.34 sec)
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 3.32 sec, max 3.32 sec, min 3.32 sec)
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 3.14 sec, max 4.90 sec, min 1.38 sec)
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 32.04% of total time (compiled   16 times, average 4.64 sec, max 11.76 sec, min 0.31 sec)
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display:                                                 FLumenCardVS - 17.00% of total time (compiled    6 times, average 6.56 sec, max 10.83 sec, min 2.18 sec)
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 12.77% of total time (compiled   14 times, average 2.11 sec, max 10.75 sec, min 0.69 sec)
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display:                                                 FLumenCardPS - 12.75% of total time (compiled    7 times, average 4.22 sec, max 10.99 sec, min 0.34 sec)
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.54% of total time (compiled   14 times, average 1.91 sec, max 8.01 sec, min 0.16 sec)
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: === Material stats ===
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: Materials Translated:    175
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: Material Translation Only: 0.07 s (47%)
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.02.02-19.10.30:504][519]LogShaderCompilers: Display: ================================================
+[2026.02.02-19.11.48:866][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.02.02-19.13.19:064][214]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5216.324707
+[2026.02.02-19.13.20:066][217]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.02-19.13.20:066][217]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5216.991699, Update Interval: 346.242859
+[2026.02.02-19.14.33:023][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.02.02-19.14.33:028][366]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.02-19.14.33:055][366]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/PlayerAssets/BP_DummyAI] ([2] browsable assets)...
+[2026.02.02-19.14.33:084][366]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_DummyAI.BP_DummyAI]
+[2026.02.02-19.14.33:085][366]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.02.02-19.14.33:147][366]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/PlayerAssets/BP_DummyAI.BP_DummyAI_C]
+[2026.02.02-19.14.33:147][366]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_DummyAI]
+[2026.02.02-19.14.33:147][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_DummyAI" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset" SILENT=true
+[2026.02.02-19.14.33:158][366]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_DummyAI
+[2026.02.02-19.14.33:158][366]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_DummyAI03F7120842DE921AFD941EAF87AFF9D7.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset'
+[2026.02.02-19.14.33:167][366]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.937 ms (total: 943.584 ms)
+[2026.02.02-19.14.33:194][366]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.02-19.14.33:194][366]LogContentValidation: Enabled validators:
+[2026.02.02-19.14.33:194][366]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.02-19.14.33:194][366]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.02-19.14.33:194][366]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.02-19.14.33:194][366]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.02-19.14.33:194][366]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.02-19.14.33:194][366]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.02-19.14.33:194][366]AssetCheck: /Game/PlayerAssets/BP_DummyAI Validating asset
+[2026.02.02-19.14.33:212][366]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.02-19.15.16:052][931]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.02.02-19.15.16:063][931]LogContentBrowser: Creating deferred item: NewFolder
+[2026.02.02-19.15.16:075][932]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.02.02-19.15.18:979][232]LogContentBrowser: Attempting asset rename: NewFolder -> HealthRegen
+[2026.02.02-19.15.18:980][232]LogContentBrowser: End creating deferred item NewFolder
+[2026.02.02-19.15.23:437][616]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.02-19.15.23:437][616]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterFPS] ([2] browsable assets)...
+[2026.02.02-19.15.23:468][616]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS]
+[2026.02.02-19.15.23:468][616]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterFPS]
+[2026.02.02-19.15.23:468][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterFPS" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterFPS.uasset" SILENT=true
+[2026.02.02-19.15.23:485][616]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterFPS
+[2026.02.02-19.15.23:485][616]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_CharacterFPS3F0C29994D34EE385709E9A5A69D2F6D.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterFPS.uasset'
+[2026.02.02-19.15.23:486][616]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.02-19.15.23:493][616]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.02-19.15.23:493][616]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.02-19.15.23:493][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.02.02-19.15.23:512][616]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.02.02-19.15.23:512][616]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_CharacterBase7FC8452E48216B9AC5CC84B7FB28158E.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.02.02-19.15.23:513][616]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_DummyAI] ([2] browsable assets)...
+[2026.02.02-19.15.23:519][616]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_DummyAI.BP_DummyAI]
+[2026.02.02-19.15.23:519][616]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_DummyAI]
+[2026.02.02-19.15.23:519][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_DummyAI" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset" SILENT=true
+[2026.02.02-19.15.23:530][616]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_DummyAI
+[2026.02.02-19.15.23:530][616]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_DummyAI94348B2047FD277FA63C2BA945A7D81B.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset'
+[2026.02.02-19.15.23:531][616]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HealthRegen/BP_HealthComp] ([2] browsable assets)...
+[2026.02.02-19.15.23:531][616]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HealthRegen/BP_HealthComp]
+[2026.02.02-19.15.23:544][616]LogSavePackage: Moving output files for package: /Game/Blueprints/HealthRegen/BP_HealthComp
+[2026.02.02-19.15.23:544][616]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_HealthCompBD40CFEF4C44AD4AD0D0FA9BB6D32292.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/HealthRegen/BP_HealthComp.uasset'
+[2026.02.02-19.15.23:549][616]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.034 ms (total: 1.05 sec)
+[2026.02.02-19.15.23:616][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.02.02-19.15.23:644][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.02.02-19.15.23:673][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.02.02-19.15.23:703][616]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.02.02-19.15.23:703][616]LogContentValidation: Display: Starting to validate 4 assets
+[2026.02.02-19.15.23:703][616]LogContentValidation: Enabled validators:
+[2026.02.02-19.15.23:703][616]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.02-19.15.23:703][616]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.02-19.15.23:703][616]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.02-19.15.23:703][616]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.02-19.15.23:703][616]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.02-19.15.23:703][616]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.02-19.15.23:703][616]AssetCheck: /Game/PlayerAssets/BP_CharacterFPS Validating asset
+[2026.02.02-19.15.23:703][616]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.02.02-19.15.23:703][616]AssetCheck: /Game/PlayerAssets/BP_DummyAI Validating asset
+[2026.02.02-19.15.23:703][616]AssetCheck: /Game/Blueprints/HealthRegen/BP_HealthComp Validating asset
+[2026.02.02-19.15.23:730][616]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.02-19.15.26:084][787]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.02-19.15.26:084][787]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.02-19.15.26:115][787]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.02-19.15.26:115][787]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.02-19.15.26:115][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.02.02-19.15.26:136][787]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.02.02-19.15.26:136][787]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_CharacterBaseAE2B1107416B1C8C5756EEB8DF456A9E.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.02.02-19.15.26:137][787]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HealthRegen/BP_HealthComp] ([2] browsable assets)...
+[2026.02.02-19.15.26:137][787]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HealthRegen/BP_HealthComp]
+[2026.02.02-19.15.26:150][787]LogSavePackage: Moving output files for package: /Game/Blueprints/HealthRegen/BP_HealthComp
+[2026.02.02-19.15.26:150][787]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_HealthCompECC3D0AF41BE6A45370DF89C78DED4E6.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/HealthRegen/BP_HealthComp.uasset'
+[2026.02.02-19.15.26:151][787]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HealthRegen/BPI_Health] ([2] browsable assets)...
+[2026.02.02-19.15.26:151][787]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HealthRegen/BPI_Health]
+[2026.02.02-19.15.26:158][787]LogSavePackage: Moving output files for package: /Game/Blueprints/HealthRegen/BPI_Health
+[2026.02.02-19.15.26:158][787]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BPI_Health885AF64D4062CD7EFA6F6596F44317E7.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/HealthRegen/BPI_Health.uasset'
+[2026.02.02-19.15.26:163][787]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.745 ms (total: 1.13 sec)
+[2026.02.02-19.15.26:227][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.02.02-19.15.26:256][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.02.02-19.15.26:283][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.02.02-19.15.26:313][787]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.02.02-19.15.26:313][787]LogContentValidation: Display: Starting to validate 3 assets
+[2026.02.02-19.15.26:313][787]LogContentValidation: Enabled validators:
+[2026.02.02-19.15.26:313][787]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.02-19.15.26:313][787]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.02-19.15.26:313][787]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.02-19.15.26:313][787]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.02-19.15.26:313][787]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.02-19.15.26:313][787]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.02-19.15.26:313][787]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.02.02-19.15.26:313][787]AssetCheck: /Game/Blueprints/HealthRegen/BP_HealthComp Validating asset
+[2026.02.02-19.15.26:313][787]AssetCheck: /Game/Blueprints/HealthRegen/BPI_Health Validating asset
+[2026.02.02-19.15.26:322][787]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.02-19.16.03:195][239]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.02.02-19.16.03:195][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.02-19.16.03:250][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.02.02-19.16.04:576][379]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.02.02-19.16.04:576][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.02-19.16.04:615][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.02.02-19.16.34:522][599]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_2
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.02-19.16.34:683][611]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_3
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.02-19.16.44:281][564]LogStreaming: Display: FlushAsyncLoading(806): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.02-19.16.44:319][564]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2026.02.02-19.16.46:695][715]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.02-19.16.46:695][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/HealthRegen/BP_HealthRegen] ([2] browsable assets)...
+[2026.02.02-19.16.46:695][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HealthRegen/BP_HealthRegen]
+[2026.02.02-19.16.46:708][715]LogSavePackage: Moving output files for package: /Game/Blueprints/HealthRegen/BP_HealthRegen
+[2026.02.02-19.16.46:708][715]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_HealthRegenF95495CF4A71548AFDAB6EBABDD30441.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/HealthRegen/BP_HealthRegen.uasset'
+[2026.02.02-19.16.46:713][715]LogFileHelpers: InternalPromptForCheckoutAndSave took 18.175 ms (total: 1.15 sec)
+[2026.02.02-19.16.46:781][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.02.02-19.16.46:811][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.02.02-19.16.46:838][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.02.02-19.16.46:867][715]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.02.02-19.16.46:867][715]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.02-19.16.46:867][715]LogContentValidation: Enabled validators:
+[2026.02.02-19.16.46:867][715]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.02-19.16.46:867][715]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.02-19.16.46:867][715]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.02-19.16.46:867][715]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.02-19.16.46:867][715]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.02-19.16.46:867][715]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.02-19.16.46:867][715]AssetCheck: /Game/Blueprints/HealthRegen/BP_HealthRegen Validating asset
+[2026.02.02-19.16.46:877][715]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.02-19.16.52:431][237]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/HealthRegen/BP_HealthRegen.BP_HealthRegen
+[2026.02.02-19.16.52:431][237]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2026.02.02-19.17.01:209][635]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.02.02-19.18.03:358][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.02.02-19.18.05:309][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.02.02-19.18.05:312][519]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.02-19.18.05:338][519]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/HealthRegen/BP_HealthRegen] ([2] browsable assets)...
+[2026.02.02-19.18.05:381][519]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/HealthRegen/BP_HealthRegen.BP_HealthRegen]
+[2026.02.02-19.18.05:381][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HealthRegen/BP_HealthRegen]
+[2026.02.02-19.18.05:394][519]LogSavePackage: Moving output files for package: /Game/Blueprints/HealthRegen/BP_HealthRegen
+[2026.02.02-19.18.05:394][519]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_HealthRegenBFDC897B45117AE4144327BC0DFA4DC9.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/HealthRegen/BP_HealthRegen.uasset'
+[2026.02.02-19.18.05:402][519]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.229 ms (total: 1.24 sec)
+[2026.02.02-19.18.05:431][519]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.02-19.18.05:431][519]LogContentValidation: Enabled validators:
+[2026.02.02-19.18.05:431][519]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.02-19.18.05:431][519]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.02-19.18.05:431][519]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.02-19.18.05:431][519]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.02-19.18.05:431][519]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.02-19.18.05:431][519]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.02-19.18.05:431][519]AssetCheck: /Game/Blueprints/HealthRegen/BP_HealthRegen Validating asset
