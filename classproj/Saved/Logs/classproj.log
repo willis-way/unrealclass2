@@ -1517,3 +1517,25 @@ Make sure '/Game/Blueprints/HealthRegen/BP_HealthRegen.BP_HealthRegen_C' has bee
 [2026.02.02-20.15.34:242][291]AssetCheck: /Game/ASM_Hit Validating asset
 [2026.02.02-20.15.34:242][291]AssetCheck: /Game/Characters/Mannequins/Meshes/SK_Mannequin Validating asset
 [2026.02.02-20.15.34:266][291]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.02-20.17.58:456][366]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_1
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.02-20.18.02:285][670]LogStreaming: Display: FlushAsyncLoading(784): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.02-20.18.02:384][671]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.02.02-20.18.02:415][672]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.02.02-20.18.11:112][291]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_2
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.02-20.18.15:411][612]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_3
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.02-20.18.49:722][432]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_4
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.02-20.18.53:918][785]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AS_Hit.AS_Hit
+[2026.02.02-20.18.53:956][785]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2026.02.02-20.18.53:964][785]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.02.02-20.20.45:803][163]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1678.536255
+[2026.02.02-20.20.46:803][166]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.02-20.20.46:803][166]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1679.204102, Update Interval: 327.098602
+[2026.02.02-20.25.29:663][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
