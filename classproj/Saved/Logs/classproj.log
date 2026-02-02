@@ -2093,3 +2093,81 @@ Sampler Limit: 32
 [2026.02.02-18.48.16:573][275]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
 [2026.02.02-18.48.16:573][275]AssetCheck: /Game/Getting_Hit Validating asset
 [2026.02.02-18.48.16:598][275]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.02-18.48.30:193][430]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.02-18.48.30:200][430]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.02-18.48.30:200][430]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.02.02-18.48.30:201][430]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 681 us (total: 4.329 ms)
+[2026.02.02-18.48.30:201][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.02-18.48.30:233][430]LogPlayLevel: Display: Creating online subsystem for client :Context_20
+[2026.02.02-18.48.30:235][430]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2026.02.02-18.48.30:258][431]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.02-18.48.30:264][431]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.02-18.48.30:264][431]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 907 us (total: 4.372 ms)
+[2026.02.02-18.48.30:264][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005576s)
+[2026.02.02-18.48.30:264][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.005618s)
+[2026.02.02-18.48.30:289][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.02.02-18.48.30:290][431]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.02.02-18.48.30:292][431]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.02-18.48.30:292][431]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.02-18.48.30:292][431]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.02-18.48.30:292][431]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.02-18.48.30:293][431]LogWorldPartition: Display: WorldPartition initialize took 1.296 ms (total: 517.669 ms)
+[2026.02.02-18.48.30:293][431]LogPlayLevel: PIE: World Init took: (0.003035s)
+[2026.02.02-18.48.30:294][431]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.02.02-18.48.30:294][431]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.02-18.48.30:294][431]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.02-18.48.30:294][431]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.02-18.48.30:294][431]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.02-18.48.30:294][431]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.02-18.48.30:294][431]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.02-18.48.30:294][431]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.02-18.48.30:294][431]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.02-18.48.30:294][431]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.02-18.48.30:294][431]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.02-18.48.30:294][431]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.02-18.48.30:296][431]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.02-18.48.30:342][431]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.02-18.48.30:343][431]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.02-18.48.30:343][431]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.02-18.48.30:343][431]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.02-18.48.30:344][431]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.02.02-18.48.30:344][431]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.02.02-18.48.30:345][431]LogInit: FAudioDevice initialized with ID 6.
+[2026.02.02-18.48.30:345][431]LogAudio: Display: Audio Device (ID: 6) registered with world 'L_LevelOne'.
+[2026.02.02-18.48.30:345][431]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.02.02-18.48.30:346][431]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.02.02-18.48.30:346][431]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.02.02-18.48.30:349][431]LogLoad: Game class is 'GM_FPS_C'
+[2026.02.02-18.48.30:352][431]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2026.02.02-13.48.30
+[2026.02.02-18.48.30:352][431]LogWorld: Bringing up level for play took: 0.002953
+[2026.02.02-18.48.30:356][431]PIE: Server logged in
+[2026.02.02-18.48.30:357][431]PIE: Play in editor total start time 0.157 seconds.
+[2026.02.02-18.48.30:403][432]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.02-18.48.31:660][548]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/3
+[2026.02.02-18.48.32:791][659]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] NewGrenadeInHandNotify
+[2026.02.02-18.48.33:730][736]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/2
+[2026.02.02-18.48.33:999][760]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/2
+[2026.02.02-18.48.34:117][770]LogRenderer: Warning: Building light grid exceeded number of available entries (570604 / 471040). Increase r.Forward.MaxCulledLightsPerCell to prevent potential visual artifacts.
+[2026.02.02-18.48.35:163][790]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] NewGrenadeInHandNotify
+[2026.02.02-18.48.36:070][837]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/1
+[2026.02.02-18.48.36:625][889]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/1
+[2026.02.02-18.48.43:546][593]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/1
+[2026.02.02-18.48.44:723][621]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] NewGrenadeInHandNotify
+[2026.02.02-18.48.45:615][655]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/0
+[2026.02.02-18.48.46:179][705]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/0
+[2026.02.02-18.48.47:595][846]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/0
+[2026.02.02-18.48.52:324][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.02-18.48.52:324][168]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.02-18.48.52:324][168]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2026.02.02-18.48.52:325][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.02-18.48.52:325][168]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2026.02.02-18.48.52:327][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.02-18.48.52:330][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.02-18.48.52:354][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.02-18.48.52:354][168]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.02.02-18.48.52:354][168]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.02.02-18.48.52:355][168]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.02.02-18.48.52:364][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.02.02-18.48.52:436][169]LogPlayLevel: Display: Destroying online subsystem :Context_20
