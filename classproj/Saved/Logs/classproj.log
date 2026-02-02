@@ -2630,3 +2630,147 @@ Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been comp
 [2026.02.02-19.18.05:431][519]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.02-19.18.05:431][519]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.02-19.18.05:431][519]AssetCheck: /Game/Blueprints/HealthRegen/BP_HealthRegen Validating asset
+[2026.02.02-19.19.30:738][713]LogShaderCompilers: Display: ================================================
+[2026.02.02-19.19.30:739][713]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.02-19.19.30:739][713]LogShaderCompilers: Display: Total job queries 2,681, among them cache hits 638 (23.80%), DDC hits 1,827 (68.15%), Duplicates 126 (4.70%)
+[2026.02.02-19.19.30:739][713]LogShaderCompilers: Display: Tracking 1,917 distinct input hashes that result in 1,211 distinct outputs (63.17%)
+[2026.02.02-19.19.30:739][713]LogShaderCompilers: Display: RAM used: 12.30 MiB of 1.60 GiB budget. Usage: 0.75%
+[2026.02.02-19.19.30:739][713]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.02-19.19.30:739][713]LogShaderCompilers: Display: Shaders Compiled: 90
+[2026.02.02-19.19.30:739][713]LogShaderCompilers: Display: Jobs assigned 90, completed 90 (100%)
+[2026.02.02-19.19.30:739][713]LogShaderCompilers: Display: Average time worker was idle: 766.88 s
+[2026.02.02-19.19.30:739][713]LogShaderCompilers: Display: Time job spent in pending queue: average 2.92 s, longest 14.96 s
+[2026.02.02-19.19.30:739][713]LogShaderCompilers: Display: Job execution time: average 3.40 s, max 15.30 s
+[2026.02.02-19.19.30:739][713]LogShaderCompilers: Display: Job life time (pending + execution): average 6.32 s, max 16.23
+[2026.02.02-19.19.30:739][713]LogShaderCompilers: Display: Shader code size: total 916.306 KiB, numShaders 96, average 9.544 KiB, min 2.691 KiB, max 20.883 KiB
+[2026.02.02-19.19.30:739][713]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 29.79 s
+[2026.02.02-19.19.30:739][713]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.02.02-19.19.30:739][713]LogShaderCompilers: Display: Jobs were issued in 81 batches (only local compilation was used), average 1.11 jobs/batch
+[2026.02.02-19.19.30:739][713]LogShaderCompilers: Display: Average processing rate: 3.02 jobs/sec
+[2026.02.02-19.19.30:739][713]LogShaderCompilers: Display: Total thread time: 237.006 s
+[2026.02.02-19.19.30:739][713]LogShaderCompilers: Display: Total thread preprocess time: 44.629 s
+[2026.02.02-19.19.30:739][713]LogShaderCompilers: Display: Percentage time preprocessing: 18.83%
+[2026.02.02-19.19.30:739][713]LogShaderCompilers: Display: Effective parallelization: 7.96 (times faster than compiling all shaders on one thread). Compare with number of workers: 14 - 0.568250
+[2026.02.02-19.19.30:739][713]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.02-19.19.30:739][713]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    7 times, average 5.68 sec, max 10.83 sec, min 0.39 sec)
+[2026.02.02-19.19.30:739][713]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   17 times, average 4.40 sec, max 11.76 sec, min 0.31 sec)
+[2026.02.02-19.19.30:740][713]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    8 times, average 3.74 sec, max 10.99 sec, min 0.34 sec)
+[2026.02.02-19.19.30:740][713]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 3.32 sec, max 3.32 sec, min 3.32 sec)
+[2026.02.02-19.19.30:740][713]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 3.14 sec, max 4.90 sec, min 1.38 sec)
+[2026.02.02-19.19.30:740][713]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.02-19.19.30:740][713]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.55% of total time (compiled   17 times, average 4.40 sec, max 11.76 sec, min 0.31 sec)
+[2026.02.02-19.19.30:740][713]LogShaderCompilers: Display:                                                 FLumenCardVS - 16.77% of total time (compiled    7 times, average 5.68 sec, max 10.83 sec, min 0.39 sec)
+[2026.02.02-19.19.30:740][713]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 12.85% of total time (compiled   15 times, average 2.03 sec, max 10.75 sec, min 0.69 sec)
+[2026.02.02-19.19.30:740][713]LogShaderCompilers: Display:                                                 FLumenCardPS - 12.64% of total time (compiled    8 times, average 3.74 sec, max 10.99 sec, min 0.34 sec)
+[2026.02.02-19.19.30:740][713]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.44% of total time (compiled   15 times, average 1.81 sec, max 8.01 sec, min 0.16 sec)
+[2026.02.02-19.19.30:740][713]LogShaderCompilers: Display: === Material stats ===
+[2026.02.02-19.19.30:740][713]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.02-19.19.30:740][713]LogShaderCompilers: Display: Materials Translated:    176
+[2026.02.02-19.19.30:740][713]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2026.02.02-19.19.30:740][713]LogShaderCompilers: Display: Material Translation Only: 0.07 s (47%)
+[2026.02.02-19.19.30:740][713]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.02.02-19.19.30:740][713]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.02.02-19.19.30:740][713]LogShaderCompilers: Display: ================================================
+[2026.02.02-19.19.44:022][902]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5601.276367
+[2026.02.02-19.19.45:021][905]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.02-19.19.45:021][905]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5601.942871, Update Interval: 303.557861
+[2026.02.02-19.24.16:397][347]LogFab: Display: Logging in using persist
+[2026.02.02-19.24.16:513][347]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from C:/Program Files/Epic Games/UE_5.6/Engine/Binaries/ThirdParty/CEF3/Win64/
+[2026.02.02-19.24.16:531][347]LogCEFBrowser: CEF GPU acceleration enabled
+[2026.02.02-19.24.16:953][360]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 3d8...586 Access[Expires: 2026.02.02-21.24.16 Remaining: 7200.82] Refresh[Expires: 2026-08-01T19:24:16.821Z Remaining: 15552000.82] State: Valid
+[2026.02.02-19.24.16:964][361]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2026.02.02-19.24.17:103][374]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2026.02.02-19.24.17:103][374]LogFab: Display: User logged in
+[2026.02.02-19.24.17:103][374]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2026.02.02-19.24.17:313][391]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-QefTlOlQDkyp6R1kPcQFWA-I5DAoHkdlEKHMSK1P5E_Pw]
+[2026.02.02-19.24.32:741][801]LogFab: Display: Asset Type = unreal-engine
+[2026.02.02-19.24.32:742][801]LogFab: Display: Is Quixel = 0
+[2026.02.02-19.24.32:744][801]LogFab: Display: Base Url https://egdownload.fastly-edge.com/Builds/Rocket/Automated/ZapVFX232915312ce4V1/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/ZapVFX232915312ce4V1/CloudDir,https://download.epicgames.com/Builds/Rocket/Automated/ZapVFX232915312ce4V1/CloudDir,https://cloudflare.epicgamescdn.com/Builds/Rocket/Automated/ZapVFX232915312ce4V1/CloudDir
+[2026.02.02-19.24.39:471][318]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2026.02.02-19.24.39:471][318]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2026.02.02-19.24.39:471][318]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Developers/sgbeh/Collections/' because it could not be accessed. Aborting watch request...
+[2026.02.02-19.24.41:628][515]LogSlate: Window 'Fab' being destroyed
+[2026.02.02-19.24.41:660][515]LogSlate: Window 'Fab' being destroyed
+[2026.02.02-19.24.43:130][656]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2026.02.02-19.24.43:130][656]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/ee38d7fd-b1a9-4a94-bfd2-10772cf9c69e.
+[2026.02.02-19.25.23:700][515]LogStreaming: Display: FlushAsyncLoading(807): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.02-19.25.23:880][515]LogNiagaraEditor: Niagara graph NiagaraGraph /Niagara/Modules/Update/Material/DynamicMaterialParameters.DynamicMaterialParameters:NiagaraScriptSource_3.NiagaraGraph_0: The default value declaration for the variable 'Module.Index0Float3Write' is not consistent between the graph and the metadata.
+  Either change the default mode to 'custom' or check the input pins in the parameter map get node in the graph.
+[2026.02.02-19.25.23:880][515]LogNiagaraEditor: Niagara graph NiagaraGraph /Niagara/Modules/Update/Material/DynamicMaterialParameters.DynamicMaterialParameters:NiagaraScriptSource_3.NiagaraGraph_0: The default value declaration for the variable 'Module.Index1Float3Write' is not consistent between the graph and the metadata.
+  Either change the default mode to 'custom' or check the input pins in the parameter map get node in the graph.
+[2026.02.02-19.25.23:915][515]LogTexture: Display: Building textures: /Game/Fab/Effects/ImpactEffects/NS_HeavyImpact.NS_HeavyImpact:NE_Particle_Burst_02_0.NiagaraEmitter_0.ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.02.02-19.25.23:916][515]LogTexture: Display: Building textures: /Game/Fab/Effects/ImpactEffects/NS_HeavyImpact.NS_HeavyImpact:NE_Particle_Burst_02_0.ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.02.02-19.25.23:916][515]LogTexture: Display: Building textures: /Game/Fab/Effects/ImpactEffects/NS_HeavyImpact.NS_HeavyImpact:ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.02.02-19.25.23:916][515]LogTexture: Display: Building textures: /Game/Fab/Effects/ImpactEffects/NS_HeavyImpact.NS_HeavyImpact:NE_Particle_Burst_01_0.NE_Sprite_Burst_Renderer.ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.02.02-19.25.23:916][515]LogTexture: Display: Building textures: /Game/Fab/Effects/ImpactEffects/NS_HeavyImpact.NS_HeavyImpact:NE_Particle_Burst_01_0.ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.02.02-19.25.23:916][515]LogTexture: Display: Building textures: /Game/Fab/Effects/ImpactEffects/NS_HeavyImpact.NS_HeavyImpact:NE_Flash_01_1.ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.02.02-19.25.23:916][515]LogTexture: Display: Building textures: /Game/Fab/Effects/ImpactEffects/NS_HeavyImpact.NS_HeavyImpact:NE_Smoke_01_2.ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.02.02-19.25.23:916][515]LogTexture: Display: Building textures: /Game/Fab/Effects/ImpactEffects/NS_HeavyImpact.NS_HeavyImpact:NE_Smoke_01_2.NE_Sprite_Burst_Renderer.ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.02.02-19.25.23:926][515]LogTexture: Display: Building textures: /Game/Fab/Effects/Textures/T_Wispy_SmokeSubUv.T_Wispy_SmokeSubUv (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.02-19.25.29:036][531]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5946.284668
+[2026.02.02-19.25.29:712][534]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.02-19.25.29:712][534]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5946.955078, Update Interval: 344.098633
+[2026.02.02-19.25.35:166][164]LogStreaming: Display: FlushAsyncLoading(808): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.02-19.25.35:255][164]LogTexture: Display: Building textures: /Game/Vefects/Zap_VFX/VFX/Zap/Textures/T_VFX_Zap_LUT_01.T_VFX_Zap_LUT_01 (TFO_AutoDXT, 256x4 x1x1x1) (Required Memory Estimate: 1.16142 MB), EncodeSpeed: Fast
+[2026.02.02-19.25.35:264][164]LogTexture: Display: Building textures: /Game/Vefects/Zap_VFX/VFX/Zap/Textures/T_VFX_Flare_01.T_VFX_Flare_01 (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.02-19.25.35:270][164]LogTexture: Display: Building textures: /Game/Vefects/Zap_VFX/VFX/Zap/Textures/T_VFX_Scorch_Mark_01.T_VFX_Scorch_Mark_01 (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.02-19.25.35:287][164]LogTexture: Display: Building textures: /Game/Vefects/Zap_VFX/VFX/Zap/Textures/T_VFX_Zap_Lightning_01.T_VFX_Zap_Lightning_01 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 328.583323 MB), EncodeSpeed: Fast
+[2026.02.02-19.25.35:294][164]LogTexture: Display: Building textures: /Game/Vefects/Zap_VFX/VFX/Zap/Textures/T_VFX_Zap_Lightning_01_BG.T_VFX_Zap_Lightning_01_BG (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 328.583323 MB), EncodeSpeed: Fast
+[2026.02.02-19.25.37:744][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.02.02-19.25.39:794][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.02-19.25.39:800][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.02-19.25.39:832][671]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/HealthRegen/BP_HealthRegen] ([2] browsable assets)...
+[2026.02.02-19.25.39:888][671]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/HealthRegen/BP_HealthRegen.BP_HealthRegen]
+[2026.02.02-19.25.39:888][671]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HealthRegen/BP_HealthRegen]
+[2026.02.02-19.25.39:902][671]LogSavePackage: Moving output files for package: /Game/Blueprints/HealthRegen/BP_HealthRegen
+[2026.02.02-19.25.39:903][671]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_HealthRegen63FE814344168CDE677B4FA3EF7A9508.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/HealthRegen/BP_HealthRegen.uasset'
+[2026.02.02-19.25.39:910][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.004 ms (total: 1.35 sec)
+[2026.02.02-19.25.39:949][671]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.02-19.25.39:949][671]LogContentValidation: Enabled validators:
+[2026.02.02-19.25.39:949][671]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.02-19.25.39:949][671]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.02-19.25.39:949][671]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.02-19.25.39:949][671]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.02-19.25.39:949][671]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.02-19.25.39:949][671]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.02-19.25.39:949][671]AssetCheck: /Game/Blueprints/HealthRegen/BP_HealthRegen Validating asset
+[2026.02.02-19.28.39:989][531]LogStreaming: Display: FlushAsyncLoading(809): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.02-19.28.39:989][531]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to '"/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Components/BP_HealthComponent.BP_HealthComponent_C'",MemberName="RegenerateHealth",MemberGuid=EF4A129340F123632DBA9786B7E9C6C1)'
+[2026.02.02-19.28.46:320][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.02.02-19.30.39:623][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.02-19.30.39:624][787]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.028
+[2026.02.02-19.30.39:625][787]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/HealthRegen/BP_HealthRegen] ([2] browsable assets)...
+[2026.02.02-19.30.39:679][787]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/HealthRegen/BP_HealthRegen.BP_HealthRegen]
+[2026.02.02-19.30.39:679][787]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HealthRegen/BP_HealthRegen]
+[2026.02.02-19.30.39:692][787]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/HealthRegen/BP_HealthRegen_Auto6
+[2026.02.02-19.30.39:692][787]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_HealthRegen_Auto6ACC7B894414D8E299B06599FB39973EC.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/Autosaves/Game/Blueprints/HealthRegen/BP_HealthRegen_Auto6.uasset'
+[2026.02.02-19.30.39:694][787]LogFileHelpers: Auto-saving content packages took 0.069
+[2026.02.02-19.31.45:974][188]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6323.236328
+[2026.02.02-19.31.46:977][191]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.02-19.31.46:977][191]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6323.906250, Update Interval: 353.809021
+[2026.02.02-19.38.06:535][198]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\HealthRegen\BP_HealthRegen.uasset: [Compiler] This blueprint (self) is not a BP_HealthComp_C, therefore ' Target ' must have a connection.
+[2026.02.02-19.38.06:540][198]LogStreaming: Display: FlushAsyncLoading(813): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.02-19.38.06:584][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.02.02-19.38.40:158][363]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6737.432129
+[2026.02.02-19.38.41:160][366]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.02-19.38.41:160][366]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6738.101074, Update Interval: 315.646851
+[2026.02.02-19.41.52:065][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.02.02-19.41.52:068][189]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.02-19.41.52:097][189]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/HealthRegen/BP_HealthRegen] ([2] browsable assets)...
+[2026.02.02-19.41.52:169][189]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/HealthRegen/BP_HealthRegen.BP_HealthRegen]
+[2026.02.02-19.41.52:169][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HealthRegen/BP_HealthRegen]
+[2026.02.02-19.41.52:183][189]LogSavePackage: Moving output files for package: /Game/Blueprints/HealthRegen/BP_HealthRegen
+[2026.02.02-19.41.52:183][189]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_HealthRegen559CB9C14DFF43247BB308834963E003.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/HealthRegen/BP_HealthRegen.uasset'
+[2026.02.02-19.41.52:194][189]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.000 ms (total: 1.47 sec)
+[2026.02.02-19.41.52:226][189]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.02-19.41.52:226][189]LogContentValidation: Enabled validators:
+[2026.02.02-19.41.52:226][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.02-19.41.52:226][189]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.02-19.41.52:226][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.02-19.41.52:226][189]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.02-19.41.52:226][189]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.02-19.41.52:226][189]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.02-19.41.52:226][189]AssetCheck: /Game/Blueprints/HealthRegen/BP_HealthRegen Validating asset
+[2026.02.02-19.44.41:550][768]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7098.818359
+[2026.02.02-19.44.42:549][771]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.02-19.44.42:549][771]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7099.485352, Update Interval: 330.213318
