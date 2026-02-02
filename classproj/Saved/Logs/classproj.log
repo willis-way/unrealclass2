@@ -1539,3 +1539,10 @@ Make sure '/Game/Blueprints/HealthRegen/BP_HealthRegen.BP_HealthRegen_C' has bee
 [2026.02.02-20.20.46:803][166]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.02.02-20.20.46:803][166]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1679.204102, Update Interval: 327.098602
 [2026.02.02-20.25.29:663][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.02.02-20.26.58:007][566]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2050.743164
+[2026.02.02-20.26.59:007][569]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.02-20.26.59:007][570]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2051.409668, Update Interval: 333.135773
+[2026.02.02-20.33.31:729][747]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2444.465088
+[2026.02.02-20.33.32:731][750]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.02-20.33.32:731][750]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2445.132812, Update Interval: 351.626343
+[2026.02.02-20.36.29:174][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
