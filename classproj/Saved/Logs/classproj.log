@@ -2171,3 +2171,242 @@ Sampler Limit: 32
 [2026.02.02-18.48.52:355][168]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
 [2026.02.02-18.48.52:364][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
 [2026.02.02-18.48.52:436][169]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2026.02.02-18.51.10:347][263]LogContentBrowser: Attempting asset rename: Getting_Hit -> AS_Hit
+[2026.02.02-18.51.10:455][263]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.02-18.51.10:455][263]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AS_Hit] ([1] browsable assets)...
+[2026.02.02-18.51.10:455][263]OBJ SavePackage: Finished generating thumbnails for package [/Game/AS_Hit]
+[2026.02.02-18.51.10:455][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AS_Hit" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/AS_Hit.uasset" SILENT=true
+[2026.02.02-18.51.10:464][263]LogSavePackage: Moving output files for package: /Game/AS_Hit
+[2026.02.02-18.51.10:464][263]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/AS_Hit33BCC38D49F5FEAC125AB68C50899F20.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/AS_Hit.uasset'
+[2026.02.02-18.51.10:466][263]LogFileHelpers: InternalPromptForCheckoutAndSave took 9.862 ms (total: 494.019 ms)
+[2026.02.02-18.51.10:505][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.02.02-18.51.10:529][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.02.02-18.51.10:553][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.02.02-18.51.10:600][263]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.02-18.51.10:600][263]LogContentValidation: Enabled validators:
+[2026.02.02-18.51.10:600][263]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.02-18.51.10:600][263]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.02-18.51.10:600][263]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.02-18.51.10:600][263]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.02-18.51.10:600][263]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.02-18.51.10:600][263]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.02-18.51.10:600][263]AssetCheck: /Game/AS_Hit Validating asset
+[2026.02.02-18.51.10:638][263]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.02-18.51.31:108][439]LogContentBrowser: Deferred new asset file creation: AS_Hit_Montage
+[2026.02.02-18.51.31:117][439]LogContentBrowser: Creating deferred item: AS_Hit_Montage
+[2026.02.02-18.51.31:140][440]LogContentBrowser: Renaming the item being created (Deferred Item: AS_Hit_Montage).
+[2026.02.02-18.51.36:854][646]LogContentBrowser: Attempting asset rename: AS_Hit_Montage -> AS_Hit_Montage
+[2026.02.02-18.51.36:858][646]LogContentBrowser: End creating deferred item AS_Hit_Montage
+[2026.02.02-18.51.42:783][227]LogContentBrowser: Attempting asset rename: AS_Hit_Montage -> ASM_Hit
+[2026.02.02-18.51.42:849][227]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.02-18.51.42:849][227]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASM_Hit] ([1] browsable assets)...
+[2026.02.02-18.51.42:880][227]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/ASM_Hit.ASM_Hit]
+[2026.02.02-18.51.42:880][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASM_Hit]
+[2026.02.02-18.51.42:880][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASM_Hit" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/ASM_Hit.uasset" SILENT=true
+[2026.02.02-18.51.42:890][227]LogSavePackage: Moving output files for package: /Game/ASM_Hit
+[2026.02.02-18.51.42:890][227]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/ASM_Hit8A40E674444B25EB53C82EB2622061D8.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/ASM_Hit.uasset'
+[2026.02.02-18.51.42:891][227]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.614 ms (total: 536.634 ms)
+[2026.02.02-18.51.42:932][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.02.02-18.51.42:956][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.02.02-18.51.42:981][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.02.02-18.51.43:026][227]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.02-18.51.43:027][227]LogContentValidation: Enabled validators:
+[2026.02.02-18.51.43:027][227]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.02-18.51.43:027][227]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.02-18.51.43:027][227]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.02-18.51.43:027][227]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.02-18.51.43:027][227]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.02-18.51.43:027][227]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.02-18.51.43:027][227]AssetCheck: /Game/ASM_Hit Validating asset
+[2026.02.02-18.51.43:066][227]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.02-18.51.49:044][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.02.02-18.52.30:025][677]LogShaderCompilers: Display: ================================================
+[2026.02.02-18.52.30:025][677]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.02-18.52.30:025][677]LogShaderCompilers: Display: Total job queries 2,669, among them cache hits 638 (23.90%), DDC hits 1,827 (68.45%), Duplicates 126 (4.72%)
+[2026.02.02-18.52.30:025][677]LogShaderCompilers: Display: Tracking 1,905 distinct input hashes that result in 1,203 distinct outputs (63.15%)
+[2026.02.02-18.52.30:025][677]LogShaderCompilers: Display: RAM used: 12.22 MiB of 1.60 GiB budget. Usage: 0.75%
+[2026.02.02-18.52.30:025][677]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.02-18.52.30:025][677]LogShaderCompilers: Display: Shaders Compiled: 78
+[2026.02.02-18.52.30:025][677]LogShaderCompilers: Display: Jobs assigned 78, completed 78 (100%)
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display: Average time worker was idle: 548.44 s
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display: Time job spent in pending queue: average 3.36 s, longest 14.96 s
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display: Job execution time: average 3.76 s, max 15.30 s
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display: Job life time (pending + execution): average 7.13 s, max 16.23
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display: Shader code size: total 790.981 KiB, numShaders 82, average 9.646 KiB, min 2.695 KiB, max 20.219 KiB
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 26.83 s
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display: Jobs were issued in 69 batches (only local compilation was used), average 1.13 jobs/batch
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display: Average processing rate: 2.91 jobs/sec
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display: Total thread time: 228.389 s
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display: Total thread preprocess time: 44.486 s
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display: Percentage time preprocessing: 19.48%
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display: Effective parallelization: 8.51 (times faster than compiling all shaders on one thread). Compare with number of workers: 14 - 0.608042
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    6 times, average 6.56 sec, max 10.83 sec, min 2.18 sec)
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 4.90 sec, max 4.90 sec, min 4.90 sec)
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   16 times, average 4.64 sec, max 11.76 sec, min 0.31 sec)
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    7 times, average 4.22 sec, max 10.99 sec, min 0.34 sec)
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 3.32 sec, max 3.32 sec, min 3.32 sec)
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 32.49% of total time (compiled   16 times, average 4.64 sec, max 11.76 sec, min 0.31 sec)
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display:                                                 FLumenCardVS - 17.24% of total time (compiled    6 times, average 6.56 sec, max 10.83 sec, min 2.18 sec)
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display:                                                 FLumenCardPS - 12.93% of total time (compiled    7 times, average 4.22 sec, max 10.99 sec, min 0.34 sec)
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 12.62% of total time (compiled   13 times, average 2.22 sec, max 10.75 sec, min 0.69 sec)
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.70% of total time (compiled   14 times, average 1.91 sec, max 8.01 sec, min 0.16 sec)
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display: === Material stats ===
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display: Materials Translated:    175
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display: Material Translation Only: 0.07 s (47%)
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.02.02-18.52.30:026][677]LogShaderCompilers: Display: ================================================
+[2026.02.02-18.53.02:330][504]LogStreaming: Display: FlushAsyncLoading(797): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.02-18.53.02:330][504]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to '"/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Components/BPI_HealthComponent.BPI_HealthComponent_C'",MemberName="HealthCompNotify_TookDamage",MemberGuid=5590DC11490D315E38B81AA9F33C50E9)'
+[2026.02.02-18.53.34:851][194]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "HitAnim" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get HitAnim
+[2026.02.02-18.53.34:859][194]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Hit Anim  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.02-18.53.34:906][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.02.02-18.53.55:148][630]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4052.422119
+[2026.02.02-18.53.56:147][633]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.02-18.53.56:147][634]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4053.085693, Update Interval: 306.817230
+[2026.02.02-18.54.28:429][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.02.02-18.54.28:432][225]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.027
+[2026.02.02-18.54.28:432][225]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.02-18.54.28:560][225]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.02-18.54.28:560][225]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.02-18.54.28:582][225]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerAssets/BP_CharacterBase_Auto4
+[2026.02.02-18.54.28:582][225]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_CharacterBase_Auto49D474C9648BFF7C09855BE825DF776D8.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/Autosaves/Game/PlayerAssets/BP_CharacterBase_Auto4.uasset'
+[2026.02.02-18.54.28:583][225]LogFileHelpers: Auto-saving content packages took 0.151
+[2026.02.02-18.55.44:834][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.02.02-18.55.47:209][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.02.02-18.55.47:215][110]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.02-18.55.47:246][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.02-18.55.47:293][110]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.02-18.55.47:293][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.02-18.55.47:293][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.02.02-18.55.47:312][110]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.02.02-18.55.47:313][110]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_CharacterBaseBFAB94BB4C794506FB2BC188A06467D5.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.02.02-18.55.47:323][110]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.901 ms (total: 644.536 ms)
+[2026.02.02-18.55.47:357][110]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.02-18.55.47:357][110]LogContentValidation: Enabled validators:
+[2026.02.02-18.55.47:357][110]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.02-18.55.47:357][110]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.02-18.55.47:357][110]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.02-18.55.47:357][110]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.02-18.55.47:357][110]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.02-18.55.47:357][110]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.02-18.55.47:357][110]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.02.02-18.55.49:022][278]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.02-18.55.49:028][278]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.02-18.55.49:028][278]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.02.02-18.55.49:029][278]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 693 us (total: 5.023 ms)
+[2026.02.02-18.55.49:029][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.02-18.55.49:063][278]LogPlayLevel: Display: Creating online subsystem for client :Context_21
+[2026.02.02-18.55.49:065][278]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2026.02.02-18.55.49:089][279]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.02-18.55.49:094][279]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.02-18.55.49:095][279]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 944 us (total: 5.317 ms)
+[2026.02.02-18.55.49:095][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005735s)
+[2026.02.02-18.55.49:095][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.005776s)
+[2026.02.02-18.55.49:122][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.02.02-18.55.49:124][279]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.02.02-18.55.49:125][279]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.02-18.55.49:125][279]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.02-18.55.49:125][279]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.02-18.55.49:125][279]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.02-18.55.49:127][279]LogWorldPartition: Display: WorldPartition initialize took 1.250 ms (total: 518.919 ms)
+[2026.02.02-18.55.49:127][279]LogPlayLevel: PIE: World Init took: (0.003033s)
+[2026.02.02-18.55.49:127][279]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.02.02-18.55.49:127][279]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.02-18.55.49:127][279]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.02-18.55.49:127][279]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.02-18.55.49:127][279]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.02-18.55.49:127][279]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.02-18.55.49:128][279]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.02-18.55.49:128][279]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.02-18.55.49:128][279]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.02-18.55.49:128][279]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.02-18.55.49:128][279]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.02-18.55.49:128][279]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.02-18.55.49:130][279]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.02-18.55.49:174][279]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.02-18.55.49:174][279]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.02-18.55.49:174][279]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.02-18.55.49:174][279]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.02-18.55.49:174][279]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.02.02-18.55.49:175][279]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.02.02-18.55.49:176][279]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.02.02-18.55.49:176][279]LogInit: FAudioDevice initialized with ID 7.
+[2026.02.02-18.55.49:176][279]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.02.02-18.55.49:176][279]LogAudio: Display: Audio Device (ID: 7) registered with world 'L_LevelOne'.
+[2026.02.02-18.55.49:177][279]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.02.02-18.55.49:180][279]LogLoad: Game class is 'GM_FPS_C'
+[2026.02.02-18.55.49:182][279]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2026.02.02-13.55.49
+[2026.02.02-18.55.49:182][279]LogWorld: Bringing up level for play took: 0.002555
+[2026.02.02-18.55.49:185][279]PIE: Server logged in
+[2026.02.02-18.55.49:186][279]PIE: Play in editor total start time 0.159 seconds.
+[2026.02.02-18.55.49:227][280]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.02-18.55.51:164][473]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/3
+[2026.02.02-18.55.51:468][498]LogRenderer: Warning: Building light grid exceeded number of available entries (844951 / 659456). Increase r.Forward.MaxCulledLightsPerCell to prevent potential visual artifacts.
+[2026.02.02-18.55.52:305][517]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] NewGrenadeInHandNotify
+[2026.02.02-18.55.53:226][541]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/2
+[2026.02.02-18.55.53:712][578]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/2
+[2026.02.02-18.55.54:864][616]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] NewGrenadeInHandNotify
+[2026.02.02-18.55.55:603][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.02-18.55.55:603][663]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.02-18.55.55:604][663]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2026.02.02-18.55.55:604][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.02-18.55.55:604][663]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2026.02.02-18.55.55:606][663]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.02-18.55.55:608][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.02-18.55.55:633][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.02-18.55.55:633][663]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.02.02-18.55.55:633][663]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.02.02-18.55.55:635][663]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.02.02-18.55.55:642][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.02.02-18.55.55:707][664]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2026.02.02-18.56.07:307][ 97]LogStreaming: Display: FlushAsyncLoading(802): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.02-18.56.13:872][871]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "HitAnim" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get HitAnim
+[2026.02.02-18.56.13:878][871]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Hit Anim  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.02-18.56.13:931][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.02.02-18.59.38:305][ 25]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4395.564453
+[2026.02.02-18.59.39:306][ 28]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.02-18.59.39:306][ 28]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4396.232910, Update Interval: 355.781128
+[2026.02.02-19.04.35:063][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.02.02-19.04.35:064][ 10]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.032
+[2026.02.02-19.04.35:065][ 10]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.02-19.04.35:120][ 10]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.02-19.04.35:120][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.02-19.04.35:141][ 10]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerAssets/BP_CharacterBase_Auto5
+[2026.02.02-19.04.35:141][ 10]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_CharacterBase_Auto5AAA80AC54A6C7BFD235786B9475A66AB.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/Autosaves/Game/PlayerAssets/BP_CharacterBase_Auto5.uasset'
+[2026.02.02-19.04.35:142][ 10]LogFileHelpers: Auto-saving content packages took 0.077
+[2026.02.02-19.06.33:422][563]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4810.687500
+[2026.02.02-19.06.34:422][566]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.02-19.06.34:422][566]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4811.355957, Update Interval: 356.072266
+[2026.02.02-19.07.33:107][900]LogStreaming: Display: FlushAsyncLoading(804): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.02-19.07.41:102][842]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "HitAnim" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get HitAnim
+[2026.02.02-19.07.41:110][842]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Hit Anim  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.02-19.07.41:160][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.02.02-19.07.42:749][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.02.02-19.07.42:755][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.02-19.07.42:786][ 12]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.02-19.07.42:886][ 12]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.02-19.07.42:886][ 12]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.02-19.07.42:886][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.02.02-19.07.42:905][ 12]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.02.02-19.07.42:906][ 12]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_CharacterBaseEC09D3DF47FF935356FB1F97D5918114.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.02.02-19.07.42:916][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave took 160.110 ms (total: 804.646 ms)
+[2026.02.02-19.07.42:948][ 12]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.02-19.07.42:948][ 12]LogContentValidation: Enabled validators:
+[2026.02.02-19.07.42:948][ 12]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.02-19.07.42:948][ 12]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.02-19.07.42:948][ 12]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.02-19.07.42:948][ 12]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.02-19.07.42:948][ 12]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.02-19.07.42:948][ 12]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.02-19.07.42:948][ 12]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
