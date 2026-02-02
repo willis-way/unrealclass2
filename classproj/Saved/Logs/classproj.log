@@ -1270,3 +1270,29 @@ FPackageName: Skipped package /Game/Fab/Grenade/grenade/Materials/Grenade has a 
 [2026.02.02-19.54.35:757][879]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.02-19.54.35:757][879]AssetCheck: /Game/Blueprints/HealthRegen/BP_HealthComp Validating asset
 [2026.02.02-19.54.44:872][938]LogDerivedDataCache: C:/Users/sgbeh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.02-19.55.57:819][366]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\HealthRegen\BP_HealthRegen.uasset: [Compiler] Could not find a variable named "Cross" in '/Game/Blueprints/HealthRegen/BP_HealthRegen.BP_HealthRegen_C'.
+Make sure '/Game/Blueprints/HealthRegen/BP_HealthRegen.BP_HealthRegen_C' has been compiled for  Get Cross
+[2026.02.02-19.55.57:819][366]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\HealthRegen\BP_HealthRegen.uasset: [Compiler] This blueprint (self) is not a BP_HealthComp_C, therefore ' Target ' must have a connection.
+[2026.02.02-19.55.57:819][366]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\HealthRegen\BP_HealthRegen.uasset: [Compiler] The property associated with  Cross  could not be found in '/Game/Blueprints/HealthRegen/BP_HealthRegen.BP_HealthRegen_C'
+[2026.02.02-19.55.57:855][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.02.02-19.56.10:627][781]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\HealthRegen\BP_HealthRegen.uasset: [Compiler] This blueprint (self) is not a BP_HealthComp_C, therefore ' Target ' must have a connection.
+[2026.02.02-19.56.10:660][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.02.02-19.56.18:114][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.02.02-19.56.18:118][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.02-19.56.18:145][650]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/HealthRegen/BP_HealthRegen] ([2] browsable assets)...
+[2026.02.02-19.56.18:146][650]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.02.02-19.56.18:209][650]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/HealthRegen/BP_HealthRegen.BP_HealthRegen]
+[2026.02.02-19.56.18:209][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HealthRegen/BP_HealthRegen]
+[2026.02.02-19.56.18:224][650]LogSavePackage: Moving output files for package: /Game/Blueprints/HealthRegen/BP_HealthRegen
+[2026.02.02-19.56.18:224][650]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_HealthRegen4E83967B46214B93F72836B2C05FE172.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/HealthRegen/BP_HealthRegen.uasset'
+[2026.02.02-19.56.18:232][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.806 ms (total: 175.186 ms)
+[2026.02.02-19.56.18:259][650]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.02-19.56.18:259][650]LogContentValidation: Enabled validators:
+[2026.02.02-19.56.18:259][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.02-19.56.18:259][650]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.02-19.56.18:259][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.02-19.56.18:259][650]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.02-19.56.18:259][650]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.02-19.56.18:259][650]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.02-19.56.18:259][650]AssetCheck: /Game/Blueprints/HealthRegen/BP_HealthRegen Validating asset
+[2026.02.02-19.56.31:810][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
