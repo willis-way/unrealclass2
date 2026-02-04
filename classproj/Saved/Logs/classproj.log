@@ -3078,3 +3078,701 @@ FPackageName: Skipped package /Game/AS_Hit has a valid, mounted, mount point but
 [2026.02.04-19.44.28:056][978]LogPlayLevel: Display: Destroying online subsystem :Context_43
 [2026.02.04-19.44.32:260][345]LogSlate: Window 'Message Log' being destroyed
 [2026.02.04-19.44.32:287][345]LogSlate: Window 'Message Log' being destroyed
+[2026.02.04-19.47.41:895][543]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3233.591553
+[2026.02.04-19.47.41:997][551]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-19.47.41:997][551]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3233.681152, Update Interval: 301.320221
+[2026.02.04-19.47.59:997][944]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.04-19.48.00:002][944]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.04-19.48.00:002][944]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.02.04-19.48.00:003][944]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 724 us (total: 7.381 ms)
+[2026.02.04-19.48.00:003][944]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.04-19.48.00:025][944]LogPlayLevel: Display: Creating online subsystem for client :Context_44
+[2026.02.04-19.48.00:027][944]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2026.02.04-19.48.00:048][945]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.04-19.48.00:056][945]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.04-19.48.00:057][945]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.117 ms (total: 11.318 ms)
+[2026.02.04-19.48.00:057][945]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008720s)
+[2026.02.04-19.48.00:057][945]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.008787s)
+[2026.02.04-19.48.00:063][945]LogPSOHitching: Encountered 850 PSO creation hitches so far (335 graphics, 515 compute). 0 of them were precached.
+[2026.02.04-19.48.00:089][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.02.04-19.48.00:091][945]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.02.04-19.48.00:092][945]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.04-19.48.00:092][945]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.04-19.48.00:092][945]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.04-19.48.00:092][945]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.04-19.48.00:095][945]LogWorldPartition: Display: WorldPartition initialize took 1.312 ms (total: 1.10 sec)
+[2026.02.04-19.48.00:095][945]LogPlayLevel: PIE: World Init took: (0.003286s)
+[2026.02.04-19.48.00:095][945]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.02.04-19.48.00:095][945]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.04-19.48.00:095][945]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.04-19.48.00:095][945]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.04-19.48.00:095][945]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.04-19.48.00:095][945]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.04-19.48.00:095][945]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.04-19.48.00:095][945]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.04-19.48.00:095][945]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.04-19.48.00:095][945]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.04-19.48.00:095][945]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.04-19.48.00:095][945]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.04-19.48.00:097][945]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.04-19.48.00:108][945]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2026.02.04-19.48.00:108][945]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.04-19.48.00:108][945]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.04-19.48.00:108][945]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.04-19.48.00:109][945]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2026.02.04-19.48.00:109][945]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2026.02.04-19.48.00:111][945]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2026.02.04-19.48.00:111][945]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2026.02.04-19.48.00:111][945]LogInit: FAudioDevice initialized with ID 12.
+[2026.02.04-19.48.00:111][945]LogAudio: Display: Audio Device (ID: 12) registered with world 'L_LevelOne'.
+[2026.02.04-19.48.00:111][945]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2026.02.04-19.48.00:116][945]LogLoad: Game class is 'GM_FPS_C'
+[2026.02.04-19.48.00:119][945]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2026.02.04-14.48.00
+[2026.02.04-19.48.00:119][945]LogWorld: Bringing up level for play took: 0.003276
+[2026.02.04-19.48.00:122][945]PIE: Server logged in
+[2026.02.04-19.48.00:123][945]PIE: Play in editor total start time 0.121 seconds.
+[2026.02.04-19.48.00:167][946]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.04-19.48.01:795][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.04-19.48.01:795][ 75]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.04-19.48.01:795][ 75]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2026.02.04-19.48.01:796][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.04-19.48.01:796][ 75]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2026.02.04-19.48.01:799][ 75]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.04-19.48.01:804][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.04-19.48.01:824][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.04-19.48.01:825][ 75]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2026.02.04-19.48.01:825][ 75]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2026.02.04-19.48.01:827][ 75]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2026.02.04-19.48.01:832][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.02.04-19.48.01:914][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2026.02.04-19.48.15:954][465]LogPSOHitching: Encountered 900 PSO creation hitches so far (347 graphics, 553 compute). 0 of them were precached.
+[2026.02.04-19.49.44:079][ 88]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AS_Hit.AS_Hit
+[2026.02.04-19.49.44:121][ 88]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2026.02.04-19.49.47:296][351]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/ASM_Hit.ASM_Hit
+[2026.02.04-19.49.47:370][351]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2026.02.04-19.49.47:371][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.04-19.49.47:433][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.02.04-19.49.52:163][753]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AS_Hit.AS_Hit
+[2026.02.04-19.49.52:203][753]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2026.02.04-19.50.18:796][552]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_4
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.20:912][738]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_5
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.22:734][892]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_6
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.22:776][893]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_7
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.22:789][894]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_8
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.22:800][895]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_9
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.22:813][896]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_10
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.22:826][897]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_11
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.22:837][898]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_12
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.22:851][899]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_13
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.22:897][900]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_14
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.22:929][901]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_15
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.22:961][902]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_16
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.22:998][903]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_17
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:009][904]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_18
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:020][905]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_19
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:033][906]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_20
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:045][907]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_21
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:057][908]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_22
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:072][909]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_23
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:084][910]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_24
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:098][911]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_25
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:112][912]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_26
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:126][913]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_27
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:139][914]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_28
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:152][915]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_29
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:166][916]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_30
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:180][917]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_31
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:194][918]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_32
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:209][919]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_33
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:222][920]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_34
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:235][921]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_35
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:250][922]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_36
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:265][923]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_37
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:277][924]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_38
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:291][925]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_39
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:305][926]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_40
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:320][927]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_41
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:332][928]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_42
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:346][929]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_43
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:360][930]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_44
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:373][931]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_45
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:387][932]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_46
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:401][933]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_47
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:416][934]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_48
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:430][935]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_49
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:443][936]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_50
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:456][937]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_51
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:470][938]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_52
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:485][939]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_53
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:498][940]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_54
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:511][941]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_55
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:526][942]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_56
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:540][943]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_57
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:553][944]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_58
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:568][945]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_59
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:580][946]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_60
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:593][947]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_61
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:608][948]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_62
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:620][949]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_63
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:636][950]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_64
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:651][951]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_65
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:663][952]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_66
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:677][953]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_67
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:690][954]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_68
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:705][955]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_69
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:719][956]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_70
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:734][957]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_71
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:747][958]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_72
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:760][959]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_73
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:773][960]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_74
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:788][961]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_75
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:802][962]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_76
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:815][963]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_77
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:829][964]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_78
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:842][965]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_79
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:857][966]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_80
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:872][967]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_81
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:885][968]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_82
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:899][969]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_83
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:913][970]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_84
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:927][971]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_85
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:943][972]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_86
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:955][973]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_87
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:968][974]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_88
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:982][975]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_89
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.23:995][976]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_90
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.24:009][977]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_91
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.24:022][978]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_92
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.24:036][979]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_93
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.24:051][980]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_94
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.24:064][981]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_95
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.24:078][982]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_96
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.24:229][991]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_97
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.24:281][992]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/PlayerAssets/ABP_Player.ABP_Player
+[2026.02.04-19.50.24:282][992]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2026.02.04-19.50.24:290][992]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2026.02.04-19.50.24:297][992]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.04-19.50.24:297][992]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Player_C_0
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.24:571][992]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2026.02.04-19.50.25:046][992]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Player_C_0
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.25:154][993]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Player_C_0
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.25:165][994]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Player_C_0
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.25:192][995]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Player_C_0
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.25:205][996]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Player_C_0
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.25:218][997]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Player_C_0
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.25:230][998]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Player_C_0
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.25:243][999]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Player_C_0
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.25:255][  0]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Player_C_0
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.25:266][  1]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Player_C_0
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.25:278][  2]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Player_C_0
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.25:290][  3]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Player_C_0
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.25:301][  4]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Player_C_0
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.50.25:313][  5]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Player_C_0
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.51.40:536][606]LogSlate: Took 0.008394 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.02.04-19.52.09:273][ 70]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Integer64' on ' integer64 - integer64 '
+[2026.02.04-19.52.09:273][ 70]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' integer64 - integer64 ' could not successfuly expand pins!
+[2026.02.04-19.52.09:274][ 70]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Integer64' on ' integer64 + integer64 '
+[2026.02.04-19.52.09:274][ 70]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' integer64 + integer64 ' could not successfuly expand pins!
+[2026.02.04-19.52.09:278][ 70]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Last Index  to imply a specific type.
+[2026.02.04-19.52.09:278][ 70]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Map  is undetermined.  Connect something to  Length  to imply a specific type.
+[2026.02.04-19.52.09:285][ 70]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.04-19.52.09:286][ 70]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Map ' pin is invalid: Map inputs (like 'Target Map') must have an input wired into them (try connecting a MakeMap node).
+[2026.02.04-19.52.09:286][ 70]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.04-19.52.09:286][ 70]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.04-19.52.09:286][ 70]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.04-19.52.09:497][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.02.04-19.52.09:566][ 70]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_98
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.52.09:695][ 72]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_99
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.52.13:682][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.02.04-19.52.13:688][432]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.04-19.52.13:750][432]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832
+[2026.02.04-19.52.13:750][432]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/RE5B2IEP2TCCQN34XBQ8320B8CDC0A4E31AF4B7B692EB5FF63E706.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832.uasset'
+[2026.02.04-19.52.13:751][432]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.04-19.52.13:810][432]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.04-19.52.13:810][432]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.04-19.52.13:810][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.02.04-19.52.13:835][432]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.02.04-19.52.13:835][432]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_CharacterBase2F04404C42F40477FC438180662BDC9A.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.02.04-19.52.13:842][432]LogFileHelpers: InternalPromptForCheckoutAndSave took 154.250 ms (total: 3.55 sec)
+[2026.02.04-19.52.13:898][432]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.04-19.52.13:898][432]LogContentValidation: Enabled validators:
+[2026.02.04-19.52.13:898][432]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.04-19.52.13:898][432]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.04-19.52.13:898][432]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.04-19.52.13:898][432]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.04-19.52.13:898][432]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.04-19.52.13:898][432]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.04-19.52.13:899][432]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2026.02.04-19.52.13:899][432]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.02.04-19.52.36:020][188]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Integer64' on ' integer64 - integer64 '
+[2026.02.04-19.52.36:020][188]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' integer64 - integer64 ' could not successfuly expand pins!
+[2026.02.04-19.52.36:020][188]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Integer64' on ' integer64 + integer64 '
+[2026.02.04-19.52.36:020][188]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' integer64 + integer64 ' could not successfuly expand pins!
+[2026.02.04-19.52.36:024][188]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Last Index  to imply a specific type.
+[2026.02.04-19.52.36:024][188]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Map  is undetermined.  Connect something to  Length  to imply a specific type.
+[2026.02.04-19.52.36:031][188]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.04-19.52.36:032][188]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Map ' pin is invalid: Map inputs (like 'Target Map') must have an input wired into them (try connecting a MakeMap node).
+[2026.02.04-19.52.36:032][188]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.04-19.52.36:032][188]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.04-19.52.36:032][188]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.04-19.52.36:220][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.02.04-19.52.36:279][188]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_100
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.52.36:404][190]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_101
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.52.58:084][  7]LogSlate: Window 'Delete Variable' being destroyed
+[2026.02.04-19.53.18:325][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.02.04-19.53.18:372][821]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_102
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.53.18:448][822]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_103
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.53.24:613][381]LogPSOHitching: Encountered 950 PSO creation hitches so far (372 graphics, 578 compute). 0 of them were precached.
+[2026.02.04-19.53.24:797][381]LogPSOHitching: Encountered 1000 PSO creation hitches so far (378 graphics, 622 compute). 0 of them were precached.
+[2026.02.04-19.53.25:093][381]LogPSOHitching: Encountered 1050 PSO creation hitches so far (390 graphics, 660 compute). 0 of them were precached.
+[2026.02.04-19.53.27:370][519]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2026.02.04-19.53.43:276][756]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3594.959717
+[2026.02.04-19.53.43:363][764]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-19.53.43:363][764]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3595.035645, Update Interval: 306.183655
+[2026.02.04-19.53.47:712][133]LogStreaming: Display: FlushAsyncLoading(783): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.04-19.53.47:722][133]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/WeaponBlueprints/BP_Pipe.BP_Pipe
+[2026.02.04-19.53.47:722][133]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2026.02.04-19.53.48:183][133]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2026.02.04-19.54.05:136][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.02.04-19.54.13:194][576]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_104
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.54.19:449][ 31]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher.BP_GrenadeLauncher
+[2026.02.04-19.54.19:449][ 31]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2026.02.04-19.54.28:900][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.02.04-19.54.33:779][244]LogStreaming: Display: FlushAsyncLoading(784): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.04-19.54.33:788][244]LogStreaming: Warning: FGlobalImportStore:AddPackageRef: Found reference to previously missing package /Game/AS_Hit (0xA660D7A01801D6F3)
+[2026.02.04-19.54.33:850][244]LogStaticMesh: Display: Building static mesh SM_Bullet (Required Memory Estimate: 4.341041 MB)...
+[2026.02.04-19.54.33:869][244]LogStaticMesh: Display: Building static mesh SM_Gun (Required Memory Estimate: 237.137811 MB)...
+[2026.02.04-19.54.33:878][244]LogStaticMesh: Built static mesh [0.03s] /Game/Fab/Weapons/Gun/SM_Bullet.SM_Bullet
+[2026.02.04-19.54.33:914][244]LogTexture: Display: Building textures: /Game/Fab/Effects/ImpactEffects/NS_HeavyImpact.NS_HeavyImpact:NE_Particle_Burst_01_0.NE_Sprite_Burst_Renderer.ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.02.04-19.54.33:914][244]LogTexture: Display: Building textures: /Game/Fab/Effects/ImpactEffects/NS_HeavyImpact.NS_HeavyImpact:NE_Flash_01_1.ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.02.04-19.54.33:917][244]LogTexture: Display: Building textures: /Game/Fab/Effects/ImpactEffects/NS_HeavyImpact.NS_HeavyImpact:NE_Particle_Burst_01_0.ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.02.04-19.54.33:920][244]LogTexture: Display: Building textures: /Game/Fab/Effects/ImpactEffects/NS_HeavyImpact.NS_HeavyImpact:NE_Particle_Burst_02_0.ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.02.04-19.54.33:921][244]LogTexture: Display: Building textures: /Game/Fab/Effects/ImpactEffects/NS_HeavyImpact.NS_HeavyImpact:NE_Particle_Burst_02_0.NiagaraEmitter_0.ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.02.04-19.54.33:933][244]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/WeaponBlueprints/BP_Gun.BP_Gun
+[2026.02.04-19.54.33:949][244]LogTexture: Display: Building textures: /Game/Fab/Effects/ImpactEffects/NS_HeavyImpact.NS_HeavyImpact:ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.02.04-19.54.33:990][244]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2026.02.04-19.54.34:014][244]LogTexture: Display: Building textures: /Game/Fab/Effects/Textures/T_Wispy_SmokeSubUv.T_Wispy_SmokeSubUv (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.04-19.54.34:022][244]LogTexture: Display: Building textures: /Game/Fab/Weapons/Gun/Textures/scifi_ccg_gun_sketch_texture_0.scifi_ccg_gun_sketch_texture_0 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.02.04-19.54.34:068][244]LogTexture: Display: Building textures: /Game/Fab/Weapons/Gun/Textures/scifi_ccg_gun_sketch_texture_6.scifi_ccg_gun_sketch_texture_6 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.02.04-19.54.34:833][244]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2026.02.04-19.54.34:930][244]LoadErrors: Warning: While trying to load package /Game/Fab/Weapons/Gun/SM_Bullet, a dependent package /Game/Fab/Dirt_Bullet_caliber_9x19/dirt_bullet_caliber_9x19/Materials/lambert1 was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Fab/Dirt_Bullet_caliber_9x19/dirt_bullet_caliber_9x19/Materials/lambert1 has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Fab/Dirt_Bullet_caliber_9x19/dirt_bullet_caliber_9x19/Materials/lambert1'. Perhaps it has been deleted or was not synced?
+
+[2026.02.04-19.54.34:931][244]LoadErrors: Warning: While trying to load package /Game/Fab/Weapons/Gun/Materials/Material_007, a dependent package /Game/Fab/SCIFI_CCG_Gun_Sketch/scifi_ccg_gun_sketch/Textures/scifi_ccg_gun_sketch_texture_3 was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Fab/SCIFI_CCG_Gun_Sketch/scifi_ccg_gun_sketch/Textures/scifi_ccg_gun_sketch_texture_3 has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Fab/SCIFI_CCG_Gun_Sketch/scifi_ccg_gun_sketch/Textures/scifi_ccg_gun_sketch_texture_3'. Perhaps it has been deleted or was not synced?
+
+[2026.02.04-19.54.34:931][244]LoadErrors: Warning: While trying to load package /Game/Fab/Weapons/Gun/Materials/Material_007, a dependent package /Game/Fab/SCIFI_CCG_Gun_Sketch/scifi_ccg_gun_sketch/Textures/scifi_ccg_gun_sketch_texture_4 was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Fab/SCIFI_CCG_Gun_Sketch/scifi_ccg_gun_sketch/Textures/scifi_ccg_gun_sketch_texture_4 has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Fab/SCIFI_CCG_Gun_Sketch/scifi_ccg_gun_sketch/Textures/scifi_ccg_gun_sketch_texture_4'. Perhaps it has been deleted or was not synced?
+
+[2026.02.04-19.54.34:931][245]LoadErrors: Warning: While trying to load package /Game/Fab/Weapons/Gun/Materials/Material_007, a dependent package /Game/Fab/SCIFI_CCG_Gun_Sketch/scifi_ccg_gun_sketch/Textures/scifi_ccg_gun_sketch_texture_5 was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Fab/SCIFI_CCG_Gun_Sketch/scifi_ccg_gun_sketch/Textures/scifi_ccg_gun_sketch_texture_5 has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Fab/SCIFI_CCG_Gun_Sketch/scifi_ccg_gun_sketch/Textures/scifi_ccg_gun_sketch_texture_5'. Perhaps it has been deleted or was not synced?
+
+[2026.02.04-19.54.35:188][257]LogStaticMesh: Built static mesh [1.32s] /Game/Fab/Weapons/Gun/SM_Gun.SM_Gun
+[2026.02.04-19.54.36:467][322]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2026.02.04-19.54.40:959][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.02.04-19.54.50:012][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.02.04-19.54.50:016][396]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.04-19.54.50:070][396]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832
+[2026.02.04-19.54.50:071][396]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/RE5B2IEP2TCCQN34XBQ832BEF8C7F4411803BC0A1D879E8E15129F.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832.uasset'
+[2026.02.04-19.54.50:071][396]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.04-19.54.50:106][396]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.04-19.54.50:106][396]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.04-19.54.50:106][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.02.04-19.54.50:130][396]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.02.04-19.54.50:131][396]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_CharacterBase6C9E64B14B440EAC8413528DAB4A6260.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.02.04-19.54.50:131][396]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher] ([2] browsable assets)...
+[2026.02.04-19.54.50:140][396]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher.BP_GrenadeLauncher]
+[2026.02.04-19.54.50:140][396]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher]
+[2026.02.04-19.54.50:157][396]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher
+[2026.02.04-19.54.50:157][396]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_GrenadeLauncher885687B646BC15AC40EC69A56200ACD3.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Blueprints/WeaponBlueprints/BP_GrenadeLauncher.uasset'
+[2026.02.04-19.54.50:158][396]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase] ([2] browsable assets)...
+[2026.02.04-19.54.50:166][396]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_WeaponBase.BP_WeaponBase]
+[2026.02.04-19.54.50:166][396]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase]
+[2026.02.04-19.54.50:183][396]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_WeaponBase
+[2026.02.04-19.54.50:183][396]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_WeaponBaseD60743C74D31E95D2E5B73AB38182F4D.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Blueprints/WeaponBlueprints/BP_WeaponBase.uasset'
+[2026.02.04-19.54.50:184][396]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_Pipe] ([2] browsable assets)...
+[2026.02.04-19.54.50:191][396]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_Pipe.BP_Pipe]
+[2026.02.04-19.54.50:191][396]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_Pipe]
+[2026.02.04-19.54.50:203][396]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_Pipe
+[2026.02.04-19.54.50:203][396]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_Pipe955FBC2E437AEA8650E84B8935E23EAE.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Blueprints/WeaponBlueprints/BP_Pipe.uasset'
+[2026.02.04-19.54.50:204][396]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_Gun] ([2] browsable assets)...
+[2026.02.04-19.54.50:210][396]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_Gun.BP_Gun]
+[2026.02.04-19.54.50:210][396]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_Gun]
+[2026.02.04-19.54.50:227][396]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_Gun
+[2026.02.04-19.54.50:227][396]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_Gun01F317E644F7121B8BCD1DA933FD69EB.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Blueprints/WeaponBlueprints/BP_Gun.uasset'
+[2026.02.04-19.54.50:234][396]LogFileHelpers: InternalPromptForCheckoutAndSave took 217.603 ms (total: 3.77 sec)
+[2026.02.04-19.54.50:284][396]LogContentValidation: Display: Starting to validate 6 assets
+[2026.02.04-19.54.50:284][396]LogContentValidation: Enabled validators:
+[2026.02.04-19.54.50:284][396]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.04-19.54.50:284][396]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.04-19.54.50:284][396]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.04-19.54.50:284][396]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.04-19.54.50:284][396]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.04-19.54.50:284][396]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.04-19.54.50:284][396]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2026.02.04-19.54.50:284][396]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.02.04-19.54.50:284][396]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher Validating asset
+[2026.02.04-19.54.50:284][396]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_WeaponBase Validating asset
+[2026.02.04-19.54.50:284][396]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_Pipe Validating asset
+[2026.02.04-19.54.50:284][396]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_Gun Validating asset
+[2026.02.04-19.54.50:303][396]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.04-19.55.43:793][ 98]LogDerivedDataCache: C:/Users/sbehr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.04-19.56.34:783][ 85]LogStreaming: Display: FlushAsyncLoading(785): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.04-19.56.34:785][ 85]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to '"/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Weapons/BP_WeaponBase.BP_WeaponBase_C'",MemberName="Shortcut",MemberGuid=D9C70E9640029D1136E725A2AD3D66C5)'
+[2026.02.04-19.56.49:085][294]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Integer64' on ' integer64 - integer64 '
+[2026.02.04-19.56.49:085][294]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' integer64 - integer64 ' could not successfuly expand pins!
+[2026.02.04-19.56.49:085][294]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Integer64' on ' integer64 + integer64 '
+[2026.02.04-19.56.49:085][294]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' integer64 + integer64 ' could not successfuly expand pins!
+[2026.02.04-19.56.49:086][294]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] In use pin  New Active Weapon  no longer exists on node  SwitchActiveWeaponTo . Please refresh node or break links to remove pin.
+[2026.02.04-19.56.49:086][294]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "Shortcut" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase' has been compiled for  Get Shortcut
+[2026.02.04-19.56.49:086][294]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "Weapons" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get Weapons
+[2026.02.04-19.56.49:089][294]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Last Index  to imply a specific type.
+[2026.02.04-19.56.49:089][294]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Map  is undetermined.  Connect something to  Length  to imply a specific type.
+[2026.02.04-19.56.49:097][294]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.04-19.56.49:097][294]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Map ' pin is invalid: Map inputs (like 'Target Map') must have an input wired into them (try connecting a MakeMap node).
+[2026.02.04-19.56.49:097][294]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.04-19.56.49:097][294]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.04-19.56.49:098][294]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.04-19.56.49:098][294]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Weapons  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.04-19.56.49:098][294]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Shortcut  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.04-19.56.49:292][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.02.04-19.57.05:261][636]LogShaderCompilers: Display: ================================================
+[2026.02.04-19.57.05:261][636]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.04-19.57.05:261][636]LogShaderCompilers: Display: Total job queries 623, among them cache hits 71 (11.40%), DDC hits 415 (66.61%), Duplicates 77 (12.36%)
+[2026.02.04-19.57.05:261][636]LogShaderCompilers: Display: Tracking 475 distinct input hashes that result in 338 distinct outputs (71.16%)
+[2026.02.04-19.57.05:261][636]LogShaderCompilers: Display: RAM used: 4.25 MiB of 1.60 GiB budget. Usage: 0.26%
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display: Shaders Compiled: 60
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display: Jobs assigned 60, completed 60 (100%)
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display: Average time worker was idle: 808.37 s
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.13 s
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display: Job execution time: average 1.07 s, max 3.68 s
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display: Job life time (pending + execution): average 1.13 s, max 3.81
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display: Shader code size: total 703.614 KiB, numShaders 62, average 11.348 KiB, min 2.934 KiB, max 30.063 KiB
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.03 s
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display: Jobs were issued in 45 batches (only local compilation was used), average 1.33 jobs/batch
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display: Average processing rate: 5.98 jobs/sec
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display: Total thread time: 27.367 s
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display: Total thread preprocess time: 7.657 s
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display: Percentage time preprocessing: 27.98%
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display: Effective parallelization: 2.73 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.272761
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.99 sec, max 1.99 sec, min 1.99 sec)
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.83 sec, max 1.83 sec, min 1.83 sec)
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    3 times, average 1.31 sec, max 2.13 sec, min 0.71 sec)
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.06 sec, max 1.06 sec, min 1.06 sec)
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    5 times, average 0.89 sec, max 1.41 sec, min 0.71 sec)
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 16.24% of total time (compiled    5 times, average 0.89 sec, max 1.41 sec, min 0.71 sec)
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 14.38% of total time (compiled    3 times, average 1.31 sec, max 2.13 sec, min 0.71 sec)
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.08% of total time (compiled    9 times, average 0.37 sec, max 0.50 sec, min 0.27 sec)
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.53% of total time (compiled    9 times, average 0.35 sec, max 0.49 sec, min 0.13 sec)
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 7.28% of total time (compiled    1 times, average 1.99 sec, max 1.99 sec, min 1.99 sec)
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display: === Material stats ===
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display: Materials Translated:    167
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display: Material Translation Only: 0.04 s (30%)
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display: Material Cache Hits: 25 (15%)
+[2026.02.04-19.57.05:262][636]LogShaderCompilers: Display: ================================================
+[2026.02.04-19.57.17:825][659]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Integer64' on ' integer64 - integer64 '
+[2026.02.04-19.57.17:825][659]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' integer64 - integer64 ' could not successfuly expand pins!
+[2026.02.04-19.57.17:825][659]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Integer64' on ' integer64 + integer64 '
+[2026.02.04-19.57.17:825][659]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' integer64 + integer64 ' could not successfuly expand pins!
+[2026.02.04-19.57.17:826][659]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] In use pin  New Active Weapon  no longer exists on node  SwitchActiveWeaponTo . Please refresh node or break links to remove pin.
+[2026.02.04-19.57.17:826][659]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "Shortcut" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase' has been compiled for  Get Shortcut
+[2026.02.04-19.57.17:826][659]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "Weapons" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get Weapons
+[2026.02.04-19.57.17:829][659]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Last Index  to imply a specific type.
+[2026.02.04-19.57.17:829][659]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Map  is undetermined.  Connect something to  Length  to imply a specific type.
+[2026.02.04-19.57.17:836][659]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.04-19.57.17:836][659]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Map ' pin is invalid: Map inputs (like 'Target Map') must have an input wired into them (try connecting a MakeMap node).
+[2026.02.04-19.57.17:838][659]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.04-19.57.17:838][659]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.04-19.57.17:838][659]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.04-19.57.17:838][659]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Weapons  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.04-19.57.17:838][659]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Shortcut  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.04-19.57.18:031][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.02.04-19.57.27:201][475]LogPSOHitching: Encountered 1100 PSO creation hitches so far (410 graphics, 690 compute). 0 of them were precached.
+[2026.02.04-19.57.47:065][138]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.04-19.57.47:099][138]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.04-19.57.47:170][138]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.04-19.57.47:170][138]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.04-19.57.47:170][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.02.04-19.57.47:196][138]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.02.04-19.57.47:197][138]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_CharacterBase8CA38BBC4C881E20C36237A4A3241309.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.02.04-19.57.47:205][138]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.879 ms (total: 3.91 sec)
+[2026.02.04-19.57.47:250][138]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.04-19.57.47:250][138]LogContentValidation: Enabled validators:
+[2026.02.04-19.57.47:250][138]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.04-19.57.47:250][138]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.04-19.57.47:250][138]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.04-19.57.47:250][138]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.04-19.57.47:250][138]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.04-19.57.47:250][138]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.04-19.57.47:250][138]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.02.04-19.57.47:790][182]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Integer64' on ' integer64 - integer64 '
+[2026.02.04-19.57.47:790][182]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' integer64 - integer64 ' could not successfuly expand pins!
+[2026.02.04-19.57.47:790][182]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Integer64' on ' integer64 + integer64 '
+[2026.02.04-19.57.47:790][182]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' integer64 + integer64 ' could not successfuly expand pins!
+[2026.02.04-19.57.47:793][182]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Last Index  to imply a specific type.
+[2026.02.04-19.57.47:794][182]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Map  is undetermined.  Connect something to  Length  to imply a specific type.
+[2026.02.04-19.57.47:802][182]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.04-19.57.47:802][182]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.04-19.57.47:802][182]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.04-19.57.47:802][182]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Map ' pin is invalid: Map inputs (like 'Target Map') must have an input wired into them (try connecting a MakeMap node).
+[2026.02.04-19.57.47:803][182]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.04-19.57.47:985][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.02.04-19.57.49:528][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.02.04-19.57.49:533][294]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.04-19.57.49:586][294]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832
+[2026.02.04-19.57.49:586][294]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/RE5B2IEP2TCCQN34XBQ832CB6F96DF41B5E8CF2353D08B0DA2EF8F.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832.uasset'
+[2026.02.04-19.57.49:593][294]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.781 ms (total: 3.97 sec)
+[2026.02.04-19.57.49:649][294]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.04-19.57.49:649][294]LogContentValidation: Enabled validators:
+[2026.02.04-19.57.49:649][294]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.04-19.57.49:649][294]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.04-19.57.49:649][294]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.04-19.57.49:649][294]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.04-19.57.49:649][294]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.04-19.57.49:649][294]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.04-19.57.49:649][294]AssetCheck: /Game/Levels/L_LevelOne Validating asset
