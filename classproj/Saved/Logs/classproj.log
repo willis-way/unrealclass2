@@ -2898,3 +2898,110 @@ FPackageName: Skipped package /Game/AS_Hit has a valid, mounted, mount point but
 [2026.02.04-19.38.46:344][328]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.04-19.38.46:344][328]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.04-19.38.46:344][328]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2026.02.04-19.38.58:060][499]LogPSOHitching: Encountered 650 PSO creation hitches so far (273 graphics, 377 compute). 0 of them were precached.
+[2026.02.04-19.38.58:288][499]LogPSOHitching: Encountered 700 PSO creation hitches so far (278 graphics, 422 compute). 0 of them were precached.
+[2026.02.04-19.38.58:572][499]LogPSOHitching: Encountered 750 PSO creation hitches so far (290 graphics, 460 compute). 0 of them were precached.
+[2026.02.04-19.39.03:474][903]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_Default.IMC_Default
+[2026.02.04-19.39.33:442][102]LogContentBrowser: Deferred new asset file creation: IA_Shoot1
+[2026.02.04-19.39.33:469][102]LogContentBrowser: Creating deferred item: IA_Shoot1
+[2026.02.04-19.39.33:482][103]LogContentBrowser: Renaming the item being created (Deferred Item: IA_Shoot1).
+[2026.02.04-19.39.46:530][410]LogContentBrowser: Attempting asset rename: IA_Shoot1 -> IA_NextWeapon
+[2026.02.04-19.39.46:533][410]LogContentBrowser: End creating deferred item IA_Shoot1
+[2026.02.04-19.39.50:899][775]LogContentBrowser: Deferred new asset file creation: IA_Shoot1
+[2026.02.04-19.39.50:905][775]LogContentBrowser: Creating deferred item: IA_Shoot1
+[2026.02.04-19.39.50:935][776]LogContentBrowser: Renaming the item being created (Deferred Item: IA_Shoot1).
+[2026.02.04-19.39.58:669][549]LogContentBrowser: Attempting asset rename: IA_Shoot1 -> IA_PreviousWeapon
+[2026.02.04-19.39.58:670][549]LogContentBrowser: End creating deferred item IA_Shoot1
+[2026.02.04-19.40.01:946][858]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.04-19.40.02:050][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.02.04-19.40.02:073][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.02.04-19.40.02:098][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.02.04-19.40.02:108][858]LogFileHelpers: InternalPromptForCheckoutAndSave took 162.675 ms (total: 3.32 sec)
+[2026.02.04-19.41.00:552][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.02.04-19.41.00:555][146]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.028
+[2026.02.04-19.41.00:556][146]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_NextWeapon] ([1] browsable assets)...
+[2026.02.04-19.41.00:556][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_NextWeapon]
+[2026.02.04-19.41.00:565][146]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/Actions/IA_NextWeapon_Auto2
+[2026.02.04-19.41.00:565][146]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/IA_NextWeapon_Auto2F0E97B1F41422521BE1AE0B2A01D4CCD.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/Autosaves/Game/Input/Actions/IA_NextWeapon_Auto2.uasset'
+[2026.02.04-19.41.00:565][146]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_PreviousWeapon] ([1] browsable assets)...
+[2026.02.04-19.41.00:565][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_PreviousWeapon]
+[2026.02.04-19.41.00:572][146]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/Actions/IA_PreviousWeapon_Auto2
+[2026.02.04-19.41.00:572][146]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/IA_PreviousWeapon_Auto2321FA9284E7EEE29A48619A4E0B76A74.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/Autosaves/Game/Input/Actions/IA_PreviousWeapon_Auto2.uasset'
+[2026.02.04-19.41.00:572][146]LogFileHelpers: Auto-saving content packages took 0.018
+[2026.02.04-19.41.12:324][227]LogPSOHitching: Encountered 800 PSO creation hitches so far (311 graphics, 489 compute). 0 of them were precached.
+[2026.02.04-19.41.12:438][227]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2026.02.04-19.41.37:821][548]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2869.537842
+[2026.02.04-19.41.37:913][559]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-19.41.37:913][559]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2869.620850, Update Interval: 315.806152
+[2026.02.04-19.42.04:737][ 40]LogSlate: Window 'Save Asset As' being destroyed
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: ================================================
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: Total job queries 608, among them cache hits 69 (11.35%), DDC hits 411 (67.60%), Duplicates 77 (12.66%)
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: Tracking 462 distinct input hashes that result in 332 distinct outputs (71.86%)
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: RAM used: 4.20 MiB of 1.60 GiB budget. Usage: 0.26%
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: Shaders Compiled: 51
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: Jobs assigned 51, completed 51 (100%)
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: Average time worker was idle: 630.50 s
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.13 s
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: Job execution time: average 1.13 s, max 3.68 s
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: Job life time (pending + execution): average 1.20 s, max 3.81
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: Shader code size: total 613.56 KiB, numShaders 51, average 12.03 KiB, min 5.066 KiB, max 30.063 KiB
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.82 s
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: Jobs were issued in 36 batches (only local compilation was used), average 1.42 jobs/batch
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: Average processing rate: 5.78 jobs/sec
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: Total thread time: 22.824 s
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: Total thread preprocess time: 7.474 s
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: Percentage time preprocessing: 32.75%
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: Effective parallelization: 2.59 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.258757
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.99 sec, max 1.99 sec, min 1.99 sec)
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.83 sec, max 1.83 sec, min 1.83 sec)
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    3 times, average 1.31 sec, max 2.13 sec, min 0.71 sec)
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.06 sec, max 1.06 sec, min 1.06 sec)
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 0.91 sec, max 1.41 sec, min 0.71 sec)
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 17.25% of total time (compiled    3 times, average 1.31 sec, max 2.13 sec, min 0.71 sec)
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 15.95% of total time (compiled    4 times, average 0.91 sec, max 1.41 sec, min 0.71 sec)
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.57% of total time (compiled    8 times, average 0.36 sec, max 0.49 sec, min 0.13 sec)
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.32% of total time (compiled    8 times, average 0.35 sec, max 0.41 sec, min 0.27 sec)
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 8.73% of total time (compiled    1 times, average 1.99 sec, max 1.99 sec, min 1.99 sec)
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: === Material stats ===
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: Materials Translated:    164
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: Material Translation Only: 0.04 s (29%)
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: Material Cache Hits: 25 (15%)
+[2026.02.04-19.42.04:749][ 40]LogShaderCompilers: Display: ================================================
+[2026.02.04-19.43.01:360][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.02.04-19.43.01:367][522]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.04-19.43.01:411][522]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2026.02.04-19.43.01:411][522]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2026.02.04-19.43.01:411][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Default" FILE="../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Input/IMC_Default.uasset" SILENT=true
+[2026.02.04-19.43.01:421][522]LogSavePackage: Moving output files for package: /Game/Input/IMC_Default
+[2026.02.04-19.43.01:421][522]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/IMC_Default74FB2FD34C5E2D1D1E2E379E26CDE755.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Input/IMC_Default.uasset'
+[2026.02.04-19.43.01:421][522]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_NextWeapon] ([1] browsable assets)...
+[2026.02.04-19.43.01:421][522]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_NextWeapon]
+[2026.02.04-19.43.01:421][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IA_NextWeapon" FILE="../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Input/Actions/IA_NextWeapon.uasset" SILENT=true
+[2026.02.04-19.43.01:429][522]LogSavePackage: Moving output files for package: /Game/Input/Actions/IA_NextWeapon
+[2026.02.04-19.43.01:429][522]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/IA_NextWeapon5C107A7E480EC85FF2C96A940F5D2829.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Input/Actions/IA_NextWeapon.uasset'
+[2026.02.04-19.43.01:429][522]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_PreviousWeapon] ([1] browsable assets)...
+[2026.02.04-19.43.01:429][522]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_PreviousWeapon]
+[2026.02.04-19.43.01:429][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IA_PreviousWeapon" FILE="../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Input/Actions/IA_PreviousWeapon.uasset" SILENT=true
+[2026.02.04-19.43.01:435][522]LogSavePackage: Moving output files for package: /Game/Input/Actions/IA_PreviousWeapon
+[2026.02.04-19.43.01:435][522]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/IA_PreviousWeapon5F7D5FE34F0260FA696BBCA8A28EA1EB.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Input/Actions/IA_PreviousWeapon.uasset'
+[2026.02.04-19.43.01:442][522]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.901 ms (total: 3.40 sec)
+[2026.02.04-19.43.01:493][522]LogContentValidation: Display: Starting to validate 3 assets
+[2026.02.04-19.43.01:493][522]LogContentValidation: Enabled validators:
+[2026.02.04-19.43.01:493][522]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.04-19.43.01:493][522]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.04-19.43.01:493][522]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.04-19.43.01:493][522]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.04-19.43.01:493][522]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.04-19.43.01:493][522]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.04-19.43.01:494][522]AssetCheck: /Game/Input/IMC_Default Validating asset
+[2026.02.04-19.43.01:494][522]AssetCheck: /Game/Input/Actions/IA_NextWeapon Validating asset
+[2026.02.04-19.43.01:494][522]AssetCheck: /Game/Input/Actions/IA_PreviousWeapon Validating asset
+[2026.02.04-19.43.01:512][522]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
