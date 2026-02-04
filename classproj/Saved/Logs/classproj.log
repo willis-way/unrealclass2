@@ -1498,3 +1498,142 @@ FPackageName: Skipped package /Game/AS_Hit has a valid, mounted, mount point but
 [2026.02.04-18.57.26:410][563]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.04-18.57.26:411][563]AssetCheck: /Game/AS_Hit Validating asset
 [2026.02.04-18.57.30:466][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.02.04-18.58.03:524][983]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AS_Hit.AS_Hit
+[2026.02.04-18.58.03:524][983]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.02.04-18.58.03:548][983]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.04-18.58.03:770][983]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.02.04-18.58.04:241][983]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.02.04-18.58.33:018][ 73]LogPSOHitching: Encountered 350 PSO creation hitches so far (120 graphics, 230 compute). 0 of them were precached.
+[2026.02.04-18.58.53:424][185]LogContentBrowser: Deferred new asset file creation: AS_Hit_Montage
+[2026.02.04-18.58.53:431][185]LogContentBrowser: Creating deferred item: AS_Hit_Montage
+[2026.02.04-18.58.53:442][186]LogContentBrowser: Renaming the item being created (Deferred Item: AS_Hit_Montage).
+[2026.02.04-18.58.56:989][523]LogContentBrowser: Attempting asset rename: AS_Hit_Montage -> ASM_Hit
+[2026.02.04-18.58.56:995][523]LogContentBrowser: End creating deferred item AS_Hit_Montage
+[2026.02.04-18.59.15:019][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.04-18.59.15:022][656]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.04-18.59.15:076][656]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASM_Hit] ([1] browsable assets)...
+[2026.02.04-18.59.15:147][656]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/ASM_Hit.ASM_Hit]
+[2026.02.04-18.59.15:147][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASM_Hit]
+[2026.02.04-18.59.15:147][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASM_Hit" FILE="../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/ASM_Hit.uasset" SILENT=true
+[2026.02.04-18.59.15:157][656]LogSavePackage: Moving output files for package: /Game/ASM_Hit
+[2026.02.04-18.59.15:157][656]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/ASM_HitDFF4A6BB44268440414EE592ED2384C5.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/ASM_Hit.uasset'
+[2026.02.04-18.59.15:168][656]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.254 ms (total: 196.340 ms)
+[2026.02.04-18.59.15:227][656]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.04-18.59.15:227][656]LogContentValidation: Enabled validators:
+[2026.02.04-18.59.15:227][656]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.04-18.59.15:227][656]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.04-18.59.15:227][656]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.04-18.59.15:227][656]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.04-18.59.15:227][656]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.04-18.59.15:227][656]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.04-18.59.15:227][656]AssetCheck: /Game/ASM_Hit Validating asset
+[2026.02.04-18.59.45:155][858]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 356.908630
+[2026.02.04-18.59.45:231][867]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-18.59.45:231][867]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 356.975708, Update Interval: 319.517822
+[2026.02.04-19.00.20:722][692]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.02.04-19.01.59:089][267]Cmd: DELETE
+[2026.02.04-19.01.59:089][267]Cmd: ACTOR DELETE
+[2026.02.04-19.01.59:097][267]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2026.02.04-19.01.59:125][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.02.04-19.01.59:127][267]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2026.02.04-19.02.02:322][580]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.02.04-19.02.03:807][698]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/PlayerAssets/BP_DummyAI.BP_DummyAI_C
+[2026.02.04-19.02.03:807][698]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/PlayerAssets/BP_DummyAI.BP_DummyAI_C
+[2026.02.04-19.02.03:808][698]LogActorFactory: Actor Factory spawned Blueprint /Game/PlayerAssets/BP_DummyAI.BP_DummyAI as actor: BP_DummyAI_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_DummyAI_C_0
+[2026.02.04-19.02.03:809][698]LogActorFactory: Actor Factory spawned Blueprint /Game/PlayerAssets/BP_DummyAI.BP_DummyAI as actor: BP_DummyAI_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_DummyAI_C_0
+[2026.02.04-19.02.03:812][698]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.02.04-19.02.04:769][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.02.04-19.02.04:772][801]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2026.02.04-19.02.04:781][801]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/PlayerAssets/BP_DummyAI.BP_DummyAI_C
+[2026.02.04-19.02.04:781][801]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/PlayerAssets/BP_DummyAI.BP_DummyAI_C
+[2026.02.04-19.02.04:785][801]LogActorFactory: Actor Factory spawned Blueprint /Game/PlayerAssets/BP_DummyAI.BP_DummyAI as actor: BP_DummyAI_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_DummyAI_C_UAID_047C16285975DCBB02_2118367687
+[2026.02.04-19.02.04:785][801]LogActorFactory: Actor Factory spawned Blueprint /Game/PlayerAssets/BP_DummyAI.BP_DummyAI as actor: BP_DummyAI_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_DummyAI_C_UAID_047C16285975DCBB02_2118367687
+[2026.02.04-19.02.12:702][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.02.04-19.02.12:706][506]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.04-19.02.12:790][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.02.04-19.02.12:816][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.02.04-19.02.12:843][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.02.04-19.02.12:854][506]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832
+[2026.02.04-19.02.12:854][506]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/RE5B2IEP2TCCQN34XBQ8327B0D388E425871790B008DB387320C39.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832.uasset'
+[2026.02.04-19.02.12:887][506]LogFileHelpers: InternalPromptForCheckoutAndSave took 180.766 ms (total: 377.107 ms)
+[2026.02.04-19.02.12:944][506]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.04-19.02.12:944][506]LogContentValidation: Enabled validators:
+[2026.02.04-19.02.12:944][506]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.04-19.02.12:944][506]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.04-19.02.12:944][506]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.04-19.02.12:944][506]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.04-19.02.12:944][506]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.04-19.02.12:944][506]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.04-19.02.12:945][506]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2026.02.04-19.02.12:972][506]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.04-19.02.14:104][610]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.04-19.02.14:109][610]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.04-19.02.14:109][610]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.02.04-19.02.14:110][610]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 569 us
+[2026.02.04-19.02.14:110][610]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.04-19.02.14:110][610]BlueprintLog: Warning: Blueprint failed to compile:  BP_CharacterBase
+[2026.02.04-19.02.14:110][610]BlueprintLog: Warning: Blueprint failed to compile:  BP_HealthRegen
+[2026.02.04-19.02.16:734][610]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2026.02.04-19.02.16:797][610]LogPlayLevel: Display: Creating online subsystem for client :Context_23
+[2026.02.04-19.02.16:800][610]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2026.02.04-19.02.16:815][611]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.04-19.02.16:818][611]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.04-19.02.16:819][611]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 903 us
+[2026.02.04-19.02.16:819][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005496s)
+[2026.02.04-19.02.16:819][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.005541s)
+[2026.02.04-19.02.16:840][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.02.04-19.02.16:842][611]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.02.04-19.02.16:844][611]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.04-19.02.16:844][611]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.04-19.02.16:844][611]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.04-19.02.16:844][611]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.04-19.02.16:845][611]LogWorldPartition: Display: WorldPartition initialize took 1.256 ms (total: 1.08 sec)
+[2026.02.04-19.02.16:845][611]LogPlayLevel: PIE: World Init took: (0.003062s)
+[2026.02.04-19.02.16:847][611]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.02.04-19.02.16:847][611]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.04-19.02.16:847][611]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.04-19.02.16:847][611]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.04-19.02.16:847][611]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.04-19.02.16:847][611]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.04-19.02.16:847][611]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.04-19.02.16:847][611]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.04-19.02.16:847][611]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.04-19.02.16:847][611]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.04-19.02.16:847][611]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.04-19.02.16:847][611]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.04-19.02.16:849][611]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.04-19.02.16:859][611]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2026.02.04-19.02.16:860][611]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.04-19.02.16:860][611]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.04-19.02.16:860][611]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.04-19.02.16:860][611]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.02.04-19.02.16:860][611]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.02.04-19.02.16:862][611]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.02.04-19.02.16:862][611]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.02.04-19.02.16:862][611]LogInit: FAudioDevice initialized with ID 2.
+[2026.02.04-19.02.16:862][611]LogAudio: Display: Audio Device (ID: 2) registered with world 'L_LevelOne'.
+[2026.02.04-19.02.16:862][611]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.02.04-19.02.16:867][611]LogLoad: Game class is 'GM_FPS_C'
+[2026.02.04-19.02.16:870][611]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2026.02.04-14.02.16
+[2026.02.04-19.02.16:872][611]LogWorld: Bringing up level for play took: 0.005276
+[2026.02.04-19.02.16:877][611]PIE: Server logged in
+[2026.02.04-19.02.16:879][611]PIE: Play in editor total start time 2.77 seconds.
+[2026.02.04-19.02.16:970][612]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.04-19.02.17:034][613]LogPSOHitching: Encountered 400 PSO creation hitches so far (148 graphics, 252 compute). 0 of them were precached.
+[2026.02.04-19.02.26:928][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.04-19.02.26:928][570]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.04-19.02.26:929][570]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2026.02.04-19.02.26:929][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.04-19.02.26:929][570]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2026.02.04-19.02.26:931][570]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.04-19.02.26:936][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.04-19.02.26:956][570]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.04-19.02.26:956][570]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.02.04-19.02.26:956][570]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.02.04-19.02.26:958][570]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.02.04-19.02.26:961][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.04-19.02.26:964][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.02.04-19.02.26:997][571]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2026.02.04-19.02.40:250][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
