@@ -2023,3 +2023,51 @@ FPackageName: Skipped package /Game/AS_Hit has a valid, mounted, mount point but
 [2026.02.04-19.14.01:232][182]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.04-19.14.01:232][182]AssetCheck: /Game/Blueprints/HealthRegen/BP_HealthRegen Validating asset
 [2026.02.04-19.14.01:250][183]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.04-19.14.44:716][655]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.04-19.14.44:766][655]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/HealthRegen/BP_HealthRegen] ([2] browsable assets)...
+[2026.02.04-19.14.44:824][655]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/HealthRegen/BP_HealthRegen.BP_HealthRegen]
+[2026.02.04-19.14.44:824][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HealthRegen/BP_HealthRegen]
+[2026.02.04-19.14.44:840][655]LogSavePackage: Moving output files for package: /Game/Blueprints/HealthRegen/BP_HealthRegen
+[2026.02.04-19.14.44:840][655]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_HealthRegenA01A4A054878F9F19A5DA289BB60A828.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Blueprints/HealthRegen/BP_HealthRegen.uasset'
+[2026.02.04-19.14.44:847][655]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.340 ms (total: 1.13 sec)
+[2026.02.04-19.14.44:883][655]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.04-19.14.44:883][655]LogContentValidation: Enabled validators:
+[2026.02.04-19.14.44:883][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.04-19.14.44:883][655]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.04-19.14.44:883][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.04-19.14.44:883][655]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.04-19.14.44:883][655]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.04-19.14.44:883][655]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.04-19.14.44:883][655]AssetCheck: /Game/Blueprints/HealthRegen/BP_HealthRegen Validating asset
+[2026.02.04-19.14.44:986][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.04-19.14.45:015][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/HealthRegen/BP_HealthRegen] ([2] browsable assets)...
+[2026.02.04-19.14.45:016][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HealthRegen/BP_HealthRegen]
+[2026.02.04-19.14.45:031][666]LogSavePackage: Moving output files for package: /Game/Blueprints/HealthRegen/BP_HealthRegen
+[2026.02.04-19.14.45:031][666]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_HealthRegen54C81AB0420B6492111E1FB149028DB6.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Blueprints/HealthRegen/BP_HealthRegen.uasset'
+[2026.02.04-19.14.45:038][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.739 ms (total: 1.18 sec)
+[2026.02.04-19.14.45:081][666]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.04-19.14.45:081][666]LogContentValidation: Enabled validators:
+[2026.02.04-19.14.45:081][666]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.04-19.14.45:081][666]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.04-19.14.45:081][666]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.04-19.14.45:081][666]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.04-19.14.45:081][666]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.04-19.14.45:081][666]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.04-19.14.45:082][666]AssetCheck: /Game/Blueprints/HealthRegen/BP_HealthRegen Validating asset
+[2026.02.04-19.14.45:717][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.02.04-19.14.46:756][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.04-19.14.46:819][813]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/HealthRegen/BP_HealthRegen] ([2] browsable assets)...
+[2026.02.04-19.14.46:868][813]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/HealthRegen/BP_HealthRegen.BP_HealthRegen]
+[2026.02.04-19.14.46:868][813]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HealthRegen/BP_HealthRegen]
+[2026.02.04-19.14.46:884][813]LogSavePackage: Moving output files for package: /Game/Blueprints/HealthRegen/BP_HealthRegen
+[2026.02.04-19.14.46:884][813]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_HealthRegen1F175ECE4A3DA4A13BDFE5B7152A81C0.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Blueprints/HealthRegen/BP_HealthRegen.uasset'
+[2026.02.04-19.14.46:896][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.116 ms (total: 1.32 sec)
+[2026.02.04-19.14.46:948][813]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.04-19.14.46:948][813]LogContentValidation: Enabled validators:
+[2026.02.04-19.14.46:948][813]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.04-19.14.46:948][813]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.04-19.14.46:948][813]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.04-19.14.46:948][813]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.04-19.14.46:948][813]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.04-19.14.46:948][813]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.04-19.14.46:948][813]AssetCheck: /Game/Blueprints/HealthRegen/BP_HealthRegen Validating asset
