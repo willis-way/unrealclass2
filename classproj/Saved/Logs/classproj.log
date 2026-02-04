@@ -1982,3 +1982,44 @@ FPackageName: Skipped package /Game/AS_Hit has a valid, mounted, mount point but
 [2026.02.04-19.05.39:481][161]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.04-19.05.39:481][161]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.04-19.05.39:481][161]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2026.02.04-19.10.19:347][284]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/ASM_Hit.ASM_Hit
+[2026.02.04-19.10.19:437][284]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.02.04-19.10.19:437][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.04-19.10.19:513][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.02.04-19.10.19:592][286]LogPSOHitching: Encountered 450 PSO creation hitches so far (173 graphics, 277 compute). 0 of them were precached.
+[2026.02.04-19.10.57:155][116]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1028.905518
+[2026.02.04-19.10.57:283][123]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-19.10.57:283][123]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1029.025757, Update Interval: 311.092865
+[2026.02.04-19.12.07:229][539]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.02.04-19.12.07:524][541]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.02.04-19.12.07:551][542]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2026.02.04-19.12.07:559][542]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_0
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.12.07:615][545]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2026.02.04-19.12.07:630][546]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.02.04-19.12.07:742][547]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.02.04-19.12.07:769][548]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2026.02.04-19.12.07:871][549]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2026.02.04-19.12.08:046][552]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_1
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-19.13.34:447][919]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Documents\GitHub\unrealclass2\classproj\Content\Blueprints\HealthRegen\BP_HealthRegen.uasset: [Compiler] This blueprint (self) is not a BP_HealthComp_C, therefore ' Target ' must have a connection.
+[2026.02.04-19.13.34:486][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.02.04-19.14.01:046][182]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.04-19.14.01:098][182]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/HealthRegen/BP_HealthRegen] ([2] browsable assets)...
+[2026.02.04-19.14.01:157][182]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/HealthRegen/BP_HealthRegen.BP_HealthRegen]
+[2026.02.04-19.14.01:157][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HealthRegen/BP_HealthRegen]
+[2026.02.04-19.14.01:173][182]LogSavePackage: Moving output files for package: /Game/Blueprints/HealthRegen/BP_HealthRegen
+[2026.02.04-19.14.01:174][182]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/BP_HealthRegen4A6303AE46D7B311C47E41AE3C6823EA.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Content/Blueprints/HealthRegen/BP_HealthRegen.uasset'
+[2026.02.04-19.14.01:181][182]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.542 ms (total: 1.00 sec)
+[2026.02.04-19.14.01:232][182]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.04-19.14.01:232][182]LogContentValidation: Enabled validators:
+[2026.02.04-19.14.01:232][182]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.04-19.14.01:232][182]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.04-19.14.01:232][182]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.04-19.14.01:232][182]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.04-19.14.01:232][182]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.04-19.14.01:232][182]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.04-19.14.01:232][182]AssetCheck: /Game/Blueprints/HealthRegen/BP_HealthRegen Validating asset
+[2026.02.04-19.14.01:250][183]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Documents/GitHub/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
