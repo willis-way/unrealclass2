@@ -2208,3 +2208,51 @@ Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase' has been compil
 [2026.02.08-00.54.09:709][499]AssetCheck: /Game/Levels/L_LevelOne Validating asset
 [2026.02.08-00.54.09:709][499]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
 [2026.02.08-00.54.09:710][499]AssetCheck: /Game/Blueprints/HealthRegen/BP_HealthComp Validating asset
+[2026.02.08-00.56.05:102][745]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.02.08-00.56.05:102][745]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-00.56.05:102][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-00.56.05:177][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.02.08-00.56.06:074][819]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-00.56.06:075][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-00.56.06:120][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.02.08-00.56.07:116][906]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-00.56.07:116][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-00.56.07:167][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.02.08-00.56.09:863][148]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-00.56.09:863][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-00.56.09:879][148]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-00.56.09:879][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-00.56.09:953][148]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-00.56.09:953][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-00.56.09:995][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.02.08-00.56.10:392][172]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-00.56.10:392][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-00.56.10:440][172]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-00.56.10:440][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-00.56.10:476][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.02.08-00.56.16:201][498]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_34:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_16
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.08-00.56.18:334][712]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/WeaponBlueprints/BP_WeaponBase.BP_WeaponBase
+[2026.02.08-00.56.18:335][712]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_48
+[2026.02.08-00.56.20:646][851]LogSlate: Window 'BP_WeaponBase' being destroyed
+[2026.02.08-00.56.46:071][828]LogSlate: Took 0.007027 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.02.08-00.57.36:212][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.02.08-00.57.37:489][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.08-00.57.37:495][950]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-00.57.37:521][950]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase] ([2] browsable assets)...
+[2026.02.08-00.57.37:561][950]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_WeaponBase.BP_WeaponBase]
+[2026.02.08-00.57.37:561][950]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase]
+[2026.02.08-00.57.37:578][950]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_WeaponBase
+[2026.02.08-00.57.37:579][950]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_WeaponBaseB8D0CEA542E14EDE2096EAA4DF260E05.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/WeaponBlueprints/BP_WeaponBase.uasset'
+[2026.02.08-00.57.37:586][950]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.454 ms (total: 672.191 ms)
+[2026.02.08-00.57.37:618][950]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-00.57.37:618][950]LogContentValidation: Enabled validators:
+[2026.02.08-00.57.37:618][950]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-00.57.37:618][950]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-00.57.37:618][950]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-00.57.37:618][950]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-00.57.37:618][950]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-00.57.37:618][950]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-00.57.37:618][950]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_WeaponBase Validating asset
+[2026.02.08-00.57.37:630][950]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
