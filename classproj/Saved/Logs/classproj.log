@@ -1967,3 +1967,135 @@ Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been comp
 [2026.02.08-00.36.22:302][235]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.08-00.36.22:302][235]AssetCheck: /Game/Levels/L_LevelOne Validating asset
 [2026.02.08-00.36.22:302][235]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.02.08-00.37.29:791][782]LogStreaming: Display: FlushAsyncLoading(808): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.08-00.37.29:792][782]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to '"/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Components/BP_HealthComponent.BP_HealthComponent_C'",MemberName="CurrentHealth",MemberGuid=280118DB44A561801178FDAD4BC24B89)'
+[2026.02.08-00.38.16:493][437]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_47
+[2026.02.08-00.38.16:573][440]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_34:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_7
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.08-00.38.32:255][162]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Integer64' on ' integer64 - integer64 '
+[2026.02.08-00.38.32:255][162]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' integer64 - integer64 ' could not successfuly expand pins!
+[2026.02.08-00.38.32:255][162]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Integer64' on ' integer64 + integer64 '
+[2026.02.08-00.38.32:255][162]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' integer64 + integer64 ' could not successfuly expand pins!
+[2026.02.08-00.38.32:257][162]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "DeathAnim" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get DeathAnim
+[2026.02.08-00.38.32:257][162]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "DeathAnim" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get DeathAnim
+[2026.02.08-00.38.32:259][162]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "BP_HealthComponent" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get BP_HealthComponent
+[2026.02.08-00.38.32:259][162]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "CurrentHealth" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase' has been compiled for  Get CurrentHealth
+[2026.02.08-00.38.32:260][162]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Last Index  to imply a specific type.
+[2026.02.08-00.38.32:260][162]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Map  is undetermined.  Connect something to  Length  to imply a specific type.
+[2026.02.08-00.38.32:267][162]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.08-00.38.32:267][162]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Map ' pin is invalid: Map inputs (like 'Target Map') must have an input wired into them (try connecting a MakeMap node).
+[2026.02.08-00.38.32:267][162]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.08-00.38.32:267][162]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.08-00.38.32:267][162]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.08-00.38.32:267][162]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Death Anim  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.08-00.38.32:268][162]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Death Anim  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.08-00.38.32:268][162]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  BP Health Component  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.08-00.38.32:268][162]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Current Health  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.08-00.38.32:433][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.02.08-00.38.32:517][163]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_34:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_8
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.08-00.38.32:553][165]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_34:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_9
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.08-00.39.09:424][169]LogEditorTransaction: Undo Delete current selection
+[2026.02.08-00.39.09:656][169]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-00.39.09:659][169]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-00.39.10:861][294]LogEditorTransaction: Undo Add Node
+[2026.02.08-00.39.11:090][294]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-00.39.11:093][294]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-00.39.29:165][384]LogEditorTransaction: Undo Delete current selection
+[2026.02.08-00.39.29:389][384]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-00.39.29:392][384]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-00.39.30:430][488]LogEditorTransaction: Undo Add Component Nodes
+[2026.02.08-00.39.30:652][488]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-00.39.30:655][488]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-00.39.35:975][117]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Integer64' on ' integer64 - integer64 '
+[2026.02.08-00.39.35:976][117]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' integer64 - integer64 ' could not successfuly expand pins!
+[2026.02.08-00.39.35:976][117]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Integer64' on ' integer64 + integer64 '
+[2026.02.08-00.39.35:976][117]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' integer64 + integer64 ' could not successfuly expand pins!
+[2026.02.08-00.39.35:977][117]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "DeathAnim" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get DeathAnim
+[2026.02.08-00.39.35:977][117]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "DeathAnim" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get DeathAnim
+[2026.02.08-00.39.35:980][117]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "BP_HealthComponent" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get BP_HealthComponent
+[2026.02.08-00.39.35:980][117]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "CurrentHealth" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase' has been compiled for  Get CurrentHealth
+[2026.02.08-00.39.35:980][117]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Last Index  to imply a specific type.
+[2026.02.08-00.39.35:980][117]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Map  is undetermined.  Connect something to  Length  to imply a specific type.
+[2026.02.08-00.39.35:988][117]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.08-00.39.35:988][117]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Map ' pin is invalid: Map inputs (like 'Target Map') must have an input wired into them (try connecting a MakeMap node).
+[2026.02.08-00.39.35:989][117]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.08-00.39.35:989][117]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.08-00.39.35:989][117]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.08-00.39.35:989][117]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Death Anim  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.08-00.39.35:989][117]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Death Anim  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.08-00.39.35:989][117]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  BP Health Component  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.08-00.39.35:989][117]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Current Health  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.08-00.39.36:156][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.02.08-00.39.36:234][118]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_34:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_10
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.08-00.39.36:250][119]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_34:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_11
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.08-00.40.30:444][925]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6952.285156
+[2026.02.08-00.40.31:444][928]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.08-00.40.31:444][928]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6952.951660, Update Interval: 339.429291
+[2026.02.08-00.44.29:359][282]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Integer64' on ' integer64 - integer64 '
+[2026.02.08-00.44.29:359][282]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' integer64 - integer64 ' could not successfuly expand pins!
+[2026.02.08-00.44.29:359][282]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Integer64' on ' integer64 + integer64 '
+[2026.02.08-00.44.29:359][282]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' integer64 + integer64 ' could not successfuly expand pins!
+[2026.02.08-00.44.29:360][282]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "DeathAnim" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get DeathAnim
+[2026.02.08-00.44.29:360][282]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "DeathAnim" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get DeathAnim
+[2026.02.08-00.44.29:362][282]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "BP_HealthComponent" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get BP_HealthComponent
+[2026.02.08-00.44.29:362][282]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "CurrentHealth" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase' has been compiled for  Get CurrentHealth
+[2026.02.08-00.44.29:363][282]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Last Index  to imply a specific type.
+[2026.02.08-00.44.29:363][282]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Map  is undetermined.  Connect something to  Length  to imply a specific type.
+[2026.02.08-00.44.29:370][282]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.08-00.44.29:372][282]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Map ' pin is invalid: Map inputs (like 'Target Map') must have an input wired into them (try connecting a MakeMap node).
+[2026.02.08-00.44.29:372][282]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.08-00.44.29:372][282]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.08-00.44.29:372][282]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.08-00.44.29:372][282]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Death Anim  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.08-00.44.29:372][282]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Death Anim  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.08-00.44.29:372][282]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  BP Health Component  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.08-00.44.29:372][282]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Current Health  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.08-00.44.29:543][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.02.08-00.44.29:716][283]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_34:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_12
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.08-00.44.29:736][284]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_34:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_13
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.08-00.45.24:408][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.02.08-00.45.24:419][750]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-00.45.24:453][750]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832
+[2026.02.08-00.45.24:453][750]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/RE5B2IEP2TCCQN34XBQ832D2F435C34C74948B99553A99A10D0294.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832.uasset'
+[2026.02.08-00.45.24:454][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.08-00.45.24:462][750]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.08-00.45.24:462][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.08-00.45.24:462][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.02.08-00.45.24:490][750]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.02.08-00.45.24:491][750]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_CharacterBaseE98C7C7F4C508557DEF24BA2C5B433D6.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.02.08-00.45.24:499][750]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.026 ms (total: 483.523 ms)
+[2026.02.08-00.45.24:524][750]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.08-00.45.24:524][750]LogContentValidation: Enabled validators:
+[2026.02.08-00.45.24:524][750]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-00.45.24:524][750]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-00.45.24:524][750]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-00.45.24:524][750]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-00.45.24:524][750]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-00.45.24:524][750]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-00.45.24:524][750]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2026.02.08-00.45.24:524][750]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
