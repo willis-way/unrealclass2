@@ -1567,3 +1567,148 @@ FPackageName: Skipped package /Game/Fab/SCIFI_CCG_Gun_Sketch/scifi_ccg_gun_sketc
 [2026.02.07-23.50.31:423][146]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3953.204834
 [2026.02.07-23.50.32:429][149]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.02.07-23.50.32:429][149]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3953.872803, Update Interval: 348.297363
+[2026.02.07-23.51.50:473][787]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_34:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_2
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.07-23.52.00:925][706]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AS_Hit.AS_Hit
+[2026.02.07-23.52.00:967][706]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2026.02.07-23.52.25:985][  2]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/ASM_Hit.ASM_Hit
+[2026.02.07-23.52.26:024][  2]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2026.02.07-23.52.26:024][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.07-23.52.26:116][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.02.07-23.52.31:491][448]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.02.07-23.52.31:491][448]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.02.07-23.52.31:491][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.07-23.52.31:542][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.02.07-23.52.34:590][763]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.02.07-23.52.34:590][763]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.02.07-23.52.34:590][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.07-23.52.34:635][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.02.07-23.56.44:357][158]LogStreaming: Display: FlushAsyncLoading(787): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.07-23.56.44:370][158]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Monster/Vampire_A_Lusth_Anim.Vampire_A_Lusth_Anim (Required Memory Estimate: 0.26 MB)
+[2026.02.07-23.56.44:371][158]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Monster/Vampire_A_Lusth_Anim.Vampire_A_Lusth_Anim
+[2026.02.07-23.56.44:371][158]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Monster/Vampire_A_Lusth_Anim.Vampire_A_Lusth_Anim, at AnimationSequence/458ea05a8aa1b3ba0192a0933fc66a20efbd6208
+[2026.02.07-23.56.44:423][158]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2026.02.07-23.56.48:536][497]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2026.02.07-23.56.48:536][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.07-23.56.48:543][497]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.02.07-23.56.48:543][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.07-23.56.48:601][497]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.02.07-23.56.48:603][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.07-23.56.48:634][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.02.07-23.57.02:698][ 78]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_34:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_3
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.07-23.57.02:701][ 78]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_34:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_4
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.07-23.57.09:335][801]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AS_Hit.AS_Hit
+[2026.02.07-23.57.09:335][801]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2026.02.07-23.57.09:341][801]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.07-23.57.09:554][801]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2026.02.07-23.57.09:929][801]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2026.02.07-23.57.12:098][  9]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4353.898438
+[2026.02.07-23.57.12:206][ 17]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.07-23.57.12:206][ 17]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4353.999512, Update Interval: 355.068817
+[2026.02.07-23.57.31:374][ 29]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/PlayerAssets/ABP_Player.ABP_Player
+[2026.02.07-23.57.31:374][ 29]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2026.02.07-23.57.31:380][ 29]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2026.02.07-23.57.31:387][ 29]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.07-23.57.31:641][ 29]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2026.02.07-23.57.36:112][316]LogSlate: Window 'ABP_Player' being destroyed
+[2026.02.07-23.59.01:327][927]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.07-23.59.01:327][927]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.07-23.59.01:327][927]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.07-23.59.01:327][927]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.07-23.59.01:327][927]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.07-23.59.01:327][927]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.07-23.59.01:327][927]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.07-23.59.01:327][927]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.07-23.59.01:386][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.02.07-23.59.04:548][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.02.07-23.59.30:478][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.02.07-23.59.30:480][448]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.026
+[2026.02.07-23.59.30:481][448]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/PlayerAssets/ABP_Player] ([2] browsable assets)...
+[2026.02.07-23.59.30:481][448]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_34:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_5
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.07-23.59.30:573][448]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/PlayerAssets/ABP_Player.ABP_Player]
+[2026.02.07-23.59.30:573][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/ABP_Player]
+[2026.02.07-23.59.30:605][448]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerAssets/ABP_Player_Auto2
+[2026.02.07-23.59.30:605][448]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/ABP_Player_Auto231004345408655896172F897BD9F05FA.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/Autosaves/Game/PlayerAssets/ABP_Player_Auto2.uasset'
+[2026.02.07-23.59.30:605][448]LogFileHelpers: Auto-saving content packages took 0.125
+[2026.02.08-00.01.31:966][ 23]LogStreaming: Display: FlushAsyncLoading(788): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.08-00.01.31:988][ 23]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/sgbeh/Downloads/Death From The Back (1).fbx]
+[2026.02.08-00.01.32:112][ 23]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.02.08-00.01.32:128][ 23]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.02.08-00.01.46:958][ 23]LogSlate: Window 'Import Content' being destroyed
+[2026.02.08-00.01.46:973][ 23]LogInterchangeEngine: [Pending] Importing
+[2026.02.08-00.01.47:130][ 26]LogStreaming: Display: FlushAsyncLoading(793): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.08-00.01.47:150][ 27]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Death_From_The_Back__1_.Death_From_The_Back__1_ (Required Memory Estimate: 1.33 MB)
+[2026.02.08-00.01.47:173][ 27]LogAnimationCompression: Display: Storing compressed animation data for /Game/Death_From_The_Back__1_.Death_From_The_Back__1_, at AnimationSequence/194689cd7a21382a01dbb6baff8edab88e9e5fbf
+[2026.02.08-00.01.47:210][ 28]LogInterchangeEngine: Display: Interchange import completed [C:/Users/sgbeh/Downloads/Death From The Back (1).fbx]
+[2026.02.08-00.01.47:226][ 28]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.02.08-00.01.47:226][ 28]LogInterchangeEngine: [Success] Import Done
+[2026.02.08-00.02.08:046][189]LogContentBrowser: Attempting asset rename: Death_From_The_Back__1_ -> AS_DeathFromBack
+[2026.02.08-00.02.08:165][189]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-00.02.08:165][189]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AS_DeathFromBack] ([1] browsable assets)...
+[2026.02.08-00.02.08:196][189]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/AS_DeathFromBack.AS_DeathFromBack]
+[2026.02.08-00.02.08:196][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/AS_DeathFromBack]
+[2026.02.08-00.02.08:196][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AS_DeathFromBack" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/AS_DeathFromBack.uasset" SILENT=true
+[2026.02.08-00.02.08:211][189]LogSavePackage: Moving output files for package: /Game/AS_DeathFromBack
+[2026.02.08-00.02.08:211][189]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/AS_DeathFromBackE74B7B034CD1AD11C97AB89DEE1B94C2.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/AS_DeathFromBack.uasset'
+[2026.02.08-00.02.08:215][189]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.732 ms (total: 134.503 ms)
+[2026.02.08-00.02.08:255][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.02.08-00.02.08:280][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.02.08-00.02.08:301][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.02.08-00.02.08:341][189]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-00.02.08:341][189]LogContentValidation: Enabled validators:
+[2026.02.08-00.02.08:341][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-00.02.08:341][189]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-00.02.08:341][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-00.02.08:341][189]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-00.02.08:341][189]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-00.02.08:341][189]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-00.02.08:341][189]AssetCheck: /Game/AS_DeathFromBack Validating asset
+[2026.02.08-00.02.08:375][189]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.08-00.02.36:627][957]LogContentBrowser: Deferred new asset file creation: AS_DeathFromBack_Montage
+[2026.02.08-00.02.36:635][957]LogContentBrowser: Creating deferred item: AS_DeathFromBack_Montage
+[2026.02.08-00.02.36:646][958]LogContentBrowser: Renaming the item being created (Deferred Item: AS_DeathFromBack_Montage).
+[2026.02.08-00.02.42:443][624]LogContentBrowser: Attempting asset rename: AS_DeathFromBack_Montage -> ASM_DeathFromBack
+[2026.02.08-00.02.42:450][624]LogContentBrowser: End creating deferred item AS_DeathFromBack_Montage
+[2026.02.08-00.02.54:308][324]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/ASM_DeathFromBack.ASM_DeathFromBack
+[2026.02.08-00.02.54:352][324]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-00.02.54:352][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-00.02.54:475][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.02.08-00.03.02:124][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.02.08-00.03.02:128][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-00.03.02:153][ 47]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/PlayerAssets/ABP_Player] ([2] browsable assets)...
+[2026.02.08-00.03.02:153][ 47]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_34:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_6
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.08-00.03.02:153][ 47]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_34:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_6
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.08-00.03.02:166][ 47]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/PlayerAssets/ABP_Player.ABP_Player]
+[2026.02.08-00.03.02:167][ 47]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/ABP_Player]
+[2026.02.08-00.03.02:167][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/ABP_Player" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/ABP_Player.uasset" SILENT=true
+[2026.02.08-00.03.02:189][ 47]LogSavePackage: Moving output files for package: /Game/PlayerAssets/ABP_Player
+[2026.02.08-00.03.02:190][ 47]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/ABP_PlayerE4BDE1CD4DC448088295CEBD28A5257D.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/ABP_Player.uasset'
+[2026.02.08-00.03.02:191][ 47]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASM_DeathFromBack] ([1] browsable assets)...
+[2026.02.08-00.03.02:199][ 47]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/ASM_DeathFromBack.ASM_DeathFromBack]
+[2026.02.08-00.03.02:199][ 47]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASM_DeathFromBack]
+[2026.02.08-00.03.02:199][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASM_DeathFromBack" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/ASM_DeathFromBack.uasset" SILENT=true
+[2026.02.08-00.03.02:205][ 47]LogSavePackage: Moving output files for package: /Game/ASM_DeathFromBack
+[2026.02.08-00.03.02:205][ 47]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/ASM_DeathFromBack4D5F60F240354850C0999A93834948D1.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/ASM_DeathFromBack.uasset'
+[2026.02.08-00.03.02:218][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.089 ms (total: 224.593 ms)
+[2026.02.08-00.03.02:247][ 47]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.08-00.03.02:247][ 47]LogContentValidation: Enabled validators:
+[2026.02.08-00.03.02:247][ 47]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-00.03.02:247][ 47]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-00.03.02:247][ 47]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-00.03.02:247][ 47]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-00.03.02:247][ 47]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-00.03.02:247][ 47]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-00.03.02:247][ 47]AssetCheck: /Game/PlayerAssets/ABP_Player Validating asset
+[2026.02.08-00.03.02:247][ 47]AssetCheck: /Game/ASM_DeathFromBack Validating asset
+[2026.02.08-00.03.02:264][ 47]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
