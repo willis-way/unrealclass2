@@ -2256,3 +2256,20 @@ Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase' has been compil
 [2026.02.08-00.57.37:618][950]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.08-00.57.37:618][950]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_WeaponBase Validating asset
 [2026.02.08-00.57.37:630][950]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.08-00.59.06:522][710]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8068.375488
+[2026.02.08-00.59.06:622][722]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.08-00.59.06:622][722]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8068.467285, Update Interval: 357.824646
+[2026.02.08-01.05.49:289][116]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8470.992188
+[2026.02.08-01.05.50:290][119]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.08-01.05.50:290][119]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8471.659180, Update Interval: 357.623230
+[2026.02.08-01.07.24:194][579]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WeaponBlueprints\BP_WeaponBase.uasset: [Compiler] This blueprint (self) is not a StaticMeshComponent, therefore ' Target ' must have a connection.
+[2026.02.08-01.07.24:220][579]LogStreaming: Display: FlushAsyncLoading(814): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.08-01.07.24:270][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.02.08-01.07.53:587][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.02.08-01.07.53:590][917]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.029
+[2026.02.08-01.07.53:592][917]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase] ([2] browsable assets)...
+[2026.02.08-01.07.53:639][917]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_WeaponBase.BP_WeaponBase]
+[2026.02.08-01.07.53:639][917]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase]
+[2026.02.08-01.07.53:658][917]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WeaponBlueprints/BP_WeaponBase_Auto6
+[2026.02.08-01.07.53:658][917]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_WeaponBase_Auto619E304804C80F9181FF243B8A0B187D3.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/Autosaves/Game/Blueprints/WeaponBlueprints/BP_WeaponBase_Auto6.uasset'
+[2026.02.08-01.07.53:659][917]LogFileHelpers: Auto-saving content packages took 0.067
