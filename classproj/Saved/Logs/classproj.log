@@ -2099,3 +2099,112 @@ Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase' has been compil
 [2026.02.08-00.45.24:524][750]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.08-00.45.24:524][750]AssetCheck: /Game/Levels/L_LevelOne Validating asset
 [2026.02.08-00.45.24:524][750]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.02.08-00.46.34:136][317]LogDerivedDataCache: C:/Users/sgbeh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.08-00.47.01:593][894]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7343.448242
+[2026.02.08-00.47.01:692][906]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.08-00.47.01:692][906]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7343.539551, Update Interval: 319.012421
+[2026.02.08-00.47.02:177][963]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Integer64' on ' integer64 - integer64 '
+[2026.02.08-00.47.02:177][963]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' integer64 - integer64 ' could not successfuly expand pins!
+[2026.02.08-00.47.02:177][963]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Integer64' on ' integer64 + integer64 '
+[2026.02.08-00.47.02:177][963]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' integer64 + integer64 ' could not successfuly expand pins!
+[2026.02.08-00.47.02:178][963]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "DeathAnim" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get DeathAnim
+[2026.02.08-00.47.02:178][963]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "DeathAnim" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get DeathAnim
+[2026.02.08-00.47.02:180][963]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "BP_HealthComponent" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get BP_HealthComponent
+[2026.02.08-00.47.02:180][963]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "CurrentHealth" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase' has been compiled for  Get CurrentHealth
+[2026.02.08-00.47.02:180][963]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Last Index  to imply a specific type.
+[2026.02.08-00.47.02:180][963]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Map  is undetermined.  Connect something to  Length  to imply a specific type.
+[2026.02.08-00.47.02:187][963]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.08-00.47.02:188][963]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Map ' pin is invalid: Map inputs (like 'Target Map') must have an input wired into them (try connecting a MakeMap node).
+[2026.02.08-00.47.02:188][963]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.08-00.47.02:188][963]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.08-00.47.02:188][963]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.08-00.47.02:188][963]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Death Anim  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.08-00.47.02:188][963]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Death Anim  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.08-00.47.02:188][963]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  BP Health Component  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.08-00.47.02:188][963]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Current Health  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.08-00.47.02:339][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.02.08-00.47.02:494][964]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_34:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_14
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.08-00.47.02:510][965]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_34:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_15
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.08-00.48.46:370][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.02.08-00.48.46:388][631]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832_Auto5
+[2026.02.08-00.48.46:388][631]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/RE5B2IEP2TCCQN34XBQ832_Auto5DA96C0CD4B0648026C1523AED0B8336F.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832_Auto5.uasset'
+[2026.02.08-00.48.46:389][631]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.047
+[2026.02.08-00.48.46:389][631]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
+[2026.02.08-00.48.46:390][631]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.08-00.48.46:444][631]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.08-00.48.46:444][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.08-00.48.46:469][631]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerAssets/BP_CharacterBase_Auto5
+[2026.02.08-00.48.46:470][631]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_CharacterBase_Auto5657E3796482A788B80018786D84FC67C.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/Autosaves/Game/PlayerAssets/BP_CharacterBase_Auto5.uasset'
+[2026.02.08-00.48.46:470][631]LogFileHelpers: Auto-saving content packages took 0.081
+[2026.02.08-00.52.24:020][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.02.08-00.52.32:259][537]LogEditorTransaction: Undo Move Node
+[2026.02.08-00.52.32:485][537]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-00.52.32:488][537]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-00.52.32:983][573]LogEditorTransaction: Undo Move Node
+[2026.02.08-00.52.33:204][573]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-00.52.33:207][573]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-00.52.33:592][611]LogEditorTransaction: Undo Move Node
+[2026.02.08-00.52.33:813][611]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-00.52.33:816][611]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-00.52.34:199][649]LogEditorTransaction: Undo Move Nodes
+[2026.02.08-00.52.34:418][649]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-00.52.34:420][649]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-00.52.34:743][679]LogEditorTransaction: Undo Move Node
+[2026.02.08-00.52.34:959][679]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-00.52.34:963][679]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-00.52.35:361][719]LogEditorTransaction: Undo Move Node
+[2026.02.08-00.52.35:579][719]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-00.52.35:582][719]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-00.52.35:893][748]LogEditorTransaction: Undo Add Node
+[2026.02.08-00.52.36:112][748]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-00.52.36:115][748]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-00.52.36:427][777]LogEditorTransaction: Undo Move Node
+[2026.02.08-00.52.36:645][777]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-00.52.36:648][777]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-00.52.37:011][798]LogEditorTransaction: Undo Add Node
+[2026.02.08-00.52.37:233][798]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-00.52.37:236][798]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-00.52.37:669][842]LogEditorTransaction: Undo Create Pin Link
+[2026.02.08-00.52.37:910][842]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-00.52.37:913][842]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-00.52.40:057][ 94]LogEditorTransaction: Redo Create Pin Link
+[2026.02.08-00.52.40:285][ 94]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-00.52.40:287][ 94]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.08-00.53.20:039][908]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7721.888184
+[2026.02.08-00.53.20:131][919]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.08-00.53.20:131][919]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7721.971680, Update Interval: 307.322601
+[2026.02.08-00.54.07:660][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.02.08-00.54.09:573][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.02.08-00.54.09:579][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-00.54.09:609][499]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832
+[2026.02.08-00.54.09:610][499]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/RE5B2IEP2TCCQN34XBQ832996C88574CDEE33AB36D289D565EB2BD.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832.uasset'
+[2026.02.08-00.54.09:611][499]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.08-00.54.09:620][499]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.08-00.54.09:622][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.08-00.54.09:622][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.02.08-00.54.09:649][499]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.02.08-00.54.09:649][499]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_CharacterBase4DC177ED43C289DC2124D98C7DCFC31D.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.02.08-00.54.09:655][499]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HealthRegen/BP_HealthComp] ([2] browsable assets)...
+[2026.02.08-00.54.09:655][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HealthRegen/BP_HealthComp]
+[2026.02.08-00.54.09:669][499]LogSavePackage: Moving output files for package: /Game/Blueprints/HealthRegen/BP_HealthComp
+[2026.02.08-00.54.09:669][499]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_HealthCompEEF1404B4F2FB08C0D81EFBB06131031.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/HealthRegen/BP_HealthComp.uasset'
+[2026.02.08-00.54.09:677][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.213 ms (total: 581.737 ms)
+[2026.02.08-00.54.09:709][499]LogContentValidation: Display: Starting to validate 3 assets
+[2026.02.08-00.54.09:709][499]LogContentValidation: Enabled validators:
+[2026.02.08-00.54.09:709][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-00.54.09:709][499]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-00.54.09:709][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-00.54.09:709][499]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-00.54.09:709][499]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-00.54.09:709][499]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-00.54.09:709][499]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2026.02.08-00.54.09:709][499]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.02.08-00.54.09:710][499]AssetCheck: /Game/Blueprints/HealthRegen/BP_HealthComp Validating asset
