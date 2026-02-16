@@ -1304,3 +1304,167 @@ FPackageName: Skipped package /Game/Fab/Grenade/grenade/Materials/Grenade has a 
 [2026.02.16-19.29.25:695][347]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2026.02.16-19.29.25:791][350]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
 [2026.02.16-19.29.33:768][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.02.16-19.29.48:193][346]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.02.16-19.29.48:383][348]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.02.16-19.30.58:961][585]LogDerivedDataCache: C:/Users/sbehr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.16-19.31.40:232][495]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.02.16-19.31.44:286][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.02.16-19.31.45:456][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.02.16-19.31.45:461][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.16-19.31.45:512][ 19]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase] ([2] browsable assets)...
+[2026.02.16-19.31.45:512][ 19]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.02.16-19.31.45:593][ 19]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_WeaponBase.BP_WeaponBase]
+[2026.02.16-19.31.45:593][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase]
+[2026.02.16-19.31.45:612][ 19]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_WeaponBase
+[2026.02.16-19.31.45:612][ 19]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_WeaponBaseACB89F9C45512C2583E1A9ADFA038885.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/WeaponBlueprints/BP_WeaponBase.uasset'
+[2026.02.16-19.31.45:619][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave took 157.943 ms
+[2026.02.16-19.31.45:675][ 19]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.16-19.31.45:675][ 19]LogContentValidation: Enabled validators:
+[2026.02.16-19.31.45:675][ 19]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.16-19.31.45:675][ 19]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.16-19.31.45:675][ 19]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.16-19.31.45:675][ 19]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.16-19.31.45:675][ 19]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.16-19.31.45:675][ 19]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.16-19.31.45:675][ 19]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_WeaponBase Validating asset
+[2026.02.16-19.31.59:058][183]LogPSOHitching: Encountered 300 PSO creation hitches so far (88 graphics, 212 compute). 0 of them were precached.
+[2026.02.16-19.31.59:334][183]LogPSOHitching: Encountered 350 PSO creation hitches so far (89 graphics, 261 compute). 0 of them were precached.
+[2026.02.16-19.32.01:884][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.02.16-19.32.09:661][995]LogStreaming: Display: FlushAsyncLoading(764): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.16-19.32.09:772][995]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/WeaponBlueprints/BP_Gun.BP_Gun
+[2026.02.16-19.32.09:809][995]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.02.16-19.32.10:219][995]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.02.16-19.32.10:330][995]LoadErrors: Warning: While trying to load package /Game/Fab/Weapons/Gun/SM_Bullet, a dependent package /Game/Fab/Dirt_Bullet_caliber_9x19/dirt_bullet_caliber_9x19/Materials/lambert1 was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Fab/Dirt_Bullet_caliber_9x19/dirt_bullet_caliber_9x19/Materials/lambert1 has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/sbehr/Desktop/unrealclass2/classproj/Content/Fab/Dirt_Bullet_caliber_9x19/dirt_bullet_caliber_9x19/Materials/lambert1'. Perhaps it has been deleted or was not synced?
+
+[2026.02.16-19.32.10:330][995]LoadErrors: Warning: While trying to load package /Game/Fab/Weapons/Gun/Materials/Material_007, a dependent package /Game/Fab/SCIFI_CCG_Gun_Sketch/scifi_ccg_gun_sketch/Textures/scifi_ccg_gun_sketch_texture_3 was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Fab/SCIFI_CCG_Gun_Sketch/scifi_ccg_gun_sketch/Textures/scifi_ccg_gun_sketch_texture_3 has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/sbehr/Desktop/unrealclass2/classproj/Content/Fab/SCIFI_CCG_Gun_Sketch/scifi_ccg_gun_sketch/Textures/scifi_ccg_gun_sketch_texture_3'. Perhaps it has been deleted or was not synced?
+
+[2026.02.16-19.32.10:330][995]LoadErrors: Warning: While trying to load package /Game/Fab/Weapons/Gun/Materials/Material_007, a dependent package /Game/Fab/SCIFI_CCG_Gun_Sketch/scifi_ccg_gun_sketch/Textures/scifi_ccg_gun_sketch_texture_4 was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Fab/SCIFI_CCG_Gun_Sketch/scifi_ccg_gun_sketch/Textures/scifi_ccg_gun_sketch_texture_4 has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/sbehr/Desktop/unrealclass2/classproj/Content/Fab/SCIFI_CCG_Gun_Sketch/scifi_ccg_gun_sketch/Textures/scifi_ccg_gun_sketch_texture_4'. Perhaps it has been deleted or was not synced?
+
+[2026.02.16-19.32.10:331][996]LoadErrors: Warning: While trying to load package /Game/Fab/Weapons/Gun/Materials/Material_007, a dependent package /Game/Fab/SCIFI_CCG_Gun_Sketch/scifi_ccg_gun_sketch/Textures/scifi_ccg_gun_sketch_texture_5 was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Fab/SCIFI_CCG_Gun_Sketch/scifi_ccg_gun_sketch/Textures/scifi_ccg_gun_sketch_texture_5 has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/sbehr/Desktop/unrealclass2/classproj/Content/Fab/SCIFI_CCG_Gun_Sketch/scifi_ccg_gun_sketch/Textures/scifi_ccg_gun_sketch_texture_5'. Perhaps it has been deleted or was not synced?
+
+[2026.02.16-19.32.10:571][  4]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.02.16-19.32.12:723][130]LogSlate: Window 'BP_Gun' being destroyed
+[2026.02.16-19.32.14:066][247]LogPSOHitching: Encountered 400 PSO creation hitches so far (103 graphics, 297 compute). 0 of them were precached.
+[2026.02.16-19.34.16:327][303]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 314.604462
+[2026.02.16-19.34.17:327][306]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.16-19.34.17:327][306]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 315.271088, Update Interval: 324.459961
+[2026.02.16-19.36.13:209][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.02.16-19.36.14:077][103]LogPSOHitching: Encountered 450 PSO creation hitches so far (118 graphics, 332 compute). 0 of them were precached.
+[2026.02.16-19.36.14:300][103]LogPSOHitching: Encountered 500 PSO creation hitches so far (119 graphics, 381 compute). 0 of them were precached.
+[2026.02.16-19.36.14:700][104]LogPSOHitching: Encountered 550 PSO creation hitches so far (129 graphics, 421 compute). 0 of them were precached.
+[2026.02.16-19.36.31:923][449]LogStreaming: Display: FlushAsyncLoading(765): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.16-19.36.31:931][449]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/WeaponBlueprints/BP_Pipe.BP_Pipe
+[2026.02.16-19.36.31:931][449]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.02.16-19.36.32:287][449]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.02.16-19.36.47:159][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.02.16-19.36.51:390][335]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.02.16-19.36.51:409][336]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.02.16-19.36.54:240][570]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher.BP_GrenadeLauncher
+[2026.02.16-19.36.54:240][570]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.02.16-19.37.04:295][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.02.16-19.37.17:253][765]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.02.16-19.37.17:309][766]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.02.16-19.37.17:352][768]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.02.16-19.37.17:421][770]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.02.16-19.37.17:442][771]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.02.16-19.37.17:449][771]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_0
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.16-19.37.17:465][772]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.02.16-19.37.17:489][773]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.02.16-19.37.17:591][779]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_1
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.16-19.37.26:891][102]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 23102
+[2026.02.16-19.37.26:891][102]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2026.02.16-19.37.26:893][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-19.37.27:314][117]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_2
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.16-19.37.27:454][126]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_3
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.16-19.37.27:758][150]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_4
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.16-19.39.05:404][ 30]LogContentBrowser: Deferred new asset file creation: BP_Triggerable_Child
+[2026.02.16-19.39.05:430][ 30]LogContentBrowser: Creating deferred item: BP_Triggerable_Child
+[2026.02.16-19.39.05:450][ 31]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Triggerable_Child).
+[2026.02.16-19.39.12:530][709]LogContentBrowser: Attempting asset rename: BP_Triggerable_Child -> BP_WeaponPickup
+[2026.02.16-19.39.12:536][709]LogContentBrowser: End creating deferred item BP_Triggerable_Child
+[2026.02.16-19.39.41:191][204]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup
+[2026.02.16-19.39.41:191][204]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.02.16-19.39.44:949][453]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 643.225769
+[2026.02.16-19.39.45:950][456]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.16-19.39.45:950][456]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 643.892395, Update Interval: 301.790833
+[2026.02.16-19.40.50:534][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.02.16-19.40.50:537][717]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.042
+[2026.02.16-19.40.50:538][717]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher] ([2] browsable assets)...
+[2026.02.16-19.40.50:735][717]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher.BP_GrenadeLauncher]
+[2026.02.16-19.40.50:735][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher]
+[2026.02.16-19.40.50:757][717]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher_Auto1
+[2026.02.16-19.40.50:757][717]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_GrenadeLauncher_Auto13D38161744871E96E19C09A178869586.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher_Auto1.uasset'
+[2026.02.16-19.40.50:758][717]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase] ([2] browsable assets)...
+[2026.02.16-19.40.50:779][717]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_WeaponBase.BP_WeaponBase]
+[2026.02.16-19.40.50:779][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase]
+[2026.02.16-19.40.50:796][717]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WeaponBlueprints/BP_WeaponBase_Auto1
+[2026.02.16-19.40.50:796][717]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_WeaponBase_Auto1B179E65D487A47058B70E58F8377D85E.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Blueprints/WeaponBlueprints/BP_WeaponBase_Auto1.uasset'
+[2026.02.16-19.40.50:797][717]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_Gun] ([2] browsable assets)...
+[2026.02.16-19.40.50:846][717]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_Gun.BP_Gun]
+[2026.02.16-19.40.50:846][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_Gun]
+[2026.02.16-19.40.50:863][717]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WeaponBlueprints/BP_Gun_Auto1
+[2026.02.16-19.40.50:863][717]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_Gun_Auto1FB7C33C94A12EC03DDC8D6B3408C8F52.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Blueprints/WeaponBlueprints/BP_Gun_Auto1.uasset'
+[2026.02.16-19.40.50:864][717]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_Pipe] ([2] browsable assets)...
+[2026.02.16-19.40.50:966][717]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_Pipe.BP_Pipe]
+[2026.02.16-19.40.50:967][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_Pipe]
+[2026.02.16-19.40.50:979][717]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WeaponBlueprints/BP_Pipe_Auto1
+[2026.02.16-19.40.50:979][717]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_Pipe_Auto1DFD33CC546C5F8E71A371EB14580885E.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Blueprints/WeaponBlueprints/BP_Pipe_Auto1.uasset'
+[2026.02.16-19.40.50:980][717]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Triggerables/BP_WeaponPickup] ([2] browsable assets)...
+[2026.02.16-19.40.50:980][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Triggerables/BP_WeaponPickup]
+[2026.02.16-19.40.50:989][717]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Triggerables/BP_WeaponPickup_Auto1
+[2026.02.16-19.40.50:989][717]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_WeaponPickup_Auto193B514A9466EC4C14FD72E8C5025F83E.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Blueprints/Triggerables/BP_WeaponPickup_Auto1.uasset'
+[2026.02.16-19.40.50:989][717]LogFileHelpers: Auto-saving content packages took 0.452
+[2026.02.16-19.41.00:438][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.02.16-19.41.02:497][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.02.16-19.41.02:502][174]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.16-19.41.02:561][174]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher] ([2] browsable assets)...
+[2026.02.16-19.41.02:562][174]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher]
+[2026.02.16-19.41.02:579][174]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher
+[2026.02.16-19.41.02:581][174]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_GrenadeLauncher0DEB92BB48446D1E674615A4B90A518B.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/WeaponBlueprints/BP_GrenadeLauncher.uasset'
+[2026.02.16-19.41.02:581][174]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase] ([2] browsable assets)...
+[2026.02.16-19.41.02:581][174]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase]
+[2026.02.16-19.41.02:597][174]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_WeaponBase
+[2026.02.16-19.41.02:597][174]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_WeaponBaseAF2B85D342AF0D9FF880748E6937A3D8.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/WeaponBlueprints/BP_WeaponBase.uasset'
+[2026.02.16-19.41.02:599][174]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_Gun] ([2] browsable assets)...
+[2026.02.16-19.41.02:599][174]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_Gun]
+[2026.02.16-19.41.02:599][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WeaponBlueprints/BP_Gun" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/WeaponBlueprints/BP_Gun.uasset" SILENT=true
+[2026.02.16-19.41.02:613][174]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_Gun
+[2026.02.16-19.41.02:613][174]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_Gun221FF0DE4EC55E61891223B54E33492A.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/WeaponBlueprints/BP_Gun.uasset'
+[2026.02.16-19.41.02:614][174]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_Pipe] ([2] browsable assets)...
+[2026.02.16-19.41.02:614][174]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_Pipe]
+[2026.02.16-19.41.02:614][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WeaponBlueprints/BP_Pipe" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/WeaponBlueprints/BP_Pipe.uasset" SILENT=true
+[2026.02.16-19.41.02:624][174]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_Pipe
+[2026.02.16-19.41.02:624][174]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_PipeCCD81D0943D2C11608E6F8B61CFA8B7F.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/WeaponBlueprints/BP_Pipe.uasset'
+[2026.02.16-19.41.02:625][174]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Triggerables/BP_WeaponPickup] ([2] browsable assets)...
+[2026.02.16-19.41.02:625][174]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Triggerables/BP_WeaponPickup]
+[2026.02.16-19.41.02:635][174]LogSavePackage: Moving output files for package: /Game/Blueprints/Triggerables/BP_WeaponPickup
+[2026.02.16-19.41.02:635][174]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_WeaponPickup3C22F63543086B34D578BDAEA5E1780F.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/Triggerables/BP_WeaponPickup.uasset'
+[2026.02.16-19.41.02:644][174]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.882 ms (total: 299.826 ms)
+[2026.02.16-19.41.02:711][174]LogContentValidation: Display: Starting to validate 5 assets
+[2026.02.16-19.41.02:711][174]LogContentValidation: Enabled validators:
+[2026.02.16-19.41.02:711][174]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.16-19.41.02:711][174]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.16-19.41.02:711][174]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.16-19.41.02:711][174]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.16-19.41.02:711][174]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.16-19.41.02:711][174]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.16-19.41.02:711][174]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher Validating asset
+[2026.02.16-19.41.02:712][174]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_WeaponBase Validating asset
+[2026.02.16-19.41.02:712][174]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_Gun Validating asset
+[2026.02.16-19.41.02:712][174]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_Pipe Validating asset
+[2026.02.16-19.41.02:712][174]AssetCheck: /Game/Blueprints/Triggerables/BP_WeaponPickup Validating asset
+[2026.02.16-19.41.02:726][174]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
