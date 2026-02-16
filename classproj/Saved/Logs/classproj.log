@@ -1519,3 +1519,1156 @@ FPackageName: Skipped package /Game/Fab/SCIFI_CCG_Gun_Sketch/scifi_ccg_gun_sketc
 [2026.02.16-19.48.55:335][168]AssetCheck: /Game/Levels/L_LevelOne Validating asset
 [2026.02.16-19.48.55:335][168]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_WeaponBase Validating asset
 [2026.02.16-19.48.55:366][168]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.16-19.49.22:066][688]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.16-19.49.22:071][688]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.16-19.49.22:071][688]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.02.16-19.49.22:071][688]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 627 us (total: 1.160 ms)
+[2026.02.16-19.49.22:072][688]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.16-19.49.22:099][688]LogPlayLevel: Display: Creating online subsystem for client :Context_15
+[2026.02.16-19.49.22:101][688]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2026.02.16-19.49.22:119][689]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.16-19.49.22:126][689]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.16-19.49.22:127][689]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.844 ms (total: 2.790 ms)
+[2026.02.16-19.49.22:128][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010490s)
+[2026.02.16-19.49.22:128][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.010536s)
+[2026.02.16-19.49.22:146][689]LogPSOHitching: Encountered 300 PSO creation hitches so far (96 graphics, 204 compute). 0 of them were precached.
+[2026.02.16-19.49.22:153][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.02.16-19.49.22:156][689]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.02.16-19.49.22:157][689]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.16-19.49.22:157][689]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.16-19.49.22:157][689]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.16-19.49.22:158][689]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.16-19.49.22:159][689]LogWorldPartition: Display: WorldPartition initialize took 1.405 ms (total: 406.845 ms)
+[2026.02.16-19.49.22:159][689]LogPlayLevel: PIE: World Init took: (0.003229s)
+[2026.02.16-19.49.22:160][689]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.02.16-19.49.22:160][689]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.16-19.49.22:160][689]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.16-19.49.22:160][689]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.16-19.49.22:160][689]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.16-19.49.22:160][689]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.16-19.49.22:160][689]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.16-19.49.22:160][689]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.16-19.49.22:160][689]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.16-19.49.22:160][689]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.16-19.49.22:160][689]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.16-19.49.22:160][689]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.16-19.49.22:162][689]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.16-19.49.22:173][689]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2026.02.16-19.49.22:174][689]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.16-19.49.22:174][689]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.16-19.49.22:174][689]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.16-19.49.22:174][689]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.02.16-19.49.22:174][689]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.02.16-19.49.22:176][689]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.02.16-19.49.22:176][689]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.02.16-19.49.22:176][689]LogInit: FAudioDevice initialized with ID 3.
+[2026.02.16-19.49.22:176][689]LogAudio: Display: Audio Device (ID: 3) registered with world 'L_LevelOne'.
+[2026.02.16-19.49.22:176][689]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.02.16-19.49.22:180][689]LogLoad: Game class is 'GM_FPS_C'
+[2026.02.16-19.49.22:183][689]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2026.02.16-14.49.22
+[2026.02.16-19.49.22:183][689]LogWorld: Bringing up level for play took: 0.003218
+[2026.02.16-19.49.22:186][689]PIE: Server logged in
+[2026.02.16-19.49.22:188][689]PIE: Play in editor total start time 0.117 seconds.
+[2026.02.16-19.49.22:189][689]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:189][689]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:200][690]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:200][690]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:231][690]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.16-19.49.22:289][691]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:289][691]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:443][692]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:443][692]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:456][693]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:456][693]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:468][694]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:468][694]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:486][695]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:486][695]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:523][696]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:523][696]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:536][697]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:536][697]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:546][698]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:546][698]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:556][699]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:556][699]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:567][700]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:567][700]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:576][701]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:576][701]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:586][702]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:586][702]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:595][703]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:595][703]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:605][704]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:605][704]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:615][705]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:615][705]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:625][706]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:625][706]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:634][707]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:634][707]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:643][708]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:644][708]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:653][709]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:653][709]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:662][710]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:662][710]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:671][711]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:671][711]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:681][712]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:681][712]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:691][713]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:691][713]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:702][714]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:702][714]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:712][715]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:712][715]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:721][716]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:721][716]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:731][717]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:731][717]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:740][718]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:741][718]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:751][719]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:751][719]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:760][720]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:760][720]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:770][721]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:770][721]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:779][722]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:779][722]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:789][723]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:789][723]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:799][724]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:799][724]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:809][725]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:809][725]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:818][726]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:818][726]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:828][727]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:828][727]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:838][728]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:838][728]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:849][729]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:849][729]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:859][730]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:859][730]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:868][731]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:868][731]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:879][732]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:879][732]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:888][733]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:888][733]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:898][734]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:898][734]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:908][735]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:908][735]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:917][736]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:917][736]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:926][737]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:926][737]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:937][738]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:937][738]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:948][739]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:948][739]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:956][740]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:956][740]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:965][741]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:965][741]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:977][742]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:977][742]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:985][743]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:985][743]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:994][744]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.22:994][744]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:004][745]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:004][745]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:014][746]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:014][746]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:025][747]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:025][747]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:034][748]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:034][748]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:043][749]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:043][749]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:053][750]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:053][750]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:062][751]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:064][751]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:072][752]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:072][752]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:082][753]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:082][753]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:092][754]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:092][754]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:101][755]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:101][755]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:112][756]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:112][756]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:120][757]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:120][757]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:131][758]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:131][758]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:146][759]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:146][759]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:153][760]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:153][760]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:162][761]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:162][761]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:171][762]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:171][762]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:180][763]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:180][763]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:190][764]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:190][764]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:202][765]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:202][765]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:210][766]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:210][766]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:220][767]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:220][767]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:231][768]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:231][768]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:239][769]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:239][769]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:248][770]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:248][770]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:258][771]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:258][771]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:266][772]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:266][772]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:277][773]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:277][773]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:287][774]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:287][774]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:297][775]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:297][775]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:307][776]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:307][776]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:316][777]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:316][777]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:327][778]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:327][778]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:338][779]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:338][779]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:347][780]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:347][780]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:357][781]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:357][781]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:367][782]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:367][782]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:377][783]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:377][783]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:387][784]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:387][784]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:396][785]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:396][785]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:406][786]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:406][786]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:416][787]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:416][787]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:426][788]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:426][788]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:436][789]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:436][789]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:446][790]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:446][790]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:455][791]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:456][791]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:466][792]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:466][792]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:476][793]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:476][793]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:487][794]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:487][794]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:497][795]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:497][795]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:507][796]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:507][796]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:518][797]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:518][797]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:527][798]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:527][798]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:538][799]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:538][799]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:547][800]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:547][800]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:556][801]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:556][801]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:566][802]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:566][802]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:575][803]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:576][803]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:585][804]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:585][804]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:595][805]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:595][805]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:605][806]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:605][806]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:615][807]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:615][807]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:625][808]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:625][808]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:636][809]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:636][809]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:645][810]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:645][810]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:658][811]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:659][811]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:666][812]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:666][812]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:676][813]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:676][813]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:686][814]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:686][814]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:696][815]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:696][815]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:706][816]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:706][816]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:715][817]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:715][817]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:726][818]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:726][818]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:735][819]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:735][819]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:746][820]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:747][820]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:755][821]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:756][821]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:765][822]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:765][822]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:775][823]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:775][823]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:784][824]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:784][824]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:796][825]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:796][825]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:805][826]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:805][826]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:817][827]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:817][827]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:895][828]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:895][828]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:908][829]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:908][829]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:918][830]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:918][830]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:928][831]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:928][831]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:938][832]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:938][832]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:948][833]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:948][833]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:957][834]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:957][834]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:968][835]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:968][835]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:978][836]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:978][836]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:988][837]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:988][837]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:997][838]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.23:997][838]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:007][839]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:007][839]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:017][840]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:017][840]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:027][841]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:027][841]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:038][842]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:038][842]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:051][843]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:051][843]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:058][844]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:058][844]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:068][845]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:068][845]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:078][846]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:078][846]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:088][847]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:088][847]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:098][848]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:098][848]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:108][849]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:108][849]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:118][850]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:118][850]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:128][851]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:128][851]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:139][852]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:139][852]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:148][853]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:148][853]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:158][854]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:158][854]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:168][855]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:168][855]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:178][856]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:178][856]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:188][857]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:188][857]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:199][858]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:199][858]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:210][859]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:210][859]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:219][860]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:219][860]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:229][861]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:229][861]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:239][862]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:239][862]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:248][863]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:248][863]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:259][864]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:259][864]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:268][865]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:268][865]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:278][866]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:278][866]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:288][867]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:288][867]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:296][868]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:296][868]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:307][869]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:308][869]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:318][870]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:318][870]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:328][871]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:328][871]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:338][872]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:338][872]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:348][873]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:348][873]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:358][874]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:358][874]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:369][875]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:369][875]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:380][876]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:380][876]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:388][877]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:388][877]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:398][878]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:398][878]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:409][879]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:409][879]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:418][880]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:418][880]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:429][881]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:429][881]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:438][882]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:438][882]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:448][883]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:448][883]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:459][884]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:459][884]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:468][885]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:468][885]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:477][886]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:477][886]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:487][887]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:487][887]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:496][888]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:496][888]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:507][889]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:507][889]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:518][890]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:518][890]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:528][891]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:528][891]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:538][892]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:538][892]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:548][893]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:548][893]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:558][894]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:558][894]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:568][895]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:568][895]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:578][896]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:578][896]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:589][897]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:589][897]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:598][898]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:598][898]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:608][899]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:608][899]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:616][900]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:618][900]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:628][901]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:628][901]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:637][902]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:637][902]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:648][903]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:648][903]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:657][904]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:657][904]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:668][905]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:668][905]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:678][906]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:678][906]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:689][907]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:689][907]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:698][908]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:698][908]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:708][909]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:708][909]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:719][910]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:719][910]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:728][911]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:728][911]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:738][912]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:738][912]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:748][913]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:748][913]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:757][914]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:757][914]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:766][915]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:766][915]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:777][916]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:777][916]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:787][917]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:787][917]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:797][918]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:797][918]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:806][919]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:806][919]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:816][920]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:816][920]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:827][921]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:827][921]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:838][922]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:838][922]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:846][923]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:846][923]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:857][924]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:857][924]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:867][925]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:867][925]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:876][926]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:876][926]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:886][927]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:886][927]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:896][928]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:896][928]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:907][929]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:907][929]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:916][930]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:917][930]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:926][931]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:926][931]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:936][932]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:936][932]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:945][933]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:946][933]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:955][934]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:955][934]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:965][935]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:965][935]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:975][936]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:975][936]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:985][937]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:985][937]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:996][938]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.24:996][938]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:006][939]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:006][939]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:016][940]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:016][940]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:025][941]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:025][941]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:035][942]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:035][942]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:045][943]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:045][943]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:055][944]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:055][944]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:064][945]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:064][945]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:074][946]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:075][946]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:084][947]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:084][947]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:094][948]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:094][948]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:104][949]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:104][949]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:113][950]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:113][950]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:123][951]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:123][951]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:133][952]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:133][952]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:144][953]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:144][953]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:154][954]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:154][954]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:164][955]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:164][955]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:175][956]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:175][956]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:184][957]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:184][957]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:194][958]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:194][958]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:204][959]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:204][959]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:213][960]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:213][960]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:223][961]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:223][961]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:232][962]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:232][962]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:242][963]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:242][963]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:252][964]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:252][964]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:263][965]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:263][965]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:272][966]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:272][966]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:281][967]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:281][967]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:292][968]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:292][968]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:303][969]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:303][969]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:313][970]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:313][970]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:323][971]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:323][971]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:333][972]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:333][972]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:343][973]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:343][973]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:352][974]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:352][974]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:362][975]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:362][975]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:372][976]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:372][976]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:383][977]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:383][977]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:391][978]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:391][978]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:402][979]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:402][979]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:412][980]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:412][980]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:421][981]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:421][981]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:431][982]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:431][982]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:441][983]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:441][983]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:450][984]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:450][984]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:461][985]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:461][985]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:471][986]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:472][986]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:481][987]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:481][987]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:492][988]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:492][988]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:502][989]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:502][989]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:512][990]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:512][990]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:521][991]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:522][991]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:531][992]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:531][992]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:540][993]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:541][993]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:551][994]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:551][994]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:561][995]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:561][995]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:571][996]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:571][996]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:580][997]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:580][997]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:590][998]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:590][998]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:601][999]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:601][999]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:610][  0]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:610][  0]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:621][  1]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:621][  1]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:631][  2]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:631][  2]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:642][  3]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:642][  3]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:652][  4]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:652][  4]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:662][  5]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:662][  5]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:672][  6]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:672][  6]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:682][  7]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:682][  7]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:693][  8]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:693][  8]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:702][  9]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:703][  9]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:712][ 10]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:712][ 10]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:723][ 11]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:723][ 11]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:733][ 12]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:733][ 12]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:743][ 13]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:743][ 13]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:753][ 14]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:753][ 14]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:762][ 15]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:762][ 15]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:772][ 16]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:772][ 16]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:783][ 17]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:783][ 17]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:793][ 18]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:794][ 18]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:804][ 19]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:804][ 19]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:815][ 20]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:815][ 20]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:824][ 21]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:824][ 21]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:835][ 22]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:835][ 22]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:844][ 23]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:844][ 23]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:855][ 24]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:855][ 24]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:865][ 25]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:865][ 25]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:875][ 26]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:875][ 26]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:885][ 27]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:885][ 27]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:895][ 28]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:895][ 28]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:904][ 29]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:904][ 29]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:914][ 30]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:914][ 30]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:924][ 31]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:924][ 31]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:934][ 32]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:934][ 32]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:945][ 33]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:945][ 33]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:955][ 34]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:955][ 34]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:966][ 35]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:966][ 35]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:975][ 36]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:975][ 36]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:984][ 37]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:984][ 37]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:995][ 38]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.25:995][ 38]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:005][ 39]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:005][ 39]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:014][ 40]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:015][ 40]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:025][ 41]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:025][ 41]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:034][ 42]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:034][ 42]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:044][ 43]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:044][ 43]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:054][ 44]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:054][ 44]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:064][ 45]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:064][ 45]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:074][ 46]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:074][ 46]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:083][ 47]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:083][ 47]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:092][ 48]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:092][ 48]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:103][ 49]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:103][ 49]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:114][ 50]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:114][ 50]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:124][ 51]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:124][ 51]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:133][ 52]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:133][ 52]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:143][ 53]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:143][ 53]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:153][ 54]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:153][ 54]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:163][ 55]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:163][ 55]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:173][ 56]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:173][ 56]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:183][ 57]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:183][ 57]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:193][ 58]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:193][ 58]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:204][ 59]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:204][ 59]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:213][ 60]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:213][ 60]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:222][ 61]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:222][ 61]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:232][ 62]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:232][ 62]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:242][ 63]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:242][ 63]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:252][ 64]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:252][ 64]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:262][ 65]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:262][ 65]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:273][ 66]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:273][ 66]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:284][ 67]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:284][ 67]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:293][ 68]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:293][ 68]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:303][ 69]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:304][ 69]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:313][ 70]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:313][ 70]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:323][ 71]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:323][ 71]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:333][ 72]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:333][ 72]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:342][ 73]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:342][ 73]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:352][ 74]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:352][ 74]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:362][ 75]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:362][ 75]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:373][ 76]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:373][ 76]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:383][ 77]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:383][ 77]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:393][ 78]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:393][ 78]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:401][ 79]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:401][ 79]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:411][ 80]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:411][ 80]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:421][ 81]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:421][ 81]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:433][ 82]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:433][ 82]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:442][ 83]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:442][ 83]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:453][ 84]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:453][ 84]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:462][ 85]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:462][ 85]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:471][ 86]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:472][ 86]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:480][ 87]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:480][ 87]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:490][ 88]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:490][ 88]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:500][ 89]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:500][ 89]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:510][ 90]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:510][ 90]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:519][ 91]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:519][ 91]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:529][ 92]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:529][ 92]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:539][ 93]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:539][ 93]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:548][ 94]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:548][ 94]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:559][ 95]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:559][ 95]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:568][ 96]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:568][ 96]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:578][ 97]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:578][ 97]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:588][ 98]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:588][ 98]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:599][ 99]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:599][ 99]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:608][100]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:608][100]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:618][101]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:618][101]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:628][102]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:628][102]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:638][103]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:638][103]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:648][104]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:648][104]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:656][105]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:656][105]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:667][106]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:667][106]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:676][107]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:676][107]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:687][108]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:687][108]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:696][109]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:696][109]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:707][110]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:707][110]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:716][111]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:716][111]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:727][112]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:727][112]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:736][113]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:736][113]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:748][114]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:748][114]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:758][115]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:758][115]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:767][116]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:767][116]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:777][117]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:777][117]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:787][118]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:787][118]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:796][119]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:796][119]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:806][120]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:806][120]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:815][121]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:815][121]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:825][122]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:825][122]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:836][123]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:836][123]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:845][124]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:845][124]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:854][125]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:854][125]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:865][126]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:865][126]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:874][127]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:874][127]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:884][128]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:884][128]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:894][129]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:894][129]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:904][130]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:904][130]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:915][131]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:915][131]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:924][132]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:924][132]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:935][133]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:935][133]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:944][134]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:945][134]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:954][135]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:954][135]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:964][136]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:964][136]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:974][137]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:974][137]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:984][138]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:984][138]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:993][139]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.26:994][139]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:003][140]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:003][140]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:013][141]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:013][141]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:023][142]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:023][142]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:033][143]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:033][143]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:043][144]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:043][144]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:054][145]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:054][145]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:064][146]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:064][146]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:073][147]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:073][147]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:084][148]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:084][148]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:093][149]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:093][149]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:104][150]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:104][150]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:113][151]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:113][151]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:123][152]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:123][152]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:133][153]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:133][153]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:142][154]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:142][154]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232] BP_WeaponPickup2
+[2026.02.16-19.49.27:169][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.16-19.49.27:169][154]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.16-19.49.27:170][154]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2026.02.16-19.49.27:170][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-19.49.27:171][154]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2026.02.16-19.49.27:175][154]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.16-19.49.27:178][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-19.49.27:197][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.16-19.49.27:198][154]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.02.16-19.49.27:198][154]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.02.16-19.49.27:200][154]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.02.16-19.49.27:205][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.02.16-19.49.27:291][156]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2026.02.16-19.51.20:405][800]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Integer64' on ' integer64 - integer64 '
+[2026.02.16-19.51.20:405][800]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' integer64 - integer64 ' could not successfuly expand pins!
+[2026.02.16-19.51.20:405][800]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Integer64' on ' integer64 + integer64 '
+[2026.02.16-19.51.20:405][800]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' integer64 + integer64 ' could not successfuly expand pins!
+[2026.02.16-19.51.20:407][800]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "DeathAnim" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get DeathAnim
+[2026.02.16-19.51.20:407][800]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "DeathAnim" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get DeathAnim
+[2026.02.16-19.51.20:409][800]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "BP_HealthComponent" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get BP_HealthComponent
+[2026.02.16-19.51.20:409][800]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "CurrentHealth" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase' has been compiled for  Get CurrentHealth
+[2026.02.16-19.51.20:409][800]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Last Index  to imply a specific type.
+[2026.02.16-19.51.20:409][800]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Map  is undetermined.  Connect something to  Length  to imply a specific type.
+[2026.02.16-19.51.20:418][800]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.16-19.51.20:418][800]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Map ' pin is invalid: Map inputs (like 'Target Map') must have an input wired into them (try connecting a MakeMap node).
+[2026.02.16-19.51.20:418][800]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.16-19.51.20:418][800]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.16-19.51.20:418][800]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.16-19.51.20:418][800]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Death Anim  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.16-19.51.20:418][800]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Death Anim  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.16-19.51.20:419][800]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  BP Health Component  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.16-19.51.20:419][800]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Current Health  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.16-19.51.20:583][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.02.16-19.51.37:345][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.16-19.51.37:349][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.16-19.51.37:411][ 55]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/4/H2/I3I6US129SW4QTMQFU74LJ
+[2026.02.16-19.51.37:412][ 55]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/I3I6US129SW4QTMQFU74LJA9A64FF1409FC79B7B7E29AAB17AB47D.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/__ExternalActors__/Levels/L_LevelOne/4/H2/I3I6US129SW4QTMQFU74LJ.uasset'
+[2026.02.16-19.51.37:420][ 55]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832
+[2026.02.16-19.51.37:420][ 55]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/RE5B2IEP2TCCQN34XBQ8321A4D8C984DA943A11ED2B9B877D95591.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832.uasset'
+[2026.02.16-19.51.37:421][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.16-19.51.37:421][ 55]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.02.16-19.51.37:475][ 55]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.16-19.51.37:475][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.16-19.51.37:475][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.02.16-19.51.37:501][ 55]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.02.16-19.51.37:501][ 55]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_CharacterBase7BC592144711C620743636BCEDB23635.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.02.16-19.51.37:512][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.076 ms (total: 427.357 ms)
+[2026.02.16-19.51.37:565][ 55]LogContentValidation: Display: Starting to validate 3 assets
+[2026.02.16-19.51.37:565][ 55]LogContentValidation: Enabled validators:
+[2026.02.16-19.51.37:565][ 55]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.16-19.51.37:565][ 55]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.16-19.51.37:565][ 55]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.16-19.51.37:565][ 55]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.16-19.51.37:565][ 55]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.16-19.51.37:565][ 55]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.16-19.51.37:565][ 55]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2026.02.16-19.51.37:565][ 55]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.02.16-19.51.37:587][ 55]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.16-19.52.15:930][ 58]LogStreaming: Display: FlushAsyncLoading(772): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.16-19.52.42:646][382]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Integer64' on ' integer64 - integer64 '
+[2026.02.16-19.52.42:646][382]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' integer64 - integer64 ' could not successfuly expand pins!
+[2026.02.16-19.52.42:646][382]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Integer64' on ' integer64 + integer64 '
+[2026.02.16-19.52.42:646][382]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' integer64 + integer64 ' could not successfuly expand pins!
+[2026.02.16-19.52.42:647][382]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] In use pin  Weapons  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2026.02.16-19.52.42:647][382]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "DeathAnim" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get DeathAnim
+[2026.02.16-19.52.42:647][382]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "DeathAnim" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get DeathAnim
+[2026.02.16-19.52.42:651][382]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "BP_HealthComponent" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get BP_HealthComponent
+[2026.02.16-19.52.42:651][382]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "CurrentHealth" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase' has been compiled for  Get CurrentHealth
+[2026.02.16-19.52.42:651][382]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Last Index  to imply a specific type.
+[2026.02.16-19.52.42:651][382]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Map  is undetermined.  Connect something to  Length  to imply a specific type.
+[2026.02.16-19.52.42:659][382]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.16-19.52.42:659][382]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Map ' pin is invalid: Map inputs (like 'Target Map') must have an input wired into them (try connecting a MakeMap node).
+[2026.02.16-19.52.42:659][382]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.16-19.52.42:660][382]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.16-19.52.42:660][382]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.16-19.52.42:660][382]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Death Anim  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.16-19.52.42:660][382]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Death Anim  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.16-19.52.42:660][382]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  BP Health Component  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.16-19.52.42:660][382]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Current Health  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.16-19.52.42:834][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.02.16-19.52.50:731][138]LogEditorTransaction: Undo Refresh Node(s)
+[2026.02.16-19.53.11:596][164]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Integer64' on ' integer64 - integer64 '
+[2026.02.16-19.53.11:596][164]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' integer64 - integer64 ' could not successfuly expand pins!
+[2026.02.16-19.53.11:596][164]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Integer64' on ' integer64 + integer64 '
+[2026.02.16-19.53.11:596][164]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' integer64 + integer64 ' could not successfuly expand pins!
+[2026.02.16-19.53.11:598][164]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "DeathAnim" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get DeathAnim
+[2026.02.16-19.53.11:598][164]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "DeathAnim" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get DeathAnim
+[2026.02.16-19.53.11:600][164]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "BP_HealthComponent" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get BP_HealthComponent
+[2026.02.16-19.53.11:600][164]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "CurrentHealth" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase' has been compiled for  Get CurrentHealth
+[2026.02.16-19.53.11:600][164]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Add Unique  to imply a specific type.
+[2026.02.16-19.53.11:600][164]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  New Item  is undetermined.  Connect something to  Add Unique  to imply a specific type.
+[2026.02.16-19.53.11:600][164]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Last Index  to imply a specific type.
+[2026.02.16-19.53.11:600][164]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Map  is undetermined.  Connect something to  Length  to imply a specific type.
+[2026.02.16-19.53.11:600][164]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Variable  is undetermined.  Connect something to  Add Unique  to imply a specific type.
+[2026.02.16-19.53.11:608][164]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.16-19.53.11:608][164]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.16-19.53.11:609][164]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Map ' pin is invalid: Map inputs (like 'Target Map') must have an input wired into them (try connecting a MakeMap node).
+[2026.02.16-19.53.11:609][164]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.16-19.53.11:609][164]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.16-19.53.11:609][164]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.16-19.53.11:610][164]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Death Anim  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.16-19.53.11:610][164]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Death Anim  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.16-19.53.11:610][164]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  BP Health Component  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.16-19.53.11:610][164]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Current Health  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.16-19.53.11:783][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.02.16-19.54.01:667][332]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Integer64' on ' integer64 - integer64 '
+[2026.02.16-19.54.01:667][332]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' integer64 - integer64 ' could not successfuly expand pins!
+[2026.02.16-19.54.01:667][332]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Integer64' on ' integer64 + integer64 '
+[2026.02.16-19.54.01:667][332]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' integer64 + integer64 ' could not successfuly expand pins!
+[2026.02.16-19.54.01:668][332]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "DeathAnim" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get DeathAnim
+[2026.02.16-19.54.01:668][332]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "DeathAnim" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get DeathAnim
+[2026.02.16-19.54.01:672][332]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "BP_HealthComponent" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get BP_HealthComponent
+[2026.02.16-19.54.01:672][332]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "CurrentHealth" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase' has been compiled for  Get CurrentHealth
+[2026.02.16-19.54.01:672][332]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Last Index  to imply a specific type.
+[2026.02.16-19.54.01:672][332]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Map  is undetermined.  Connect something to  Length  to imply a specific type.
+[2026.02.16-19.54.01:680][332]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.16-19.54.01:681][332]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Map ' pin is invalid: Map inputs (like 'Target Map') must have an input wired into them (try connecting a MakeMap node).
+[2026.02.16-19.54.01:681][332]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.16-19.54.01:681][332]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.16-19.54.01:681][332]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.16-19.54.01:681][332]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Death Anim  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.16-19.54.01:681][332]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Death Anim  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.16-19.54.01:681][332]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  BP Health Component  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.16-19.54.01:681][332]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Current Health  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.16-19.54.01:858][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.02.16-19.54.11:065][501]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 679.546875
+[2026.02.16-19.54.12:067][504]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.16-19.54.12:067][504]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 680.213928, Update Interval: 324.432495
+[2026.02.16-19.54.43:943][644]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Integer64' on ' integer64 - integer64 '
+[2026.02.16-19.54.43:943][644]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' integer64 - integer64 ' could not successfuly expand pins!
+[2026.02.16-19.54.43:944][644]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Integer64' on ' integer64 + integer64 '
+[2026.02.16-19.54.43:944][644]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' integer64 + integer64 ' could not successfuly expand pins!
+[2026.02.16-19.54.43:945][644]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "DeathAnim" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get DeathAnim
+[2026.02.16-19.54.43:945][644]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "DeathAnim" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get DeathAnim
+[2026.02.16-19.54.43:948][644]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "BP_HealthComponent" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get BP_HealthComponent
+[2026.02.16-19.54.43:948][644]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "CurrentHealth" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase' has been compiled for  Get CurrentHealth
+[2026.02.16-19.54.43:948][644]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Last Index  to imply a specific type.
+[2026.02.16-19.54.43:948][644]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Map  is undetermined.  Connect something to  Length  to imply a specific type.
+[2026.02.16-19.54.43:956][644]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.16-19.54.43:956][644]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Map ' pin is invalid: Map inputs (like 'Target Map') must have an input wired into them (try connecting a MakeMap node).
+[2026.02.16-19.54.43:956][644]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.16-19.54.43:956][644]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.16-19.54.43:956][644]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.16-19.54.43:957][644]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Death Anim  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.16-19.54.43:957][644]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Death Anim  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.16-19.54.43:957][644]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  BP Health Component  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.16-19.54.43:957][644]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Current Health  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.16-19.54.44:133][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
