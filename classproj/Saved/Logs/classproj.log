@@ -1354,3 +1354,168 @@ FPackageName: Skipped package /Game/Fab/SCIFI_CCG_Gun_Sketch/scifi_ccg_gun_sketc
 [2026.02.16-19.44.53:096][384]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.16-19.44.53:096][384]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.16-19.44.53:096][384]AssetCheck: /Game/Blueprints/Triggerables/BP_WeaponPickup Validating asset
+[2026.02.16-19.45.27:011][827]LogStreaming: Display: FlushAsyncLoading(767): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.16-19.45.42:317][573]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\Blueprints\Triggerables\BP_WeaponPickup.uasset: [Compiler] In use pin  Weapon Class  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2026.02.16-19.45.42:317][573]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\Blueprints\Triggerables\BP_WeaponPickup.uasset: [Compiler] In use pin  Visual  no longer exists on node  Get Class Defaults . Please refresh node or break links to remove pin.
+[2026.02.16-19.45.42:319][573]LogStreaming: Display: FlushAsyncLoading(771): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.16-19.45.42:356][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.02.16-19.46.44:995][854]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Engine/Transient.World_12:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.46.45:031][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.02.16-19.46.45:033][854]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Engine/Transient.World_12:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.46.45:037][854]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Engine/Transient.World_12:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.46.47:549][129]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.16-19.46.47:598][129]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Triggerables/BP_WeaponPickup] ([2] browsable assets)...
+[2026.02.16-19.46.47:599][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Triggerables/BP_WeaponPickup]
+[2026.02.16-19.46.47:611][129]LogSavePackage: Moving output files for package: /Game/Blueprints/Triggerables/BP_WeaponPickup
+[2026.02.16-19.46.47:612][129]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_WeaponPickupA095C8624021CE38E4D8D5823B0BED4D.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/Triggerables/BP_WeaponPickup.uasset'
+[2026.02.16-19.46.47:618][129]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.930 ms (total: 142.123 ms)
+[2026.02.16-19.46.47:681][129]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.16-19.46.47:681][129]LogContentValidation: Enabled validators:
+[2026.02.16-19.46.47:681][129]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.16-19.46.47:681][129]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.16-19.46.47:681][129]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.16-19.46.47:681][129]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.16-19.46.47:681][129]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.16-19.46.47:681][129]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.16-19.46.47:681][129]AssetCheck: /Game/Blueprints/Triggerables/BP_WeaponPickup Validating asset
+[2026.02.16-19.47.00:710][408]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C
+[2026.02.16-19.47.00:711][408]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C
+[2026.02.16-19.47.00:711][408]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.47.00:712][408]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.47.00:712][408]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup as actor: BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_0
+[2026.02.16-19.47.00:712][408]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.47.00:713][408]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.47.00:713][408]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup as actor: BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_0
+[2026.02.16-19.47.00:714][408]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.47.00:714][408]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.47.00:715][408]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.47.00:716][408]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.47.00:718][408]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.02.16-19.47.00:719][408]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.47.00:734][409]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.47.00:743][409]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.47.00:755][410]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.47.00:773][411]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.47.02:606][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.02.16-19.47.02:656][548]LogEditorActor: Deleted 0 Actors (0.071 secs)
+[2026.02.16-19.47.02:664][548]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C
+[2026.02.16-19.47.02:664][548]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C
+[2026.02.16-19.47.02:666][548]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285975A5BF02_1160423231
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.47.02:668][548]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup as actor: BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285975A5BF02_1160423231
+[2026.02.16-19.47.02:668][548]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285975A5BF02_1160423231
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.47.02:669][548]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285975A5BF02_1160423231
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.47.02:669][548]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup as actor: BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285975A5BF02_1160423231
+[2026.02.16-19.47.02:669][548]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285975A5BF02_1160423231
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.47.02:670][548]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285975A5BF02_1160423231
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.47.02:671][548]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285975A5BF02_1160423231
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.47.02:671][548]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285975A5BF02_1160423231
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.47.04:419][722]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285975A5BF02_1160423231
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.47.06:272][906]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285975A5BF02_1160423231
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.47.06:297][908]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285975A5BF02_1160423231
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.47.06:311][909]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285975A5BF02_1160423231
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.47.06:325][910]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285975A5BF02_1160423231
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.47.06:339][911]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285975A5BF02_1160423231
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.47.06:408][918]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285975A5BF02_1160423231
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.47.06:420][919]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285975A5BF02_1160423231
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.47.06:434][920]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285975A5BF02_1160423231
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.48.08:044][259]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.02.16-19.48.12:552][718]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.02.16-19.48.28:731][502]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285975A5BF02_1246489232
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.48.38:377][474]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285975A5BF02_1256134233
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.16-19.48.46:558][313]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 355.039429
+[2026.02.16-19.48.46:632][321]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.16-19.48.46:632][321]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 355.104095, Update Interval: 321.288483
+[2026.02.16-19.48.55:141][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.02.16-19.48.55:146][168]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.16-19.48.55:210][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/4/H2/I3I6US129SW4QTMQFU74LJ
+[2026.02.16-19.48.55:210][168]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/I3I6US129SW4QTMQFU74LJ3DF88C2E445F0373662FFE91E86D3732.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/__ExternalActors__/Levels/L_LevelOne/4/H2/I3I6US129SW4QTMQFU74LJ.uasset'
+[2026.02.16-19.48.55:219][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/3/YF/5GSNGVXC902JSJU95XC5CT
+[2026.02.16-19.48.55:219][168]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/5GSNGVXC902JSJU95XC5CTDB4F7BD747E0055F659BC0AFB3CCE7FE.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/__ExternalActors__/Levels/L_LevelOne/3/YF/5GSNGVXC902JSJU95XC5CT.uasset'
+[2026.02.16-19.48.55:226][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/B/OJ/QIZ9NX9AP3F6GVKCQQQIPO
+[2026.02.16-19.48.55:226][168]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/QIZ9NX9AP3F6GVKCQQQIPO00E201BA4CC33D166E38DCA6CCF998A0.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/__ExternalActors__/Levels/L_LevelOne/B/OJ/QIZ9NX9AP3F6GVKCQQQIPO.uasset'
+[2026.02.16-19.48.55:234][168]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/3/EN/IVXEYTACK4G9CZ8ER2GKMH
+[2026.02.16-19.48.55:234][168]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/IVXEYTACK4G9CZ8ER2GKMH2600F78349A7DFADE58E2B93FCC7D983.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/__ExternalActors__/Levels/L_LevelOne/3/EN/IVXEYTACK4G9CZ8ER2GKMH.uasset'
+[2026.02.16-19.48.55:235][168]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase] ([2] browsable assets)...
+[2026.02.16-19.48.55:235][168]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase]
+[2026.02.16-19.48.55:251][168]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_WeaponBase
+[2026.02.16-19.48.55:251][168]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_WeaponBaseDC4075A64E870157F145D0AE7656F9C6.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/WeaponBlueprints/BP_WeaponBase.uasset'
+[2026.02.16-19.48.55:269][168]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.156 ms (total: 264.280 ms)
+[2026.02.16-19.48.55:331][168]LogContentValidation: Display: Starting to validate 5 assets
+[2026.02.16-19.48.55:331][168]LogContentValidation: Enabled validators:
+[2026.02.16-19.48.55:331][168]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.16-19.48.55:331][168]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.16-19.48.55:331][168]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.16-19.48.55:331][168]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.16-19.48.55:331][168]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.16-19.48.55:331][168]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.16-19.48.55:335][168]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2026.02.16-19.48.55:335][168]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_WeaponBase Validating asset
+[2026.02.16-19.48.55:366][168]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
