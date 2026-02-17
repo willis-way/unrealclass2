@@ -1754,3 +1754,340 @@ Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase' has been compil
 [2026.02.17-17.52.00:586][732]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.17-17.52.00:586][732]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon Validating asset
 [2026.02.17-17.52.35:160][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.02.17-17.53.40:157][503]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Engine/Transient.World_7:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.54.04:688][589]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Engine/Transient.World_7:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.54.04:690][589]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Engine/Transient.World_7:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.54.05:798][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.02.17-17.54.07:252][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.02.17-17.54.07:258][843]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-17.54.07:288][843]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Triggerables/BP_WeaponPickup] ([2] browsable assets)...
+[2026.02.17-17.54.07:288][843]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Triggerables/BP_WeaponPickup]
+[2026.02.17-17.54.07:302][843]LogSavePackage: Moving output files for package: /Game/Blueprints/Triggerables/BP_WeaponPickup
+[2026.02.17-17.54.07:303][843]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_WeaponPickup3A703DD544552375A95070BDA1BECCF8.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/Triggerables/BP_WeaponPickup.uasset'
+[2026.02.17-17.54.07:308][843]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.793 ms (total: 1.23 sec)
+[2026.02.17-17.54.07:371][843]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.17-17.54.07:371][843]LogContentValidation: Enabled validators:
+[2026.02.17-17.54.07:371][843]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-17.54.07:371][843]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-17.54.07:371][843]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-17.54.07:371][843]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-17.54.07:371][843]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-17.54.07:371][843]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-17.54.07:371][843]AssetCheck: /Game/Blueprints/Triggerables/BP_WeaponPickup Validating asset
+[2026.02.17-17.54.27:386][225]LogSlate: Took 0.007981 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.02.17-17.54.38:424][426]Cmd: TRANSACTION UNDO
+[2026.02.17-17.54.38:425][426]LogEditorTransaction: Undo Change Collision Profile
+[2026.02.17-17.54.42:024][801]Cmd: TRANSACTION REDO
+[2026.02.17-17.54.42:024][801]LogEditorTransaction: Redo Change Collision Profile
+[2026.02.17-17.55.28:284][ 78]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.02.17-17.55.28:336][ 80]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.02.17-17.55.28:343][ 80]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_0
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.17-17.55.28:379][ 82]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2026.02.17-17.55.28:398][ 83]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2026.02.17-17.55.28:547][ 91]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_1
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.17-17.55.30:218][123]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_2
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.17-17.55.30:231][124]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_3
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.17-17.55.30:245][125]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_4
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.17-17.55.30:258][126]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_5
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.17-17.55.30:271][127]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_6
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.17-17.55.30:285][128]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_7
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.17-17.55.30:298][129]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_8
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.17-17.55.30:311][130]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_9
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.17-17.55.30:326][131]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_10
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.17-17.55.30:342][132]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_11
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.17-17.55.30:357][133]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_12
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.17-17.55.30:375][134]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_13
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.17-17.55.30:390][135]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_14
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.17-17.55.30:404][136]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_15
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.17-17.55.30:419][137]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_16
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.17-17.55.30:433][138]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_17
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.17-17.55.30:446][139]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_18
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.17-17.55.30:459][140]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_19
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.17-17.55.30:472][141]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_20
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.17-17.55.30:486][142]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_21
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.17-17.55.30:498][143]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_22
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.17-17.55.30:512][144]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_23
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.17-17.55.30:526][145]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_24
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.17-17.55.30:541][146]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_25
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.17-17.55.35:270][505]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C
+[2026.02.17-17.55.35:270][505]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C
+[2026.02.17-17.55.35:272][505]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup as actor: BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_0
+[2026.02.17-17.55.35:273][505]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup as actor: BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_0
+[2026.02.17-17.55.35:278][505]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.02.17-17.55.35:851][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.02.17-17.55.35:857][543]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2026.02.17-17.55.35:865][543]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C
+[2026.02.17-17.55.35:865][543]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C
+[2026.02.17-17.55.35:868][543]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285875EFBF02_1416729255
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.35:871][543]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285875EFBF02_1416729255
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.35:871][543]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup as actor: BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285875EFBF02_1416729255
+[2026.02.17-17.55.35:871][543]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285875EFBF02_1416729255
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.35:873][543]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285875EFBF02_1416729255
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.35:873][543]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup as actor: BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285875EFBF02_1416729255
+[2026.02.17-17.55.35:873][543]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285875EFBF02_1416729255
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.35:874][543]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285875EFBF02_1416729255
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.35:874][543]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285875EFBF02_1416729255
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.35:875][543]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285875EFBF02_1416729255
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.39:136][829]Cmd: DELETE
+[2026.02.17-17.55.39:137][829]Cmd: ACTOR DELETE
+[2026.02.17-17.55.39:143][829]LogEditorActor: Deleted Actor: BP_WeaponPickup_C
+[2026.02.17-17.55.39:167][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.02.17-17.55.39:170][829]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2026.02.17-17.55.40:670][965]Cmd: DELETE
+[2026.02.17-17.55.40:670][965]Cmd: ACTOR DELETE
+[2026.02.17-17.55.40:672][965]LogEditorActor: Deleted Actor: BP_WeaponPickup_C
+[2026.02.17-17.55.40:700][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.02.17-17.55.40:703][965]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2026.02.17-17.55.41:291][ 16]Cmd: DELETE
+[2026.02.17-17.55.41:291][ 16]Cmd: ACTOR DELETE
+[2026.02.17-17.55.41:292][ 16]LogEditorActor: Deleted Actor: BP_WeaponPickup_C
+[2026.02.17-17.55.41:321][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.02.17-17.55.41:324][ 16]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2026.02.17-17.55.44:336][299]Cmd: DELETE
+[2026.02.17-17.55.44:336][299]Cmd: ACTOR DELETE
+[2026.02.17-17.55.44:337][299]LogEditorActor: Deleted Actor: BP_WeaponPickup_C
+[2026.02.17-17.55.44:363][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.17-17.55.44:365][299]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2026.02.17-17.55.45:139][353]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C
+[2026.02.17-17.55.45:139][353]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C
+[2026.02.17-17.55.45:139][353]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_1
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.45:140][353]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_1
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.45:140][353]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup as actor: BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_1
+[2026.02.17-17.55.45:141][353]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_1
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.45:141][353]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_1
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.45:141][353]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup as actor: BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_1
+[2026.02.17-17.55.45:141][353]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_1
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.45:142][353]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_1
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.45:142][353]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_1
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.45:143][353]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_1
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.45:145][353]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_1
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.45:165][354]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_1
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.45:166][354]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_1
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.45:169][354]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_1
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.45:178][355]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_1
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.45:188][356]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_1
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.45:198][357]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_1
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.45:205][357]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_1
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.46:501][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.02.17-17.55.46:502][494]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.02.17-17.55.46:510][494]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C
+[2026.02.17-17.55.46:510][494]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C
+[2026.02.17-17.55.46:512][494]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285875EFBF02_1427374256
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.46:513][494]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup as actor: BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285875EFBF02_1427374256
+[2026.02.17-17.55.46:513][494]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285875EFBF02_1427374256
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.46:514][494]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285875EFBF02_1427374256
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.46:514][494]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup as actor: BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285875EFBF02_1427374256
+[2026.02.17-17.55.46:515][494]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285875EFBF02_1427374256
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.46:515][494]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285875EFBF02_1427374256
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.46:516][494]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285875EFBF02_1427374256
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.46:516][494]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285875EFBF02_1427374256
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.47:597][590]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285875EFBF02_1427374256
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.47:622][592]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285875EFBF02_1427374256
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.47:689][599]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285875EFBF02_1427374256
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.47:891][618]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285875EFBF02_1427374256
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.48:073][635]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285875EFBF02_1427374256
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.55.48:410][667]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285875EFBF02_1427374256
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.56.24:189][ 25]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285875EFBF02_1465051257
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.56.33:084][884]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WeaponPickup_C_UAID_047C16285875EFBF02_1473946258
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.56.36:925][218]Cmd: TRANSACTION UNDO
+[2026.02.17-17.56.36:925][218]LogEditorTransaction: Undo Move Elements
+[2026.02.17-17.56.50:732][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.02.17-17.56.50:741][522]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-17.56.50:814][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.02.17-17.56.50:840][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.02.17-17.56.50:865][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.02.17-17.56.50:879][522]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/0/SR/QXG7LQW2EUORS2FNDKYMR7
+[2026.02.17-17.56.50:879][522]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/QXG7LQW2EUORS2FNDKYMR7F212BB8441040AC311D1AFB1E6B9A69A.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/__ExternalActors__/Levels/L_LevelOne/0/SR/QXG7LQW2EUORS2FNDKYMR7.uasset'
+[2026.02.17-17.56.50:887][522]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/9Z/BEW28BIQUE002OAFG1A1Z2
+[2026.02.17-17.56.50:887][522]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BEW28BIQUE002OAFG1A1Z2A3837BF4465E3F8E6BDC29BFE5A4DD19.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/__ExternalActors__/Levels/L_LevelOne/E/9Z/BEW28BIQUE002OAFG1A1Z2.uasset'
+[2026.02.17-17.56.50:895][522]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/8/B6/9A5XQBMLU2XT5RTG7WZG8P
+[2026.02.17-17.56.50:895][522]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/9A5XQBMLU2XT5RTG7WZG8PF0C8A6044776086872FC0C82A0E8F5AE.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/__ExternalActors__/Levels/L_LevelOne/8/B6/9A5XQBMLU2XT5RTG7WZG8P.uasset'
+[2026.02.17-17.56.50:925][522]LogFileHelpers: InternalPromptForCheckoutAndSave took 184.035 ms (total: 1.42 sec)
+[2026.02.17-17.56.50:987][522]LogContentValidation: Display: Starting to validate 3 assets
+[2026.02.17-17.56.50:987][522]LogContentValidation: Enabled validators:
+[2026.02.17-17.56.50:987][522]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-17.56.50:987][522]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-17.56.50:987][522]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-17.56.50:987][522]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-17.56.50:987][522]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-17.56.50:987][522]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-17.56.50:987][522]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2026.02.17-17.56.51:017][522]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.17-17.57.15:434][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: ================================================
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: Total job queries 612, among them cache hits 110 (17.97%), DDC hits 415 (67.81%), Duplicates 75 (12.25%)
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: Tracking 427 distinct input hashes that result in 297 distinct outputs (69.56%)
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: RAM used: 3.84 MiB of 1.60 GiB budget. Usage: 0.23%
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: Shaders Compiled: 12
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: Jobs assigned 12, completed 12 (100%)
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: Average time worker was idle: 1659.47 s
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: Job execution time: average 0.87 s, max 1.75 s
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: Job life time (pending + execution): average 0.92 s, max 1.81
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: Shader code size: total 102.988 KiB, numShaders 14, average 7.355 KiB, min 1.727 KiB, max 12.191 KiB
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.39 s
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: Average processing rate: 2.73 jobs/sec
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: Total thread time: 5.756 s
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: Total thread preprocess time: 7.93 s
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: Percentage time preprocessing: 137.76%
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: Effective parallelization: 1.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.131019
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.76 sec, max 0.79 sec, min 0.74 sec)
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.38 sec, max 0.43 sec, min 0.31 sec)
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.31 sec, max 0.35 sec, min 0.27 sec)
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 26.58% of total time (compiled    2 times, average 0.76 sec, max 0.79 sec, min 0.74 sec)
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.53% of total time (compiled    4 times, average 0.38 sec, max 0.43 sec, min 0.31 sec)
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.66% of total time (compiled    2 times, average 0.31 sec, max 0.35 sec, min 0.27 sec)
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display:                                                  FVelocityPS - 8.90% of total time (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 8.18% of total time (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: === Material stats ===
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: Materials Translated:    162
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: Material Translation Only: 0.04 s (31%)
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: Material Cache Hits: 28 (17%)
+[2026.02.17-17.57.15:990][513]LogShaderCompilers: Display: ================================================
