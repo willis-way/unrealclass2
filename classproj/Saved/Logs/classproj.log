@@ -2517,3 +2517,13 @@ Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase' has been compil
 [2026.02.17-18.30.55:348][235]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.17-18.30.55:348][235]AssetCheck: /Game/Levels/L_LevelOne Validating asset
 [2026.02.17-18.30.55:349][235]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.02.17-18.35.07:579][995]LogDerivedDataCache: C:/Users/sbehr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.17-18.35.14:777][ 17]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7324.017578
+[2026.02.17-18.35.15:777][ 20]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.17-18.35.15:777][ 20]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7324.684570, Update Interval: 336.085693
+[2026.02.17-18.39.28:776][898]LogPSOHitching: Encountered 300 PSO creation hitches so far (102 graphics, 198 compute). 0 of them were precached.
+[2026.02.17-18.39.37:401][218]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_Default.IMC_Default
+[2026.02.17-18.41.28:553][814]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7697.797363
+[2026.02.17-18.41.29:554][818]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.17-18.41.29:554][818]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7698.463867, Update Interval: 329.830627
+[2026.02.17-18.43.33:112][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
