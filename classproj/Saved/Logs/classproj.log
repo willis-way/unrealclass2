@@ -2527,3 +2527,121 @@ Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase' has been compil
 [2026.02.17-18.41.29:554][818]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.02.17-18.41.29:554][818]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7698.463867, Update Interval: 329.830627
 [2026.02.17-18.43.33:112][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.02.17-18.44.08:627][210]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.17-18.44.08:631][210]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.17-18.44.08:631][210]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.02.17-18.44.08:632][210]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 686 us (total: 1.287 ms)
+[2026.02.17-18.44.08:632][210]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.17-18.44.08:632][210]BlueprintLog: Warning: Blueprint failed to compile:  BP_CharacterBase
+[2026.02.17-18.44.11:674][210]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2026.02.17-18.44.30:265][945]LogSlate: Window 'Message Log' being destroyed
+[2026.02.17-18.44.30:276][945]LogSlate: Window 'Message Log' being destroyed
+[2026.02.17-18.45.00:972][267]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Message node  Get Play Length  must have a valid target or reference to self.
+[2026.02.17-18.45.00:976][267]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "BP_HealthComponent" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get BP_HealthComponent
+[2026.02.17-18.45.00:976][267]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "CurrentHealth" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase' has been compiled for  Get CurrentHealth
+[2026.02.17-18.45.00:987][267]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  BP Health Component  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.17-18.45.00:987][267]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Current Health  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.17-18.45.01:175][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.02.17-18.45.16:747][935]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cast To AnimMontage  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2026.02.17-18.45.16:748][935]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Message node  Get Play Length  must have a valid target or reference to self.
+[2026.02.17-18.45.16:753][935]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "BP_HealthComponent" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get BP_HealthComponent
+[2026.02.17-18.45.16:753][935]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "CurrentHealth" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase' has been compiled for  Get CurrentHealth
+[2026.02.17-18.45.16:764][935]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  BP Health Component  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.17-18.45.16:764][935]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Current Health  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.17-18.45.16:947][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.02.17-18.45.53:249][656]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Message node  Get Play Length  must have a valid target or reference to self.
+[2026.02.17-18.45.53:253][656]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "BP_HealthComponent" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get BP_HealthComponent
+[2026.02.17-18.45.53:253][656]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "CurrentHealth" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase' has been compiled for  Get CurrentHealth
+[2026.02.17-18.45.53:263][656]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  BP Health Component  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.17-18.45.53:263][656]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Current Health  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.17-18.45.53:433][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.02.17-18.47.31:978][  1]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Message node  Get Play Length  must have a valid target or reference to self.
+[2026.02.17-18.47.31:982][  1]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "BP_HealthComponent" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get BP_HealthComponent
+[2026.02.17-18.47.31:982][  1]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "CurrentHealth" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase' has been compiled for  Get CurrentHealth
+[2026.02.17-18.47.31:992][  1]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  BP Health Component  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.17-18.47.31:992][  1]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Current Health  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.17-18.47.32:174][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.02.17-18.47.33:886][132]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8063.148926
+[2026.02.17-18.47.33:989][140]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.17-18.47.33:989][140]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8063.239258, Update Interval: 348.872345
+[2026.02.17-18.47.38:528][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.02.17-18.47.38:538][440]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-18.47.38:574][440]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832
+[2026.02.17-18.47.38:574][440]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/RE5B2IEP2TCCQN34XBQ8324257346C40FCB0E39071BA8ED09BBACB.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832.uasset'
+[2026.02.17-18.47.38:574][440]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.17-18.47.38:646][440]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.17-18.47.38:646][440]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.17-18.47.38:646][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.02.17-18.47.38:678][440]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.02.17-18.47.38:679][440]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_CharacterBase83D246F2481E7CA0C1C80E9188EBED39.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.02.17-18.47.38:687][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.356 ms (total: 2.20 sec)
+[2026.02.17-18.47.38:736][440]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.17-18.47.38:736][440]LogContentValidation: Enabled validators:
+[2026.02.17-18.47.38:736][440]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-18.47.38:736][440]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-18.47.38:736][440]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-18.47.38:736][440]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-18.47.38:736][440]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-18.47.38:736][440]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-18.47.38:736][440]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2026.02.17-18.47.38:736][440]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.02.17-18.47.41:770][711]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.17-18.47.41:775][711]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.17-18.47.41:775][711]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.02.17-18.47.41:775][711]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 619 us (total: 1.906 ms)
+[2026.02.17-18.47.41:775][711]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.17-18.47.41:775][711]BlueprintLog: Warning: Blueprint failed to compile:  BP_CharacterBase
+[2026.02.17-18.47.43:428][711]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2026.02.17-18.47.52:106][367]LogSlate: Window 'Message Log' being destroyed
+[2026.02.17-18.47.52:111][367]LogSlate: Window 'Message Log' being destroyed
+[2026.02.17-18.49.18:946][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.02.17-18.49.18:949][164]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.028
+[2026.02.17-18.49.18:949][164]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.17-18.49.19:016][164]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.17-18.49.19:016][164]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.17-18.49.19:048][164]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerAssets/BP_CharacterBase_Auto9
+[2026.02.17-18.49.19:048][164]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_CharacterBase_Auto995ACDB754448B32189F52D917984F8B5.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/PlayerAssets/BP_CharacterBase_Auto9.uasset'
+[2026.02.17-18.49.19:048][164]LogFileHelpers: Auto-saving content packages took 0.099
+[2026.02.17-18.51.40:538][517]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Message node  Get Play Length  must have a valid target or reference to self.
+[2026.02.17-18.51.40:738][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.02.17-18.51.44:189][908]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Message node  Get Play Length  must have a valid target or reference to self.
+[2026.02.17-18.51.44:377][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.02.17-18.51.46:375][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.02.17-18.51.46:384][112]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-18.51.46:441][112]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832
+[2026.02.17-18.51.46:441][112]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/RE5B2IEP2TCCQN34XBQ83281C30E93446465A2B0FF70AEAB367408.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832.uasset'
+[2026.02.17-18.51.46:442][112]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.17-18.51.46:503][112]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.17-18.51.46:503][112]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.17-18.51.46:503][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.02.17-18.51.46:533][112]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.02.17-18.51.46:533][112]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_CharacterBase51A529B7462D2335FD75E9B09131431B.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.02.17-18.51.46:543][112]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.596 ms (total: 2.36 sec)
+[2026.02.17-18.51.46:587][112]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.17-18.51.46:587][112]LogContentValidation: Enabled validators:
+[2026.02.17-18.51.46:587][112]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-18.51.46:587][112]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-18.51.46:587][112]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-18.51.46:587][112]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-18.51.46:587][112]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-18.51.46:587][112]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-18.51.46:587][112]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2026.02.17-18.51.46:587][112]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.02.17-18.51.52:306][747]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.17-18.51.52:311][747]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.17-18.51.52:311][747]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.02.17-18.51.52:311][747]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 561 us (total: 2.468 ms)
+[2026.02.17-18.51.52:312][747]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.17-18.51.52:312][747]BlueprintLog: Warning: Blueprint failed to compile:  BP_CharacterBase
+[2026.02.17-18.51.53:935][747]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2026.02.17-18.51.58:362][224]LogSlate: Window 'Message Log' being destroyed
+[2026.02.17-18.51.58:370][224]LogSlate: Window 'Message Log' being destroyed
+[2026.02.17-18.52.07:108][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
