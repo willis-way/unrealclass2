@@ -1511,3 +1511,73 @@ Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase' has been compil
 [2026.02.17-17.02.41:235][985]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1770.592285, Update Interval: 318.970306
 [2026.02.17-17.05.26:204][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
 [2026.02.17-17.07.33:236][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.02.17-17.08.39:388][188]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2129.079102
+[2026.02.17-17.08.39:462][195]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.17-17.08.39:462][195]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2129.144287, Update Interval: 322.665497
+[2026.02.17-17.14.53:853][223]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2503.536621
+[2026.02.17-17.14.54:280][234]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.17-17.14.54:280][234]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2503.956787, Update Interval: 334.968719
+[2026.02.17-17.15.18:855][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.02.17-17.15.18:860][321]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.033
+[2026.02.17-17.15.18:860][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.17-17.15.18:860][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.17-17.15.18:892][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerAssets/BP_CharacterBase_Auto3
+[2026.02.17-17.15.18:892][321]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_CharacterBase_Auto3837547144AE566C8255B09ABB8194E48.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/PlayerAssets/BP_CharacterBase_Auto3.uasset'
+[2026.02.17-17.15.18:893][321]LogFileHelpers: Auto-saving content packages took 0.033
+[2026.02.17-17.21.05:795][639]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2875.480713
+[2026.02.17-17.21.06:796][642]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.17-17.21.06:796][642]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2876.147461, Update Interval: 302.407898
+[2026.02.17-17.26.47:196][710]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3216.866211
+[2026.02.17-17.26.47:305][723]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.17-17.26.47:305][723]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3216.966309, Update Interval: 326.908173
+[2026.02.17-17.32.00:920][719]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Integer64' on ' integer64 - integer64 '
+[2026.02.17-17.32.00:920][719]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' integer64 - integer64 ' could not successfuly expand pins!
+[2026.02.17-17.32.00:920][719]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Integer64' on ' integer64 + integer64 '
+[2026.02.17-17.32.00:920][719]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' integer64 + integer64 ' could not successfuly expand pins!
+[2026.02.17-17.32.00:922][719]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "DeathAnim" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get DeathAnim
+[2026.02.17-17.32.00:922][719]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "DeathAnim" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get DeathAnim
+[2026.02.17-17.32.00:925][719]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "BP_HealthComponent" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get BP_HealthComponent
+[2026.02.17-17.32.00:925][719]LogBlueprint: Warning: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "CurrentHealth" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase' has been compiled for  Get CurrentHealth
+[2026.02.17-17.32.00:926][719]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Last Index  to imply a specific type.
+[2026.02.17-17.32.00:926][719]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The type of  Target Map  is undetermined.  Connect something to  Length  to imply a specific type.
+[2026.02.17-17.32.00:935][719]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Death Anim  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.17-17.32.00:935][719]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.17-17.32.00:935][719]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Map ' pin is invalid: Map inputs (like 'Target Map') must have an input wired into them (try connecting a MakeMap node).
+[2026.02.17-17.32.00:935][719]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.17-17.32.00:935][719]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.17-17.32.00:935][719]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2026.02.17-17.32.00:935][719]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Death Anim  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.17-17.32.00:936][719]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  BP Health Component  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.17-17.32.00:936][719]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Current Health  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.17-17.32.01:119][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.02.17-17.32.01:131][719]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Engine/Transient.World_7:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.32.01:169][719]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Engine/Transient.World_7:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.17-17.32.18:174][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.02.17-17.32.18:184][  1]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-17.32.18:240][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832
+[2026.02.17-17.32.18:242][  1]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/RE5B2IEP2TCCQN34XBQ832FBFC49CC4E40B4F31DBCF6A6EC5FDBC5.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832.uasset'
+[2026.02.17-17.32.18:242][  1]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.17-17.32.18:299][  1]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.17-17.32.18:299][  1]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.17-17.32.18:299][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.02.17-17.32.18:330][  1]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.02.17-17.32.18:330][  1]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_CharacterBaseD872DC554B4217F7A32EBD882D9C9A29.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.02.17-17.32.18:337][  1]LogFileHelpers: InternalPromptForCheckoutAndSave took 154.091 ms (total: 548.009 ms)
+[2026.02.17-17.32.18:401][  1]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.17-17.32.18:401][  1]LogContentValidation: Enabled validators:
+[2026.02.17-17.32.18:401][  1]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-17.32.18:401][  1]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-17.32.18:401][  1]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-17.32.18:401][  1]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-17.32.18:401][  1]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-17.32.18:401][  1]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-17.32.18:403][  1]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2026.02.17-17.32.18:403][  1]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
