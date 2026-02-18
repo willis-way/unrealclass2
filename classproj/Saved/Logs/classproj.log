@@ -1343,3 +1343,31 @@ Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C' has been c
 [2026.02.18-23.48.48:280][134]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.18-23.48.48:281][134]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.18-23.48.48:281][134]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Master Validating asset
+[2026.02.18-23.54.29:421][247]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2847.610596
+[2026.02.18-23.54.30:421][250]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-23.54.30:421][250]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2848.276855, Update Interval: 343.607910
+[2026.02.18-23.55.01:207][948]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] Invalid pin connection from  Input Object  and  New Weapon to Add : Object Reference is not compatible with Object Reference. (You may have changed the type after the connections were made)
+[2026.02.18-23.55.01:207][948]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] Can't connect pins  Item  and  New Weapon to Add : Object Reference is not compatible with Object Reference.
+[2026.02.18-23.55.01:207][948]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] Can't connect pins  New Weapon to Add  and  Object generated from expanding Is Valid : Object Reference is not compatible with Object Reference.
+[2026.02.18-23.55.01:208][948]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] Can't connect pins  Object generated from expanding Is Valid  and  New Weapon to Add : Object Reference is not compatible with Object Reference.
+[2026.02.18-23.55.01:331][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.02.18-23.55.31:790][385]LogSlate: Took 0.006482 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.02.18-23.55.48:260][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.02.18-23.55.58:293][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.18-23.55.59:712][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.02.18-23.55.59:717][182]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-23.55.59:745][182]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Master] ([2] browsable assets)...
+[2026.02.18-23.55.59:748][182]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master]
+[2026.02.18-23.55.59:748][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Master]
+[2026.02.18-23.55.59:760][182]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Master
+[2026.02.18-23.55.59:760][182]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/WBP_Master81EDB8BA4A59444B458C8BA152AB0A19.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/WidgetBlueprints/WBP_Master.uasset'
+[2026.02.18-23.55.59:768][182]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.675 ms (total: 324.901 ms)
+[2026.02.18-23.55.59:803][182]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-23.55.59:803][182]LogContentValidation: Enabled validators:
+[2026.02.18-23.55.59:803][182]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-23.55.59:803][182]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-23.55.59:803][182]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-23.55.59:803][182]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-23.55.59:803][182]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-23.55.59:803][182]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-23.55.59:803][182]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Master Validating asset
