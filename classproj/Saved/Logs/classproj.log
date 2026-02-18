@@ -2008,3 +2008,51 @@ Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been comp
 [2026.02.18-19.47.29:529][ 30]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.18-19.47.29:529][ 30]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.18-19.47.29:529][ 30]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_Gun Validating asset
+[2026.02.18-19.49.58:737][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.02.18-19.49.58:739][195]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.024
+[2026.02.18-19.49.58:739][195]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_Gun] ([2] browsable assets)...
+[2026.02.18-19.49.58:795][195]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_Gun.BP_Gun]
+[2026.02.18-19.49.58:795][195]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_Gun]
+[2026.02.18-19.49.58:816][195]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WeaponBlueprints/BP_Gun_Auto4
+[2026.02.18-19.49.58:816][195]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_Gun_Auto42AED89B84E52C2A832CCC28213C59DD4.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Blueprints/WeaponBlueprints/BP_Gun_Auto4.uasset'
+[2026.02.18-19.49.58:816][195]LogFileHelpers: Auto-saving content packages took 0.077
+[2026.02.18-19.50.21:604][649]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3598.051025
+[2026.02.18-19.50.22:606][652]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-19.50.22:606][652]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3598.717529, Update Interval: 351.423065
+[2026.02.18-19.50.37:262][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.02.18-19.50.38:356][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.02.18-19.50.38:362][726]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-19.50.38:414][726]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_Gun] ([2] browsable assets)...
+[2026.02.18-19.50.38:461][726]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_Gun.BP_Gun]
+[2026.02.18-19.50.38:461][726]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_Gun]
+[2026.02.18-19.50.38:461][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WeaponBlueprints/BP_Gun" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/WeaponBlueprints/BP_Gun.uasset" SILENT=true
+[2026.02.18-19.50.38:480][726]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_Gun
+[2026.02.18-19.50.38:480][726]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_Gun76912F2D4E588F9AD8D3FB95831A2D2D.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/WeaponBlueprints/BP_Gun.uasset'
+[2026.02.18-19.50.38:488][726]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.422 ms (total: 2.40 sec)
+[2026.02.18-19.50.38:546][726]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-19.50.38:546][726]LogContentValidation: Enabled validators:
+[2026.02.18-19.50.38:546][726]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-19.50.38:546][726]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-19.50.38:546][726]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-19.50.38:546][726]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-19.50.38:546][726]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-19.50.38:546][726]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-19.50.38:546][726]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_Gun Validating asset
+[2026.02.18-19.51.51:102][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.02.18-19.51.52:144][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.02.18-19.51.52:149][302]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-19.51.52:200][302]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher] ([2] browsable assets)...
+[2026.02.18-19.51.52:285][302]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher.BP_GrenadeLauncher]
+[2026.02.18-19.51.52:285][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher]
+[2026.02.18-19.51.52:304][302]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher
+[2026.02.18-19.51.52:305][302]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_GrenadeLauncherAC023CA34801B41FB2F134AF26F1A079.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/WeaponBlueprints/BP_GrenadeLauncher.uasset'
+[2026.02.18-19.51.52:313][302]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.060 ms (total: 2.56 sec)
+[2026.02.18-19.51.52:363][302]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-19.51.52:363][302]LogContentValidation: Enabled validators:
+[2026.02.18-19.51.52:363][302]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-19.51.52:363][302]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-19.51.52:363][302]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-19.51.52:363][302]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-19.51.52:363][302]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-19.51.52:363][302]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-19.51.52:364][302]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher Validating asset
