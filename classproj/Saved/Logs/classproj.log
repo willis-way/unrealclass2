@@ -1290,3 +1290,56 @@ FPackageName: Skipped package /Game/Fab/SCIFI_CCG_Gun_Sketch/scifi_ccg_gun_sketc
 [2026.02.18-23.15.44:529][216]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.18-23.15.44:529][216]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.18-23.15.44:529][216]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Master Validating asset
+[2026.02.18-23.18.08:194][876]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 666.380676
+[2026.02.18-23.18.09:194][879]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-23.18.09:194][879]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 667.047363, Update Interval: 317.311310
+[2026.02.18-23.23.32:250][848]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 990.436890
+[2026.02.18-23.23.33:250][851]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-23.23.33:250][851]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 991.102539, Update Interval: 308.445068
+[2026.02.18-23.28.51:299][805]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1309.484863
+[2026.02.18-23.28.52:299][808]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-23.28.52:299][808]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1310.151367, Update Interval: 326.875214
+[2026.02.18-23.34.49:689][880]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1667.875488
+[2026.02.18-23.34.50:688][883]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-23.34.50:688][883]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1668.542114, Update Interval: 349.476624
+[2026.02.18-23.41.34:414][ 94]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2072.600586
+[2026.02.18-23.41.35:414][ 97]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-23.41.35:414][ 97]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2073.267822, Update Interval: 338.081604
+[2026.02.18-23.46.32:721][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.02.18-23.46.58:744][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.02.18-23.46.58:745][182]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.019
+[2026.02.18-23.46.58:746][182]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Master] ([2] browsable assets)...
+[2026.02.18-23.46.58:749][182]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master]
+[2026.02.18-23.46.58:749][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Master]
+[2026.02.18-23.46.58:760][182]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WidgetBlueprints/WBP_Master_Auto1
+[2026.02.18-23.46.58:760][182]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/WBP_Master_Auto1FD612130493926FFC92F6AAE53BE87B8.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/Autosaves/Game/Blueprints/WidgetBlueprints/WBP_Master_Auto1.uasset'
+[2026.02.18-23.46.58:760][182]LogFileHelpers: Auto-saving content packages took 0.015
+[2026.02.18-23.47.47:778][414]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2445.961914
+[2026.02.18-23.47.48:452][417]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-23.47.48:453][417]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2446.628906, Update Interval: 353.832825
+[2026.02.18-23.48.05:450][173]LogStreaming: Display: FlushAsyncLoading(822): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.18-23.48.07:910][462]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] Invalid pin connection from  Input Object  and  New Weapon to Add : Object Reference is not compatible with Object Reference. (You may have changed the type after the connections were made)
+[2026.02.18-23.48.07:910][462]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] Can't connect pins  Item  and  New Weapon to Add : Object Reference is not compatible with Object Reference.
+[2026.02.18-23.48.07:910][462]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] Could not find a variable named "WeaponsList" in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C' has been compiled for  Get WeaponsList
+[2026.02.18-23.48.07:910][462]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] Can't connect pins  New Weapon to Add  and  Object generated from expanding Is Valid : Object Reference is not compatible with Object Reference.
+[2026.02.18-23.48.07:911][462]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] Can't connect pins  Object generated from expanding Is Valid  and  New Weapon to Add : Object Reference is not compatible with Object Reference.
+[2026.02.18-23.48.07:911][462]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] The property associated with  Weapons List  could not be found in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'
+[2026.02.18-23.48.07:958][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.02.18-23.48.48:187][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.02.18-23.48.48:193][134]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-23.48.48:225][134]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Master] ([2] browsable assets)...
+[2026.02.18-23.48.48:228][134]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master]
+[2026.02.18-23.48.48:228][134]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Master]
+[2026.02.18-23.48.48:243][134]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Master
+[2026.02.18-23.48.48:243][134]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/WBP_Master8195DFAF4FD9BED22E78B5AE7E683955.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/WidgetBlueprints/WBP_Master.uasset'
+[2026.02.18-23.48.48:252][134]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.955 ms (total: 273.225 ms)
+[2026.02.18-23.48.48:280][134]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-23.48.48:280][134]LogContentValidation: Enabled validators:
+[2026.02.18-23.48.48:280][134]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-23.48.48:280][134]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-23.48.48:280][134]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-23.48.48:280][134]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-23.48.48:280][134]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-23.48.48:281][134]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-23.48.48:281][134]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Master Validating asset
