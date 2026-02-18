@@ -1318,3 +1318,188 @@ FPackageName: Skipped package /Game/Fab/SCIFI_CCG_Gun_Sketch/scifi_ccg_gun_sketc
 [2026.02.18-18.56.13:415][662]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 349.873535
 [2026.02.18-18.56.13:508][671]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.02.18-18.56.13:508][671]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 349.957062, Update Interval: 303.556030
+[2026.02.18-19.01.20:989][771]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 657.446655
+[2026.02.18-19.01.21:087][780]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-19.01.21:087][780]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 657.533569, Update Interval: 338.539368
+[2026.02.18-19.02.15:390][773]LogSlate: Took 0.007295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.02.18-19.02.36:450][719]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Message node  Get Play Length  must have a valid target or reference to self.
+[2026.02.18-19.02.36:592][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.02.18-19.02.36:599][719]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Engine/Transient.World_7:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.18-19.02.36:637][719]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Engine/Transient.World_7:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.18-19.02.38:362][859]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.02.18-19.02.45:554][512]LogBlueprint: Error: [AssetLog] C:\Users\sbehr\Desktop\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Message node  Get Play Length  must have a valid target or reference to self.
+[2026.02.18-19.02.45:692][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.02.18-19.02.45:701][512]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Engine/Transient.World_7:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.18-19.02.45:730][512]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Engine/Transient.World_7:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.18-19.03.00:068][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.02.18-19.03.00:074][870]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Engine/Transient.World_7:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.18-19.03.00:106][870]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Engine/Transient.World_7:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.18-19.04.13:372][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.02.18-19.04.13:387][594]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832_Auto1
+[2026.02.18-19.04.13:387][594]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/RE5B2IEP2TCCQN34XBQ832_Auto13FFEFF884CD970BAA348E7BCD22DCDA5.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832_Auto1.uasset'
+[2026.02.18-19.04.13:387][594]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.036
+[2026.02.18-19.04.13:387][594]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036
+[2026.02.18-19.04.13:387][594]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/PlayerAssets/BP_DummyAI] ([2] browsable assets)...
+[2026.02.18-19.04.13:388][594]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.02.18-19.04.13:512][594]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/PlayerAssets/BP_DummyAI.BP_DummyAI_C]
+[2026.02.18-19.04.13:512][594]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.02.18-19.04.13:551][594]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_DummyAI.BP_DummyAI]
+[2026.02.18-19.04.13:551][594]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_DummyAI]
+[2026.02.18-19.04.13:564][594]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerAssets/BP_DummyAI_Auto1
+[2026.02.18-19.04.13:564][594]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_DummyAI_Auto1756934F54B6C4ED5124521B88258F7E9.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/PlayerAssets/BP_DummyAI_Auto1.uasset'
+[2026.02.18-19.04.13:565][594]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/PlayerAssets/BP_CharacterFPS] ([2] browsable assets)...
+[2026.02.18-19.04.13:565][594]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.02.18-19.04.13:600][594]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS_C]
+[2026.02.18-19.04.13:601][594]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.02.18-19.04.13:641][594]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS]
+[2026.02.18-19.04.13:641][594]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterFPS]
+[2026.02.18-19.04.13:660][594]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerAssets/BP_CharacterFPS_Auto1
+[2026.02.18-19.04.13:660][594]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_CharacterFPS_Auto11EBE257E4BF82CC46B58118EBCA94250.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/PlayerAssets/BP_CharacterFPS_Auto1.uasset'
+[2026.02.18-19.04.13:660][594]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.18-19.04.13:661][594]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.02.18-19.04.13:693][594]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C]
+[2026.02.18-19.04.13:693][594]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.02.18-19.04.13:727][594]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.18-19.04.13:727][594]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.18-19.04.13:759][594]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerAssets/BP_CharacterBase_Auto1
+[2026.02.18-19.04.13:759][594]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_CharacterBase_Auto10D5939934BD466C07BFB69AA71939E1A.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/PlayerAssets/BP_CharacterBase_Auto1.uasset'
+[2026.02.18-19.04.13:760][594]LogFileHelpers: Auto-saving content packages took 0.372
+[2026.02.18-19.05.19:924][946]LogStreaming: Display: FlushAsyncLoading(785): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.18-19.05.30:944][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.02.18-19.05.30:950][144]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Engine/Transient.World_7:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.18-19.05.30:988][144]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Engine/Transient.World_7:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.18-19.05.44:470][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.02.18-19.05.44:478][522]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Engine/Transient.World_7:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.18-19.05.44:516][522]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Engine/Transient.World_7:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.18-19.05.46:956][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.02.18-19.05.46:963][761]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-19.05.47:012][761]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832
+[2026.02.18-19.05.47:012][761]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/RE5B2IEP2TCCQN34XBQ83256476372432D8C9D8B1C65AD92A68F0C.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832.uasset'
+[2026.02.18-19.05.47:013][761]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_DummyAI] ([2] browsable assets)...
+[2026.02.18-19.05.47:072][761]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_DummyAI.BP_DummyAI]
+[2026.02.18-19.05.47:072][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_DummyAI]
+[2026.02.18-19.05.47:072][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_DummyAI" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset" SILENT=true
+[2026.02.18-19.05.47:083][761]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_DummyAI
+[2026.02.18-19.05.47:084][761]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_DummyAID76FCA0C4280CFC8EB28E6BE302A8664.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset'
+[2026.02.18-19.05.47:084][761]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterFPS] ([2] browsable assets)...
+[2026.02.18-19.05.47:093][761]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS]
+[2026.02.18-19.05.47:093][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterFPS]
+[2026.02.18-19.05.47:093][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterFPS" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterFPS.uasset" SILENT=true
+[2026.02.18-19.05.47:110][761]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterFPS
+[2026.02.18-19.05.47:110][761]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_CharacterFPSE7A25D3D4456693DCBE29BA083723F72.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterFPS.uasset'
+[2026.02.18-19.05.47:111][761]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.18-19.05.47:118][761]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.18-19.05.47:118][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.18-19.05.47:118][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.02.18-19.05.47:150][761]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.02.18-19.05.47:150][761]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_CharacterBaseC87B48AF45A8489EF1848DB3CFA87CA5.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.02.18-19.05.47:157][761]LogFileHelpers: InternalPromptForCheckoutAndSave took 193.774 ms
+[2026.02.18-19.05.47:200][761]LogContentValidation: Display: Starting to validate 5 assets
+[2026.02.18-19.05.47:200][761]LogContentValidation: Enabled validators:
+[2026.02.18-19.05.47:200][761]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-19.05.47:200][761]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-19.05.47:200][761]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-19.05.47:200][761]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-19.05.47:200][761]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-19.05.47:200][761]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-19.05.47:200][761]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2026.02.18-19.05.47:200][761]AssetCheck: /Game/PlayerAssets/BP_DummyAI Validating asset
+[2026.02.18-19.05.47:200][761]AssetCheck: /Game/PlayerAssets/BP_CharacterFPS Validating asset
+[2026.02.18-19.05.47:200][761]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.02.18-19.05.47:228][761]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.18-19.06.54:114][ 10]LogStreaming: Display: FlushAsyncLoading(787): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.18-19.06.54:121][ 10]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AS_DeathFromBack.AS_DeathFromBack (Required Memory Estimate: 1.33 MB)
+[2026.02.18-19.06.54:149][ 10]LogAnimationCompression: Display: Storing compressed animation data for /Game/AS_DeathFromBack.AS_DeathFromBack, at AnimationSequence/194689cd7a21382a01dbb6baff8edab88e9e5fbf
+[2026.02.18-19.06.59:879][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.02.18-19.06.59:885][532]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Engine/Transient.World_7:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.18-19.06.59:924][532]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Engine/Transient.World_7:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.18-19.07.01:852][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.02.18-19.07.01:859][684]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-19.07.01:904][684]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832
+[2026.02.18-19.07.01:904][684]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/RE5B2IEP2TCCQN34XBQ8322253484D4241685EB8C1F38C9F1984AB.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832.uasset'
+[2026.02.18-19.07.01:904][684]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_DummyAI] ([2] browsable assets)...
+[2026.02.18-19.07.01:964][684]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_DummyAI.BP_DummyAI]
+[2026.02.18-19.07.01:964][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_DummyAI]
+[2026.02.18-19.07.01:964][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_DummyAI" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset" SILENT=true
+[2026.02.18-19.07.01:976][684]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_DummyAI
+[2026.02.18-19.07.01:977][684]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_DummyAI9DCCF82E4F525ABEB82D8FBCEDBF6721.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset'
+[2026.02.18-19.07.01:977][684]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterFPS] ([2] browsable assets)...
+[2026.02.18-19.07.01:985][684]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS]
+[2026.02.18-19.07.01:985][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterFPS]
+[2026.02.18-19.07.01:985][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterFPS" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterFPS.uasset" SILENT=true
+[2026.02.18-19.07.02:003][684]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterFPS
+[2026.02.18-19.07.02:004][684]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_CharacterFPSE49CEBD84C59028B540978AE34004B65.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterFPS.uasset'
+[2026.02.18-19.07.02:004][684]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.18-19.07.02:011][684]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.18-19.07.02:011][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.18-19.07.02:011][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.02.18-19.07.02:044][684]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.02.18-19.07.02:044][684]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_CharacterBaseEF38516F476F3AE42B9639ADF72F3C3A.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.02.18-19.07.02:051][684]LogFileHelpers: InternalPromptForCheckoutAndSave took 190.916 ms (total: 384.691 ms)
+[2026.02.18-19.07.02:101][684]LogContentValidation: Display: Starting to validate 6 assets
+[2026.02.18-19.07.02:101][684]LogContentValidation: Enabled validators:
+[2026.02.18-19.07.02:101][684]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-19.07.02:101][684]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-19.07.02:101][684]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-19.07.02:101][684]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-19.07.02:101][684]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-19.07.02:101][684]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-19.07.02:101][684]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2026.02.18-19.07.02:101][684]AssetCheck: /Game/PlayerAssets/BP_DummyAI Validating asset
+[2026.02.18-19.07.02:101][684]AssetCheck: /Game/PlayerAssets/BP_CharacterFPS Validating asset
+[2026.02.18-19.07.02:101][684]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.02.18-19.07.04:507][889]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1000.966919
+[2026.02.18-19.07.04:604][897]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-19.07.04:604][897]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1001.051758, Update Interval: 346.127502
+[2026.02.18-19.07.20:572][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.02.18-19.07.20:580][399]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Engine/Transient.World_7:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.18-19.07.20:618][399]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_WeaponPickup_C /Engine/Transient.World_7:PersistentLevel.BP_WeaponPickup_C_0
+	Function /Game/Blueprints/Triggerables/BP_WeaponPickup.BP_WeaponPickup_C:UserConstructionScript:0046
+[2026.02.18-19.07.21:859][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.02.18-19.07.21:867][486]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-19.07.21:927][486]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832
+[2026.02.18-19.07.21:927][486]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/RE5B2IEP2TCCQN34XBQ832C755A22B4037A98319637887D89CF99D.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832.uasset'
+[2026.02.18-19.07.21:928][486]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.18-19.07.21:989][486]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.18-19.07.21:989][486]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.18-19.07.21:989][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.02.18-19.07.22:021][486]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.02.18-19.07.22:021][486]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_CharacterBase453E103D437F779F1D1D7BAD5FFCC13A.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.02.18-19.07.22:030][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.523 ms (total: 548.214 ms)
+[2026.02.18-19.07.22:065][486]LogContentValidation: Display: Starting to validate 4 assets
+[2026.02.18-19.07.22:065][486]LogContentValidation: Enabled validators:
+[2026.02.18-19.07.22:065][486]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-19.07.22:065][486]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-19.07.22:065][486]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-19.07.22:065][486]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-19.07.22:065][486]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-19.07.22:065][486]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-19.07.22:065][486]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2026.02.18-19.07.22:065][486]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
