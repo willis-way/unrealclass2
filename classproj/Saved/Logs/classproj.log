@@ -1291,3 +1291,241 @@ FPackageName: Skipped package /Game/Fab/SCIFI_CCG_Gun_Sketch/scifi_ccg_gun_sketc
 [2026.02.19-00.45.45:505][104]AssetCheck: /Game/PlayerAssets/BP_CharacterFPS Validating asset
 [2026.02.19-00.46.48:534][550]LogAutomationController: Ignoring very large delta of 9.80 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2026.02.19-00.46.55:403][561]LogAutomationController: Ignoring very large delta of 5.81 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.02.19-00.47.47:500][366]LogSlate: Window 'Create New Blueprint' being destroyed
+[2026.02.19-00.47.47:514][366]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerAssets/NewPlayerController.NewPlayerController
+[2026.02.19-00.47.47:514][366]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.02.19-00.47.47:959][366]LogAutomationController: Ignoring very large delta of 9.78 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.02.19-00.47.50:409][517]LogSlate: Window 'NewPlayerController' being destroyed
+[2026.02.19-00.48.06:759][957]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_1
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.19-00.48.06:837][960]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_2
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.19-00.48.11:779][300]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.02.19-00.48.11:885][301]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2026.02.19-00.48.12:213][305]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_3
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.19-00.48.13:753][419]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_4
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.19-00.48.13:872][420]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_5
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.19-00.48.31:687][704]LogContentBrowser: Attempting asset rename: NewPlayerController -> BP_FPSPlayerControler
+[2026.02.19-00.48.31:824][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-00.48.31:824][704]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerAssets/BP_FPSPlayerControler] ([2] browsable assets)...
+[2026.02.19-00.48.31:824][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_FPSPlayerControler]
+[2026.02.19-00.48.31:832][704]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_FPSPlayerControler
+[2026.02.19-00.48.31:832][704]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_FPSPlayerControlerD1CCD7904FEFABFEC63985ABFAFBB7D2.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_FPSPlayerControler.uasset'
+[2026.02.19-00.48.31:834][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 11.189 ms (total: 197.887 ms)
+[2026.02.19-00.48.31:898][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.02.19-00.48.31:922][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.19-00.48.31:946][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.02.19-00.48.31:985][704]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-00.48.31:985][704]LogContentValidation: Enabled validators:
+[2026.02.19-00.48.31:985][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-00.48.31:985][704]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-00.48.31:985][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-00.48.31:985][704]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-00.48.31:985][704]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-00.48.31:985][704]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-00.48.31:985][704]AssetCheck: /Game/PlayerAssets/BP_FPSPlayerControler Validating asset
+[2026.02.19-00.48.32:024][704]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.19-00.48.41:962][268]LogContentBrowser: Attempting asset rename: BP_FPSPlayerControler -> BP_FPSPlayerController
+[2026.02.19-00.48.42:041][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-00.48.42:041][268]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerAssets/BP_FPSPlayerController] ([2] browsable assets)...
+[2026.02.19-00.48.42:041][268]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_FPSPlayerController]
+[2026.02.19-00.48.42:051][268]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_FPSPlayerController
+[2026.02.19-00.48.42:051][268]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_FPSPlayerController5956305B43BD8A8493DD44913FAD1A0F.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_FPSPlayerController.uasset'
+[2026.02.19-00.48.42:053][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 11.666 ms (total: 209.554 ms)
+[2026.02.19-00.48.42:098][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.02.19-00.48.42:123][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.02.19-00.48.42:148][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.02.19-00.48.42:190][268]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-00.48.42:191][268]LogContentValidation: Enabled validators:
+[2026.02.19-00.48.42:191][268]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-00.48.42:191][268]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-00.48.42:191][268]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-00.48.42:191][268]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-00.48.42:191][268]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-00.48.42:191][268]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-00.48.42:191][268]AssetCheck: /Game/PlayerAssets/BP_FPSPlayerController Validating asset
+[2026.02.19-00.48.42:227][268]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.19-00.49.37:834][515]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 354.357788
+[2026.02.19-00.49.37:924][526]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-00.49.37:924][526]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 354.440521, Update Interval: 301.649841
+[2026.02.19-00.49.40:449][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.02.19-00.49.40:454][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-00.49.40:484][813]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Gamemodes/GM_FPS] ([2] browsable assets)...
+[2026.02.19-00.49.40:484][813]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Gamemodes/GM_FPS]
+[2026.02.19-00.49.40:484][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gamemodes/GM_FPS" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/Gamemodes/GM_FPS.uasset" SILENT=true
+[2026.02.19-00.49.40:495][813]LogSavePackage: Moving output files for package: /Game/Blueprints/Gamemodes/GM_FPS
+[2026.02.19-00.49.40:495][813]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/GM_FPSC64A924B40FF94B190E9BBB10E647D80.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/Gamemodes/GM_FPS.uasset'
+[2026.02.19-00.49.40:495][813]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerAssets/BP_FPSPlayerController] ([2] browsable assets)...
+[2026.02.19-00.49.40:495][813]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_FPSPlayerController]
+[2026.02.19-00.49.40:505][813]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_FPSPlayerController
+[2026.02.19-00.49.40:505][813]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_FPSPlayerControllerD9D915B74C63B2D6F00D3CA712841E27.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_FPSPlayerController.uasset'
+[2026.02.19-00.49.40:514][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.981 ms (total: 268.535 ms)
+[2026.02.19-00.49.40:544][813]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.19-00.49.40:544][813]LogContentValidation: Enabled validators:
+[2026.02.19-00.49.40:544][813]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-00.49.40:544][813]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-00.49.40:544][813]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-00.49.40:544][813]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-00.49.40:544][813]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-00.49.40:544][813]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-00.49.40:544][813]AssetCheck: /Game/Blueprints/Gamemodes/GM_FPS Validating asset
+[2026.02.19-00.49.40:544][813]AssetCheck: /Game/PlayerAssets/BP_FPSPlayerController Validating asset
+[2026.02.19-00.49.40:559][813]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.19-00.49.41:641][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.02.19-00.49.43:469][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.02.19-00.51.12:013][822]LogStreaming: Display: FlushAsyncLoading(780): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.19-00.51.12:014][822]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to '"/Script/Engine.BlueprintGeneratedClass'/Game/Characters/BP_CharacterFPS_PlayerController.BP_CharacterFPS_PlayerController_C'",MemberName="UI",MemberGuid=599EC7504EFE9B93F5FC4987DE906A96)'
+[2026.02.19-00.51.12:016][822]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to '"/Script/Engine.BlueprintGeneratedClass'/Game/Characters/BP_CharacterFPS_PlayerController.BP_CharacterFPS_PlayerController_C'"'
+[2026.02.19-00.51.50:465][206]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterFPS.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2026.02.19-00.51.50:468][206]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterFPS.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2026.02.19-00.51.50:468][206]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterFPS.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2026.02.19-00.51.50:468][206]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterFPS.uasset: [Compiler] In use pin  As BP Character FPS Player Controller  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2026.02.19-00.51.50:468][206]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterFPS.uasset: [Compiler] In use pin  UI  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2026.02.19-00.51.50:468][206]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterFPS.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2026.02.19-00.51.50:468][206]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterFPS.uasset: [Compiler] Could not find a variable named "UI" in '/Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS'.
+Make sure '/Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS' has been compiled for  Set UI
+[2026.02.19-00.51.50:517][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.02.19-00.52.32:649][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.02.19-00.52.32:655][454]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-00.52.32:694][454]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Gamemodes/GM_FPS] ([2] browsable assets)...
+[2026.02.19-00.52.32:694][454]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Gamemodes/GM_FPS]
+[2026.02.19-00.52.32:694][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gamemodes/GM_FPS" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/Gamemodes/GM_FPS.uasset" SILENT=true
+[2026.02.19-00.52.32:703][454]LogSavePackage: Moving output files for package: /Game/Blueprints/Gamemodes/GM_FPS
+[2026.02.19-00.52.32:704][454]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/GM_FPSBD6380C945605E31B9242CB3FFE3D626.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/Gamemodes/GM_FPS.uasset'
+[2026.02.19-00.52.32:705][454]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterFPS] ([2] browsable assets)...
+[2026.02.19-00.52.32:819][454]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS]
+[2026.02.19-00.52.32:819][454]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterFPS]
+[2026.02.19-00.52.32:819][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterFPS" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterFPS.uasset" SILENT=true
+[2026.02.19-00.52.32:839][454]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterFPS
+[2026.02.19-00.52.32:839][454]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_CharacterFPS7D76A38D41C3D8D224F098AA5BBDAFA1.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterFPS.uasset'
+[2026.02.19-00.52.32:845][454]LogFileHelpers: InternalPromptForCheckoutAndSave took 189.907 ms (total: 458.443 ms)
+[2026.02.19-00.52.32:877][454]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.19-00.52.32:877][454]LogContentValidation: Enabled validators:
+[2026.02.19-00.52.32:877][454]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-00.52.32:877][454]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-00.52.32:877][454]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-00.52.32:877][454]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-00.52.32:877][454]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-00.52.32:877][454]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-00.52.32:878][454]AssetCheck: /Game/Blueprints/Gamemodes/GM_FPS Validating asset
+[2026.02.19-00.52.32:878][454]AssetCheck: /Game/PlayerAssets/BP_CharacterFPS Validating asset
+[2026.02.19-00.54.12:444][106]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_CharacterFPS.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2026.02.19-00.54.12:497][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.02.19-00.54.43:140][612]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 659.664246
+[2026.02.19-00.54.43:222][622]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-00.54.43:222][622]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 659.738037, Update Interval: 310.243225
+[2026.02.19-00.54.53:014][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.02.19-00.56.21:113][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.02.19-00.56.21:116][168]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.030
+[2026.02.19-00.56.21:116][168]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterFPS] ([2] browsable assets)...
+[2026.02.19-00.56.21:166][168]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS]
+[2026.02.19-00.56.21:167][168]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterFPS]
+[2026.02.19-00.56.21:187][168]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerAssets/BP_CharacterFPS_Auto1
+[2026.02.19-00.56.21:188][168]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_CharacterFPS_Auto14A07BB32480F745399C9D89CF7A623F4.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/Autosaves/Game/PlayerAssets/BP_CharacterFPS_Auto1.uasset'
+[2026.02.19-00.56.21:188][168]LogFileHelpers: Auto-saving content packages took 0.073
+[2026.02.19-00.58.32:398][ 91]LogEditorTransaction: Undo Move Node
+[2026.02.19-00.58.58:398][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.02.19-00.58.58:405][828]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-00.58.58:437][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterFPS] ([2] browsable assets)...
+[2026.02.19-00.58.58:485][828]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS]
+[2026.02.19-00.58.58:485][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterFPS]
+[2026.02.19-00.58.58:485][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterFPS" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterFPS.uasset" SILENT=true
+[2026.02.19-00.58.58:505][828]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterFPS
+[2026.02.19-00.58.58:506][828]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_CharacterFPS6CB4B83740BAAD991C03088A2D5CE3ED.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterFPS.uasset'
+[2026.02.19-00.58.58:514][828]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.621 ms (total: 567.064 ms)
+[2026.02.19-00.58.58:540][828]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-00.58.58:540][828]LogContentValidation: Enabled validators:
+[2026.02.19-00.58.58:540][828]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-00.58.58:540][828]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-00.58.58:540][828]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-00.58.58:540][828]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-00.58.58:540][828]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-00.58.58:540][828]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-00.58.58:540][828]AssetCheck: /Game/PlayerAssets/BP_CharacterFPS Validating asset
+[2026.02.19-00.59.13:405][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.02.19-00.59.15:247][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.02.19-00.59.15:254][835]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-00.59.15:285][835]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterFPS] ([2] browsable assets)...
+[2026.02.19-00.59.15:336][835]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS]
+[2026.02.19-00.59.15:336][835]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterFPS]
+[2026.02.19-00.59.15:336][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterFPS" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterFPS.uasset" SILENT=true
+[2026.02.19-00.59.15:357][835]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterFPS
+[2026.02.19-00.59.15:357][835]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_CharacterFPS3753131A4377117ABE20DD8BF0532AC5.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterFPS.uasset'
+[2026.02.19-00.59.15:367][835]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.466 ms (total: 679.530 ms)
+[2026.02.19-00.59.15:392][835]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-00.59.15:392][835]LogContentValidation: Enabled validators:
+[2026.02.19-00.59.15:392][835]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-00.59.15:392][835]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-00.59.15:392][835]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-00.59.15:392][835]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-00.59.15:392][835]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-00.59.15:392][835]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-00.59.15:392][835]AssetCheck: /Game/PlayerAssets/BP_CharacterFPS Validating asset
+[2026.02.19-00.59.58:634][922]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 975.162292
+[2026.02.19-00.59.59:634][924]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-00.59.59:634][924]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 975.828796, Update Interval: 356.090576
+[2026.02.19-01.00.04:752][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.02.19-01.00.05:953][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.02.19-01.00.05:958][143]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-01.00.05:989][143]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterFPS] ([2] browsable assets)...
+[2026.02.19-01.00.06:042][143]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS]
+[2026.02.19-01.00.06:042][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterFPS]
+[2026.02.19-01.00.06:042][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterFPS" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterFPS.uasset" SILENT=true
+[2026.02.19-01.00.06:065][143]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterFPS
+[2026.02.19-01.00.06:065][143]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_CharacterFPSEFF7400F443B9B471EEC82B63A91D1FC.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterFPS.uasset'
+[2026.02.19-01.00.06:074][143]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.581 ms (total: 795.112 ms)
+[2026.02.19-01.00.06:106][143]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-01.00.06:106][143]LogContentValidation: Enabled validators:
+[2026.02.19-01.00.06:106][143]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-01.00.06:106][143]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-01.00.06:106][143]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-01.00.06:106][143]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-01.00.06:106][143]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-01.00.06:106][143]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-01.00.06:106][143]AssetCheck: /Game/PlayerAssets/BP_CharacterFPS Validating asset
+[2026.02.19-01.02.05:436][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.02.19-01.02.06:745][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.02.19-01.02.06:752][429]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-01.02.06:782][429]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterFPS] ([2] browsable assets)...
+[2026.02.19-01.02.06:837][429]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS]
+[2026.02.19-01.02.06:837][429]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterFPS]
+[2026.02.19-01.02.06:837][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterFPS" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterFPS.uasset" SILENT=true
+[2026.02.19-01.02.06:858][429]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterFPS
+[2026.02.19-01.02.06:860][429]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_CharacterFPSA37460C145D22366E3C7748D77951404.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterFPS.uasset'
+[2026.02.19-01.02.06:867][429]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.692 ms (total: 910.805 ms)
+[2026.02.19-01.02.06:892][429]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-01.02.06:892][429]LogContentValidation: Enabled validators:
+[2026.02.19-01.02.06:892][429]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-01.02.06:892][429]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-01.02.06:892][429]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-01.02.06:892][429]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-01.02.06:892][429]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-01.02.06:892][429]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-01.02.06:892][429]AssetCheck: /Game/PlayerAssets/BP_CharacterFPS Validating asset
+[2026.02.19-01.02.41:334][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.02.19-01.02.42:429][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.02.19-01.02.42:435][108]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-01.02.42:465][108]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterFPS] ([2] browsable assets)...
+[2026.02.19-01.02.42:545][108]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS]
+[2026.02.19-01.02.42:545][108]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterFPS]
+[2026.02.19-01.02.42:545][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterFPS" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterFPS.uasset" SILENT=true
+[2026.02.19-01.02.42:568][108]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterFPS
+[2026.02.19-01.02.42:569][108]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_CharacterFPS02777BE44D86D176FFF034877271D83C.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterFPS.uasset'
+[2026.02.19-01.02.42:577][108]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.942 ms (total: 1.05 sec)
+[2026.02.19-01.02.42:607][108]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-01.02.42:607][108]LogContentValidation: Enabled validators:
+[2026.02.19-01.02.42:607][108]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-01.02.42:607][108]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-01.02.42:607][108]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-01.02.42:607][108]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-01.02.42:607][108]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-01.02.42:607][108]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-01.02.42:607][108]AssetCheck: /Game/PlayerAssets/BP_CharacterFPS Validating asset
