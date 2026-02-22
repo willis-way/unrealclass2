@@ -1527,3 +1527,544 @@ Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons' has been c
 [2026.02.22-19.01.59:110][314]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.22-19.01.59:110][314]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.22-19.01.59:110][314]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Weapons Validating asset
+[2026.02.22-19.03.43:279][838]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3235.850342
+[2026.02.22-19.03.44:279][841]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-19.03.44:279][841]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3236.517822, Update Interval: 304.374512
+[2026.02.22-19.04.08:539][ 18]LogStreaming: Display: FlushAsyncLoading(825): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.22-19.04.08:541][ 18]LogTexture: Display: Building textures: /Game/FlatIconsFreeSamplePack/128/T_Wrench_128.T_Wrench_128 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2026.02.22-19.04.34:009][ 79]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Could not find a variable named "UIWidget" in '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons' has been compiled for  Set UIWidget
+[2026.02.22-19.04.34:010][ 79]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2026.02.22-19.04.34:010][ 79]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Default value '' for  UIWidget  is invalid: 'PinSubCategoryObject on pin 'UIWidget' is NULL and PinSubCategory is 'None' not 'self''
+[2026.02.22-19.04.34:068][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.02.22-19.04.36:797][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.02.22-19.04.36:802][374]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-19.04.36:836][374]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons] ([2] browsable assets)...
+[2026.02.22-19.04.36:838][374]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons]
+[2026.02.22-19.04.36:838][374]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons]
+[2026.02.22-19.04.36:851][374]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Weapons
+[2026.02.22-19.04.36:852][374]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/WBP_Weapons4B7E8D3F4FC8AFF5E2157E92F6A52008.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/WidgetBlueprints/WBP_Weapons.uasset'
+[2026.02.22-19.04.36:860][374]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.909 ms (total: 550.121 ms)
+[2026.02.22-19.04.36:890][374]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-19.04.36:890][374]LogContentValidation: Enabled validators:
+[2026.02.22-19.04.36:890][374]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-19.04.36:890][374]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-19.04.36:890][374]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-19.04.36:890][374]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-19.04.36:890][374]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-19.04.36:890][374]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-19.04.36:890][374]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Weapons Validating asset
+[2026.02.22-19.04.51:786][931]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.22-19.04.51:794][931]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.22-19.04.51:794][931]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.02.22-19.04.51:794][931]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 693 us
+[2026.02.22-19.04.51:795][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.22-19.04.51:795][931]BlueprintLog: Warning: Blueprint failed to compile:  WBP_Weapons
+[2026.02.22-19.04.52:742][931]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2026.02.22-19.04.52:757][931]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.02.22-19.04.52:757][931]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.02.22-19.04.52:757][931]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.22-19.04.52:763][931]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.22-19.04.52:764][931]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 911 us
+[2026.02.22-19.04.52:764][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006441s)
+[2026.02.22-19.04.52:764][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.006503s)
+[2026.02.22-19.04.52:786][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.02.22-19.04.52:789][931]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.02.22-19.04.52:790][931]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.22-19.04.52:790][931]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.22-19.04.52:791][931]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.22-19.04.52:791][931]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.22-19.04.52:792][931]LogWorldPartition: Display: WorldPartition initialize took 1.287 ms (total: 739.093 ms)
+[2026.02.22-19.04.52:792][931]LogPlayLevel: PIE: World Init took: (0.002973s)
+[2026.02.22-19.04.52:792][931]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.02.22-19.04.52:792][931]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.22-19.04.52:792][931]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.22-19.04.52:792][931]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.22-19.04.52:792][931]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.22-19.04.52:793][931]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.22-19.04.52:793][931]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.22-19.04.52:793][931]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.22-19.04.52:793][931]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.22-19.04.52:793][931]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.22-19.04.52:793][931]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.22-19.04.52:793][931]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.22-19.04.52:794][931]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.22-19.04.52:830][931]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.22-19.04.52:830][931]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.22-19.04.52:830][931]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.22-19.04.52:830][931]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.22-19.04.52:830][931]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.02.22-19.04.52:830][931]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.02.22-19.04.52:832][931]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.02.22-19.04.52:833][931]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.02.22-19.04.52:833][931]LogInit: FAudioDevice initialized with ID 2.
+[2026.02.22-19.04.52:833][931]LogAudio: Display: Audio Device (ID: 2) registered with world 'L_LevelOne'.
+[2026.02.22-19.04.52:833][931]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.02.22-19.04.52:839][931]LogLoad: Game class is 'GM_FPS_C'
+[2026.02.22-19.04.52:842][931]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2026.02.22-14.04.52
+[2026.02.22-19.04.52:843][931]LogWorld: Bringing up level for play took: 0.003337
+[2026.02.22-19.04.52:845][931]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2026.02.22-19.04.52:852][931]PIE: Server logged in
+[2026.02.22-19.04.52:854][931]PIE: Play in editor total start time 1.06 seconds.
+[2026.02.22-19.04.52:890][932]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.22-19.04.53:507][934]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_1] 0/3
+[2026.02.22-19.04.54:642][ 44]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_1] NewGrenadeInHandNotify
+[2026.02.22-19.04.55:573][ 88]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_1] 1/2
+[2026.02.22-19.04.55:801][107]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_1] 0/2
+[2026.02.22-19.04.56:936][207]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_1] NewGrenadeInHandNotify
+[2026.02.22-19.04.57:868][285]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_1] 1/1
+[2026.02.22-19.04.58:092][304]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_1] 0/1
+[2026.02.22-19.04.59:229][413]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_1] NewGrenadeInHandNotify
+[2026.02.22-19.04.59:952][489]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285875EFBF02_1465051257] BP_CharacterFPS0
+[2026.02.22-19.04.59:975][491]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285875EFBF02_1427374256] BP_CharacterFPS0
+[2026.02.22-19.05.00:161][510]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_1] 1/0
+[2026.02.22-19.05.00:380][532]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_1] 0/0
+[2026.02.22-19.05.00:962][587]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285875EFBF02_1473946258] BP_CharacterFPS0
+[2026.02.22-19.05.01:775][664]LogCharacterMovement: BP_CharacterFPS_C_0 is stuck and failed to move! Velocity: X=-265.73 Y=-263.63 Z=0.00 Location: X=606.31 Y=-858.22 Z=88.06 Normal: X=0.33 Y=0.93 Z=-0.19 PenetrationDepth:8.015 Actor:BP_Gun_C_0 Component:SM_Clip BoneName:None (0 other events since notify)
+[2026.02.22-19.05.08:049][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.22-19.05.08:049][317]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.22-19.05.08:049][317]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-19.05.08:050][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-19.05.08:050][317]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2026.02.22-19.05.08:051][317]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.22-19.05.08:054][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-19.05.08:079][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.22-19.05.08:079][317]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.02.22-19.05.08:079][317]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.02.22-19.05.08:083][317]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.02.22-19.05.08:089][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.02.22-19.05.08:126][318]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2026.02.22-19.05.11:499][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.02.22-19.05.11:501][653]LogStreaming: Display: FlushAsyncLoading(826): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.22-19.05.11:503][653]LogChaosDD: Creating Chaos Debug Draw Scene for world L_StartMenu
+[2026.02.22-19.05.11:505][653]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/L_StartMenu.L_StartMenu
+[2026.02.22-19.05.11:505][653]Cmd: MAP LOAD FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Levels/L_StartMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.22-19.05.11:523][653]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-19.05.11:523][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-19.05.11:523][653]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/L_LevelOne.L_LevelOne
+[2026.02.22-19.05.11:555][653]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.22-19.05.11:563][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.02.22-19.05.11:566][653]LogWorld: UWorld::CleanupWorld for L_StartMenu, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-19.05.11:566][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-19.05.11:596][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.02.22-19.05.11:658][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.02.22-19.05.11:660][653]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_StartMenu'.
+[2026.02.22-19.05.11:660][653]LogChaosDD: Creating Chaos Debug Draw Scene for world L_StartMenu
+[2026.02.22-19.05.11:686][653]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.22-19.05.11:711][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.02.22-19.05.11:719][653]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.22-19.05.11:719][653]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.049ms to complete.
+[2026.02.22-19.05.11:798][655]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.22-19.05.13:114][800]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.22-19.05.13:120][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.22-19.05.13:149][800]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_StartMenu
+[2026.02.22-19.05.13:149][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000637s)
+[2026.02.22-19.05.13:149][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_StartMenu.L_StartMenu to /Game/Levels/UEDPIE_0_L_StartMenu.L_StartMenu (0.000685s)
+[2026.02.22-19.05.13:175][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.02.22-19.05.13:177][800]LogChaosDD: Creating Chaos Debug Draw Scene for world L_StartMenu
+[2026.02.22-19.05.13:179][800]LogPlayLevel: PIE: World Init took: (0.001506s)
+[2026.02.22-19.05.13:179][800]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.02.22-19.05.13:179][800]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.22-19.05.13:179][800]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.22-19.05.13:179][800]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.22-19.05.13:179][800]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.22-19.05.13:179][800]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.22-19.05.13:179][800]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.22-19.05.13:179][800]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.22-19.05.13:179][800]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.22-19.05.13:179][800]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.22-19.05.13:179][800]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.22-19.05.13:179][800]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.22-19.05.13:181][800]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.22-19.05.13:222][800]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.22-19.05.13:222][800]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.22-19.05.13:222][800]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.22-19.05.13:222][800]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.22-19.05.13:222][800]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.02.22-19.05.13:222][800]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.02.22-19.05.13:225][800]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.02.22-19.05.13:225][800]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.02.22-19.05.13:225][800]LogInit: FAudioDevice initialized with ID 3.
+[2026.02.22-19.05.13:225][800]LogAudio: Display: Audio Device (ID: 3) registered with world 'L_StartMenu'.
+[2026.02.22-19.05.13:225][800]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.02.22-19.05.13:229][800]LogLoad: Game class is 'GM_StartMenu_C'
+[2026.02.22-19.05.13:229][800]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_StartMenu.L_StartMenu up for play (max tick rate 0) at 2026.02.22-14.05.13
+[2026.02.22-19.05.13:229][800]LogWorld: Bringing up level for play took: 0.000284
+[2026.02.22-19.05.13:231][800]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2026.02.22-19.05.13:233][800]PIE: Server logged in
+[2026.02.22-19.05.13:235][800]PIE: Play in editor total start time 0.115 seconds.
+[2026.02.22-19.05.13:269][801]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.22-19.05.13:834][865]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/L_LevelOne"
+[2026.02.22-19.05.13:834][865]LogNet: Browse: /Game/Levels/L_LevelOne
+[2026.02.22-19.05.13:834][865]LogLoad: LoadMap: /Game/Levels/L_LevelOne
+[2026.02.22-19.05.13:834][865]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_StartMenu
+[2026.02.22-19.05.13:835][865]LogWorld: UWorld::CleanupWorld for L_StartMenu, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-19.05.13:835][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-19.05.13:883][865]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.22-19.05.13:885][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.02.22-19.05.13:887][865]LogStreaming: Display: FlushAsyncLoading(828): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.22-19.05.13:891][865]LogAudio: Display: Audio Device (ID: 3) registered with world 'L_LevelOne'.
+[2026.02.22-19.05.13:891][865]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.02.22-19.05.13:892][865]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.22-19.05.13:892][865]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.22-19.05.13:892][865]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2026.02.22-19.05.13:892][865]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.22-19.05.13:895][865]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.02.22-19.05.13:905][865]LogLinker: Display: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WeaponBlueprints\BP_RangedWeapon.uasset: CreateExport: Failed to load Parent for Function /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon.BP_RangedWeapon_C:Activated; removing parent information, but keeping function
+[2026.02.22-19.05.13:905][865]LogLinker: Display: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WeaponBlueprints\BP_RangedWeapon.uasset: CreateExport: Failed to load Parent for Function /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon.BP_RangedWeapon_C:CanAttack; removing parent information, but keeping function
+[2026.02.22-19.05.13:905][865]LogLinker: Display: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WeaponBlueprints\BP_RangedWeapon.uasset: CreateExport: Failed to load Parent for Function /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon.BP_RangedWeapon_C:CanReload; removing parent information, but keeping function
+[2026.02.22-19.05.13:905][865]LogLinker: Display: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WeaponBlueprints\BP_RangedWeapon.uasset: CreateExport: Failed to load Parent for Function /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon.BP_RangedWeapon_C:CommitAttackAnimNotify; removing parent information, but keeping function
+[2026.02.22-19.05.13:905][865]LogLinker: Display: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WeaponBlueprints\BP_RangedWeapon.uasset: CreateExport: Failed to load Parent for Function /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon.BP_RangedWeapon_C:GetWeaponUIInfo; removing parent information, but keeping function
+[2026.02.22-19.05.13:905][865]LogLinker: Display: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WeaponBlueprints\BP_RangedWeapon.uasset: CreateExport: Failed to load Parent for Function /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon.BP_RangedWeapon_C:ReloadCompleteNotify; removing parent information, but keeping function
+[2026.02.22-19.05.13:905][865]LogLinker: Display: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WeaponBlueprints\BP_RangedWeapon.uasset: CreateExport: Failed to load Parent for Function /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon.BP_RangedWeapon_C:ReplenishAmmo; removing parent information, but keeping function
+[2026.02.22-19.05.13:905][865]LogLinker: Display: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WeaponBlueprints\BP_RangedWeapon.uasset: CreateExport: Failed to load Parent for Function /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon.BP_RangedWeapon_C:UpdateUI; removing parent information, but keeping function
+[2026.02.22-19.05.13:908][865]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 13.210 ms (total: 13.904 ms)
+[2026.02.22-19.05.13:909][865]LogWorldPartition: Display: WorldPartition initialize took 16.909 ms (total: 756.002 ms)
+[2026.02.22-19.05.13:909][865]LogPlayLevel: PIE: World Init took: (0.018303s)
+[2026.02.22-19.05.13:909][865]LogLoad: Game class is 'GM_FPS_C'
+[2026.02.22-19.05.13:915][865]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2026.02.22-14.05.13
+[2026.02.22-19.05.13:915][865]LogWorld: Bringing up level for play took: 0.006184
+[2026.02.22-19.05.13:919][865]LogLoad: Took 0.083773 seconds to LoadMap(/Game/Levels/L_LevelOne)
+[2026.02.22-19.05.13:919][865]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/L_LevelOne
+[2026.02.22-19.05.13:927][865]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.22-19.05.14:435][916]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_1] 0/3
+[2026.02.22-19.05.15:567][ 34]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_1] NewGrenadeInHandNotify
+[2026.02.22-19.05.16:496][116]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_1] 1/2
+[2026.02.22-19.05.16:710][134]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_1] 0/2
+[2026.02.22-19.05.16:832][144]LogRenderer: Warning: Building light grid exceeded number of available entries (621996 / 471040). Increase r.Forward.MaxCulledLightsPerCell to prevent potential visual artifacts.
+[2026.02.22-19.05.16:832][144]LogRenderer: Warning: Building light grid exceeded number of available links, glitches will be visible (621996 / 471040).
+[2026.02.22-19.05.17:846][167]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_1] NewGrenadeInHandNotify
+[2026.02.22-19.05.18:339][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.22-19.05.18:339][178]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.22-19.05.18:339][178]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-19.05.18:340][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-19.05.18:340][178]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2026.02.22-19.05.18:354][178]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.22-19.05.18:356][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-19.05.18:377][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.22-19.05.18:377][178]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.02.22-19.05.18:378][178]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.02.22-19.05.18:380][178]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.02.22-19.05.18:387][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.02.22-19.05.18:411][179]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2026.02.22-19.05.20:249][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.22-19.05.20:251][388]LogStreaming: Display: FlushAsyncLoading(897): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.22-19.05.20:253][388]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.02.22-19.05.20:253][388]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.02.22-19.05.20:253][388]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.22-19.05.20:253][388]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/L_LevelOne.L_LevelOne, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.22-19.05.20:274][388]LogWorldPartition: Display: WorldPartition initialize took 20.187 ms (total: 776.190 ms)
+[2026.02.22-19.05.20:280][388]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/L_LevelOne.L_LevelOne
+[2026.02.22-19.05.20:280][388]Cmd: MAP LOAD FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Levels/L_LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.22-19.05.20:295][388]LogWorld: UWorld::CleanupWorld for L_StartMenu, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-19.05.20:295][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-19.05.20:321][388]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.22-19.05.20:322][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.02.22-19.05.20:324][388]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-19.05.20:324][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-19.05.20:324][388]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/L_LevelOne.L_LevelOne
+[2026.02.22-19.05.20:352][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.02.22-19.05.20:413][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.02.22-19.05.20:416][388]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_LevelOne'.
+[2026.02.22-19.05.20:416][388]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.02.22-19.05.20:417][388]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.02.22-19.05.20:417][388]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.22-19.05.20:417][388]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/L_LevelOne.L_LevelOne, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.22-19.05.20:436][388]LogWorldPartition: Display: WorldPartition initialize took 18.407 ms (total: 794.597 ms)
+[2026.02.22-19.05.20:468][388]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.22-19.05.20:496][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.02.22-19.05.20:503][388]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.22-19.05.20:504][388]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.443ms to complete.
+[2026.02.22-19.05.20:587][389]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.22-19.05.39:610][350]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2026.02.22-19.05.39:651][351]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2026.02.22-19.05.39:678][352]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2026.02.22-19.05.39:740][355]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_2
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-19.05.39:782][359]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_3
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-19.05.39:824][360]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_4
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-19.05.40:907][446]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase
+[2026.02.22-19.05.40:907][446]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_45
+[2026.02.22-19.06.01:442][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.02.22-19.06.03:026][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.02.22-19.06.03:032][187]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-19.06.03:083][187]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832
+[2026.02.22-19.06.03:083][187]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/RE5B2IEP2TCCQN34XBQ8329E1748EB422A80495B18AC9A9AE1A6B0.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832.uasset'
+[2026.02.22-19.06.03:084][187]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.22-19.06.03:125][187]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.22-19.06.03:125][187]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.22-19.06.03:125][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.02.22-19.06.03:158][187]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.02.22-19.06.03:158][187]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_CharacterBaseD7A53F794BA2B2B30FD9239098C31CDF.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.02.22-19.06.03:166][187]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.008 ms (total: 685.129 ms)
+[2026.02.22-19.06.03:198][187]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.22-19.06.03:198][187]LogContentValidation: Enabled validators:
+[2026.02.22-19.06.03:198][187]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-19.06.03:198][187]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-19.06.03:198][187]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-19.06.03:198][187]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-19.06.03:198][187]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-19.06.03:198][187]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-19.06.03:198][187]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2026.02.22-19.06.03:198][187]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.02.22-19.08.26:528][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.22-19.08.26:534][283]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-19.08.26:566][283]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons] ([2] browsable assets)...
+[2026.02.22-19.08.26:566][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons]
+[2026.02.22-19.08.26:579][283]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Weapons
+[2026.02.22-19.08.26:579][283]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/WBP_Weapons451F04F24E38AFF47F71A897B0DDFAC6.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/WidgetBlueprints/WBP_Weapons.uasset'
+[2026.02.22-19.08.26:587][283]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.753 ms (total: 738.883 ms)
+[2026.02.22-19.08.26:613][283]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-19.08.26:613][283]LogContentValidation: Enabled validators:
+[2026.02.22-19.08.26:613][283]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-19.08.26:613][283]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-19.08.26:613][283]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-19.08.26:613][283]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-19.08.26:613][283]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-19.08.26:613][283]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-19.08.26:614][283]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Weapons Validating asset
+[2026.02.22-19.08.49:207][251]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_5
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-19.09.13:952][212]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Could not find a variable named "UIWidget" in '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons' has been compiled for  Set UIWidget
+[2026.02.22-19.09.13:952][212]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2026.02.22-19.09.13:952][212]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Default value '' for  UIWidget  is invalid: 'PinSubCategoryObject on pin 'UIWidget' is NULL and PinSubCategory is 'None' not 'self''
+[2026.02.22-19.09.13:979][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.02.22-19.09.15:559][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.22-19.09.39:711][616]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3592.270752
+[2026.02.22-19.09.40:711][619]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-19.09.40:711][619]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3592.937256, Update Interval: 301.686462
+[2026.02.22-19.10.13:010][252]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_6
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-19.10.13:044][253]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_7
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-19.10.13:056][254]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_8
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-19.10.15:456][492]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_9
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-19.10.16:803][610]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon.BP_RangedWeapon
+[2026.02.22-19.10.16:803][610]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_47
+[2026.02.22-19.10.30:205][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.02.22-19.10.31:166][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.02.22-19.10.31:172][588]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-19.10.31:208][588]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon] ([2] browsable assets)...
+[2026.02.22-19.10.31:247][588]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon.BP_RangedWeapon]
+[2026.02.22-19.10.31:247][588]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon]
+[2026.02.22-19.10.31:272][588]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon
+[2026.02.22-19.10.31:272][588]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_RangedWeaponFF828E6F4FDCCC35753F2396D31816AE.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/WeaponBlueprints/BP_RangedWeapon.uasset'
+[2026.02.22-19.10.31:281][588]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.147 ms (total: 848.030 ms)
+[2026.02.22-19.10.31:313][588]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-19.10.31:313][588]LogContentValidation: Enabled validators:
+[2026.02.22-19.10.31:313][588]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-19.10.31:313][588]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-19.10.31:313][588]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-19.10.31:313][588]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-19.10.31:313][588]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-19.10.31:313][588]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-19.10.31:313][588]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon Validating asset
+[2026.02.22-19.11.42:259][708]LogDerivedDataCache: C:/Users/sgbeh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.22-19.11.53:891][478]LogEditorTransaction: Undo Create Pin Link
+[2026.02.22-19.13.47:141][231]LogSlate: Window 'Change Variable Type' being destroyed
+[2026.02.22-19.14.29:713][504]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Could not find a variable named "UIWidget" in '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons' has been compiled for  Set UIWidget
+[2026.02.22-19.14.29:713][504]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2026.02.22-19.14.29:713][504]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Default value '' for  UIWidget  is invalid: 'PinSubCategoryObject on pin 'UIWidget' is NULL and PinSubCategory is 'None' not 'self''
+[2026.02.22-19.14.29:746][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.02.22-19.14.40:478][726]LogEditorTransaction: Undo Move Node
+[2026.02.22-19.14.42:638][920]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.22-19.14.42:644][920]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.22-19.14.42:644][920]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.02.22-19.14.42:645][920]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 670 us (total: 14.575 ms)
+[2026.02.22-19.14.42:647][920]LogPlayLevel: [PlayLevel] Compiling BP_RangedWeapon before play...
+[2026.02.22-19.14.42:647][920]LogPlayLevel: [PlayLevel]   Compiling BP_GrenadeLauncher as a dependent...
+[2026.02.22-19.14.42:647][920]LogPlayLevel: [PlayLevel]   Compiling BP_Gun as a dependent...
+[2026.02.22-19.14.42:703][920]LogPlayLevel: [PlayLevel] Compiling WBP_Weapons before play...
+[2026.02.22-19.14.42:760][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.02.22-19.14.42:762][920]LogPlayLevel: PlayLevel: Blueprint regeneration took 117 ms (4 blueprints)
+[2026.02.22-19.14.42:788][920]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.22-19.14.42:794][920]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.22-19.14.42:795][920]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 950 us (total: 1.862 ms)
+[2026.02.22-19.14.42:795][920]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006534s)
+[2026.02.22-19.14.42:795][920]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.006575s)
+[2026.02.22-19.14.42:818][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.02.22-19.14.42:819][920]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.02.22-19.14.42:821][920]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.22-19.14.42:821][920]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.22-19.14.42:821][920]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.22-19.14.42:821][920]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.22-19.14.42:822][920]LogWorldPartition: Display: WorldPartition initialize took 1.427 ms (total: 796.025 ms)
+[2026.02.22-19.14.42:822][920]LogPlayLevel: PIE: World Init took: (0.003111s)
+[2026.02.22-19.14.42:823][920]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.02.22-19.14.42:823][920]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.22-19.14.42:823][920]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.22-19.14.42:823][920]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.22-19.14.42:823][920]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.22-19.14.42:823][920]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.22-19.14.42:823][920]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.22-19.14.42:823][920]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.22-19.14.42:823][920]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.22-19.14.42:823][920]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.22-19.14.42:823][920]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.22-19.14.42:823][920]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.22-19.14.42:825][920]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.22-19.14.42:864][920]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.22-19.14.42:864][920]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.22-19.14.42:864][920]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.22-19.14.42:864][920]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.22-19.14.42:865][920]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.02.22-19.14.42:865][920]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.02.22-19.14.42:867][920]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.02.22-19.14.42:867][920]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.02.22-19.14.42:867][920]LogInit: FAudioDevice initialized with ID 4.
+[2026.02.22-19.14.42:867][920]LogAudio: Display: Audio Device (ID: 4) registered with world 'L_LevelOne'.
+[2026.02.22-19.14.42:867][920]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.02.22-19.14.42:870][920]LogLoad: Game class is 'GM_FPS_C'
+[2026.02.22-19.14.42:873][920]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2026.02.22-14.14.42
+[2026.02.22-19.14.42:873][920]LogWorld: Bringing up level for play took: 0.003090
+[2026.02.22-19.14.42:875][920]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2026.02.22-19.14.42:879][920]PIE: Server logged in
+[2026.02.22-19.14.42:880][920]PIE: Play in editor total start time 0.236 seconds.
+[2026.02.22-19.14.42:934][921]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.22-19.14.49:819][558]LogBlueprintUserMessages: [BP_HealthRegen_C_UAID_047C16285975DDBB02_1940000864] BP_CharacterFPS0
+[2026.02.22-19.14.50:483][628]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285875EFBF02_1465051257] BP_CharacterFPS0
+[2026.02.22-19.14.50:646][645]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285875EFBF02_1473946258] BP_CharacterFPS0
+[2026.02.22-19.14.54:657][ 64]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285875EFBF02_1427374256] BP_CharacterFPS0
+[2026.02.22-19.14.54:727][ 71]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetComponentByClass_ReturnValue in not an UClass
+	BP_HealthRegen_C /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne:PersistentLevel.BP_HealthRegen_C_UAID_047C16285975DDBB02_1940000864
+	Function /Game/Blueprints/HealthRegen/BP_HealthRegen.BP_HealthRegen_C:ExecuteUbergraph_BP_HealthRegen:02D0
+[2026.02.22-19.14.54:727][ 71]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetComponentByClass_ReturnValue in not an UClass". Node:  RegenerateHealth Graph:  EventGraph Function:  Execute Ubergraph BP Health Regen Blueprint:  BP_HealthRegen
+[2026.02.22-19.14.54:728][ 71]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetComponentByClass_ReturnValue in not an UClass
+	BP_HealthRegen_C /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne:PersistentLevel.BP_HealthRegen_C_UAID_047C16285975DDBB02_1940000864
+	Function /Game/Blueprints/HealthRegen/BP_HealthRegen.BP_HealthRegen_C:ExecuteUbergraph_BP_HealthRegen:02D0
+[2026.02.22-19.14.54:728][ 71]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetComponentByClass_ReturnValue in not an UClass". Node:  RegenerateHealth Graph:  EventGraph Function:  Execute Ubergraph BP Health Regen Blueprint:  BP_HealthRegen
+[2026.02.22-19.14.54:788][ 77]LogBlueprintUserMessages: [BP_HealthRegen_C_UAID_047C16285975DDBB02_1940000864] BP_CharacterFPS0
+[2026.02.22-19.14.54:788][ 77]LogBlueprintUserMessages: [BP_HealthRegen_C_UAID_047C16285975DDBB02_1940000864] BP_Gun0
+[2026.02.22-19.14.54:788][ 77]LogBlueprintUserMessages: [BP_HealthRegen_C_UAID_047C16285975DDBB02_1940000864] BP_Gun0
+[2026.02.22-19.14.54:788][ 77]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetComponentByClass_ReturnValue in not an UClass
+	BP_HealthRegen_C /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne:PersistentLevel.BP_HealthRegen_C_UAID_047C16285975DDBB02_1940000864
+	Function /Game/Blueprints/HealthRegen/BP_HealthRegen.BP_HealthRegen_C:ExecuteUbergraph_BP_HealthRegen:02D0
+[2026.02.22-19.14.54:788][ 77]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetComponentByClass_ReturnValue in not an UClass". Node:  RegenerateHealth Graph:  EventGraph Function:  Execute Ubergraph BP Health Regen Blueprint:  BP_HealthRegen
+[2026.02.22-19.14.54:788][ 77]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetComponentByClass_ReturnValue in not an UClass
+	BP_HealthRegen_C /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne:PersistentLevel.BP_HealthRegen_C_UAID_047C16285975DDBB02_1940000864
+	Function /Game/Blueprints/HealthRegen/BP_HealthRegen.BP_HealthRegen_C:ExecuteUbergraph_BP_HealthRegen:02D0
+[2026.02.22-19.14.54:788][ 77]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetComponentByClass_ReturnValue in not an UClass". Node:  RegenerateHealth Graph:  EventGraph Function:  Execute Ubergraph BP Health Regen Blueprint:  BP_HealthRegen
+[2026.02.22-19.14.54:799][ 78]LogBlueprintUserMessages: [BP_HealthRegen_C_UAID_047C16285975DDBB02_1940000864] BP_Gun0
+[2026.02.22-19.14.54:799][ 78]LogBlueprintUserMessages: [BP_HealthRegen_C_UAID_047C16285975DDBB02_1940000864] BP_Gun0
+[2026.02.22-19.15.01:056][682]LogNiagara: Compiling System NiagaraSystem /Game/Fab/Effects/ImpactEffects/NS_HeavyImpact.NS_HeavyImpact took 0.173279 sec (time since issued).
+[2026.02.22-19.15.01:450][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.22-19.15.01:450][696]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.22-19.15.01:450][696]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-19.15.01:451][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-19.15.01:451][696]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2026.02.22-19.15.01:452][696]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.22-19.15.01:456][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-19.15.01:481][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.22-19.15.01:482][696]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.02.22-19.15.01:482][696]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.02.22-19.15.01:484][696]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.02.22-19.15.01:493][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.02.22-19.15.01:577][697]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2026.02.22-19.15.03:495][861]LogSlate: Window 'Message Log' being destroyed
+[2026.02.22-19.15.03:524][861]LogSlate: Window 'Message Log' being destroyed
+[2026.02.22-19.15.32:146][ 12]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3944.726318
+[2026.02.22-19.15.32:246][ 24]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-19.15.32:246][ 24]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3944.818359, Update Interval: 321.887268
+[2026.02.22-19.15.37:970][657]LogEditorTransaction: Undo Add Node
+[2026.02.22-19.16.06:860][213]LogSlate: Window 'Find in Blueprints' being destroyed
+[2026.02.22-19.16.06:866][213]LogSlate: Window 'Find in Blueprints' being destroyed
+[2026.02.22-19.16.26:490][638]LogEditorTransaction: Undo Move Node
+[2026.02.22-19.16.29:923][ 14]LogEditorTransaction: Redo Move Node
+[2026.02.22-19.16.34:619][547]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons without an associated node. The blueprint breakpoint has been removed
+[2026.02.22-19.16.34:619][547]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons without an associated node. The blueprint breakpoint has been removed
+[2026.02.22-19.17.08:131][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.02.22-19.17.08:135][707]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.028
+[2026.02.22-19.17.08:135][707]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons] ([2] browsable assets)...
+[2026.02.22-19.17.08:137][707]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons]
+[2026.02.22-19.17.08:137][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons]
+[2026.02.22-19.17.08:149][707]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WidgetBlueprints/WBP_Weapons_Auto3
+[2026.02.22-19.17.08:149][707]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/WBP_Weapons_Auto37E7AA1B345128319BB9BEC88CD7729C7.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/Autosaves/Game/Blueprints/WidgetBlueprints/WBP_Weapons_Auto3.uasset'
+[2026.02.22-19.17.08:150][707]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon] ([2] browsable assets)...
+[2026.02.22-19.17.08:209][707]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon.BP_RangedWeapon]
+[2026.02.22-19.17.08:209][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon]
+[2026.02.22-19.17.08:230][707]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon_Auto3
+[2026.02.22-19.17.08:231][707]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_RangedWeapon_Auto34112DFCC4D8A5A0F178B7598D4745092.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/Autosaves/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon_Auto3.uasset'
+[2026.02.22-19.17.08:232][707]LogFileHelpers: Auto-saving content packages took 0.097
+[2026.02.22-19.18.06:625][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.02.22-19.18.42:788][207]LogStreaming: Display: FlushAsyncLoading(1037): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.22-19.18.42:788][207]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to '"/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Weapons/BP_WeaponBase.BP_WeaponBase_C'",MemberName="UIWidget",MemberGuid=1A06F6CE4AF2E794C0C465949A3EF152)'
+[2026.02.22-19.20.13:951][195]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Variable node  Set UIWidget  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2026.02.22-19.20.13:996][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.02.22-19.20.38:564][835]LogSlate: Window 'Delete Variable' being destroyed
+[2026.02.22-19.20.52:313][356]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Could not find a variable named "UIWidget" in '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C' has been compiled for  Set UIWidget
+[2026.02.22-19.20.52:313][356]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Variable node  Set UIWidget  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2026.02.22-19.20.52:313][356]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] The property associated with  UIWidget  could not be found in '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C'
+[2026.02.22-19.20.52:354][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.02.22-19.20.53:858][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.02.22-19.20.53:864][519]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-19.20.53:896][519]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons] ([2] browsable assets)...
+[2026.02.22-19.20.53:898][519]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons]
+[2026.02.22-19.20.53:898][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons]
+[2026.02.22-19.20.53:913][519]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Weapons
+[2026.02.22-19.20.53:913][519]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/WBP_WeaponsDE50A4034D6511049C0C40BF1328D034.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/WidgetBlueprints/WBP_Weapons.uasset'
+[2026.02.22-19.20.53:914][519]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon] ([2] browsable assets)...
+[2026.02.22-19.20.53:952][519]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon.BP_RangedWeapon]
+[2026.02.22-19.20.53:952][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon]
+[2026.02.22-19.20.53:975][519]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon
+[2026.02.22-19.20.53:975][519]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_RangedWeaponC5E0C6C841E5814A3F2FA6A226099B06.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/WeaponBlueprints/BP_RangedWeapon.uasset'
+[2026.02.22-19.20.53:984][519]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.207 ms (total: 967.238 ms)
+[2026.02.22-19.20.54:009][519]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.22-19.20.54:009][519]LogContentValidation: Enabled validators:
+[2026.02.22-19.20.54:009][519]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-19.20.54:009][519]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-19.20.54:009][519]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-19.20.54:009][519]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-19.20.54:009][519]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-19.20.54:009][519]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-19.20.54:010][519]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Weapons Validating asset
+[2026.02.22-19.20.54:010][519]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon Validating asset
+[2026.02.22-19.21.26:691][163]LogEditorTransaction: Undo Create Pin Link
+[2026.02.22-19.21.27:911][229]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4300.458984
+[2026.02.22-19.21.28:912][232]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-19.21.28:912][232]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4301.128906, Update Interval: 329.339874
+[2026.02.22-19.21.39:851][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.02.22-19.21.57:190][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.02.22-19.21.58:263][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.02.22-19.21.58:271][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-19.21.58:305][ 65]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon] ([2] browsable assets)...
+[2026.02.22-19.21.58:343][ 65]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon.BP_RangedWeapon]
+[2026.02.22-19.21.58:343][ 65]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon]
+[2026.02.22-19.21.58:365][ 65]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon
+[2026.02.22-19.21.58:366][ 65]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_RangedWeapon47E3834940630027A497DDAC569A414B.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/WeaponBlueprints/BP_RangedWeapon.uasset'
+[2026.02.22-19.21.58:374][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.657 ms (total: 1.06 sec)
+[2026.02.22-19.21.58:400][ 65]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-19.21.58:400][ 65]LogContentValidation: Enabled validators:
+[2026.02.22-19.21.58:400][ 65]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-19.21.58:400][ 65]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-19.21.58:400][ 65]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-19.21.58:400][ 65]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-19.21.58:400][ 65]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-19.21.58:400][ 65]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-19.21.58:400][ 65]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon Validating asset
