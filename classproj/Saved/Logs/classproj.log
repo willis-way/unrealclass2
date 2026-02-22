@@ -5916,3 +5916,1280 @@ Stats: n/a
 [2026.02.22-20.39.43:816][177]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerAssets/BP_DummyAI.BP_DummyAI
 [2026.02.22-20.39.43:816][177]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_113
 [2026.02.22-20.40.16:202][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.02.22-20.40.26:044][500]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.22-20.40.26:050][500]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.22-20.40.26:051][500]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.02.22-20.40.26:051][500]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 619 us (total: 15.194 ms)
+[2026.02.22-20.40.26:051][500]BlueprintLog: Warning: Blueprint failed to compile:  WBP_Weapons
+[2026.02.22-20.40.26:052][500]LogPlayLevel: [PlayLevel] Compiling BP_Gun before play...
+[2026.02.22-20.40.26:116][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.02.22-20.40.26:119][500]LogPlayLevel: PlayLevel: Blueprint regeneration took 68 ms (1 blueprints)
+[2026.02.22-20.40.27:369][500]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2026.02.22-20.40.27:431][500]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.22-20.40.27:439][500]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.22-20.40.27:440][500]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 922 us (total: 2.784 ms)
+[2026.02.22-20.40.27:440][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008589s)
+[2026.02.22-20.40.27:440][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.008654s)
+[2026.02.22-20.40.27:463][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.02.22-20.40.27:466][500]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.02.22-20.40.27:467][500]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.22-20.40.27:467][500]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.22-20.40.27:467][500]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.22-20.40.27:467][500]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.22-20.40.27:468][500]LogWorldPartition: Display: WorldPartition initialize took 1.235 ms (total: 797.260 ms)
+[2026.02.22-20.40.27:468][500]LogPlayLevel: PIE: World Init took: (0.002747s)
+[2026.02.22-20.40.27:469][500]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.02.22-20.40.27:469][500]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.22-20.40.27:469][500]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.22-20.40.27:469][500]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.22-20.40.27:469][500]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.22-20.40.27:469][500]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.22-20.40.27:469][500]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.22-20.40.27:469][500]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.22-20.40.27:469][500]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.22-20.40.27:469][500]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.22-20.40.27:469][500]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.22-20.40.27:469][500]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.22-20.40.27:470][500]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.22-20.40.27:504][500]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.22-20.40.27:504][500]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.22-20.40.27:504][500]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.22-20.40.27:504][500]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.22-20.40.27:505][500]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.02.22-20.40.27:505][500]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.02.22-20.40.27:507][500]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.02.22-20.40.27:507][500]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.02.22-20.40.27:507][500]LogInit: FAudioDevice initialized with ID 5.
+[2026.02.22-20.40.27:507][500]LogAudio: Display: Audio Device (ID: 5) registered with world 'L_LevelOne'.
+[2026.02.22-20.40.27:507][500]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.02.22-20.40.27:511][500]LogLoad: Game class is 'GM_FPS_C'
+[2026.02.22-20.40.27:514][500]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2026.02.22-15.40.27
+[2026.02.22-20.40.27:515][500]LogWorld: Bringing up level for play took: 0.002873
+[2026.02.22-20.40.27:516][500]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2026.02.22-20.40.27:520][500]PIE: Server logged in
+[2026.02.22-20.40.27:522][500]PIE: Play in editor total start time 1.472 seconds.
+[2026.02.22-20.40.27:553][501]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.22-20.40.35:802][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.22-20.40.35:802][191]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.22-20.40.35:802][191]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-20.40.35:802][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-20.40.35:802][191]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2026.02.22-20.40.35:803][191]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.22-20.40.35:808][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-20.40.35:831][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.22-20.40.35:831][191]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.02.22-20.40.35:831][191]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.02.22-20.40.35:833][191]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.02.22-20.40.35:841][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.02.22-20.40.35:897][192]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2026.02.22-20.41.19:878][752]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-20.41.19:878][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-20.41.19:998][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.02.22-20.41.24:916][  5]LogSlate: Window 'Message' being destroyed
+[2026.02.22-20.41.24:932][  5]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Blueprints/WidgetBlueprints/M_EnemyHealthBar.M_EnemyHealthBar
+(Selecting 'No' will cause all changes to be lost!)
+[2026.02.22-20.41.27:182][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.02.22-20.41.27:187][257]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-20.41.27:224][257]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_DummyAI] ([2] browsable assets)...
+[2026.02.22-20.41.27:268][257]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_DummyAI.BP_DummyAI]
+[2026.02.22-20.41.27:268][257]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_DummyAI]
+[2026.02.22-20.41.27:268][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_DummyAI" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset" SILENT=true
+[2026.02.22-20.41.27:279][257]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_DummyAI
+[2026.02.22-20.41.27:279][257]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_DummyAI6984E4204A6BD0C18EA798BCADB71447.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset'
+[2026.02.22-20.41.27:286][257]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.806 ms (total: 5.84 sec)
+[2026.02.22-20.41.27:321][257]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-20.41.27:321][257]LogContentValidation: Enabled validators:
+[2026.02.22-20.41.27:321][257]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-20.41.27:321][257]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-20.41.27:321][257]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-20.41.27:321][257]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-20.41.27:321][257]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-20.41.27:321][257]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-20.41.27:321][257]AssetCheck: /Game/PlayerAssets/BP_DummyAI Validating asset
+[2026.02.22-20.41.43:004][344]LogSlate: Window 'Message' being destroyed
+[2026.02.22-20.41.43:015][344]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Blueprints/WidgetBlueprints/M_EnemyHealthBar.M_EnemyHealthBar
+(Selecting 'No' will cause all changes to be lost!)
+[2026.02.22-20.41.43:089][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.02.22-20.41.43:174][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.02.22-20.41.43:217][344]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-20.41.43:217][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-20.41.43:274][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.02.22-20.41.43:297][344]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9115.971680
+[2026.02.22-20.41.43:638][354]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-20.41.43:638][354]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9116.303711, Update Interval: 310.263367
+[2026.02.22-20.41.46:063][508]LogSlate: Window 'Message' being destroyed
+[2026.02.22-20.41.46:073][508]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Blueprints/WidgetBlueprints/M_HealthBar.M_HealthBar
+(Selecting 'No' will cause all changes to be lost!)
+[2026.02.22-20.41.46:215][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.02.22-20.41.46:281][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.02.22-20.41.46:325][508]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-20.41.46:325][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-20.41.46:389][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.02.22-20.42.52:846][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.02.22-20.42.52:850][ 31]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.027
+[2026.02.22-20.42.52:850][ 31]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WidgetBlueprints/M_HealthBar] ([1] browsable assets)...
+[2026.02.22-20.42.53:808][ 31]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/WidgetBlueprints/M_HealthBar.M_HealthBar]
+[2026.02.22-20.42.53:808][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/M_HealthBar]
+[2026.02.22-20.42.53:820][ 31]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WidgetBlueprints/M_HealthBar_Auto8
+[2026.02.22-20.42.53:820][ 31]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/M_HealthBar_Auto857A54C564D0F5B69C04ACC99D8D3C748.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/Autosaves/Game/Blueprints/WidgetBlueprints/M_HealthBar_Auto8.uasset'
+[2026.02.22-20.42.53:821][ 31]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WidgetBlueprints/M_EnemyHealthBar] ([1] browsable assets)...
+[2026.02.22-20.42.53:847][ 31]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/WidgetBlueprints/M_EnemyHealthBar.M_EnemyHealthBar]
+[2026.02.22-20.42.53:847][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/M_EnemyHealthBar]
+[2026.02.22-20.42.53:856][ 31]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WidgetBlueprints/M_EnemyHealthBar_Auto8
+[2026.02.22-20.42.53:856][ 31]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/M_EnemyHealthBar_Auto8DE122BFE40219AB4B72CF5AF9A4F16B3.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/Autosaves/Game/Blueprints/WidgetBlueprints/M_EnemyHealthBar_Auto8.uasset'
+[2026.02.22-20.42.53:857][ 31]LogFileHelpers: Auto-saving content packages took 1.007
+[2026.02.22-20.42.54:765][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: ================================================
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: Total job queries 862, among them cache hits 258 (29.93%), DDC hits 415 (48.14%), Duplicates 80 (9.28%)
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: Tracking 524 distinct input hashes that result in 365 distinct outputs (69.66%)
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: RAM used: 4.27 MiB of 1.60 GiB budget. Usage: 0.26%
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: Shaders Compiled: 109
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: Jobs assigned 109, completed 109 (100%)
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: Average time worker was idle: 533.60 s
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: Job execution time: average 0.45 s, max 1.13 s
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: Job life time (pending + execution): average 0.51 s, max 1.15
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: Shader code size: total 733.332 KiB, numShaders 109, average 6.728 KiB, min 3.309 KiB, max 13.793 KiB
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.25 s
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.13%
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: Jobs were issued in 109 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: Average processing rate: 7.15 jobs/sec
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: Total thread time: 27.438 s
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: Total thread preprocess time: 12.175 s
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: Percentage time preprocessing: 44.37%
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: Effective parallelization: 1.80 (times faster than compiling all shaders on one thread). Compare with number of workers: 14 - 0.128516
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    4 times, average 0.84 sec, max 0.95 sec, min 0.73 sec)
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    3 times, average 0.62 sec, max 0.66 sec, min 0.58 sec)
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    6 times, average 0.57 sec, max 0.63 sec, min 0.49 sec)
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 0.33 sec, max 0.35 sec, min 0.31 sec)
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   13 times, average 0.31 sec, max 0.40 sec, min 0.22 sec)
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.58% of total time (compiled   13 times, average 0.31 sec, max 0.40 sec, min 0.22 sec)
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 12.45% of total time (compiled    6 times, average 0.57 sec, max 0.63 sec, min 0.49 sec)
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 12.20% of total time (compiled    4 times, average 0.84 sec, max 0.95 sec, min 0.73 sec)
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.18% of total time (compiled   12 times, average 0.23 sec, max 0.32 sec, min 0.17 sec)
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.81% of total time (compiled    3 times, average 0.62 sec, max 0.66 sec, min 0.58 sec)
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: === Material stats ===
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: Materials Translated:    294
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: Material Translation Only: 0.07 s (36%)
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: Material Cache Hits: 25 (9%)
+[2026.02.22-20.42.56:699][338]LogShaderCompilers: Display: ================================================
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+49, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+63, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+56, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+64, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+73, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-20.42.58:027][466]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+49, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+63, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+56, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+64, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+73, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-20.43.13:125][783]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.22-20.43.22:947][589]LogContentBrowser: Deferred new asset file creation: BP_CharacterBase_Child
+[2026.02.22-20.43.22:976][589]LogContentBrowser: Creating deferred item: BP_CharacterBase_Child
+[2026.02.22-20.43.23:016][590]LogContentBrowser: Renaming the item being created (Deferred Item: BP_CharacterBase_Child).
+[2026.02.22-20.43.31:514][433]LogContentBrowser: Attempting asset rename: BP_CharacterBase_Child -> BP_DummyNew
+[2026.02.22-20.43.31:520][433]LogContentBrowser: End creating deferred item BP_CharacterBase_Child
+[2026.02.22-20.43.31:521][433]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_114
+[2026.02.22-20.43.35:779][824]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerAssets/BP_DummyNew.BP_DummyNew
+[2026.02.22-20.43.35:779][824]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_115
+[2026.02.22-20.43.51:954][620]LogWorld: UWorld::CleanupWorld for World_115, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-20.43.51:954][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-20.43.52:021][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.22-20.44.06:471][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.02.22-20.44.07:708][548]LogSlate: Window 'Delete Assets' being destroyed
+[2026.02.22-20.44.08:309][548]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.02.22-20.44.08:309][548]LogWorld: UWorld::CleanupWorld for World_110, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-20.44.08:309][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-20.44.08:354][548]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.02.22-20.44.08:354][548]LogWorld: UWorld::CleanupWorld for World_112, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-20.44.08:354][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-20.44.08:434][548]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-20.44.08:434][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-20.44.08:439][548]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-20.44.08:440][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-20.44.08:519][548]LogWorld: UWorld::CleanupWorld for World_91, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-20.44.08:519][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-20.44.08:524][548]LogWorld: UWorld::CleanupWorld for World_90, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-20.44.08:524][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-20.44.08:561][548]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.02.22-20.44.08:561][548]LogWorld: UWorld::CleanupWorld for World_105, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-20.44.08:561][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-20.44.08:606][548]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.02.22-20.44.08:606][548]LogWorld: UWorld::CleanupWorld for World_113, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-20.44.08:606][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-20.44.08:657][548]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-20.44.08:658][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-20.44.08:662][548]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-20.44.08:662][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-20.44.08:681][548]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/PlayerAssets/BP_DummyNew.BP_DummyNew
+	Asset Type: Blueprint
+[2026.02.22-20.44.08:968][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.02.22-20.44.09:074][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.02.22-20.44.09:100][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.02.22-20.44.09:123][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.02.22-20.44.09:185][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.02.22-20.44.10:395][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.02.22-20.44.10:400][640]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-20.44.10:436][640]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/WidgetBlueprints/M_HealthBar] ([1] browsable assets)...
+[2026.02.22-20.44.10:437][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/M_HealthBar]
+[2026.02.22-20.44.10:446][640]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/M_HealthBar
+[2026.02.22-20.44.10:446][640]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/M_HealthBarBB6C5E1E4E40A9FEFAD7C48764030661.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/WidgetBlueprints/M_HealthBar.uasset'
+[2026.02.22-20.44.10:447][640]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/WidgetBlueprints/M_EnemyHealthBar] ([1] browsable assets)...
+[2026.02.22-20.44.10:447][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/M_EnemyHealthBar]
+[2026.02.22-20.44.10:454][640]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/M_EnemyHealthBar
+[2026.02.22-20.44.10:455][640]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/M_EnemyHealthBar0D32768C487CAAA0EF68808CFCEE1663.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/WidgetBlueprints/M_EnemyHealthBar.uasset'
+[2026.02.22-20.44.10:463][640]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.737 ms (total: 5.91 sec)
+[2026.02.22-20.44.10:505][640]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.22-20.44.10:505][640]LogContentValidation: Enabled validators:
+[2026.02.22-20.44.10:505][640]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-20.44.10:505][640]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-20.44.10:505][640]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-20.44.10:505][640]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-20.44.10:505][640]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-20.44.10:505][640]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-20.44.10:505][640]AssetCheck: /Game/Blueprints/WidgetBlueprints/M_HealthBar Validating asset
+[2026.02.22-20.44.10:505][640]AssetCheck: /Game/Blueprints/WidgetBlueprints/M_EnemyHealthBar Validating asset
+[2026.02.22-20.44.17:428][357]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerAssets/BP_DummyAI.BP_DummyAI
+[2026.02.22-20.44.17:428][357]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_116
+[2026.02.22-20.44.36:952][311]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_49
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.44.39:398][531]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase
+[2026.02.22-20.44.39:398][531]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_117
+[2026.02.22-20.44.44:394][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.22-20.44.45:913][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.02.22-20.44.45:928][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-20.44.45:974][ 78]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832
+[2026.02.22-20.44.45:974][ 78]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/RE5B2IEP2TCCQN34XBQ832BA005EC34F95736DA45F798CFDA7F5A4.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832.uasset'
+[2026.02.22-20.44.45:975][ 78]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_DummyAI] ([2] browsable assets)...
+[2026.02.22-20.44.46:019][ 78]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_DummyAI.BP_DummyAI]
+[2026.02.22-20.44.46:019][ 78]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_DummyAI]
+[2026.02.22-20.44.46:019][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_DummyAI" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset" SILENT=true
+[2026.02.22-20.44.46:029][ 78]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_DummyAI
+[2026.02.22-20.44.46:029][ 78]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_DummyAIDE8698344708526D0778089CDE3294A5.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset'
+[2026.02.22-20.44.46:030][ 78]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.22-20.44.46:037][ 78]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.22-20.44.46:037][ 78]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.22-20.44.46:038][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.02.22-20.44.46:069][ 78]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.02.22-20.44.46:069][ 78]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_CharacterBase27B759344DF7DB59807357A9CC9E676E.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.02.22-20.44.46:078][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave took 149.592 ms (total: 6.06 sec)
+[2026.02.22-20.44.46:110][ 78]LogContentValidation: Display: Starting to validate 3 assets
+[2026.02.22-20.44.46:110][ 78]LogContentValidation: Enabled validators:
+[2026.02.22-20.44.46:110][ 78]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-20.44.46:110][ 78]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-20.44.46:110][ 78]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-20.44.46:110][ 78]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-20.44.46:110][ 78]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-20.44.46:110][ 78]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-20.44.46:110][ 78]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2026.02.22-20.44.46:110][ 78]AssetCheck: /Game/PlayerAssets/BP_DummyAI Validating asset
+[2026.02.22-20.44.46:110][ 78]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.02.22-20.44.47:790][235]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.22-20.44.47:797][235]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.22-20.44.47:797][235]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.02.22-20.44.47:797][235]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 598 us (total: 15.793 ms)
+[2026.02.22-20.44.47:797][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.22-20.44.47:831][235]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.22-20.44.47:836][235]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.22-20.44.47:837][235]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 945 us (total: 3.730 ms)
+[2026.02.22-20.44.47:837][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006192s)
+[2026.02.22-20.44.47:837][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.006229s)
+[2026.02.22-20.44.47:859][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.02.22-20.44.47:862][235]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.02.22-20.44.47:863][235]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.22-20.44.47:863][235]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.22-20.44.47:863][235]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.22-20.44.47:863][235]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.22-20.44.47:865][235]LogWorldPartition: Display: WorldPartition initialize took 1.352 ms (total: 798.612 ms)
+[2026.02.22-20.44.47:865][235]LogPlayLevel: PIE: World Init took: (0.002823s)
+[2026.02.22-20.44.47:865][235]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.02.22-20.44.47:865][235]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.22-20.44.47:865][235]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.22-20.44.47:865][235]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.22-20.44.47:865][235]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.22-20.44.47:865][235]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.22-20.44.47:865][235]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.22-20.44.47:865][235]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.22-20.44.47:865][235]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.22-20.44.47:865][235]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.22-20.44.47:865][235]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.22-20.44.47:865][235]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.22-20.44.47:868][235]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.22-20.44.47:904][235]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.22-20.44.47:904][235]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.22-20.44.47:904][235]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.22-20.44.47:904][235]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.22-20.44.47:904][235]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.02.22-20.44.47:904][235]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.02.22-20.44.47:907][235]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.02.22-20.44.47:907][235]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.02.22-20.44.47:907][235]LogInit: FAudioDevice initialized with ID 6.
+[2026.02.22-20.44.47:907][235]LogAudio: Display: Audio Device (ID: 6) registered with world 'L_LevelOne'.
+[2026.02.22-20.44.47:907][235]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.02.22-20.44.47:910][235]LogLoad: Game class is 'GM_FPS_C'
+[2026.02.22-20.44.47:914][235]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2026.02.22-15.44.47
+[2026.02.22-20.44.47:914][235]LogWorld: Bringing up level for play took: 0.002905
+[2026.02.22-20.44.47:916][235]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2026.02.22-20.44.47:919][235]PIE: Server logged in
+[2026.02.22-20.44.47:920][235]PIE: Play in editor total start time 0.123 seconds.
+[2026.02.22-20.44.47:957][236]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.22-20.45.27:714][101]LogCharacterMovement: BP_CharacterFPS_C_0 is stuck and failed to move! Velocity: X=-164.59 Y=-117.24 Z=0.00 Location: X=820.35 Y=-317.68 Z=88.02 Normal: X=0.34 Y=0.92 Z=-0.21 PenetrationDepth:0.137 Actor:BP_Gun_C_0 Component:SM_Clip BoneName:None (0 other events since notify)
+[2026.02.22-20.45.29:262][256]LogCharacterMovement: BP_CharacterFPS_C_0 is stuck and failed to move! Velocity: X=203.72 Y=564.36 Z=0.00 Location: X=820.26 Y=-234.48 Z=88.08 Normal: X=-0.58 Y=0.79 Z=-0.19 PenetrationDepth:11.490 Actor:BP_Gun_C_0 Component:SM_Clip BoneName:None (20 other events since notify)
+[2026.02.22-20.45.30:268][359]LogCharacterMovement: BP_CharacterFPS_C_0 is stuck and failed to move! Velocity: X=-434.67 Y=-413.60 Z=0.00 Location: X=841.99 Y=-234.87 Z=88.06 Normal: X=-0.28 Y=0.95 Z=-0.14 PenetrationDepth:15.368 Actor:BP_Gun_C_0 Component:SM_Clip BoneName:None (59 other events since notify)
+[2026.02.22-20.45.33:047][644]LogCharacterMovement: BP_CharacterFPS_C_0 is stuck and failed to move! Velocity: X=471.34 Y=163.37 Z=0.00 Location: X=1151.84 Y=-612.33 Z=88.02 Normal: X=-0.69 Y=-0.70 Z=-0.18 PenetrationDepth:7.044 Actor:BP_Gun_C_0 Component:SM_Clip BoneName:None (53 other events since notify)
+[2026.02.22-20.45.34:782][825]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285875EFBF02_1473946258] BP_CharacterFPS0
+[2026.02.22-20.45.34:958][843]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285875EFBF02_1465051257] BP_CharacterFPS0
+[2026.02.22-20.45.35:176][866]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285875EFBF02_1427374256] BP_CharacterFPS0
+[2026.02.22-20.45.35:282][877]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetComponentByClass_ReturnValue in not an UClass
+	BP_HealthRegen_C /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne:PersistentLevel.BP_HealthRegen_C_UAID_047C16285975DDBB02_1940000864
+	Function /Game/Blueprints/HealthRegen/BP_HealthRegen.BP_HealthRegen_C:ExecuteUbergraph_BP_HealthRegen:02D0
+[2026.02.22-20.45.35:282][877]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetComponentByClass_ReturnValue in not an UClass". Node:  RegenerateHealth Graph:  EventGraph Function:  Execute Ubergraph BP Health Regen Blueprint:  BP_HealthRegen
+[2026.02.22-20.45.35:282][877]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetComponentByClass_ReturnValue in not an UClass
+	BP_HealthRegen_C /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne:PersistentLevel.BP_HealthRegen_C_UAID_047C16285975DDBB02_1940000864
+	Function /Game/Blueprints/HealthRegen/BP_HealthRegen.BP_HealthRegen_C:ExecuteUbergraph_BP_HealthRegen:02D0
+[2026.02.22-20.45.35:282][877]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetComponentByClass_ReturnValue in not an UClass". Node:  RegenerateHealth Graph:  EventGraph Function:  Execute Ubergraph BP Health Regen Blueprint:  BP_HealthRegen
+[2026.02.22-20.45.35:282][877]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetComponentByClass_ReturnValue in not an UClass
+	BP_HealthRegen_C /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne:PersistentLevel.BP_HealthRegen_C_UAID_047C16285975DDBB02_1940000864
+	Function /Game/Blueprints/HealthRegen/BP_HealthRegen.BP_HealthRegen_C:ExecuteUbergraph_BP_HealthRegen:02D0
+[2026.02.22-20.45.35:282][877]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetComponentByClass_ReturnValue in not an UClass". Node:  RegenerateHealth Graph:  EventGraph Function:  Execute Ubergraph BP Health Regen Blueprint:  BP_HealthRegen
+[2026.02.22-20.45.35:282][877]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetComponentByClass_ReturnValue in not an UClass
+	BP_HealthRegen_C /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne:PersistentLevel.BP_HealthRegen_C_UAID_047C16285975DDBB02_1940000864
+	Function /Game/Blueprints/HealthRegen/BP_HealthRegen.BP_HealthRegen_C:ExecuteUbergraph_BP_HealthRegen:02D0
+[2026.02.22-20.45.35:282][877]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetComponentByClass_ReturnValue in not an UClass". Node:  RegenerateHealth Graph:  EventGraph Function:  Execute Ubergraph BP Health Regen Blueprint:  BP_HealthRegen
+[2026.02.22-20.45.35:357][885]LogBlueprintUserMessages: [BP_HealthRegen_C_UAID_047C16285975DDBB02_1940000864] BP_Gun0
+[2026.02.22-20.45.35:357][885]LogBlueprintUserMessages: [BP_HealthRegen_C_UAID_047C16285975DDBB02_1940000864] BP_Gun0
+[2026.02.22-20.45.35:357][885]LogBlueprintUserMessages: [BP_HealthRegen_C_UAID_047C16285975DDBB02_1940000864] BP_Gun2
+[2026.02.22-20.45.35:357][885]LogBlueprintUserMessages: [BP_HealthRegen_C_UAID_047C16285975DDBB02_1940000864] BP_Gun2
+[2026.02.22-20.45.35:357][885]LogBlueprintUserMessages: [BP_HealthRegen_C_UAID_047C16285975DDBB02_1940000864] BP_CharacterFPS0
+[2026.02.22-20.45.35:463][888]LogNiagara: Compiling System NiagaraSystem /Game/Vefects/Zap_VFX/VFX/Zap/Particles/NS_Zap_04_Green.NS_Zap_04_Green took 0.104181 sec (time since issued).
+[2026.02.22-20.45.37:215][ 50]LogCharacterMovement: BP_CharacterFPS_C_0 is stuck and failed to move! Velocity: X=-10.52 Y=-15.71 Z=0.00 Location: X=913.89 Y=-619.59 Z=88.12 Normal: X=-0.18 Y=0.96 Z=-0.21 PenetrationDepth:4.973 Actor:BP_Gun_C_0 Component:SM_Clip BoneName:None (22 other events since notify)
+[2026.02.22-20.45.39:988][331]LogCharacterMovement: BP_CharacterFPS_C_0 is stuck and failed to move! Velocity: X=-337.62 Y=496.00 Z=0.00 Location: X=497.82 Y=-1041.93 Z=88.12 Normal: X=0.84 Y=-0.50 Z=-0.21 PenetrationDepth:4.872 Actor:BP_Gun_C_0 Component:SM_Bullets BoneName:None (34 other events since notify)
+[2026.02.22-20.45.42:216][566]LogCharacterMovement: BP_CharacterFPS_C_0 is stuck and failed to move! Velocity: X=-488.78 Y=-347.99 Z=0.00 Location: X=632.66 Y=-578.01 Z=88.02 Normal: X=0.44 Y=0.88 Z=-0.18 PenetrationDepth:14.678 Actor:BP_Gun_C_0 Component:SM_Clip BoneName:None (69 other events since notify)
+[2026.02.22-20.45.43:250][675]LogCharacterMovement: BP_CharacterFPS_C_0 is stuck and failed to move! Velocity: X=-224.21 Y=-164.44 Z=0.00 Location: X=444.95 Y=-880.15 Z=88.14 Normal: X=-0.02 Y=0.99 Z=-0.16 PenetrationDepth:8.251 Actor:BP_Gun_C_2 Component:SM_Clip BoneName:None (12 other events since notify)
+[2026.02.22-20.45.49:364][316]LogCharacterMovement: BP_CharacterFPS_C_0 is stuck and failed to move! Velocity: X=-30.74 Y=47.61 Z=0.00 Location: X=173.94 Y=-330.51 Z=288.28 Normal: X=-0.84 Y=0.51 Z=-0.17 PenetrationDepth:12.069 Actor:BP_Gun_C_2 Component:SM_Bullets BoneName:None (8 other events since notify)
+[2026.02.22-20.45.50:372][425]LogCharacterMovement: BP_CharacterFPS_C_0 is stuck and failed to move! Velocity: X=176.90 Y=114.34 Z=0.00 Location: X=-135.16 Y=-66.72 Z=298.00 Normal: X=-0.78 Y=0.59 Z=-0.22 PenetrationDepth:10.409 Actor:BP_Gun_C_2 Component:SM_Bullets BoneName:None (58 other events since notify)
+[2026.02.22-20.45.53:502][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.22-20.45.53:502][737]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.22-20.45.53:502][737]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-20.45.53:502][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-20.45.53:503][737]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2026.02.22-20.45.53:504][737]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.22-20.45.53:507][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-20.45.53:529][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.22-20.45.53:529][737]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.02.22-20.45.53:529][737]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.02.22-20.45.53:532][737]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.02.22-20.45.53:539][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.02.22-20.45.53:658][738]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2026.02.22-20.45.54:713][825]LogSlate: Window 'Message Log' being destroyed
+[2026.02.22-20.45.54:728][825]LogSlate: Window 'Message Log' being destroyed
+[2026.02.22-20.45.55:627][914]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.22-20.45.55:634][914]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.22-20.45.55:634][914]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.02.22-20.45.55:635][914]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 576 us (total: 16.370 ms)
+[2026.02.22-20.45.55:635][914]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.22-20.45.55:671][914]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.22-20.45.55:676][914]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.22-20.45.55:678][914]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 909 us (total: 4.639 ms)
+[2026.02.22-20.45.55:678][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006672s)
+[2026.02.22-20.45.55:678][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.006711s)
+[2026.02.22-20.45.55:699][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.02.22-20.45.55:703][914]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.02.22-20.45.55:704][914]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.22-20.45.55:704][914]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.22-20.45.55:704][914]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.22-20.45.55:704][914]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.22-20.45.55:705][914]LogWorldPartition: Display: WorldPartition initialize took 1.277 ms (total: 799.890 ms)
+[2026.02.22-20.45.55:705][914]LogPlayLevel: PIE: World Init took: (0.002726s)
+[2026.02.22-20.45.55:706][914]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.02.22-20.45.55:706][914]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.22-20.45.55:706][914]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.22-20.45.55:706][914]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.22-20.45.55:706][914]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.22-20.45.55:706][914]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.22-20.45.55:706][914]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.22-20.45.55:706][914]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.22-20.45.55:706][914]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.22-20.45.55:706][914]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.22-20.45.55:706][914]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.22-20.45.55:706][914]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.22-20.45.55:708][914]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.22-20.45.55:742][914]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.22-20.45.55:742][914]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.22-20.45.55:742][914]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.22-20.45.55:742][914]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.22-20.45.55:742][914]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.02.22-20.45.55:742][914]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.02.22-20.45.55:745][914]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.02.22-20.45.55:745][914]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.02.22-20.45.55:745][914]LogInit: FAudioDevice initialized with ID 7.
+[2026.02.22-20.45.55:745][914]LogAudio: Display: Audio Device (ID: 7) registered with world 'L_LevelOne'.
+[2026.02.22-20.45.55:745][914]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.02.22-20.45.55:748][914]LogLoad: Game class is 'GM_FPS_C'
+[2026.02.22-20.45.55:751][914]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2026.02.22-15.45.55
+[2026.02.22-20.45.55:751][914]LogWorld: Bringing up level for play took: 0.002741
+[2026.02.22-20.45.55:753][914]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2026.02.22-20.45.55:755][914]PIE: Server logged in
+[2026.02.22-20.45.55:757][914]PIE: Play in editor total start time 0.123 seconds.
+[2026.02.22-20.45.55:795][915]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.22-20.46.25:161][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.22-20.46.25:161][780]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.22-20.46.25:162][780]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-20.46.25:162][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-20.46.25:163][780]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2026.02.22-20.46.25:164][780]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.22-20.46.25:171][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-20.46.25:197][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.22-20.46.25:197][780]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.02.22-20.46.25:197][780]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.02.22-20.46.25:199][780]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.02.22-20.46.25:206][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.02.22-20.46.25:276][781]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2026.02.22-20.46.38:191][104]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_50
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.46.38:194][104]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_51
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.46.38:206][105]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_52
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.46.38:218][106]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_53
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.46.38:229][107]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_54
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.46.38:242][108]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_55
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.46.38:253][109]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_56
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.46.38:265][110]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_57
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.46.38:279][111]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_58
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.46.38:292][112]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_59
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.46.38:304][113]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_60
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.46.38:315][114]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_61
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.46.38:331][115]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_62
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.46.38:639][146]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_63
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.46.38:672][147]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_64
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.46.38:684][148]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_65
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.46.38:696][149]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_66
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.46.38:708][150]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_67
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.46.42:783][484]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS
+[2026.02.22-20.46.42:783][484]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_118
+[2026.02.22-20.47.02:709][503]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_68
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.47.02:721][504]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_69
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.47.02:734][505]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_70
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.47.02:747][506]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_71
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.47.02:758][507]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_72
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.47.02:772][508]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_73
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.47.02:784][509]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_74
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.47.02:796][510]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_75
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.47.02:809][511]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_76
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.47.02:822][512]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_77
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.47.02:834][513]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_78
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.47.04:807][705]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_79
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.47.04:843][706]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_80
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-20.47.13:982][605]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_HealthBar.WBP_HealthBar
+[2026.02.22-20.47.13:983][605]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_119
+[2026.02.22-20.47.13:989][605]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_120
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+49, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+63, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+56, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+64, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+73, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-20.47.23:782][614]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.22-20.47.24:851][713]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9457.617188
+[2026.02.22-20.47.25:000][718]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-20.47.25:000][718]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9457.749023, Update Interval: 343.551147
+[2026.02.22-20.47.26:873][887]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master
+[2026.02.22-20.47.26:874][887]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_121
+[2026.02.22-20.47.26:883][887]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_122
+[2026.02.22-20.47.29:117][ 73]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_StartMenu.WBP_StartMenu
+[2026.02.22-20.47.29:117][ 73]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_123
+[2026.02.22-20.47.29:124][ 73]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_124
+[2026.02.22-20.47.30:908][198]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons
+[2026.02.22-20.47.30:908][198]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_125
+[2026.02.22-20.47.30:915][198]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_126
+[2026.02.22-20.48.41:611][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.22-20.48.56:802][109]LogShaderCompilers: Display: ================================================
+[2026.02.22-20.48.56:802][109]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.22-20.48.56:802][109]LogShaderCompilers: Display: Total job queries 885, among them cache hits 264 (29.83%), DDC hits 425 (48.02%), Duplicates 80 (9.04%)
+[2026.02.22-20.48.56:802][109]LogShaderCompilers: Display: Tracking 541 distinct input hashes that result in 378 distinct outputs (69.87%)
+[2026.02.22-20.48.56:802][109]LogShaderCompilers: Display: RAM used: 4.36 MiB of 1.60 GiB budget. Usage: 0.27%
+[2026.02.22-20.48.56:802][109]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.22-20.48.56:802][109]LogShaderCompilers: Display: Shaders Compiled: 116
+[2026.02.22-20.48.56:802][109]LogShaderCompilers: Display: Jobs assigned 116, completed 116 (100%)
+[2026.02.22-20.48.56:802][109]LogShaderCompilers: Display: Average time worker was idle: 514.42 s
+[2026.02.22-20.48.56:802][109]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2026.02.22-20.48.56:802][109]LogShaderCompilers: Display: Job execution time: average 0.46 s, max 1.13 s
+[2026.02.22-20.48.56:802][109]LogShaderCompilers: Display: Job life time (pending + execution): average 0.52 s, max 1.15
+[2026.02.22-20.48.56:802][109]LogShaderCompilers: Display: Shader code size: total 801.395 KiB, numShaders 118, average 6.791 KiB, min 2.891 KiB, max 13.793 KiB
+[2026.02.22-20.48.56:802][109]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.91 s
+[2026.02.22-20.48.56:802][109]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.12%
+[2026.02.22-20.48.56:802][109]LogShaderCompilers: Display: Jobs were issued in 116 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.22-20.48.56:802][109]LogShaderCompilers: Display: Average processing rate: 6.86 jobs/sec
+[2026.02.22-20.48.56:802][109]LogShaderCompilers: Display: Total thread time: 30.244 s
+[2026.02.22-20.48.56:803][109]LogShaderCompilers: Display: Total thread preprocess time: 12.751 s
+[2026.02.22-20.48.56:803][109]LogShaderCompilers: Display: Percentage time preprocessing: 42.16%
+[2026.02.22-20.48.56:803][109]LogShaderCompilers: Display: Effective parallelization: 1.79 (times faster than compiling all shaders on one thread). Compare with number of workers: 14 - 0.127731
+[2026.02.22-20.48.56:803][109]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.22-20.48.56:803][109]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    5 times, average 0.82 sec, max 0.95 sec, min 0.73 sec)
+[2026.02.22-20.48.56:803][109]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    3 times, average 0.62 sec, max 0.66 sec, min 0.58 sec)
+[2026.02.22-20.48.56:803][109]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    6 times, average 0.57 sec, max 0.63 sec, min 0.49 sec)
+[2026.02.22-20.48.56:803][109]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2026.02.22-20.48.56:803][109]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2026.02.22-20.48.56:803][109]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.22-20.48.56:803][109]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.18% of total time (compiled   14 times, average 0.31 sec, max 0.40 sec, min 0.22 sec)
+[2026.02.22-20.48.56:803][109]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 13.48% of total time (compiled    5 times, average 0.82 sec, max 0.95 sec, min 0.73 sec)
+[2026.02.22-20.48.56:803][109]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 11.30% of total time (compiled    6 times, average 0.57 sec, max 0.63 sec, min 0.49 sec)
+[2026.02.22-20.48.56:803][109]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.91% of total time (compiled   13 times, average 0.23 sec, max 0.32 sec, min 0.17 sec)
+[2026.02.22-20.48.56:803][109]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.18% of total time (compiled    3 times, average 0.62 sec, max 0.66 sec, min 0.58 sec)
+[2026.02.22-20.48.56:803][109]LogShaderCompilers: Display: === Material stats ===
+[2026.02.22-20.48.56:803][109]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.22-20.48.56:803][109]LogShaderCompilers: Display: Materials Translated:    294
+[2026.02.22-20.48.56:803][109]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2026.02.22-20.48.56:803][109]LogShaderCompilers: Display: Material Translation Only: 0.07 s (36%)
+[2026.02.22-20.48.56:803][109]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.02.22-20.48.56:803][109]LogShaderCompilers: Display: Material Cache Hits: 25 (9%)
+[2026.02.22-20.48.56:803][109]LogShaderCompilers: Display: ================================================
+[2026.02.22-20.50.06:304][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.02.22-20.50.07:399][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.02.22-20.50.07:408][927]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-20.50.07:450][927]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832
+[2026.02.22-20.50.07:451][927]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/RE5B2IEP2TCCQN34XBQ832C914DC7D4175E7172705B881F7637A4C.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832.uasset'
+[2026.02.22-20.50.07:452][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_DummyAI] ([2] browsable assets)...
+[2026.02.22-20.50.07:461][927]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_DummyAI.BP_DummyAI]
+[2026.02.22-20.50.07:461][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_DummyAI]
+[2026.02.22-20.50.07:461][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_DummyAI" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset" SILENT=true
+[2026.02.22-20.50.07:472][927]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_DummyAI
+[2026.02.22-20.50.07:472][927]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_DummyAIED091C024EDEF6F48099698AAB3533C0.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset'
+[2026.02.22-20.50.07:481][927]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.188 ms (total: 6.13 sec)
+[2026.02.22-20.50.07:512][927]LogContentValidation: Display: Starting to validate 3 assets
+[2026.02.22-20.50.07:512][927]LogContentValidation: Enabled validators:
+[2026.02.22-20.50.07:512][927]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-20.50.07:512][927]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-20.50.07:512][927]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-20.50.07:512][927]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-20.50.07:512][927]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-20.50.07:512][927]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-20.50.07:512][927]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2026.02.22-20.50.07:512][927]AssetCheck: /Game/PlayerAssets/BP_DummyAI Validating asset
+[2026.02.22-20.50.19:788][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.02.22-20.50.20:924][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.02.22-20.50.20:932][611]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-20.50.20:978][611]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832
+[2026.02.22-20.50.20:979][611]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/RE5B2IEP2TCCQN34XBQ83288A4310248558D70DF6C018DCF0708C8.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/__ExternalActors__/Levels/L_LevelOne/E/EG/RE5B2IEP2TCCQN34XBQ832.uasset'
+[2026.02.22-20.50.20:981][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_DummyAI] ([2] browsable assets)...
+[2026.02.22-20.50.20:989][611]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_DummyAI.BP_DummyAI]
+[2026.02.22-20.50.20:989][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_DummyAI]
+[2026.02.22-20.50.20:989][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_DummyAI" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset" SILENT=true
+[2026.02.22-20.50.20:999][611]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_DummyAI
+[2026.02.22-20.50.21:000][611]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_DummyAI462B7187403CEDB5BF6E1197B6535A6D.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset'
+[2026.02.22-20.50.21:008][611]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.748 ms (total: 6.21 sec)
+[2026.02.22-20.50.21:038][611]LogContentValidation: Display: Starting to validate 4 assets
+[2026.02.22-20.50.21:038][611]LogContentValidation: Enabled validators:
+[2026.02.22-20.50.21:038][611]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-20.50.21:038][611]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-20.50.21:038][611]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-20.50.21:038][611]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-20.50.21:038][611]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-20.50.21:038][611]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-20.50.21:038][611]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2026.02.22-20.50.21:038][611]AssetCheck: /Game/PlayerAssets/BP_DummyAI Validating asset
+[2026.02.22-20.51.14:769][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.02.22-20.51.16:217][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.02.22-20.51.16:226][510]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-20.51.16:258][510]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_DummyAI] ([2] browsable assets)...
+[2026.02.22-20.51.16:304][510]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_DummyAI.BP_DummyAI]
+[2026.02.22-20.51.16:304][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_DummyAI]
+[2026.02.22-20.51.16:304][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_DummyAI" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset" SILENT=true
+[2026.02.22-20.51.16:315][510]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_DummyAI
+[2026.02.22-20.51.16:316][510]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_DummyAIDC63F65F40A23147203D2C996E872793.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset'
+[2026.02.22-20.51.16:324][510]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.817 ms (total: 6.30 sec)
+[2026.02.22-20.51.16:360][510]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-20.51.16:360][510]LogContentValidation: Enabled validators:
+[2026.02.22-20.51.16:360][510]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-20.51.16:360][510]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-20.51.16:360][510]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-20.51.16:360][510]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-20.51.16:360][510]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-20.51.16:360][510]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-20.51.16:360][510]AssetCheck: /Game/PlayerAssets/BP_DummyAI Validating asset
+[2026.02.22-20.51.34:664][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.02.22-20.51.36:331][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.02.22-20.51.36:338][873]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-20.51.36:367][873]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_DummyAI] ([2] browsable assets)...
+[2026.02.22-20.51.36:416][873]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_DummyAI.BP_DummyAI]
+[2026.02.22-20.51.36:416][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_DummyAI]
+[2026.02.22-20.51.36:416][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_DummyAI" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset" SILENT=true
+[2026.02.22-20.51.36:428][873]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_DummyAI
+[2026.02.22-20.51.36:428][873]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_DummyAI7DE001C1459054B5282B399B516DE6D8.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset'
+[2026.02.22-20.51.36:435][873]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.212 ms (total: 6.40 sec)
+[2026.02.22-20.51.36:464][873]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-20.51.36:464][873]LogContentValidation: Enabled validators:
+[2026.02.22-20.51.36:464][873]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-20.51.36:464][873]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-20.51.36:464][873]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-20.51.36:464][873]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-20.51.36:464][873]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-20.51.36:464][873]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-20.51.36:464][873]AssetCheck: /Game/PlayerAssets/BP_DummyAI Validating asset
+[2026.02.22-20.52.21:709][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.02.22-20.52.22:650][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.02.22-20.52.22:658][129]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-20.52.22:689][129]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_DummyAI] ([2] browsable assets)...
+[2026.02.22-20.52.22:732][129]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_DummyAI.BP_DummyAI]
+[2026.02.22-20.52.22:732][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_DummyAI]
+[2026.02.22-20.52.22:732][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_DummyAI" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset" SILENT=true
+[2026.02.22-20.52.22:744][129]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_DummyAI
+[2026.02.22-20.52.22:744][129]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_DummyAIB92CF91A4D3409FD182B6196DAAEB833.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset'
+[2026.02.22-20.52.22:754][129]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.044 ms (total: 6.50 sec)
+[2026.02.22-20.52.22:786][129]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-20.52.22:786][129]LogContentValidation: Enabled validators:
+[2026.02.22-20.52.22:786][129]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-20.52.22:786][129]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-20.52.22:786][129]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-20.52.22:786][129]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-20.52.22:786][129]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-20.52.22:786][129]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-20.52.22:786][129]AssetCheck: /Game/PlayerAssets/BP_DummyAI Validating asset
+[2026.02.22-20.52.24:108][253]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.22-20.52.24:115][253]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.22-20.52.24:115][253]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.02.22-20.52.24:116][253]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 570 us (total: 16.940 ms)
+[2026.02.22-20.52.24:116][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.22-20.52.24:152][253]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.22-20.52.24:157][253]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.22-20.52.24:158][253]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 918 us (total: 5.558 ms)
+[2026.02.22-20.52.24:158][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005985s)
+[2026.02.22-20.52.24:158][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.006023s)
+[2026.02.22-20.52.24:179][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.02.22-20.52.24:184][253]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.02.22-20.52.24:185][253]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.22-20.52.24:185][253]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.22-20.52.24:185][253]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.22-20.52.24:185][253]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.22-20.52.24:186][253]LogWorldPartition: Display: WorldPartition initialize took 1.211 ms (total: 801.102 ms)
+[2026.02.22-20.52.24:186][253]LogPlayLevel: PIE: World Init took: (0.002857s)
+[2026.02.22-20.52.24:187][253]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.02.22-20.52.24:187][253]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.22-20.52.24:187][253]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.22-20.52.24:187][253]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.22-20.52.24:187][253]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.22-20.52.24:187][253]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.22-20.52.24:187][253]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.22-20.52.24:187][253]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.22-20.52.24:187][253]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.22-20.52.24:187][253]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.22-20.52.24:187][253]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.22-20.52.24:187][253]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.22-20.52.24:190][253]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.22-20.52.24:225][253]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.22-20.52.24:225][253]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.22-20.52.24:225][253]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.22-20.52.24:225][253]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.22-20.52.24:226][253]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.02.22-20.52.24:226][253]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.02.22-20.52.24:228][253]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.02.22-20.52.24:228][253]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.02.22-20.52.24:228][253]LogInit: FAudioDevice initialized with ID 8.
+[2026.02.22-20.52.24:228][253]LogAudio: Display: Audio Device (ID: 8) registered with world 'L_LevelOne'.
+[2026.02.22-20.52.24:228][253]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.02.22-20.52.24:232][253]LogLoad: Game class is 'GM_FPS_C'
+[2026.02.22-20.52.24:235][253]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2026.02.22-15.52.24
+[2026.02.22-20.52.24:235][253]LogWorld: Bringing up level for play took: 0.002989
+[2026.02.22-20.52.24:237][253]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2026.02.22-20.52.24:240][253]PIE: Server logged in
+[2026.02.22-20.52.24:243][253]PIE: Play in editor total start time 0.127 seconds.
+[2026.02.22-20.52.24:281][254]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.22-20.52.45:222][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.22-20.52.45:222][171]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.22-20.52.45:222][171]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-20.52.45:223][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-20.52.45:224][171]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2026.02.22-20.52.45:225][171]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.22-20.52.45:229][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-20.52.45:254][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.22-20.52.45:255][171]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.02.22-20.52.45:255][171]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.02.22-20.52.45:257][171]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.02.22-20.52.45:264][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.02.22-20.52.45:334][172]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2026.02.22-20.54.02:120][380]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9855.125977
+[2026.02.22-20.54.02:221][392]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-20.54.02:221][392]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9855.218750, Update Interval: 358.029724
+[2026.02.22-20.55.09:190][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.02.22-20.55.10:378][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.22-20.55.10:386][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-20.55.10:420][402]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_DummyAI] ([2] browsable assets)...
+[2026.02.22-20.55.10:468][402]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_DummyAI.BP_DummyAI]
+[2026.02.22-20.55.10:468][402]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_DummyAI]
+[2026.02.22-20.55.10:468][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_DummyAI" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset" SILENT=true
+[2026.02.22-20.55.10:480][402]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_DummyAI
+[2026.02.22-20.55.10:481][402]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_DummyAI1A784D6141E7DB9EF779858E9355F03D.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset'
+[2026.02.22-20.55.10:490][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.265 ms (total: 6.60 sec)
+[2026.02.22-20.55.10:520][402]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-20.55.10:520][402]LogContentValidation: Enabled validators:
+[2026.02.22-20.55.10:520][402]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-20.55.10:520][402]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-20.55.10:520][402]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-20.55.10:520][402]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-20.55.10:520][402]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-20.55.10:520][402]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-20.55.10:520][402]AssetCheck: /Game/PlayerAssets/BP_DummyAI Validating asset
+[2026.02.22-20.55.12:604][589]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.22-20.55.12:611][589]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.22-20.55.12:611][589]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.02.22-20.55.12:612][589]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 548 us (total: 17.489 ms)
+[2026.02.22-20.55.12:612][589]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.22-20.55.12:641][589]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.22-20.55.12:646][589]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.22-20.55.12:647][589]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 931 us (total: 6.490 ms)
+[2026.02.22-20.55.12:647][589]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006319s)
+[2026.02.22-20.55.12:647][589]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.006352s)
+[2026.02.22-20.55.12:672][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.02.22-20.55.12:675][589]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.02.22-20.55.12:676][589]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.22-20.55.12:676][589]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.22-20.55.12:676][589]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.22-20.55.12:676][589]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.22-20.55.12:678][589]LogWorldPartition: Display: WorldPartition initialize took 1.340 ms (total: 802.443 ms)
+[2026.02.22-20.55.12:678][589]LogPlayLevel: PIE: World Init took: (0.002863s)
+[2026.02.22-20.55.12:678][589]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.02.22-20.55.12:678][589]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.22-20.55.12:678][589]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.22-20.55.12:678][589]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.22-20.55.12:678][589]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.22-20.55.12:678][589]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.22-20.55.12:678][589]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.22-20.55.12:678][589]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.22-20.55.12:678][589]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.22-20.55.12:678][589]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.22-20.55.12:678][589]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.22-20.55.12:678][589]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.22-20.55.12:679][589]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.22-20.55.12:716][589]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.22-20.55.12:716][589]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.22-20.55.12:716][589]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.22-20.55.12:716][589]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.22-20.55.12:716][589]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.02.22-20.55.12:716][589]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.02.22-20.55.12:718][589]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.02.22-20.55.12:718][589]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.02.22-20.55.12:718][589]LogInit: FAudioDevice initialized with ID 9.
+[2026.02.22-20.55.12:718][589]LogAudio: Display: Audio Device (ID: 9) registered with world 'L_LevelOne'.
+[2026.02.22-20.55.12:718][589]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.02.22-20.55.12:722][589]LogLoad: Game class is 'GM_FPS_C'
+[2026.02.22-20.55.12:724][589]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2026.02.22-15.55.12
+[2026.02.22-20.55.12:725][589]LogWorld: Bringing up level for play took: 0.002779
+[2026.02.22-20.55.12:726][589]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2026.02.22-20.55.12:729][589]PIE: Server logged in
+[2026.02.22-20.55.12:731][589]PIE: Play in editor total start time 0.121 seconds.
+[2026.02.22-20.55.12:768][590]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.22-20.55.22:192][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.22-20.55.22:192][425]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.22-20.55.22:192][425]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-20.55.22:193][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-20.55.22:193][425]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2026.02.22-20.55.22:195][425]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.22-20.55.22:198][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-20.55.22:220][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.22-20.55.22:221][425]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.02.22-20.55.22:221][425]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.02.22-20.55.22:223][425]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.02.22-20.55.22:230][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.02.22-20.55.22:295][426]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2026.02.22-20.55.28:967][ 26]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.22-20.55.28:973][ 26]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.22-20.55.28:973][ 26]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.02.22-20.55.28:973][ 26]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 558 us (total: 18.047 ms)
+[2026.02.22-20.55.28:974][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.22-20.55.29:001][ 26]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.22-20.55.29:006][ 26]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.22-20.55.29:007][ 26]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 971 us (total: 7.461 ms)
+[2026.02.22-20.55.29:007][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006043s)
+[2026.02.22-20.55.29:007][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.006077s)
+[2026.02.22-20.55.29:030][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.02.22-20.55.29:034][ 26]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.02.22-20.55.29:036][ 26]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.22-20.55.29:036][ 26]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.22-20.55.29:036][ 26]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.22-20.55.29:036][ 26]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.22-20.55.29:037][ 26]LogWorldPartition: Display: WorldPartition initialize took 1.330 ms (total: 803.773 ms)
+[2026.02.22-20.55.29:037][ 26]LogPlayLevel: PIE: World Init took: (0.002763s)
+[2026.02.22-20.55.29:038][ 26]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.02.22-20.55.29:038][ 26]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.22-20.55.29:038][ 26]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.22-20.55.29:038][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.22-20.55.29:038][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.22-20.55.29:038][ 26]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.22-20.55.29:038][ 26]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.22-20.55.29:038][ 26]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.22-20.55.29:038][ 26]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.22-20.55.29:038][ 26]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.22-20.55.29:038][ 26]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.22-20.55.29:038][ 26]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.22-20.55.29:040][ 26]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.22-20.55.29:075][ 26]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.22-20.55.29:075][ 26]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.22-20.55.29:075][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.22-20.55.29:075][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.22-20.55.29:076][ 26]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.02.22-20.55.29:076][ 26]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.02.22-20.55.29:078][ 26]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.02.22-20.55.29:078][ 26]LogInit: FAudioDevice initialized with ID 10.
+[2026.02.22-20.55.29:078][ 26]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.02.22-20.55.29:078][ 26]LogAudio: Display: Audio Device (ID: 10) registered with world 'L_LevelOne'.
+[2026.02.22-20.55.29:078][ 26]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.02.22-20.55.29:081][ 26]LogLoad: Game class is 'GM_FPS_C'
+[2026.02.22-20.55.29:084][ 26]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2026.02.22-15.55.29
+[2026.02.22-20.55.29:085][ 26]LogWorld: Bringing up level for play took: 0.002875
+[2026.02.22-20.55.29:086][ 26]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2026.02.22-20.55.29:089][ 26]PIE: Server logged in
+[2026.02.22-20.55.29:092][ 26]PIE: Play in editor total start time 0.118 seconds.
+[2026.02.22-20.55.29:128][ 27]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.22-20.55.44:802][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.22-20.55.44:802][484]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.22-20.55.44:802][484]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-20.55.44:802][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-20.55.44:802][484]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2026.02.22-20.55.44:804][484]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.22-20.55.44:807][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-20.55.44:832][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.22-20.55.44:832][484]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.02.22-20.55.44:832][484]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.02.22-20.55.44:834][484]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.02.22-20.55.44:841][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.02.22-20.55.44:905][485]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2026.02.22-20.57.00:792][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.02.22-20.57.02:295][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.02.22-20.57.02:303][578]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-20.57.02:342][578]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_DummyAI] ([2] browsable assets)...
+[2026.02.22-20.57.02:389][578]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_DummyAI.BP_DummyAI]
+[2026.02.22-20.57.02:389][578]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_DummyAI]
+[2026.02.22-20.57.02:389][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_DummyAI" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset" SILENT=true
+[2026.02.22-20.57.02:404][578]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_DummyAI
+[2026.02.22-20.57.02:404][578]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_DummyAI9BB3D666481FEA2F5F226B987C6BD30E.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset'
+[2026.02.22-20.57.02:413][578]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.035 ms (total: 6.71 sec)
+[2026.02.22-20.57.02:447][578]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-20.57.02:447][578]LogContentValidation: Enabled validators:
+[2026.02.22-20.57.02:447][578]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-20.57.02:447][578]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-20.57.02:447][578]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-20.57.02:447][578]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-20.57.02:447][578]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-20.57.02:447][578]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-20.57.02:447][578]AssetCheck: /Game/PlayerAssets/BP_DummyAI Validating asset
+[2026.02.22-20.57.53:676][745]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\PlayerAssets\BP_DummyAI.uasset: [Compiler] This blueprint (self) is not a WBP_HealthBar_C, therefore ' Target ' must have a connection.
+[2026.02.22-20.57.53:723][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.02.22-20.57.55:316][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.02.22-20.57.55:323][903]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-20.57.55:365][903]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_DummyAI] ([2] browsable assets)...
+[2026.02.22-20.57.55:408][903]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_DummyAI.BP_DummyAI]
+[2026.02.22-20.57.55:408][903]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_DummyAI]
+[2026.02.22-20.57.55:408][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_DummyAI" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset" SILENT=true
+[2026.02.22-20.57.55:421][903]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_DummyAI
+[2026.02.22-20.57.55:422][903]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_DummyAI4E345CE9499BC1858751B890929F11FD.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset'
+[2026.02.22-20.57.55:428][903]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.407 ms (total: 6.82 sec)
+[2026.02.22-20.57.55:454][903]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-20.57.55:454][903]LogContentValidation: Enabled validators:
+[2026.02.22-20.57.55:454][903]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-20.57.55:454][903]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-20.57.55:454][903]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-20.57.55:454][903]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-20.57.55:454][903]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-20.57.55:454][903]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-20.57.55:454][903]AssetCheck: /Game/PlayerAssets/BP_DummyAI Validating asset
+[2026.02.22-20.58.01:060][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.02.22-20.58.02:533][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.02.22-20.58.02:541][326]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-20.58.02:577][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_DummyAI] ([2] browsable assets)...
+[2026.02.22-20.58.02:632][326]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_DummyAI.BP_DummyAI]
+[2026.02.22-20.58.02:632][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_DummyAI]
+[2026.02.22-20.58.02:632][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_DummyAI" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset" SILENT=true
+[2026.02.22-20.58.02:645][326]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_DummyAI
+[2026.02.22-20.58.02:646][326]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_DummyAI79228BDF4F067C8CBCA612A81566925D.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset'
+[2026.02.22-20.58.02:652][326]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.261 ms (total: 6.93 sec)
+[2026.02.22-20.58.02:684][326]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-20.58.02:684][326]LogContentValidation: Enabled validators:
+[2026.02.22-20.58.02:684][326]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-20.58.02:684][326]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-20.58.02:684][326]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-20.58.02:684][326]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-20.58.02:684][326]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-20.58.02:684][326]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-20.58.02:684][326]AssetCheck: /Game/PlayerAssets/BP_DummyAI Validating asset
+[2026.02.22-20.59.04:277][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.02.22-20.59.05:381][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.02.22-20.59.05:388][129]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-20.59.05:423][129]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_DummyAI] ([2] browsable assets)...
+[2026.02.22-20.59.05:462][129]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_DummyAI.BP_DummyAI]
+[2026.02.22-20.59.05:462][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_DummyAI]
+[2026.02.22-20.59.05:462][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_DummyAI" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset" SILENT=true
+[2026.02.22-20.59.05:477][129]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_DummyAI
+[2026.02.22-20.59.05:477][129]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_DummyAID293059446CF7E2CC12F76BFAF2CCFBD.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset'
+[2026.02.22-20.59.05:484][129]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.356 ms (total: 7.02 sec)
+[2026.02.22-20.59.05:519][129]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-20.59.05:519][129]LogContentValidation: Enabled validators:
+[2026.02.22-20.59.05:519][129]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-20.59.05:519][129]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-20.59.05:519][129]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-20.59.05:519][129]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-20.59.05:519][129]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-20.59.05:519][129]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-20.59.05:519][129]AssetCheck: /Game/PlayerAssets/BP_DummyAI Validating asset
+[2026.02.22-20.59.28:906][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.02.22-20.59.30:339][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.02.22-20.59.30:346][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-20.59.30:383][296]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_DummyAI] ([2] browsable assets)...
+[2026.02.22-20.59.30:425][296]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_DummyAI.BP_DummyAI]
+[2026.02.22-20.59.30:425][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_DummyAI]
+[2026.02.22-20.59.30:425][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_DummyAI" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset" SILENT=true
+[2026.02.22-20.59.30:439][296]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_DummyAI
+[2026.02.22-20.59.30:439][296]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_DummyAI732476604E6B046DC0620CB2516F4274.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset'
+[2026.02.22-20.59.30:450][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.487 ms (total: 7.13 sec)
+[2026.02.22-20.59.30:486][296]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-20.59.30:486][296]LogContentValidation: Enabled validators:
+[2026.02.22-20.59.30:486][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-20.59.30:486][296]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-20.59.30:486][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-20.59.30:486][296]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-20.59.30:486][296]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-20.59.30:486][296]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-20.59.30:486][296]AssetCheck: /Game/PlayerAssets/BP_DummyAI Validating asset
+[2026.02.22-20.59.42:516][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.02.22-20.59.44:205][715]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.22-20.59.44:212][715]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.22-20.59.44:212][715]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.02.22-20.59.44:212][715]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 765 us (total: 18.813 ms)
+[2026.02.22-20.59.44:213][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.22-20.59.44:213][715]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.22-20.59.44:221][715]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.22-20.59.44:222][715]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.482 ms (total: 8.944 ms)
+[2026.02.22-20.59.44:222][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009432s)
+[2026.02.22-20.59.44:222][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.009466s)
+[2026.02.22-20.59.44:247][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.02.22-20.59.44:251][715]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.02.22-20.59.44:252][715]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.22-20.59.44:252][715]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.22-20.59.44:252][715]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.22-20.59.44:252][715]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.22-20.59.44:254][715]LogWorldPartition: Display: WorldPartition initialize took 1.219 ms (total: 804.993 ms)
+[2026.02.22-20.59.44:254][715]LogPlayLevel: PIE: World Init took: (0.002847s)
+[2026.02.22-20.59.44:254][715]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.02.22-20.59.44:254][715]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.22-20.59.44:254][715]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.22-20.59.44:254][715]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.22-20.59.44:254][715]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.22-20.59.44:254][715]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.22-20.59.44:254][715]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.22-20.59.44:254][715]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.22-20.59.44:254][715]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.22-20.59.44:254][715]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.22-20.59.44:254][715]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.22-20.59.44:254][715]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.22-20.59.44:256][715]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.22-20.59.44:290][715]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.22-20.59.44:291][715]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.22-20.59.44:291][715]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.22-20.59.44:291][715]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.22-20.59.44:291][715]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.02.22-20.59.44:291][715]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.02.22-20.59.44:293][715]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.02.22-20.59.44:293][715]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.02.22-20.59.44:293][715]LogInit: FAudioDevice initialized with ID 11.
+[2026.02.22-20.59.44:293][715]LogAudio: Display: Audio Device (ID: 11) registered with world 'L_LevelOne'.
+[2026.02.22-20.59.44:293][715]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.02.22-20.59.44:297][715]LogLoad: Game class is 'GM_FPS_C'
+[2026.02.22-20.59.44:299][715]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2026.02.22-15.59.44
+[2026.02.22-20.59.44:300][715]LogWorld: Bringing up level for play took: 0.002934
+[2026.02.22-20.59.44:302][715]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2026.02.22-20.59.44:305][715]PIE: Server logged in
+[2026.02.22-20.59.44:307][715]PIE: Play in editor total start time 0.095 seconds.
+[2026.02.22-20.59.44:345][716]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.22-20.59.50:142][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.22-20.59.50:143][234]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.22-20.59.50:143][234]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-20.59.50:144][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-20.59.50:144][234]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2026.02.22-20.59.50:146][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.22-20.59.50:150][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-20.59.50:176][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.22-20.59.50:176][234]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.02.22-20.59.50:176][234]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2026.02.22-20.59.50:179][234]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2026.02.22-20.59.50:186][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.02.22-20.59.50:254][235]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2026.02.22-21.00.35:944][723]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10248.963867
+[2026.02.22-21.00.36:944][726]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-21.00.36:944][726]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10249.631836, Update Interval: 339.528198
+[2026.02.22-21.01.24:186][753]LogWorld: UWorld::CleanupWorld for World_122, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-21.01.24:186][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-21.01.24:192][753]LogWorld: UWorld::CleanupWorld for World_121, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-21.01.24:192][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-21.01.24:229][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.02.22-21.01.25:696][921]LogWorld: UWorld::CleanupWorld for World_124, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-21.01.25:696][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-21.01.25:701][921]LogWorld: UWorld::CleanupWorld for World_123, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-21.01.25:701][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-21.01.25:739][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.02.22-21.02.24:423][ 26]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_81
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-21.02.25:434][110]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon.BP_RangedWeapon
+[2026.02.22-21.02.25:435][110]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_127
