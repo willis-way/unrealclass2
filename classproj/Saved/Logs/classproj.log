@@ -2343,3 +2343,915 @@ Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C' has been c
 [2026.02.22-19.38.43:032][323]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.22-19.38.43:032][323]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.22-19.38.43:032][323]AssetCheck: /Game/PlayerAssets/BP_CharacterFPS Validating asset
+[2026.02.22-19.39.41:704][535]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5394.228027
+[2026.02.22-19.39.42:703][538]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-19.39.42:703][538]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5394.893555, Update Interval: 319.332855
+[2026.02.22-19.42.23:374][514]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Could not find a variable named "UIWidget" in '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C' has been compiled for  Set UIWidget
+[2026.02.22-19.42.23:374][514]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Variable node  Set UIWidget  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2026.02.22-19.42.23:374][514]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] The property associated with  UIWidget  could not be found in '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C'
+[2026.02.22-19.42.23:417][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.02.22-19.42.25:490][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.02.22-19.42.25:496][741]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-19.42.25:530][741]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons] ([2] browsable assets)...
+[2026.02.22-19.42.25:533][741]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons]
+[2026.02.22-19.42.25:533][741]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons]
+[2026.02.22-19.42.25:547][741]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Weapons
+[2026.02.22-19.42.25:547][741]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/WBP_WeaponsDB2A623444DA3628D91730854991E20D.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/WidgetBlueprints/WBP_Weapons.uasset'
+[2026.02.22-19.42.25:557][741]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.310 ms (total: 1.63 sec)
+[2026.02.22-19.42.25:589][741]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-19.42.25:589][741]LogContentValidation: Enabled validators:
+[2026.02.22-19.42.25:589][741]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-19.42.25:589][741]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-19.42.25:589][741]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-19.42.25:590][741]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-19.42.25:590][741]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-19.42.25:590][741]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-19.42.25:590][741]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Weapons Validating asset
+[2026.02.22-19.42.40:553][586]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Could not find a variable named "UIWidget" in '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C' has been compiled for  Set UIWidget
+[2026.02.22-19.42.40:553][586]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Variable node  Set UIWidget  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2026.02.22-19.42.40:553][586]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] The property associated with  UIWidget  could not be found in '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C'
+[2026.02.22-19.42.40:597][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.02.22-19.42.42:040][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.02.22-19.42.42:047][740]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-19.42.42:076][740]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons] ([2] browsable assets)...
+[2026.02.22-19.42.42:077][740]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons]
+[2026.02.22-19.42.42:077][740]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons]
+[2026.02.22-19.42.42:091][740]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Weapons
+[2026.02.22-19.42.42:092][740]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/WBP_Weapons363E1F224A0D5FFC198B079806622DFC.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/WidgetBlueprints/WBP_Weapons.uasset'
+[2026.02.22-19.42.42:100][740]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.209 ms (total: 1.68 sec)
+[2026.02.22-19.42.42:130][740]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-19.42.42:130][740]LogContentValidation: Enabled validators:
+[2026.02.22-19.42.42:130][740]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-19.42.42:130][740]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-19.42.42:130][740]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-19.42.42:130][740]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-19.42.42:130][740]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-19.42.42:130][740]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-19.42.42:131][740]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Weapons Validating asset
+[2026.02.22-19.43.25:983][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.02.22-19.45.50:301][579]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5762.810059
+[2026.02.22-19.45.51:300][582]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-19.45.51:300][582]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5763.478027, Update Interval: 319.541626
+[2026.02.22-19.46.09:995][778]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_14
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-19.46.10:032][779]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_15
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-19.46.10:044][780]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_16
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-19.46.10:055][781]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_17
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-19.46.10:066][782]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_18
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-19.46.10:080][783]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_19
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-19.46.10:091][784]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_20
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-19.46.10:104][785]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_21
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-19.46.10:116][786]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_22
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-19.46.13:628][119]LogFab: Display: Logging in using persist
+[2026.02.22-19.46.13:750][119]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from C:/Program Files/Epic Games/UE_5.6/Engine/Binaries/ThirdParty/CEF3/Win64/
+[2026.02.22-19.46.13:770][119]LogCEFBrowser: CEF GPU acceleration enabled
+[2026.02.22-19.46.14:209][132]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 3d8...586 Access[Expires: 2026.02.22-21.46.14 Remaining: 7200.07] Refresh[Expires: 2026-08-21T19:46:14.070Z Remaining: 15552000.07] State: Valid
+[2026.02.22-19.46.14:217][133]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2026.02.22-19.46.14:377][148]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2026.02.22-19.46.14:377][148]LogFab: Display: User logged in
+[2026.02.22-19.46.14:377][148]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2026.02.22-19.46.14:542][165]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-5avBHJTyS02xHYRon161GA-wKkc9Rbcn0CfR0KlaCRpew]
+[2026.02.22-19.47.14:330][863]LogEOSSDK: Error: LogEOSAuth: Authentication session lost due to failing verification. Error: EOS_Auth_InvalidToken UserId: 3d8...586
+[2026.02.22-19.47.14:331][863]LogEOSSDK: Warning: LogEOSPresence: Can't set presence to offline, No connection to EpicConnect. LocalUserId=[3d8...586]
+[2026.02.22-19.47.35:990][901]LogSlate: Window 'Fab' being destroyed
+[2026.02.22-19.47.36:015][901]LogSlate: Window 'Fab' being destroyed
+[2026.02.22-19.47.37:739][977]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2026.02.22-19.47.37:739][977]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/c718b7d3-f6f0-4ff4-bfb4-6dfeeccac987.
+[2026.02.22-19.47.52:727][ 38]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_23
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-19.47.52:743][ 39]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_24
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-19.47.52:757][ 40]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_25
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-19.47.52:771][ 41]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_26
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-19.47.52:781][ 42]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_27
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-19.47.52:794][ 43]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_28
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-19.47.52:805][ 44]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_29
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-19.47.55:080][272]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_30
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-19.47.55:114][273]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_31
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-19.51.48:808][319]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6121.311523
+[2026.02.22-19.51.49:808][322]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-19.51.49:808][322]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6121.978027, Update Interval: 303.285004
+[2026.02.22-19.53.02:583][225]LogStreaming: Display: FlushAsyncLoading(1055): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.22-19.53.02:760][225]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\Users\sgbeh\Desktop\Roboto-Italic-VariableFont_wdth,wght.ttf)
+[2026.02.22-19.53.15:519][225]LogSlate: Window 'Font Face Import Options' being destroyed
+[2026.02.22-19.53.15:531][225]Message dialog closed, result: No, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2026.02.22-19.53.15:532][225]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2026.02.22-19.53.15:579][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-19.53.15:810][226]LogSlate: Took 0.005579 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.02.22-19.53.15:817][226]LogSlate: Took 0.004115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.02.22-19.53.15:823][226]LogSlate: Took 0.003865 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.02.22-19.53.18:671][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.02.22-19.53.18:676][503]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.030
+[2026.02.22-19.53.18:676][503]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Roboto-Italic-VariableFont_wdth_wght] ([1] browsable assets)...
+[2026.02.22-19.53.18:676][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/Roboto-Italic-VariableFont_wdth_wght]
+[2026.02.22-19.53.18:685][503]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Roboto-Italic-VariableFont_wdth_wght_Auto5
+[2026.02.22-19.53.18:685][503]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/Roboto-Italic-VariableFont_wdth_FB2938E94A9F4917483C789E0CCD0AFA.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/Autosaves/Game/Roboto-Italic-VariableFont_wdth_wght_Auto5.uasset'
+[2026.02.22-19.53.18:686][503]LogFileHelpers: Auto-saving content packages took 0.010
+[2026.02.22-19.53.23:516][713]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\Users\sgbeh\Desktop\Righteous-Regular.ttf)
+[2026.02.22-19.53.26:913][713]LogSlate: Window 'Font Face Import Options' being destroyed
+[2026.02.22-19.53.26:997][713]Message dialog closed, result: No, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2026.02.22-19.53.26:997][713]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2026.02.22-19.53.27:011][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-19.53.27:015][714]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.02.22-19.53.27:019][714]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.02.22-19.53.27:023][714]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.02.22-19.53.30:780][ 88]LogSlate: Took 0.006034 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2026.02.22-19.53.30:785][ 88]LogSlate: Took 0.004937 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.02.22-19.54.09:008][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.02.22-19.54.09:014][258]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-19.54.09:044][258]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Roboto-Italic-VariableFont_wdth_wght] ([1] browsable assets)...
+[2026.02.22-19.54.09:044][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/Roboto-Italic-VariableFont_wdth_wght]
+[2026.02.22-19.54.09:051][258]LogSavePackage: Moving output files for package: /Game/Roboto-Italic-VariableFont_wdth_wght
+[2026.02.22-19.54.09:051][258]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/Roboto-Italic-VariableFont_wdth_70B8512C4F9FDEAED8DE59ACA9C1F4D7.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Roboto-Italic-VariableFont_wdth_wght.uasset'
+[2026.02.22-19.54.09:053][258]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Righteous-Regular] ([1] browsable assets)...
+[2026.02.22-19.54.09:053][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/Righteous-Regular]
+[2026.02.22-19.54.09:053][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Righteous-Regular" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Righteous-Regular.uasset" SILENT=true
+[2026.02.22-19.54.09:059][258]LogSavePackage: Moving output files for package: /Game/Righteous-Regular
+[2026.02.22-19.54.09:059][258]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/Righteous-RegularE236D6214ABAF758985C4C8E12E652B2.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Righteous-Regular.uasset'
+[2026.02.22-19.54.09:068][258]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.707 ms (total: 1.74 sec)
+[2026.02.22-19.54.09:097][258]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.22-19.54.09:097][258]LogContentValidation: Enabled validators:
+[2026.02.22-19.54.09:097][258]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-19.54.09:097][258]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-19.54.09:097][258]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-19.54.09:097][258]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-19.54.09:097][258]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-19.54.09:097][258]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-19.54.09:097][258]AssetCheck: /Game/Roboto-Italic-VariableFont_wdth_wght Validating asset
+[2026.02.22-19.54.09:097][258]AssetCheck: /Game/Righteous-Regular Validating asset
+[2026.02.22-19.54.09:114][258]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.22-19.54.34:007][672]LogSlate: Window 'Save Asset As' being destroyed
+[2026.02.22-19.54.41:778][500]LogAssetEditorSubsystem: Opening Asset editor for FontFace /Game/Roboto-Italic-VariableFont_wdth_wght.Roboto-Italic-VariableFont_wdth_wght
+[2026.02.22-19.54.41:794][500]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2026.02.22-19.54.42:126][500]LogSlate: Took 0.005774 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.02.22-19.54.42:134][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-19.54.42:141][501]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.02.22-19.54.42:145][501]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.02.22-19.54.42:151][501]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.02.22-19.54.42:152][501]LogSlate: Took 0.000088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.02.22-19.54.50:545][226]LogSlate: Window 'Roboto-Italic-VariableFont_wdth_wght' being destroyed
+[2026.02.22-19.54.50:559][226]LogSlate: Window 'Roboto-Italic-VariableFont_wdth_wght' being destroyed
+[2026.02.22-19.54.54:392][597]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2026.02.22-19.54.54:394][597]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.02.22-19.55.02:477][480]LogAssetEditorSubsystem: Opening Asset editor for FontFace /Game/Righteous-Regular.Righteous-Regular
+[2026.02.22-19.55.02:480][480]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2026.02.22-19.55.02:830][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-19.55.02:837][481]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.02.22-19.55.02:843][481]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.02.22-19.55.02:848][481]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.02.22-19.55.02:849][481]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.02.22-19.55.18:743][997]LogSlate: Window 'Righteous-Regular' being destroyed
+[2026.02.22-19.55.18:755][997]LogSlate: Window 'Righteous-Regular' being destroyed
+[2026.02.22-19.55.20:140][137]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2026.02.22-19.55.20:140][137]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.02.22-19.55.38:118][173]LogAssetEditorSubsystem: Opening Asset editor for FontFace /Game/Righteous-Regular.Righteous-Regular
+[2026.02.22-19.55.38:121][173]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2026.02.22-19.55.38:455][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-19.55.38:461][174]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.02.22-19.55.38:465][174]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.02.22-19.55.38:470][174]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.02.22-19.55.38:471][174]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.02.22-19.55.44:999][783]LogSlate: Window 'Righteous-Regular' being destroyed
+[2026.02.22-19.55.45:011][783]LogSlate: Window 'Righteous-Regular' being destroyed
+[2026.02.22-19.56.19:662][521]LogSlate: Window 'Message' being destroyed
+[2026.02.22-19.56.19:671][521]Message dialog closed, result: Yes, title: Message, text: Do you want to overwrite the existing asset?
+
+An asset already exists at the import location: /Game/Roboto-Italic-VariableFont_wdth_wght
+[2026.02.22-19.56.19:672][521]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 ../../../../../../Users/sgbeh/Desktop/Roboto-Italic-VariableFont_wdth,wght.ttf)
+[2026.02.22-19.56.21:213][521]LogSlate: Window 'Font Face Import Options' being destroyed
+[2026.02.22-19.56.21:223][521]Message dialog closed, result: Yes, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2026.02.22-19.56.21:225][521]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2026.02.22-19.56.21:235][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-19.56.21:239][522]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.02.22-19.56.21:243][522]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.02.22-19.56.21:248][522]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.02.22-19.56.32:898][961]LogSlate: Window 'Message' being destroyed
+[2026.02.22-19.56.32:909][961]Message dialog closed, result: Yes, title: Message, text: Do you want to overwrite the existing asset?
+
+An asset already exists at the import location: /Game/Righteous-Regular
+[2026.02.22-19.56.32:909][961]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 ../../../../../../Users/sgbeh/Desktop/Righteous-Regular.ttf)
+[2026.02.22-19.56.33:675][961]LogSlate: Window 'Font Face Import Options' being destroyed
+[2026.02.22-19.56.33:687][961]Message dialog closed, result: Yes, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2026.02.22-19.56.33:688][961]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2026.02.22-19.56.33:699][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-19.56.33:703][962]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.02.22-19.56.33:707][962]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.02.22-19.56.33:712][962]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.02.22-19.56.41:513][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.02.22-19.56.41:661][708]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.02.22-19.56.41:672][708]LogSlate: Took 0.010217 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.02.22-19.56.42:834][708]LogSlate: Window 'Delete Assets' being destroyed
+[2026.02.22-19.56.42:870][708]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Roboto-Italic-VariableFont_wdth_wght.Roboto-Italic-VariableFont_wdth_wght
+	Asset Type: FontFace
+	Asset Name: /Game/Righteous-Regular.Righteous-Regular
+	Asset Type: FontFace
+[2026.02.22-19.56.43:249][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.02.22-19.56.43:274][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.02.22-19.56.43:296][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.02.22-19.56.43:302][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.22-19.56.43:302][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.22-19.56.43:302][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.22-19.56.43:302][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.22-19.56.43:302][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.43:302][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.22-19.56.43:302][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.56.43:302][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.22-19.56.43:302][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+73, getting last resort font data 
+[2026.02.22-19.56.43:302][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.22-19.56.43:302][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.22-19.56.43:302][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.22-19.56.43:302][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.22-19.56.43:302][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.22-19.56.43:302][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.22-19.56.43:302][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-19.56.43:302][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.22-19.56.43:302][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-19.56.43:302][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.22-19.56.43:302][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.56.43:302][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.22-19.56.43:302][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.43:302][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+49, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+63, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+56, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+64, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.43:303][708]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.22-19.56.43:350][710]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.22-19.56.43:350][710]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.22-19.56.43:350][710]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.22-19.56.43:350][710]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.22-19.56.43:350][710]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.43:350][710]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.22-19.56.43:350][710]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.56.43:350][710]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.22-19.56.43:350][710]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+73, getting last resort font data 
+[2026.02.22-19.56.43:350][710]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.22-19.56.43:350][710]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.22-19.56.43:350][710]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.22-19.56.43:350][710]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.22-19.56.43:350][710]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.22-19.56.43:350][710]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.22-19.56.43:350][710]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-19.56.43:350][710]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.22-19.56.43:350][710]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-19.56.43:350][710]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.22-19.56.43:350][710]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.56.43:350][710]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.22-19.56.43:350][710]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.43:350][710]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+49, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+63, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+56, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+64, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.22-19.56.43:361][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.22-19.56.43:362][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.22-19.56.43:362][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.43:362][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-19.56.43:362][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.22-19.56.43:362][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.56.43:362][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.22-19.56.43:362][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.43:362][711]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.22-19.56.48:052][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.02.22-19.56.48:057][164]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-19.56.48:086][164]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Roboto-Italic-VariableFont_wdth_wght_Font] ([1] browsable assets)...
+[2026.02.22-19.56.48:086][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.22-19.56.48:086][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.56.48:086][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.22-19.56.48:086][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.56.48:086][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.48:086][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.56.48:086][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.22-19.56.48:086][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+49, getting last resort font data 
+[2026.02.22-19.56.48:086][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.48:086][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-19.56.48:086][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+63, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+56, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+64, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.48:087][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.22-19.56.48:087][164]OBJ SavePackage:     Rendered thumbnail for [Font /Game/Roboto-Italic-VariableFont_wdth_wght_Font.Roboto-Italic-VariableFont_wdth_wght_Font]
+[2026.02.22-19.56.48:087][164]OBJ SavePackage: Finished generating thumbnails for package [/Game/Roboto-Italic-VariableFont_wdth_wght_Font]
+[2026.02.22-19.56.48:096][164]LogSavePackage: Moving output files for package: /Game/Roboto-Italic-VariableFont_wdth_wght_Font
+[2026.02.22-19.56.48:096][164]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/Roboto-Italic-VariableFont_wdth_4E7ED38C43C881EFCDC6B2A050B071D3.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Roboto-Italic-VariableFont_wdth_wght_Font.uasset'
+[2026.02.22-19.56.48:097][164]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Righteous-Regular_Font] ([1] browsable assets)...
+[2026.02.22-19.56.48:097][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.22-19.56.48:097][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.22-19.56.48:097][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.22-19.56.48:097][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.22-19.56.48:097][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.48:097][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.22-19.56.48:097][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.56.48:097][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.22-19.56.48:097][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+73, getting last resort font data 
+[2026.02.22-19.56.48:097][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.22-19.56.48:097][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.22-19.56.48:097][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.22-19.56.48:097][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.22-19.56.48:097][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.22-19.56.48:097][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.22-19.56.48:097][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-19.56.48:097][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.22-19.56.48:097][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-19.56.48:097][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.22-19.56.48:097][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.56.48:097][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.22-19.56.48:097][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.48:097][164]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.22-19.56.48:098][164]OBJ SavePackage:     Rendered thumbnail for [Font /Game/Righteous-Regular_Font.Righteous-Regular_Font]
+[2026.02.22-19.56.48:098][164]OBJ SavePackage: Finished generating thumbnails for package [/Game/Righteous-Regular_Font]
+[2026.02.22-19.56.48:098][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Righteous-Regular_Font" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Righteous-Regular_Font.uasset" SILENT=true
+[2026.02.22-19.56.48:104][164]LogSavePackage: Moving output files for package: /Game/Righteous-Regular_Font
+[2026.02.22-19.56.48:104][164]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/Righteous-Regular_Font4F78A35C4A3AD414F8628C828EE5D31D.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Righteous-Regular_Font.uasset'
+[2026.02.22-19.56.48:114][164]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.376 ms (total: 1.79 sec)
+[2026.02.22-19.56.48:142][164]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.22-19.56.48:142][164]LogContentValidation: Enabled validators:
+[2026.02.22-19.56.48:142][164]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-19.56.48:142][164]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-19.56.48:142][164]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-19.56.48:142][164]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-19.56.48:142][164]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-19.56.48:142][164]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-19.56.48:142][164]AssetCheck: /Game/Roboto-Italic-VariableFont_wdth_wght_Font Validating asset
+[2026.02.22-19.56.48:142][164]AssetCheck: /Game/Righteous-Regular_Font Validating asset
+[2026.02.22-19.56.48:159][164]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+73, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+49, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+63, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+56, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+64, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.56.48:176][166]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.22-19.56.56:772][ 55]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2026.02.22-19.56.56:772][ 55]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+49, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+63, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+56, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+64, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.57.07:366][313]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.22-19.57.10:973][734]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.22-19.57.10:973][734]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.22-19.57.10:973][734]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.22-19.57.10:973][734]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.22-19.57.10:973][734]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.57.10:973][734]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.22-19.57.10:973][734]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.57.10:973][734]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.22-19.57.10:973][734]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+73, getting last resort font data 
+[2026.02.22-19.57.10:973][734]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.22-19.57.10:973][734]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.22-19.57.10:973][734]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.22-19.57.10:973][734]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.22-19.57.10:973][734]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.22-19.57.10:973][734]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.22-19.57.10:973][734]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-19.57.10:973][734]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.22-19.57.10:973][734]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-19.57.10:973][734]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.22-19.57.10:973][734]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.57.10:973][734]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.22-19.57.10:973][734]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.57.10:973][734]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.22-19.57.11:835][837]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Could not find a variable named "UIWidget" in '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C' has been compiled for  Set UIWidget
+[2026.02.22-19.57.11:836][837]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Variable node  Set UIWidget  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2026.02.22-19.57.11:836][837]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] The property associated with  UIWidget  could not be found in '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C'
+[2026.02.22-19.57.11:873][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.02.22-19.57.11:975][839]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.22-19.57.11:975][839]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.22-19.57.11:975][839]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.22-19.57.11:975][839]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.22-19.57.11:975][839]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.57.11:975][839]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.22-19.57.11:975][839]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.57.11:975][839]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.22-19.57.11:975][839]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+73, getting last resort font data 
+[2026.02.22-19.57.11:975][839]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.22-19.57.11:975][839]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.22-19.57.11:975][839]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.22-19.57.11:975][839]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.22-19.57.11:975][839]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.22-19.57.11:975][839]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.22-19.57.11:975][839]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.22-19.57.11:975][839]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.22-19.57.11:975][839]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.22-19.57.11:975][839]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.22-19.57.11:975][839]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.22-19.57.11:975][839]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.22-19.57.11:976][839]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.22-19.57.11:976][839]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.22-19.57.19:679][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.02.22-19.57.19:686][754]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-19.57.19:724][754]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons] ([2] browsable assets)...
+[2026.02.22-19.57.19:729][754]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons]
+[2026.02.22-19.57.19:729][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons]
+[2026.02.22-19.57.19:742][754]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Weapons
+[2026.02.22-19.57.19:742][754]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/WBP_Weapons46039A2E45FA95617AF4F6B65619FA23.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/WidgetBlueprints/WBP_Weapons.uasset'
+[2026.02.22-19.57.19:752][754]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.422 ms (total: 1.86 sec)
+[2026.02.22-19.57.19:790][754]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-19.57.19:790][754]LogContentValidation: Enabled validators:
+[2026.02.22-19.57.19:790][754]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-19.57.19:790][754]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-19.57.19:790][754]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-19.57.19:790][754]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-19.57.19:790][754]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-19.57.19:790][754]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-19.57.19:791][754]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Weapons Validating asset
+[2026.02.22-19.57.42:582][494]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6475.108887
+[2026.02.22-19.57.42:674][505]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-19.57.42:674][505]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6475.192383, Update Interval: 350.225525
+[2026.02.22-19.57.53:602][344]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Could not find a variable named "UIWidget" in '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C' has been compiled for  Set UIWidget
+[2026.02.22-19.57.53:602][344]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Variable node  Set UIWidget  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2026.02.22-19.57.53:602][344]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] The property associated with  UIWidget  could not be found in '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C'
+[2026.02.22-19.57.53:638][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.02.22-19.57.55:012][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.02.22-19.57.55:018][492]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-19.57.55:047][492]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons] ([2] browsable assets)...
+[2026.02.22-19.57.55:049][492]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons]
+[2026.02.22-19.57.55:049][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons]
+[2026.02.22-19.57.55:061][492]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Weapons
+[2026.02.22-19.57.55:062][492]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/WBP_Weapons7F596A584FE7B976A21CA09786DC99D1.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/WidgetBlueprints/WBP_Weapons.uasset'
+[2026.02.22-19.57.55:070][492]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.140 ms (total: 1.91 sec)
+[2026.02.22-19.57.55:105][492]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-19.57.55:105][492]LogContentValidation: Enabled validators:
+[2026.02.22-19.57.55:105][492]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-19.57.55:105][492]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-19.57.55:105][492]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-19.57.55:105][492]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-19.57.55:105][492]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-19.57.55:105][492]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-19.57.55:105][492]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Weapons Validating asset
+[2026.02.22-19.58.59:269][364]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Event On Item Selection Changed  and was replaced as a Custom Event!
+[2026.02.22-19.58.59:269][364]LogStreaming: Display: FlushAsyncLoading(1082): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.22-19.59.08:508][418]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] In use pin  Deselected Font  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2026.02.22-19.59.08:508][418]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] In use pin  Selected Font  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2026.02.22-19.59.08:508][418]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Could not find a variable named "UIWidget" in '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C' has been compiled for  Set UIWidget
+[2026.02.22-19.59.08:508][418]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Variable node  Set UIWidget  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2026.02.22-19.59.08:508][418]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] The property associated with  UIWidget  could not be found in '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C'
+[2026.02.22-19.59.08:547][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.02.22-19.59.09:530][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.02.22-19.59.09:537][518]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-19.59.09:573][518]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons] ([2] browsable assets)...
+[2026.02.22-19.59.09:576][518]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons]
+[2026.02.22-19.59.09:576][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons]
+[2026.02.22-19.59.09:590][518]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Weapons
+[2026.02.22-19.59.09:590][518]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/WBP_Weapons3F76F04D45DC7EFC3EFF2092035BA009.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/WidgetBlueprints/WBP_Weapons.uasset'
+[2026.02.22-19.59.09:599][518]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.474 ms (total: 1.98 sec)
+[2026.02.22-19.59.09:627][518]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-19.59.09:627][518]LogContentValidation: Enabled validators:
+[2026.02.22-19.59.09:627][518]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-19.59.09:627][518]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-19.59.09:627][518]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-19.59.09:627][518]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-19.59.09:627][518]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-19.59.09:627][518]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-19.59.09:628][518]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Weapons Validating asset
+[2026.02.22-20.00.08:700][489]LogSlate: Took 0.005545 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.02.22-20.00.17:693][391]LogSlate: Window 'Change Variable Type' being destroyed
+[2026.02.22-20.00.22:622][968]LogSlate: Window 'Find in Blueprints' being destroyed
+[2026.02.22-20.00.22:628][968]LogSlate: Window 'Find in Blueprints' being destroyed
+[2026.02.22-20.00.29:094][585]LogSlate: Window 'Change Variable Type' being destroyed
+[2026.02.22-20.00.34:452][217]LogSlate: Window 'Find in Blueprints' being destroyed
+[2026.02.22-20.00.34:458][217]LogSlate: Window 'Find in Blueprints' being destroyed
+[2026.02.22-20.01.15:875][902]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Could not find a variable named "UIWidget" in '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C' has been compiled for  Set UIWidget
+[2026.02.22-20.01.15:875][902]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Variable node  Set UIWidget  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2026.02.22-20.01.15:875][902]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] The property associated with  UIWidget  could not be found in '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C'
+[2026.02.22-20.01.15:876][902]LogClass: Warning: Type mismatch in DeselectedFont of WBP_Weapons_C - Previous (ObjectProperty) Current(StructProperty) in package: FObjectReader
+[2026.02.22-20.01.15:876][902]LogClass: Warning: Type mismatch in SelectedFont of WBP_Weapons_C - Previous (ObjectProperty) Current(StructProperty) in package: FObjectReader
+[2026.02.22-20.01.15:918][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.02.22-20.01.17:514][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.02.22-20.01.17:521][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-20.01.17:562][ 75]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons] ([2] browsable assets)...
+[2026.02.22-20.01.17:564][ 75]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons]
+[2026.02.22-20.01.17:564][ 75]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons]
+[2026.02.22-20.01.17:578][ 75]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Weapons
+[2026.02.22-20.01.17:579][ 75]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/WBP_Weapons912B164B44752A3135A91A81C001549F.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/WidgetBlueprints/WBP_Weapons.uasset'
+[2026.02.22-20.01.17:587][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.151 ms (total: 2.04 sec)
+[2026.02.22-20.01.17:619][ 75]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-20.01.17:619][ 75]LogContentValidation: Enabled validators:
+[2026.02.22-20.01.17:619][ 75]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-20.01.17:619][ 75]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-20.01.17:619][ 75]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-20.01.17:619][ 75]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-20.01.17:619][ 75]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-20.01.17:619][ 75]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-20.01.17:619][ 75]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Weapons Validating asset
+[2026.02.22-20.03.06:635][991]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Could not find a variable named "UIWidget" in '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C' has been compiled for  Set UIWidget
+[2026.02.22-20.03.06:636][991]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Variable node  Set UIWidget  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2026.02.22-20.03.06:636][991]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] The property associated with  UIWidget  could not be found in '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C'
+[2026.02.22-20.03.06:672][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.22-20.03.07:772][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.02.22-20.03.07:778][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-20.03.07:806][101]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons] ([2] browsable assets)...
+[2026.02.22-20.03.07:809][101]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons]
+[2026.02.22-20.03.07:809][101]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons]
+[2026.02.22-20.03.07:824][101]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Weapons
+[2026.02.22-20.03.07:824][101]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/WBP_Weapons93EBF60147FE335C0BE9F28F28F16F90.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/WidgetBlueprints/WBP_Weapons.uasset'
+[2026.02.22-20.03.07:832][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.625 ms (total: 2.10 sec)
+[2026.02.22-20.03.07:867][101]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-20.03.07:867][101]LogContentValidation: Enabled validators:
+[2026.02.22-20.03.07:867][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-20.03.07:867][101]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-20.03.07:867][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-20.03.07:867][101]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-20.03.07:867][101]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-20.03.07:867][101]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-20.03.07:867][101]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Weapons Validating asset
+[2026.02.22-20.04.08:848][513]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6861.365234
+[2026.02.22-20.04.09:847][516]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-20.04.09:847][516]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6862.032227, Update Interval: 320.389404
+[2026.02.22-20.04.22:593][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.02.22-20.04.44:232][877]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2026.02.22-20.04.44:240][877]LogContentBrowser: Creating deferred item: NewMaterial
+[2026.02.22-20.04.44:251][878]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2026.02.22-20.04.47:529][236]LogContentBrowser: Attempting asset rename: NewMaterial -> M_HealthBar
+[2026.02.22-20.04.47:531][236]LogContentBrowser: End creating deferred item NewMaterial
+[2026.02.22-20.04.58:731][436]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Blueprints/WidgetBlueprints/M_HealthBar.M_HealthBar
+[2026.02.22-20.04.58:752][436]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_68
+[2026.02.22-20.04.58:757][436]LogStreaming: Display: FlushAsyncLoading(1091): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.22-20.04.58:780][436]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2026.02.22-20.04.58:797][436]LogStaticMesh: Built static mesh [0.02s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2026.02.22-20.04.58:810][436]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2026.02.22-20.04.58:810][436]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2026.02.22-20.04.59:301][436]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.22-20.04.59:301][436]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.22-20.04.59:301][436]MaterialEditorStats: Shader Count: 0
+[2026.02.22-20.04.59:301][436]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.22-20.04.59:411][438]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.22-20.04.59:411][438]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.22-20.04.59:411][438]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.22-20.04.59:411][438]MaterialEditorStats: Shader Count: 3
+[2026.02.22-20.04.59:411][438]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.22-20.05.00:351][504]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.02.22-20.05.00:351][504]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.22-20.05.00:351][504]MaterialEditorStats: Texture samplers: 1/16
+[2026.02.22-20.05.00:351][504]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.22-20.05.00:351][504]MaterialEditorStats: Shader Count: 4
+[2026.02.22-20.05.00:351][504]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.22-20.05.00:836][540]LogSlate: Window 'M_HealthBar' being destroyed
+[2026.02.22-20.05.14:978][484]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+Stats: n/a
+[2026.02.22-20.05.14:978][484]MaterialEditorStats: Default UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.22-20.05.14:978][484]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.22-20.05.14:978][484]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.22-20.05.14:978][484]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.22-20.05.14:978][484]MaterialEditorStats: Shader Count: 0
+[2026.02.22-20.05.14:978][484]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.22-20.05.15:175][506]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+Stats: n/a
+[2026.02.22-20.05.15:175][506]MaterialEditorStats: Default UI Vertex Shader: 47 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.22-20.05.15:175][506]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.22-20.05.15:175][506]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.22-20.05.15:175][506]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.22-20.05.15:175][506]MaterialEditorStats: Shader Count: 1
+[2026.02.22-20.05.15:175][506]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.22-20.05.15:301][518]MaterialEditorStats: Default UI Pixel Shader: 38 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.22-20.05.15:301][518]MaterialEditorStats: Default UI Vertex Shader: 47 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.22-20.05.15:301][518]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.22-20.05.15:301][518]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.22-20.05.15:301][518]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.22-20.05.15:301][518]MaterialEditorStats: Shader Count: 2
+[2026.02.22-20.05.15:301][518]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.22-20.05.24:628][ 87]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+Stats: n/a
+[2026.02.22-20.05.24:628][ 87]MaterialEditorStats: Default UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.22-20.05.24:628][ 87]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.22-20.05.24:628][ 87]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.22-20.05.24:628][ 87]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.22-20.05.24:628][ 87]MaterialEditorStats: Shader Count: 0
+[2026.02.22-20.05.24:628][ 87]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.02.22-20.05.24:830][110]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+Stats: n/a
+[2026.02.22-20.05.24:830][110]MaterialEditorStats: Default UI Vertex Shader: 47 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.22-20.05.24:830][110]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.22-20.05.24:830][110]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.22-20.05.24:830][110]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.22-20.05.24:830][110]MaterialEditorStats: Shader Count: 1
+[2026.02.22-20.05.24:830][110]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.02.22-20.05.24:977][123]MaterialEditorStats: Default UI Pixel Shader: 38 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.22-20.05.24:978][123]MaterialEditorStats: Default UI Vertex Shader: 47 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.22-20.05.24:978][123]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.22-20.05.24:978][123]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.22-20.05.24:978][123]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.22-20.05.24:978][123]MaterialEditorStats: Shader Count: 2
+[2026.02.22-20.05.24:978][123]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.02.22-20.05.49:015][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.02.22-20.05.49:018][195]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.043
+[2026.02.22-20.05.49:018][195]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WidgetBlueprints/M_HealthBar] ([1] browsable assets)...
+[2026.02.22-20.05.49:053][195]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/WidgetBlueprints/M_HealthBar.M_HealthBar]
+[2026.02.22-20.05.49:053][195]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/M_HealthBar]
+[2026.02.22-20.05.49:061][195]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WidgetBlueprints/M_HealthBar_Auto6
+[2026.02.22-20.05.49:061][195]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/M_HealthBar_Auto68C0250E94FFAC31716C49C9263A6A9B9.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/Autosaves/Game/Blueprints/WidgetBlueprints/M_HealthBar_Auto6.uasset'
+[2026.02.22-20.05.49:062][195]LogFileHelpers: Auto-saving content packages took 0.044
+[2026.02.22-20.06.29:532][788]LogStreaming: Display: FlushAsyncLoading(1096): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.22-20.06.29:562][788]LogInterchangeEngine: [Pending] Importing
+[2026.02.22-20.06.29:562][788]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/sgbeh/Downloads/T_MascHP.png]
+[2026.02.22-20.06.30:218][790]LogStreaming: Display: FlushAsyncLoading(1101): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.22-20.06.30:543][792]LogTexture: Display: Building textures: /Game/Blueprints/WidgetBlueprints/T_MascHP.T_MascHP (TFO_AutoDXT, 1024x2048 x1x1x1) (Required Memory Estimate: 244.416648 MB), EncodeSpeed: Fast
+[2026.02.22-20.06.30:891][792]LogInterchangeEngine: Display: Interchange import completed [C:/Users/sgbeh/Downloads/T_MascHP.png]
+[2026.02.22-20.06.30:897][792]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.02.22-20.06.30:897][792]LogInterchangeEngine: [Success] Import Done
+[2026.02.22-20.06.42:225][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.02.22-20.06.42:230][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-20.06.42:260][ 72]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/WidgetBlueprints/M_HealthBar] ([1] browsable assets)...
+[2026.02.22-20.06.42:261][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/M_HealthBar]
+[2026.02.22-20.06.42:268][ 72]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/M_HealthBar
+[2026.02.22-20.06.42:268][ 72]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/M_HealthBar240F33CA454EC70856DB538EAA9F7DD6.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/WidgetBlueprints/M_HealthBar.uasset'
+[2026.02.22-20.06.42:270][ 72]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WidgetBlueprints/T_MascHP] ([1] browsable assets)...
+[2026.02.22-20.06.42:271][ 72]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprints/WidgetBlueprints/T_MascHP.T_MascHP]
+[2026.02.22-20.06.42:271][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/T_MascHP]
+[2026.02.22-20.06.42:286][ 72]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/T_MascHP
+[2026.02.22-20.06.42:286][ 72]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/T_MascHPCBB99F3243C36DF1DF8F2180F655D016.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/WidgetBlueprints/T_MascHP.uasset'
+[2026.02.22-20.06.42:297][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.167 ms (total: 2.16 sec)
+[2026.02.22-20.06.42:333][ 72]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.22-20.06.42:333][ 72]LogContentValidation: Enabled validators:
+[2026.02.22-20.06.42:333][ 72]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-20.06.42:333][ 72]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-20.06.42:333][ 72]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-20.06.42:333][ 72]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-20.06.42:333][ 72]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-20.06.42:333][ 72]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-20.06.42:334][ 72]AssetCheck: /Game/Blueprints/WidgetBlueprints/M_HealthBar Validating asset
+[2026.02.22-20.06.42:334][ 72]AssetCheck: /Game/Blueprints/WidgetBlueprints/T_MascHP Validating asset
+[2026.02.22-20.06.42:350][ 72]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
