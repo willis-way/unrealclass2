@@ -2068,3 +2068,278 @@ Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C' has been
 [2026.02.22-19.21.58:400][ 65]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.22-19.21.58:400][ 65]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.22-19.21.58:400][ 65]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon Validating asset
+[2026.02.22-19.26.19:701][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.02.22-19.26.21:059][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.02.22-19.26.21:065][265]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-19.26.21:093][265]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Master] ([2] browsable assets)...
+[2026.02.22-19.26.21:097][265]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master]
+[2026.02.22-19.26.21:097][265]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Master]
+[2026.02.22-19.26.21:108][265]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Master
+[2026.02.22-19.26.21:110][265]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/WBP_Master7520FF7B4B97FF07DE4F57B02EBEF445.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/WidgetBlueprints/WBP_Master.uasset'
+[2026.02.22-19.26.21:117][265]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.462 ms (total: 1.12 sec)
+[2026.02.22-19.26.21:149][265]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-19.26.21:150][265]LogContentValidation: Enabled validators:
+[2026.02.22-19.26.21:150][265]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-19.26.21:150][265]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-19.26.21:150][265]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-19.26.21:150][265]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-19.26.21:150][265]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-19.26.21:150][265]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-19.26.21:150][265]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Master Validating asset
+[2026.02.22-19.27.51:945][ 75]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4684.492676
+[2026.02.22-19.27.52:053][ 88]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-19.27.52:053][ 88]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4684.591797, Update Interval: 305.542786
+[2026.02.22-19.28.16:858][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.02.22-19.28.16:862][288]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.026
+[2026.02.22-19.28.16:862][288]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Master] ([2] browsable assets)...
+[2026.02.22-19.28.16:866][288]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master]
+[2026.02.22-19.28.16:866][288]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Master]
+[2026.02.22-19.28.16:876][288]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WidgetBlueprints/WBP_Master_Auto4
+[2026.02.22-19.28.16:876][288]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/WBP_Master_Auto4193D9AC345B3F89B8B6DECB894D500C5.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/Autosaves/Game/Blueprints/WidgetBlueprints/WBP_Master_Auto4.uasset'
+[2026.02.22-19.28.16:877][288]LogFileHelpers: Auto-saving content packages took 0.016
+[2026.02.22-19.28.43:015][295]LogStreaming: Display: FlushAsyncLoading(1043): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.22-19.28.43:016][295]LogTexture: Display: Building textures: /Game/FlatIconsFreeSamplePack/128/T_Crosshair_128.T_Crosshair_128 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2026.02.22-19.28.51:353][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.02.22-19.28.51:888][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-19.28.51:912][662]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Master] ([2] browsable assets)...
+[2026.02.22-19.28.51:913][662]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master]
+[2026.02.22-19.28.51:914][662]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Master]
+[2026.02.22-19.28.51:923][662]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Master
+[2026.02.22-19.28.51:924][662]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/WBP_MasterF1AC07CE4FBE82C89832889F82C551F9.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/WidgetBlueprints/WBP_Master.uasset'
+[2026.02.22-19.28.51:931][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.670 ms (total: 1.16 sec)
+[2026.02.22-19.28.51:957][662]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-19.28.51:957][662]LogContentValidation: Enabled validators:
+[2026.02.22-19.28.51:957][662]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-19.28.51:957][662]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-19.28.51:957][662]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-19.28.51:957][662]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-19.28.51:957][662]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-19.28.51:957][662]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-19.28.51:957][662]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Master Validating asset
+[2026.02.22-19.28.59:843][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.02.22-19.30.18:868][496]LogStreaming: Display: FlushAsyncLoading(1044): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.22-19.30.18:869][496]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to '"/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Weapons/BP_WeaponBase.BP_WeaponBase_C'",MemberName="WeaponCrosshair",MemberGuid=3AD3EAFE4C29D9851EAF418D284B4A75)'
+[2026.02.22-19.30.22:992][986]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] Could not find a variable named "Crosshair" in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C' has been compiled for  Get Crosshair
+[2026.02.22-19.30.22:992][986]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] Could not find a variable named "Crosshair" in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C' has been compiled for  Get Crosshair
+[2026.02.22-19.30.22:992][986]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] Could not find a variable named "Crosshair" in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C' has been compiled for  Get Crosshair
+[2026.02.22-19.30.22:992][986]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] Could not find a variable named "WeaponCrosshair" in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master' has been compiled for  Get WeaponCrosshair
+[2026.02.22-19.30.22:992][986]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] Can't connect pins  Item  and  New Active Weapon : Object Reference is not compatible with Object Reference.
+[2026.02.22-19.30.22:992][986]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] Could not find a variable named "WeaponsList" in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C' has been compiled for  Get WeaponsList
+[2026.02.22-19.30.22:992][986]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] Can't connect pins  New Active Weapon  and  Item : Object Reference is not compatible with Object Reference.
+[2026.02.22-19.30.22:993][986]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] The property associated with  Crosshair  could not be found in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'
+[2026.02.22-19.30.22:993][986]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] The property associated with  Weapons List  could not be found in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'
+[2026.02.22-19.30.22:993][986]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] The property associated with  Weapon Crosshair  could not be found in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'
+[2026.02.22-19.30.22:993][986]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] The property associated with  Crosshair  could not be found in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'
+[2026.02.22-19.30.22:993][986]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] The property associated with  Crosshair  could not be found in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'
+[2026.02.22-19.30.23:034][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.02.22-19.30.24:394][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.02.22-19.30.24:398][132]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-19.30.24:431][132]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Master] ([2] browsable assets)...
+[2026.02.22-19.30.24:433][132]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master]
+[2026.02.22-19.30.24:433][132]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Master]
+[2026.02.22-19.30.24:445][132]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Master
+[2026.02.22-19.30.24:445][132]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/WBP_MasterC028BAB844ACFCB3C1425CAA33566B6A.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/WidgetBlueprints/WBP_Master.uasset'
+[2026.02.22-19.30.24:454][132]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.727 ms (total: 1.22 sec)
+[2026.02.22-19.30.24:484][132]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-19.30.24:485][132]LogContentValidation: Enabled validators:
+[2026.02.22-19.30.24:485][132]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-19.30.24:485][132]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-19.30.24:485][132]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-19.30.24:485][132]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-19.30.24:485][132]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-19.30.24:485][132]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-19.30.24:485][132]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Master Validating asset
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: ================================================
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: Total job queries 539, among them cache hits 49 (9.09%), DDC hits 404 (74.95%), Duplicates 71 (13.17%)
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: Tracking 419 distinct input hashes that result in 292 distinct outputs (69.69%)
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: RAM used: 3.83 MiB of 1.60 GiB budget. Usage: 0.23%
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: Shaders Compiled: 15
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: Jobs assigned 15, completed 15 (100%)
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: Average time worker was idle: 1292.70 s
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.10 s
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: Job execution time: average 0.48 s, max 1.03 s
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: Job life time (pending + execution): average 0.55 s, max 1.10
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: Shader code size: total 137.625 KiB, numShaders 15, average 9.175 KiB, min 4.898 KiB, max 13.793 KiB
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.71 s
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.15%
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: Jobs were issued in 15 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: Average processing rate: 5.54 jobs/sec
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: Total thread time: 4.653 s
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: Total thread preprocess time: 9.339 s
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: Percentage time preprocessing: 200.70%
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: Effective parallelization: 1.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 14 - 0.122834
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 0.73 sec, max 0.74 sec, min 0.73 sec)
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.50 sec, max 0.50 sec, min 0.50 sec)
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.28 sec, max 0.30 sec, min 0.27 sec)
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.23 sec, max 0.24 sec, min 0.21 sec)
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 31.51% of total time (compiled    2 times, average 0.73 sec, max 0.74 sec, min 0.73 sec)
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.64% of total time (compiled    3 times, average 0.23 sec, max 0.24 sec, min 0.21 sec)
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display:                                                 FLumenCardPS - 12.74% of total time (compiled    3 times, average 0.20 sec, max 0.21 sec, min 0.18 sec)
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.17% of total time (compiled    2 times, average 0.28 sec, max 0.30 sec, min 0.27 sec)
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.66% of total time (compiled    3 times, average 0.18 sec, max 0.19 sec, min 0.17 sec)
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: === Material stats ===
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: Materials Translated:    160
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: Material Translation Only: 0.05 s (34%)
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: Material Cache Hits: 25 (16%)
+[2026.02.22-19.30.53:917][425]LogShaderCompilers: Display: ================================================
+[2026.02.22-19.32.46:515][798]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] Could not find a variable named "Crosshair" in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C' has been compiled for  Get Crosshair
+[2026.02.22-19.32.46:515][798]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] Could not find a variable named "Crosshair" in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C' has been compiled for  Get Crosshair
+[2026.02.22-19.32.46:515][798]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] Could not find a variable named "Crosshair" in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C' has been compiled for  Get Crosshair
+[2026.02.22-19.32.46:515][798]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] Can't connect pins  Target  and  New Active Weapon : Object Reference is not compatible with BP Weapon Base Object Reference.
+[2026.02.22-19.32.46:515][798]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] Could not find a variable named "WeaponCrosshair" in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master' has been compiled for  Get WeaponCrosshair
+[2026.02.22-19.32.46:515][798]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] Could not find a variable named "WeaponsList" in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C' has been compiled for  Get WeaponsList
+[2026.02.22-19.32.46:515][798]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] Can't connect pins  New Active Weapon  and  Target : BP Weapon Base Object Reference is not compatible with Object Reference.
+[2026.02.22-19.32.46:516][798]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] The property associated with  Crosshair  could not be found in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'
+[2026.02.22-19.32.46:516][798]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] The property associated with  Weapons List  could not be found in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'
+[2026.02.22-19.32.46:516][798]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] The property associated with  Weapon Crosshair  could not be found in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'
+[2026.02.22-19.32.46:516][798]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] The property associated with  Crosshair  could not be found in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'
+[2026.02.22-19.32.46:516][798]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] The property associated with  Crosshair  could not be found in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'
+[2026.02.22-19.32.46:555][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.02.22-19.32.48:295][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.22-19.32.48:302][987]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-19.32.48:326][987]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Master] ([2] browsable assets)...
+[2026.02.22-19.32.48:329][987]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master]
+[2026.02.22-19.32.48:329][987]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Master]
+[2026.02.22-19.32.48:342][987]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Master
+[2026.02.22-19.32.48:342][987]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/WBP_MasterA84D096D4AA6C7E8C7D2488357CEFA80.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/WidgetBlueprints/WBP_Master.uasset'
+[2026.02.22-19.32.48:350][987]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.003 ms (total: 1.26 sec)
+[2026.02.22-19.32.48:382][987]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-19.32.48:382][987]LogContentValidation: Enabled validators:
+[2026.02.22-19.32.48:382][987]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-19.32.48:382][987]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-19.32.48:382][987]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-19.32.48:382][987]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-19.32.48:382][987]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-19.32.48:382][987]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-19.32.48:382][987]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Master Validating asset
+[2026.02.22-19.33.07:484][299]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] Could not find a variable named "Crosshair" in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C' has been compiled for  Get Crosshair
+[2026.02.22-19.33.07:484][299]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] Could not find a variable named "Crosshair" in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C' has been compiled for  Get Crosshair
+[2026.02.22-19.33.07:484][299]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] Could not find a variable named "Crosshair" in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C' has been compiled for  Get Crosshair
+[2026.02.22-19.33.07:484][299]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] Could not find a variable named "WeaponsList" in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C' has been compiled for  Get WeaponsList
+[2026.02.22-19.33.07:484][299]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] The property associated with  Crosshair  could not be found in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'
+[2026.02.22-19.33.07:484][299]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] The property associated with  Weapons List  could not be found in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'
+[2026.02.22-19.33.07:485][299]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] The property associated with  Crosshair  could not be found in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'
+[2026.02.22-19.33.07:485][299]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] The property associated with  Crosshair  could not be found in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'
+[2026.02.22-19.33.07:528][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.02.22-19.33.40:561][172]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5033.076172
+[2026.02.22-19.33.40:652][183]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-19.33.40:652][183]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5033.158691, Update Interval: 312.671295
+[2026.02.22-19.34.04:468][974]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] Could not find a variable named "Crosshair" in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C' has been compiled for  Get Crosshair
+[2026.02.22-19.34.04:468][974]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] Could not find a variable named "Crosshair" in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C' has been compiled for  Get Crosshair
+[2026.02.22-19.34.04:468][974]LogBlueprint: Warning: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] Could not find a variable named "Crosshair" in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C' has been compiled for  Get Crosshair
+[2026.02.22-19.34.04:468][974]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] The property associated with  Crosshair  could not be found in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'
+[2026.02.22-19.34.04:468][974]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] The property associated with  Crosshair  could not be found in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'
+[2026.02.22-19.34.04:468][974]LogBlueprint: Error: [AssetLog] C:\Users\sgbeh\Desktop\unreal\unrealclass2\classproj\Content\Blueprints\WidgetBlueprints\WBP_Master.uasset: [Compiler] The property associated with  Crosshair  could not be found in '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C'
+[2026.02.22-19.34.04:501][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.02.22-19.35.39:959][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-19.35.39:988][ 94]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Master] ([2] browsable assets)...
+[2026.02.22-19.35.39:991][ 94]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master]
+[2026.02.22-19.35.39:991][ 94]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Master]
+[2026.02.22-19.35.40:004][ 94]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Master
+[2026.02.22-19.35.40:005][ 94]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/WBP_MasterD26EC8FC410480747C8B8F970B906497.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/WidgetBlueprints/WBP_Master.uasset'
+[2026.02.22-19.35.40:011][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.998 ms (total: 1.32 sec)
+[2026.02.22-19.35.40:043][ 94]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-19.35.40:043][ 94]LogContentValidation: Enabled validators:
+[2026.02.22-19.35.40:043][ 94]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-19.35.40:043][ 94]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-19.35.40:043][ 94]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-19.35.40:043][ 94]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-19.35.40:043][ 94]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-19.35.40:043][ 94]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-19.35.40:043][ 94]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Master Validating asset
+[2026.02.22-19.35.41:857][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.02.22-19.35.43:006][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.22-19.35.44:266][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.02.22-19.35.59:384][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.02.22-19.36.00:365][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.22-19.36.00:372][855]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-19.36.00:405][855]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Master] ([2] browsable assets)...
+[2026.02.22-19.36.00:407][855]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master]
+[2026.02.22-19.36.00:407][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Master]
+[2026.02.22-19.36.00:421][855]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Master
+[2026.02.22-19.36.00:421][855]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/WBP_Master198D95DB4B33418E7EEE8E87475381E4.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/Blueprints/WidgetBlueprints/WBP_Master.uasset'
+[2026.02.22-19.36.00:428][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.188 ms (total: 1.37 sec)
+[2026.02.22-19.36.00:461][855]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-19.36.00:461][855]LogContentValidation: Enabled validators:
+[2026.02.22-19.36.00:461][855]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-19.36.00:461][855]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-19.36.00:461][855]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-19.36.00:461][855]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-19.36.00:461][855]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-19.36.00:461][855]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-19.36.00:462][855]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Master Validating asset
+[2026.02.22-19.36.21:294][775]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_10
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-19.36.21:610][807]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_11
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-19.36.21:647][808]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_12
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-19.36.21:660][809]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_13
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.22-19.38.28:593][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.02.22-19.38.29:888][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.02.22-19.38.29:895][326]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-19.38.29:922][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterFPS] ([2] browsable assets)...
+[2026.02.22-19.38.29:959][326]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS]
+[2026.02.22-19.38.29:959][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterFPS]
+[2026.02.22-19.38.29:959][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterFPS" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterFPS.uasset" SILENT=true
+[2026.02.22-19.38.29:980][326]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterFPS
+[2026.02.22-19.38.29:981][326]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_CharacterFPSA24D5E694FA91F5718E75BA3ECD3B7A3.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterFPS.uasset'
+[2026.02.22-19.38.29:988][326]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.371 ms (total: 1.47 sec)
+[2026.02.22-19.38.30:020][326]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-19.38.30:020][326]LogContentValidation: Enabled validators:
+[2026.02.22-19.38.30:020][326]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-19.38.30:020][326]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-19.38.30:020][326]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-19.38.30:020][326]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-19.38.30:020][326]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-19.38.30:020][326]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-19.38.30:020][326]AssetCheck: /Game/PlayerAssets/BP_CharacterFPS Validating asset
+[2026.02.22-19.38.41:314][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.02.22-19.38.42:884][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.02.22-19.38.42:893][323]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-19.38.42:931][323]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterFPS] ([2] browsable assets)...
+[2026.02.22-19.38.42:970][323]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS]
+[2026.02.22-19.38.42:970][323]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterFPS]
+[2026.02.22-19.38.42:970][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterFPS" FILE="../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterFPS.uasset" SILENT=true
+[2026.02.22-19.38.42:991][323]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterFPS
+[2026.02.22-19.38.42:991][323]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Saved/BP_CharacterFPS0D50D31A44FD67E076E20A9B7008570F.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/unrealclass2/classproj/Content/PlayerAssets/BP_CharacterFPS.uasset'
+[2026.02.22-19.38.42:999][323]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.229 ms (total: 1.57 sec)
+[2026.02.22-19.38.43:032][323]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-19.38.43:032][323]LogContentValidation: Enabled validators:
+[2026.02.22-19.38.43:032][323]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-19.38.43:032][323]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-19.38.43:032][323]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-19.38.43:032][323]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-19.38.43:032][323]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-19.38.43:032][323]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-19.38.43:032][323]AssetCheck: /Game/PlayerAssets/BP_CharacterFPS Validating asset
