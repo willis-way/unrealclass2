@@ -18799,3 +18799,1442 @@ Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C' has been
 [2026.02.23-19.24.36:182][207]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
 [2026.02.23-19.24.36:182][207]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
 [2026.02.23-19.24.36:182][207]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+49, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+63, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+56, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+64, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:244][658]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+49, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+63, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+56, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+64, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:256][659]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+49, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+63, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+56, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+64, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:266][660]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+49, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+63, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+56, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+64, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:276][661]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+49, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+63, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+56, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+64, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:288][662]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.26.53:297][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.26.53:297][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:297][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.26.53:297][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:297][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:297][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:297][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.26.53:297][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+49, getting last resort font data 
+[2026.02.23-19.26.53:297][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:297][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.26.53:297][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.26.53:297][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.26.53:297][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+63, getting last resort font data 
+[2026.02.23-19.26.53:297][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.26.53:297][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+56, getting last resort font data 
+[2026.02.23-19.26.53:297][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.26.53:297][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.26.53:297][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.26.53:297][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.26.53:297][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.26.53:297][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.26.53:297][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.26.53:297][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.26.53:297][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:297][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.26.53:297][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:298][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.26.53:298][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.26.53:298][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+64, getting last resort font data 
+[2026.02.23-19.26.53:298][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:298][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.26.53:298][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.26.53:298][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.26.53:298][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.26.53:298][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.26.53:298][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:298][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.26.53:298][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.26.53:298][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:298][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.26.53:298][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:298][663]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+49, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+63, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+56, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+64, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:307][664]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.26.53:316][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.26.53:316][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:316][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.26.53:316][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:316][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:316][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:316][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.26.53:316][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+49, getting last resort font data 
+[2026.02.23-19.26.53:316][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:316][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.26.53:316][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.26.53:316][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.26.53:316][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+63, getting last resort font data 
+[2026.02.23-19.26.53:316][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.26.53:316][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+56, getting last resort font data 
+[2026.02.23-19.26.53:316][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.26.53:317][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.26.53:317][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.26.53:317][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.26.53:317][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.26.53:317][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.26.53:317][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.26.53:317][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.26.53:317][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:317][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.26.53:317][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:317][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.26.53:317][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.26.53:317][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+64, getting last resort font data 
+[2026.02.23-19.26.53:317][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:317][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.26.53:317][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.26.53:317][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.26.53:317][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.26.53:317][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.26.53:317][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:317][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.26.53:317][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.26.53:317][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:317][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.26.53:317][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:317][665]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+49, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+63, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+56, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+64, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.26.53:327][666]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.27.01:591][115]LogStreaming: Display: FlushAsyncLoading(853): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-19.27.08:153][115]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 ../../../../../../Users/sbehr/Desktop/unrealclass2/Righteous-Regular.ttf)
+[2026.02.23-19.27.11:089][115]LogSlate: Window 'Font Face Import Options' being destroyed
+[2026.02.23-19.27.11:097][115]Message dialog closed, result: Yes, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2026.02.23-19.27.11:099][115]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2026.02.23-19.27.11:110][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-19.27.11:114][116]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.02.23-19.27.11:118][116]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.02.23-19.27.11:122][116]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2026.02.23-19.27.11:123][116]LogSlate: Took 0.000093 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.02.23-19.27.12:668][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Took 0.002017 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+49, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+63, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+56, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+64, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.12:671][246]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+49, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+63, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+56, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+64, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.12:683][247]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.27.12:692][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.12:692][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.12:692][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.27.12:692][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.12:692][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.12:692][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.12:692][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.12:692][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+49, getting last resort font data 
+[2026.02.23-19.27.12:692][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.12:692][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.12:692][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+63, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+56, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+64, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.12:693][248]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.27.12:702][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.12:702][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.12:702][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.27.12:702][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.12:702][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.12:702][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.12:702][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.12:702][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+49, getting last resort font data 
+[2026.02.23-19.27.12:702][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.12:702][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.12:702][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.12:702][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.12:702][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+63, getting last resort font data 
+[2026.02.23-19.27.12:702][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.12:702][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+56, getting last resort font data 
+[2026.02.23-19.27.12:702][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.12:702][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.27.12:702][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.12:702][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.12:704][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.27.12:704][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.12:704][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.12:704][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.12:704][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.12:704][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.12:704][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.12:704][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.12:704][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.27.12:704][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+64, getting last resort font data 
+[2026.02.23-19.27.12:704][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.12:704][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.12:704][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.12:704][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.27.12:704][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.12:704][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.12:704][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.12:704][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.12:704][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.12:704][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.12:704][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.12:704][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.12:704][249]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.27.13:128][293]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:128][293]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.13:128][293]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:128][293]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.13:128][293]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:128][293]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:128][293]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:128][293]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:128][293]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+73, getting last resort font data 
+[2026.02.23-19.27.13:128][293]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.13:128][293]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:128][293]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:128][293]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:128][293]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:128][293]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.13:128][293]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.13:128][293]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.27.13:129][293]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.13:129][293]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.13:129][293]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:129][293]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.13:129][293]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:129][293]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.27.13:138][294]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:138][294]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.13:138][294]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:138][294]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.13:138][294]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:138][294]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:138][294]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:138][294]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:138][294]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+73, getting last resort font data 
+[2026.02.23-19.27.13:138][294]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.13:138][294]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:138][294]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:138][294]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:138][294]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:138][294]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.13:138][294]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.13:138][294]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.27.13:138][294]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.13:138][294]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.13:139][294]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:139][294]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.13:139][294]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:139][294]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.27.13:148][295]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:148][295]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.13:148][295]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:148][295]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.13:148][295]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:148][295]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:148][295]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:148][295]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:148][295]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+73, getting last resort font data 
+[2026.02.23-19.27.13:148][295]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.13:148][295]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:148][295]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:148][295]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:148][295]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:148][295]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.13:148][295]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.13:148][295]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.27.13:148][295]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.13:148][295]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.13:148][295]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:148][295]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.13:148][295]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:148][295]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.27.13:158][296]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:158][296]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.13:158][296]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:158][296]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.13:158][296]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:158][296]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:158][296]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:158][296]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:158][296]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+73, getting last resort font data 
+[2026.02.23-19.27.13:158][296]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.13:158][296]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:158][296]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:158][296]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:158][296]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:158][296]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.13:158][296]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.13:158][296]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.27.13:158][296]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.13:158][296]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.13:158][296]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:158][296]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.13:158][296]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:158][296]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.27.13:168][297]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:168][297]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.13:168][297]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:168][297]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.13:168][297]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:168][297]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:168][297]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:168][297]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:168][297]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+73, getting last resort font data 
+[2026.02.23-19.27.13:168][297]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.13:168][297]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:168][297]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:168][297]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:168][297]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:168][297]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.13:168][297]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.13:169][297]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.27.13:169][297]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.13:169][297]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.13:169][297]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:169][297]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.13:169][297]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:169][297]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.27.13:180][298]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:180][298]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.13:180][298]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:180][298]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.13:180][298]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:180][298]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:180][298]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:180][298]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:180][298]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+73, getting last resort font data 
+[2026.02.23-19.27.13:180][298]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.13:180][298]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:180][298]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:180][298]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:180][298]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:180][298]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.13:180][298]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.13:180][298]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.27.13:180][298]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.13:180][298]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.13:180][298]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:180][298]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.13:180][298]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:180][298]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.27.13:190][299]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:190][299]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.13:190][299]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:190][299]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.13:190][299]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:190][299]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:190][299]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:190][299]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:190][299]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+73, getting last resort font data 
+[2026.02.23-19.27.13:190][299]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.13:190][299]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:190][299]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:190][299]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:190][299]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:190][299]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.13:190][299]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.13:190][299]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.27.13:190][299]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.13:190][299]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.13:190][299]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:190][299]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.13:190][299]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:190][299]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.27.13:200][300]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:200][300]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.13:200][300]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:200][300]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.13:200][300]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:200][300]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:200][300]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:200][300]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:200][300]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+73, getting last resort font data 
+[2026.02.23-19.27.13:200][300]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.13:200][300]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:200][300]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:200][300]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:200][300]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:200][300]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.13:200][300]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.13:200][300]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.27.13:200][300]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.13:200][300]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.13:200][300]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:200][300]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.13:200][300]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:200][300]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.27.13:210][301]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:210][301]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.13:210][301]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:210][301]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.13:210][301]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:210][301]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:210][301]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:210][301]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:210][301]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+73, getting last resort font data 
+[2026.02.23-19.27.13:210][301]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.13:210][301]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:210][301]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:210][301]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:210][301]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:210][301]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.13:210][301]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.13:210][301]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.27.13:210][301]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.13:210][301]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.13:210][301]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:210][301]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.13:210][301]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:210][301]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.27.13:220][302]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:220][302]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.13:220][302]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:220][302]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.13:220][302]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:220][302]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:220][302]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:220][302]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:220][302]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+73, getting last resort font data 
+[2026.02.23-19.27.13:220][302]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.13:220][302]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:220][302]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:220][302]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:220][302]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:220][302]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.13:220][302]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.13:220][302]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.27.13:220][302]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.13:220][302]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.13:220][302]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:220][302]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.13:220][302]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:220][302]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.27.13:230][303]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:230][303]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.13:230][303]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:230][303]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.13:230][303]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:230][303]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:230][303]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:230][303]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:230][303]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+73, getting last resort font data 
+[2026.02.23-19.27.13:230][303]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.13:230][303]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:230][303]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:230][303]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:230][303]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:230][303]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.13:230][303]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.13:230][303]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.27.13:230][303]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.13:230][303]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.13:230][303]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:230][303]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.13:230][303]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:230][303]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.27.13:242][304]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:242][304]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.13:242][304]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:242][304]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.13:242][304]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:242][304]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:242][304]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:242][304]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:242][304]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+73, getting last resort font data 
+[2026.02.23-19.27.13:242][304]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.13:242][304]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:242][304]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:242][304]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:242][304]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:242][304]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.13:242][304]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.13:243][304]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.27.13:243][304]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.13:243][304]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.13:243][304]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:243][304]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.13:243][304]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:243][304]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.27.13:252][305]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:252][305]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.13:252][305]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:252][305]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.13:252][305]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:252][305]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:252][305]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:252][305]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:252][305]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+73, getting last resort font data 
+[2026.02.23-19.27.13:252][305]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.13:252][305]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:252][305]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:252][305]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:252][305]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:252][305]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.13:252][305]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.13:252][305]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.27.13:252][305]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.13:252][305]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.13:252][305]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:252][305]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.13:252][305]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:252][305]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.27.13:262][306]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:262][306]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.13:262][306]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:262][306]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.13:262][306]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:262][306]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:262][306]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:262][306]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:262][306]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+73, getting last resort font data 
+[2026.02.23-19.27.13:262][306]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.13:262][306]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:262][306]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:262][306]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:262][306]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:262][306]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.13:262][306]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.13:262][306]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.27.13:262][306]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.13:262][306]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.13:262][306]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:262][306]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.13:262][306]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:262][306]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.27.13:272][307]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:272][307]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.13:272][307]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:272][307]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.13:272][307]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:272][307]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:272][307]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:272][307]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:272][307]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+73, getting last resort font data 
+[2026.02.23-19.27.13:272][307]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.13:272][307]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:272][307]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:272][307]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:272][307]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:272][307]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.13:272][307]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.13:272][307]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.27.13:272][307]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.13:272][307]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.13:272][307]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:272][307]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.13:272][307]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:272][307]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.27.13:282][308]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:282][308]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.13:282][308]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:282][308]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.13:282][308]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:282][308]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:282][308]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:282][308]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:282][308]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+73, getting last resort font data 
+[2026.02.23-19.27.13:282][308]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.13:282][308]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:282][308]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:282][308]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:282][308]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:282][308]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.13:282][308]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.13:283][308]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.27.13:283][308]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.13:283][308]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.13:283][308]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:283][308]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.13:283][308]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:283][308]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.27.13:293][309]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:293][309]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.13:293][309]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:293][309]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.13:293][309]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:293][309]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:293][309]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:293][309]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:293][309]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+73, getting last resort font data 
+[2026.02.23-19.27.13:293][309]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.13:293][309]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:293][309]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:293][309]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:293][309]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:293][309]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.13:293][309]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.13:293][309]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.27.13:293][309]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.13:293][309]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.13:293][309]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:293][309]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.13:293][309]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:293][309]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.27.13:302][310]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:302][310]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.13:302][310]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:302][310]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.13:302][310]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:302][310]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:302][310]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:302][310]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:302][310]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+73, getting last resort font data 
+[2026.02.23-19.27.13:302][310]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.13:302][310]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:302][310]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:302][310]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:302][310]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:302][310]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.13:302][310]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.13:302][310]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.27.13:302][310]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.13:302][310]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.13:302][310]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:302][310]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.13:302][310]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:302][310]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.27.13:312][311]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:312][311]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.13:312][311]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:312][311]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.13:312][311]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:312][311]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:312][311]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:312][311]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:312][311]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+73, getting last resort font data 
+[2026.02.23-19.27.13:312][311]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.13:312][311]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.13:312][311]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.13:312][311]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.13:312][311]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.27.13:312][311]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.13:312][311]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.13:312][311]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.27.13:312][311]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.13:312][311]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.13:312][311]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.13:312][311]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.13:312][311]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.13:312][311]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.27.14:217][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.02.23-19.27.14:221][385]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.048
+[2026.02.23-19.27.14:221][385]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Righteous-Regular] ([1] browsable assets)...
+[2026.02.23-19.27.14:221][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/Righteous-Regular]
+[2026.02.23-19.27.14:221][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Righteous-Regular" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Righteous-Regular_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.02.23-19.27.14:230][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Righteous-Regular_Auto1
+[2026.02.23-19.27.14:230][385]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Righteous-Regular_Auto1DECAE1854EE5123433DC339C5ACA7136.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Righteous-Regular_Auto1.uasset'
+[2026.02.23-19.27.14:231][385]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Righteous-Regular_Font1] ([1] browsable assets)...
+[2026.02.23-19.27.14:233][385]OBJ SavePackage:     Rendered thumbnail for [Font /Game/Righteous-Regular_Font1.Righteous-Regular_Font1]
+[2026.02.23-19.27.14:233][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/Righteous-Regular_Font1]
+[2026.02.23-19.27.14:241][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Righteous-Regular_Font1_Auto1
+[2026.02.23-19.27.14:241][385]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Righteous-Regular_Font1_Auto1D7F8D61544FD565494EDE8A2AD28531D.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Autosaves/Game/Righteous-Regular_Font1_Auto1.uasset'
+[2026.02.23-19.27.14:241][385]LogFileHelpers: Auto-saving content packages took 0.020
+[2026.02.23-19.27.14:256][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+49, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+63, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+56, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+64, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.14:257][386]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+49, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+63, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+56, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+64, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.27.14:266][387]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.27.54:255][793]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 ../../../../../../Users/sbehr/Desktop/unrealclass2/Roboto-VariableFont_wdth,wght.ttf)
+[2026.02.23-19.27.55:033][793]LogSlate: Window 'Font Face Import Options' being destroyed
+[2026.02.23-19.27.55:042][793]Message dialog closed, result: Yes, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2026.02.23-19.27.55:042][793]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2026.02.23-19.27.55:052][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-19.27.55:058][794]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.02.23-19.27.55:062][794]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.02.23-19.27.55:065][794]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2026.02.23-19.27.55:065][794]LogSlate: Took 0.000088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.02.23-19.28.04:565][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.02.23-19.28.04:569][708]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-19.28.04:625][708]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Righteous-Regular] ([1] browsable assets)...
+[2026.02.23-19.28.04:625][708]OBJ SavePackage: Finished generating thumbnails for package [/Game/Righteous-Regular]
+[2026.02.23-19.28.04:625][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Righteous-Regular" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Righteous-Regular.uasset" SILENT=true
+[2026.02.23-19.28.04:633][708]LogSavePackage: Moving output files for package: /Game/Righteous-Regular
+[2026.02.23-19.28.04:633][708]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Righteous-Regular1A3B63CC4E436100C5617AB6AC989401.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Righteous-Regular.uasset'
+[2026.02.23-19.28.04:634][708]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Righteous-Regular_Font1] ([1] browsable assets)...
+[2026.02.23-19.28.04:634][708]OBJ SavePackage: Finished generating thumbnails for package [/Game/Righteous-Regular_Font1]
+[2026.02.23-19.28.04:634][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Righteous-Regular_Font1" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Righteous-Regular_Font1.uasset" SILENT=true
+[2026.02.23-19.28.04:640][708]LogSavePackage: Moving output files for package: /Game/Righteous-Regular_Font1
+[2026.02.23-19.28.04:640][708]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Righteous-Regular_Font13FADB67243C575E9D7BF069DBFDBA810.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Righteous-Regular_Font1.uasset'
+[2026.02.23-19.28.04:642][708]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Roboto-VariableFont_wdth_wght] ([1] browsable assets)...
+[2026.02.23-19.28.04:642][708]OBJ SavePackage: Finished generating thumbnails for package [/Game/Roboto-VariableFont_wdth_wght]
+[2026.02.23-19.28.04:642][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Roboto-VariableFont_wdth_wght" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Roboto-VariableFont_wdth_wght.uasset" SILENT=true
+[2026.02.23-19.28.04:650][708]LogSavePackage: Moving output files for package: /Game/Roboto-VariableFont_wdth_wght
+[2026.02.23-19.28.04:650][708]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Roboto-VariableFont_wdth_wght3AF19C4C4162ADEFEDFABC9EDDD177D4.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Roboto-VariableFont_wdth_wght.uasset'
+[2026.02.23-19.28.04:651][708]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Roboto-VariableFont_wdth_wght_Font] ([1] browsable assets)...
+[2026.02.23-19.28.04:653][708]OBJ SavePackage:     Rendered thumbnail for [Font /Game/Roboto-VariableFont_wdth_wght_Font.Roboto-VariableFont_wdth_wght_Font]
+[2026.02.23-19.28.04:653][708]OBJ SavePackage: Finished generating thumbnails for package [/Game/Roboto-VariableFont_wdth_wght_Font]
+[2026.02.23-19.28.04:653][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Roboto-VariableFont_wdth_wght_Font" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Roboto-VariableFont_wdth_wght_Font.uasset" SILENT=true
+[2026.02.23-19.28.04:660][708]LogSavePackage: Moving output files for package: /Game/Roboto-VariableFont_wdth_wght_Font
+[2026.02.23-19.28.04:660][708]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/Roboto-VariableFont_wdth_wght_Fo0AB8298E499BEE51AFDEFD8FBCB831ED.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Roboto-VariableFont_wdth_wght_Font.uasset'
+[2026.02.23-19.28.04:668][708]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.950 ms (total: 466.242 ms)
+[2026.02.23-19.28.04:724][708]LogContentValidation: Display: Starting to validate 4 assets
+[2026.02.23-19.28.04:724][708]LogContentValidation: Enabled validators:
+[2026.02.23-19.28.04:724][708]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-19.28.04:724][708]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-19.28.04:724][708]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-19.28.04:724][708]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-19.28.04:724][708]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-19.28.04:724][708]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-19.28.04:724][708]AssetCheck: /Game/Righteous-Regular Validating asset
+[2026.02.23-19.28.04:724][708]AssetCheck: /Game/Righteous-Regular_Font1 Validating asset
+[2026.02.23-19.28.04:724][708]AssetCheck: /Game/Roboto-VariableFont_wdth_wght Validating asset
+[2026.02.23-19.28.04:724][708]AssetCheck: /Game/Roboto-VariableFont_wdth_wght_Font Validating asset
+[2026.02.23-19.28.04:743][709]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.23-19.28.10:579][742]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.23-19.28.10:585][742]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.23-19.28.10:585][742]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.02.23-19.28.10:586][742]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 645 us (total: 1.842 ms)
+[2026.02.23-19.28.10:586][742]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.23-19.28.10:586][742]LogPlayLevel: Display: Creating online subsystem for client :Context_23
+[2026.02.23-19.28.10:589][742]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2026.02.23-19.28.10:603][743]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.23-19.28.10:609][743]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.23-19.28.10:611][743]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.083 ms (total: 3.188 ms)
+[2026.02.23-19.28.10:611][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007133s)
+[2026.02.23-19.28.10:611][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.007172s)
+[2026.02.23-19.28.10:632][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.02.23-19.28.10:634][743]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.02.23-19.28.10:636][743]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.23-19.28.10:636][743]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.23-19.28.10:636][743]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.23-19.28.10:636][743]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.23-19.28.10:637][743]LogWorldPartition: Display: WorldPartition initialize took 1.408 ms (total: 1.23 sec)
+[2026.02.23-19.28.10:637][743]LogPlayLevel: PIE: World Init took: (0.003334s)
+[2026.02.23-19.28.10:638][743]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.02.23-19.28.10:638][743]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.23-19.28.10:638][743]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.23-19.28.10:638][743]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.23-19.28.10:638][743]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.23-19.28.10:638][743]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.23-19.28.10:638][743]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.23-19.28.10:638][743]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.23-19.28.10:638][743]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.23-19.28.10:638][743]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.23-19.28.10:638][743]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.23-19.28.10:638][743]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.23-19.28.10:640][743]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.23-19.28.10:651][743]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2026.02.23-19.28.10:652][743]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.23-19.28.10:652][743]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.23-19.28.10:652][743]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.23-19.28.10:652][743]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.02.23-19.28.10:652][743]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.02.23-19.28.10:655][743]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.02.23-19.28.10:655][743]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.02.23-19.28.10:655][743]LogInit: FAudioDevice initialized with ID 4.
+[2026.02.23-19.28.10:655][743]LogAudio: Display: Audio Device (ID: 4) registered with world 'L_LevelOne'.
+[2026.02.23-19.28.10:655][743]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.02.23-19.28.10:659][743]LogLoad: Game class is 'GM_FPS_C'
+[2026.02.23-19.28.10:662][743]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2026.02.23-14.28.10
+[2026.02.23-19.28.10:663][743]LogWorld: Bringing up level for play took: 0.003452
+[2026.02.23-19.28.10:667][743]PIE: Server logged in
+[2026.02.23-19.28.10:669][743]PIE: Play in editor total start time 0.083 seconds.
+[2026.02.23-19.28.10:779][744]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.23-19.28.10:871][746]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+35, getting last resort font data 
+[2026.02.23-19.28.10:874][746]LogSlate: Took 0.002062 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.02.23-19.28.10:874][746]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2f, getting last resort font data 
+[2026.02.23-19.28.10:874][746]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+35, getting last resort font data 
+[2026.02.23-19.28.10:874][746]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+30, getting last resort font data 
+[2026.02.23-19.28.10:874][746]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.28.10:874][746]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.28.10:874][746]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.28.10:874][746]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+35, getting last resort font data 
+[2026.02.23-19.28.10:874][746]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2f, getting last resort font data 
+[2026.02.23-19.28.10:874][746]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+35, getting last resort font data 
+[2026.02.23-19.28.10:874][746]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+30, getting last resort font data 
+[2026.02.23-19.28.10:874][746]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.28.12:754][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-19.28.12:754][915]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.23-19.28.12:754][915]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-19.28.12:755][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-19.28.12:755][915]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2026.02.23-19.28.12:757][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.23-19.28.12:761][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-19.28.12:781][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-19.28.12:781][915]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.02.23-19.28.12:781][915]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.02.23-19.28.12:784][915]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.02.23-19.28.12:791][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.02.23-19.28.12:845][916]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2026.02.23-19.28.17:226][238]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.02.23-19.28.17:226][238]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.02.23-19.28.25:353][ 50]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master
+[2026.02.23-19.28.25:354][ 50]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.02.23-19.28.25:359][ 50]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.02.23-19.28.29:987][493]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2465.008789
+[2026.02.23-19.28.30:103][505]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.23-19.28.30:103][505]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2465.115479, Update Interval: 359.745483
+[2026.02.23-19.29.07:618][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+49, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+63, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+56, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+64, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.29.07:619][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.29.07:620][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.29.07:620][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.29.07:620][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.29.07:620][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.29.07:620][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.29.07:620][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.29.07:620][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.29.07:620][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.29.07:620][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+73, getting last resort font data 
+[2026.02.23-19.29.07:620][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.29.07:620][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.29.07:620][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.29.07:620][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.29.07:620][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.29.07:620][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.29.07:620][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.29.07:620][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.29.07:620][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.29.07:620][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.29.07:620][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.29.07:620][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.29.07:620][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.29.07:620][519]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+49, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+63, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+56, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+62, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+64, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+77, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+69, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+68, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+73, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2d, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+52, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+65, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+67, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+75, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6c, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+61, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+72, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+5f, getting last resort font data 
+[2026.02.23-19.29.14:700][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+46, getting last resort font data 
+[2026.02.23-19.29.14:701][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6f, getting last resort font data 
+[2026.02.23-19.29.14:701][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+6e, getting last resort font data 
+[2026.02.23-19.29.14:701][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+74, getting last resort font data 
+[2026.02.23-19.29.14:701][224]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+0, getting last resort font data 
+[2026.02.23-19.29.19:137][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.02.23-19.29.20:343][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.02.23-19.29.20:350][753]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-19.29.20:411][753]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons] ([2] browsable assets)...
+[2026.02.23-19.29.20:415][753]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons]
+[2026.02.23-19.29.20:416][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons]
+[2026.02.23-19.29.20:433][753]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Weapons
+[2026.02.23-19.29.20:433][753]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/WBP_Weapons1D22B20C43E2AD39997AEE8A9443442E.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/WidgetBlueprints/WBP_Weapons.uasset'
+[2026.02.23-19.29.20:441][753]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.197 ms (total: 557.440 ms)
+[2026.02.23-19.29.20:489][753]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.23-19.29.20:489][753]LogContentValidation: Enabled validators:
+[2026.02.23-19.29.20:489][753]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-19.29.20:489][753]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-19.29.20:489][753]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-19.29.20:489][753]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-19.29.20:489][753]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-19.29.20:489][753]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-19.29.20:489][753]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Weapons Validating asset
+[2026.02.23-19.29.22:662][948]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.23-19.29.22:667][948]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.23-19.29.22:668][948]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.02.23-19.29.22:668][948]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 592 us (total: 2.434 ms)
+[2026.02.23-19.29.22:668][948]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.23-19.29.22:668][948]LogPlayLevel: Display: Creating online subsystem for client :Context_26
+[2026.02.23-19.29.22:671][948]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2026.02.23-19.29.22:688][949]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.23-19.29.22:694][949]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.23-19.29.22:695][949]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.100 ms (total: 4.288 ms)
+[2026.02.23-19.29.22:695][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007026s)
+[2026.02.23-19.29.22:695][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.007069s)
+[2026.02.23-19.29.22:719][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.02.23-19.29.22:720][949]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.02.23-19.29.22:721][949]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.23-19.29.22:721][949]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.23-19.29.22:721][949]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.23-19.29.22:721][949]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.23-19.29.22:723][949]LogWorldPartition: Display: WorldPartition initialize took 1.379 ms (total: 1.23 sec)
+[2026.02.23-19.29.22:723][949]LogPlayLevel: PIE: World Init took: (0.002935s)
+[2026.02.23-19.29.22:724][949]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.02.23-19.29.22:724][949]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.23-19.29.22:724][949]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.23-19.29.22:724][949]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.23-19.29.22:724][949]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.23-19.29.22:724][949]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.23-19.29.22:724][949]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.23-19.29.22:724][949]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.23-19.29.22:724][949]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.23-19.29.22:724][949]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.23-19.29.22:724][949]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.23-19.29.22:724][949]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.23-19.29.22:726][949]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.23-19.29.22:736][949]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2026.02.23-19.29.22:736][949]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.23-19.29.22:736][949]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.23-19.29.22:736][949]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.23-19.29.22:737][949]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.02.23-19.29.22:737][949]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.02.23-19.29.22:739][949]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.02.23-19.29.22:739][949]LogInit: FAudioDevice initialized with ID 5.
+[2026.02.23-19.29.22:739][949]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.02.23-19.29.22:739][949]LogAudio: Display: Audio Device (ID: 5) registered with world 'L_LevelOne'.
+[2026.02.23-19.29.22:739][949]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.02.23-19.29.22:743][949]LogLoad: Game class is 'GM_FPS_C'
+[2026.02.23-19.29.22:746][949]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2026.02.23-14.29.22
+[2026.02.23-19.29.22:746][949]LogWorld: Bringing up level for play took: 0.003193
+[2026.02.23-19.29.22:750][949]PIE: Server logged in
+[2026.02.23-19.29.22:751][949]PIE: Play in editor total start time 0.084 seconds.
+[2026.02.23-19.29.22:796][950]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.23-19.29.28:954][520]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285875EFBF02_1465051257] BP_CharacterFPS0
+[2026.02.23-19.29.28:986][523]LogBlueprintUserMessages: [BP_WeaponPickup_C_UAID_047C16285875EFBF02_1473946258] BP_CharacterFPS0
+[2026.02.23-19.29.42:084][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-19.29.42:085][830]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.23-19.29.42:085][830]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-19.29.42:086][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-19.29.42:086][830]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2026.02.23-19.29.42:087][830]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.23-19.29.42:092][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-19.29.42:120][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-19.29.42:121][830]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.02.23-19.29.42:121][830]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.02.23-19.29.42:123][830]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.02.23-19.29.42:131][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.02.23-19.29.42:166][831]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2026.02.23-19.29.46:491][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
