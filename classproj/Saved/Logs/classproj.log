@@ -20238,3 +20238,39 @@ Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C' has been
 [2026.02.23-19.29.42:131][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
 [2026.02.23-19.29.42:166][831]LogPlayLevel: Display: Destroying online subsystem :Context_26
 [2026.02.23-19.29.46:491][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.02.23-19.31.31:472][164]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Blueprints/WidgetBlueprints/MI_EnemyHealthBar.MI_EnemyHealthBar
+[2026.02.23-19.31.31:473][164]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.02.23-19.31.46:532][889]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-19.31.46:532][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-19.31.46:613][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.02.23-19.35.11:968][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.02.23-19.35.13:077][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.02.23-19.35.13:084][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-19.35.13:146][433]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_DummyAI] ([2] browsable assets)...
+[2026.02.23-19.35.13:146][433]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.02.23-19.35.13:233][433]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_DummyAI.BP_DummyAI]
+[2026.02.23-19.35.13:233][433]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_DummyAI]
+[2026.02.23-19.35.13:233][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_DummyAI" FILE="../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset" SILENT=true
+[2026.02.23-19.35.13:250][433]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_DummyAI
+[2026.02.23-19.35.13:250][433]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_DummyAI1A353F304E72551918CABEB0946C6BF0.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/PlayerAssets/BP_DummyAI.uasset'
+[2026.02.23-19.35.13:251][433]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons] ([2] browsable assets)...
+[2026.02.23-19.35.13:251][433]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons]
+[2026.02.23-19.35.13:266][433]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Weapons
+[2026.02.23-19.35.13:266][433]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/WBP_Weapons00FA598D4403FB9681F71F8788B8C239.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/WidgetBlueprints/WBP_Weapons.uasset'
+[2026.02.23-19.35.13:267][433]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon] ([2] browsable assets)...
+[2026.02.23-19.35.13:279][433]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon.BP_RangedWeapon]
+[2026.02.23-19.35.13:280][433]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon]
+[2026.02.23-19.35.13:304][433]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon
+[2026.02.23-19.35.13:304][433]LogSavePackage: Moving '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Saved/BP_RangedWeapon1EB33C0246978C61002C2CBAF36EB9EA.tmp' to '../../../../../../Users/sbehr/Desktop/unrealclass2/classproj/Content/Blueprints/WeaponBlueprints/BP_RangedWeapon.uasset'
+[2026.02.23-19.35.13:312][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 227.556 ms (total: 784.996 ms)
+[2026.02.23-19.35.13:340][433]LogContentValidation: Display: Starting to validate 3 assets
+[2026.02.23-19.35.13:340][433]LogContentValidation: Enabled validators:
+[2026.02.23-19.35.13:340][433]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-19.35.13:340][433]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-19.35.13:340][433]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-19.35.13:340][433]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-19.35.13:340][433]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-19.35.13:340][433]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-19.35.13:340][433]AssetCheck: /Game/PlayerAssets/BP_DummyAI Validating asset
+[2026.02.23-19.35.13:341][433]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Weapons Validating asset
+[2026.02.23-19.35.13:341][433]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon Validating asset
